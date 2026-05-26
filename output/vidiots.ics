@@ -8,39 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4071127@vidiotsfoundation.org
-DTSTAMP:20260527T020000Z
-DTSTART;TZID=America/Los_Angeles:20260526T190000
-DTEND;TZID=America/Los_Angeles:20260526T203000
-SUMMARY:Sweet 16mm: Kinder Nonsense
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4071127/
-DESCRIPTION:Run time: 90 min | Format: 16mm Film | Rating: All Ages\n\nSeri
- es: In the MUBI Microcinema\n\nYou may think you've outgrown children's fi
- lms\, but give yourself over to the wonder of the grooviest period in educ
- ational film and let your imagination soar! Everything screened on 16mm fi
- lm!\n\nTickets: https://vidiotsfoundation.org/purchase/4071127/\n\nDetails
- : https://vidiotsfoundation.org/movies/sweet-16mm-kinder-nonsense/
-END:VEVENT
-BEGIN:VEVENT
-UID:4009878@vidiotsfoundation.org
-DTSTAMP:20260527T023000Z
-DTSTART;TZID=America/Los_Angeles:20260526T193000
-DTEND;TZID=America/Los_Angeles:20260526T212900
-SUMMARY:On the Job
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4009878/
-DESCRIPTION:Run time: 119 min | Format: Digital | Release year: 2013\n\nSer
- ies: Community Partners\, Doors Open at 6\, In the Eagle\, TeenTix LA\n\nC
- o-presented by Community Partners A Bunch of Savages and followed by an ep
- ic set of karaoke!\nThis compelling crime drama from filmmaker Erik Matti 
- takes you through the gritty streets of Manila for an audacious conspiracy
-  shocker.\n\nTickets: https://vidiotsfoundation.org/purchase/4009878/\n\nD
- etails: https://vidiotsfoundation.org/movies/on-the-job/
-END:VEVENT
-BEGIN:VEVENT
 UID:4110702@vidiotsfoundation.org
 DTSTAMP:20260528T020000Z
 DTSTART;TZID=America/Los_Angeles:20260527T190000
