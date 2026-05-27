@@ -114,9 +114,10 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/3999669/
 DESCRIPTION:Run time: 99 min | Format: Digital\n\nSeries: Films for Everyon
- e\, In the Eagle\n\nIt's Scrumdidilyumptious!\n\nTickets: https://vidiotsf
- oundation.org/purchase/3999669/\n\nDetails: https://vidiotsfoundation.org/
- movies/willy-wonka-the-chocolate-factory/
+ e\, In the Eagle\, Special Guests in Attendance\n\nIt's Scrumdidilyumptiou
+ s!\nWith a special introduction by screenwriter David Seltzer!\n\nTickets:
+  https://vidiotsfoundation.org/purchase/3999669/\n\nDetails: https://vidio
+ tsfoundation.org/movies/willy-wonka-the-chocolate-factory/
 END:VEVENT
 BEGIN:VEVENT
 UID:3999673@vidiotsfoundation.org
@@ -387,15 +388,15 @@ UID:4127644@vidiotsfoundation.org
 DTSTAMP:20260605T023000Z
 DTSTART;TZID=America/Los_Angeles:20260604T193000
 DTEND;TZID=America/Los_Angeles:20260604T213500
-SUMMARY:Fox and His Friends
+SUMMARY:Fox and His Friends on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4127644/
-DESCRIPTION:Run time: 125 min | Format: Digital | Release year: 1975\n\nSer
- ies: Doors Open at 6\, In the Eagle\n\nJoin us for Rainer Werner Fassbinde
- r's straggering queer tragedy of love\, money\, and loyalty lost.\n\nTicke
- ts: https://vidiotsfoundation.org/purchase/4127644/\n\nDetails: https://vi
- diotsfoundation.org/movies/fox-and-his-friends/
+DESCRIPTION:Run time: 125 min | Format: 35mm Film | Release year: 1975\n\nS
+ eries: 35mm Film\, Doors Open at 6\, In the Eagle\n\nJoin us for Rainer We
+ rner Fassbinder's straggering queer tragedy of love\, money\, and loyalty 
+ lost.\n\nTickets: https://vidiotsfoundation.org/purchase/4127644/\n\nDetai
+ ls: https://vidiotsfoundation.org/movies/fox-and-his-friends/
 END:VEVENT
 BEGIN:VEVENT
 UID:4127652@vidiotsfoundation.org
