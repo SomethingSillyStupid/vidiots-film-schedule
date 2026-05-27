@@ -8,25 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4110702@vidiotsfoundation.org
-DTSTAMP:20260528T020000Z
-DTSTART;TZID=America/Los_Angeles:20260527T190000
-DTEND;TZID=America/Los_Angeles:20260527T203800
-SUMMARY:Steal This Story\, Please!
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4110702/
-DESCRIPTION:Run time: 98 min | Format: Digital\n\nSeries: Groundbreaking No
- n-Fiction\, In the MUBI Microcinema\n\nFiercely independent journalist Amy
-  Goodman has spent three decades holding the powerful to account\, reporti
- ng from war zones and the Democracy Now! newsroom. In Steal This Story\, P
- lease!\, Oscar-nominated filmmakers Carl Deal and Tia Lessin craft a rivet
- ing portrait of journalism’s power – and peril – in an era of corpor
- ate control and political attacks on truth.\nMore Screenings added by Popu
- lar Demand!\n\nTickets: https://vidiotsfoundation.org/purchase/4110702/\n\
- nDetails: https://vidiotsfoundation.org/movies/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
 UID:4070950@vidiotsfoundation.org
 DTSTAMP:20260529T224500Z
 DTSTART;TZID=America/Los_Angeles:20260529T154500
