@@ -62,15 +62,13 @@ SUMMARY:Blue Heron
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4070955/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the M
- UBI Microcinema\n\nAward-winning director Sophy Romvari’s feature debut 
- is a lyrical and profound testament to the things we carry with us\, maste
- rfully chronicling the haze of a languid summer and the hyaline clarity of
-  the moments that defined it.\n\nTickets: https://vidiotsfoundation.org/pu
- rchase/4070955/\n\nDetails: https://vidiotsfoundation.org/movies/blue-hero
- n/
-STATUS:TENTATIVE
+DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, In the MUBI Microcinema\n\nAward-winning director S
+ ophy Romvari’s feature debut is a lyrical and profound testament to the 
+ things we carry with us\, masterfully chronicling the haze of a languid su
+ mmer and the hyaline clarity of the moments that defined it.\n\nTickets: h
+ ttps://vidiotsfoundation.org/purchase/4070955/\n\nDetails: https://vidiots
+ foundation.org/movies/blue-heron/
 END:VEVENT
 BEGIN:VEVENT
 UID:4009789@vidiotsfoundation.org
@@ -160,11 +158,12 @@ SUMMARY:Airplane!
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/3999674/
-DESCRIPTION:Run time: 88 min | Format: Digital | Rating: PG\n\nSeries: In t
- he Eagle\n\nVidiots is now boarding for one of the funniest movies of all 
- time\, and we saved you a seat in the aisle.\n\nTickets: https://vidiotsfo
- undation.org/purchase/3999674/\n\nDetails: https://vidiotsfoundation.org/m
- ovies/airplane/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
+ ormat: Digital | Rating: PG\n\nSeries: In the Eagle\n\nVidiots is now boar
+ ding for one of the funniest movies of all time\, and we saved you a seat 
+ in the aisle.\n\nTickets: https://vidiotsfoundation.org/purchase/3999674/\
+ n\nDetails: https://vidiotsfoundation.org/movies/airplane/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4070959@vidiotsfoundation.org
