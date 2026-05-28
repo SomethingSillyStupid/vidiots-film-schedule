@@ -7,7 +7,7 @@ import html
 import re
 import sys
 from dataclasses import dataclass
-from datetime import datetime, timedelta, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Iterable
 from urllib.request import Request, urlopen
@@ -235,6 +235,47 @@ def screening_uid(screening: Screening) -> str:
     return f"{digest}@vidiotsfoundation.org"
 
 
+def unfold_ics_lines(raw: str) -> list[str]:
+    logical_lines: list[str] = []
+    for line in raw.replace("\r\n", "\n").replace("\r", "\n").split("\n"):
+        if line.startswith((" ", "\t")) and logical_lines:
+            logical_lines[-1] += line[1:]
+        elif line:
+            logical_lines.append(line)
+    return logical_lines
+
+
+def event_uid(event_block: str) -> str | None:
+    for line in unfold_ics_lines(event_block):
+        if line.startswith("UID:"):
+            return line.split(":", 1)[1]
+    return None
+
+
+def event_start_date(event_block: str) -> date | None:
+    for line in unfold_ics_lines(event_block):
+        if line.startswith("DTSTART"):
+            value = line.split(":", 1)[-1]
+            match = re.match(r"(\d{8})", value)
+            if match:
+                return datetime.strptime(match.group(1), "%Y%m%d").date()
+    return None
+
+
+def existing_events_for_date(calendar_path: Path, target_date: date) -> dict[str, str]:
+    if not calendar_path.exists():
+        return {}
+
+    raw = calendar_path.read_text(encoding="utf-8")
+    events: dict[str, str] = {}
+    for match in re.finditer(r"BEGIN:VEVENT(?:\r\n|\n|\r).*?END:VEVENT", raw, re.S):
+        block = match.group(0).replace("\r\n", "\n").replace("\r", "\n")
+        uid = event_uid(block)
+        if uid and event_start_date(block) == target_date:
+            events[uid] = block
+    return events
+
+
 def describe(screening: Screening) -> str:
     parts: list[str] = []
     if screening.note:
@@ -262,7 +303,7 @@ def describe(screening: Screening) -> str:
     return "\n\n".join(parts)
 
 
-def build_ics(screenings: list[Screening], source_url: str) -> str:
+def build_ics(screenings: list[Screening], source_url: str, extra_event_blocks: Iterable[str] = ()) -> str:
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
@@ -288,6 +329,9 @@ def build_ics(screenings: list[Screening], source_url: str) -> str:
             add_line(lines, "STATUS:TENTATIVE")
         lines.append("END:VEVENT")
 
+    for event_block in extra_event_blocks:
+        lines.extend(event_block.split("\n"))
+
     lines.append("END:VCALENDAR")
     return "\r\n".join(lines) + "\r\n"
 
@@ -297,6 +341,10 @@ def main() -> int:
     parser.add_argument("--url", default=SOURCE_URL, help=f"Source page to scrape. Default: {SOURCE_URL}")
     parser.add_argument("--output", default="output/vidiots.ics", help="Output .ics path.")
     parser.add_argument("--html", help="Use a saved HTML file instead of fetching the source page.")
+    parser.add_argument(
+        "--today",
+        help="Override today's date in America/Los_Angeles, in YYYY-MM-DD format. Useful for tests.",
+    )
     args = parser.parse_args()
 
     page_html = Path(args.html).read_text(encoding="utf-8") if args.html else fetch(args.url)
@@ -307,12 +355,19 @@ def main() -> int:
 
     output_path = Path(args.output)
     output_path.parent.mkdir(parents=True, exist_ok=True)
+    today = datetime.strptime(args.today, "%Y-%m-%d").date() if args.today else datetime.now(TIMEZONE).date()
+    new_uids = {screening_uid(screening) for screening in screenings}
+    preserved_events = {
+        uid: block for uid, block in existing_events_for_date(output_path, today).items() if uid not in new_uids
+    }
     with output_path.open("w", encoding="utf-8", newline="") as calendar_file:
-        calendar_file.write(build_ics(screenings, args.url))
+        calendar_file.write(build_ics(screenings, args.url, preserved_events.values()))
 
     first = screenings[0].starts_at.strftime("%Y-%m-%d %I:%M %p %Z")
     last = screenings[-1].starts_at.strftime("%Y-%m-%d %I:%M %p %Z")
     print(f"Wrote {len(screenings)} screenings to {output_path}")
+    if preserved_events:
+        print(f"Preserved {len(preserved_events)} current-day screenings from the existing calendar")
     print(f"Date range: {first} through {last}")
     return 0
 
