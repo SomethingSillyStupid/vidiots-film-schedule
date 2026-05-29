@@ -8,103 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4070950@vidiotsfoundation.org
-DTSTAMP:20260529T224500Z
-DTSTART;TZID=America/Los_Angeles:20260529T154500
-DTEND;TZID=America/Los_Angeles:20260529T175100
-SUMMARY:The Karate Kid
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070950/
-DESCRIPTION:Run time: 126 min | Format: Digital | Rating: PG\n\nSeries: Fil
- ms for Everyone\, In the Eagle\n\nWax on\, wax off\, once again.\n\nTicket
- s: https://vidiotsfoundation.org/purchase/4070950/\n\nDetails: https://vid
- iotsfoundation.org/movies/the-karate-kid/
-END:VEVENT
-BEGIN:VEVENT
-UID:4070954@vidiotsfoundation.org
-DTSTAMP:20260529T234500Z
-DTSTART;TZID=America/Los_Angeles:20260529T164500
-DTEND;TZID=America/Los_Angeles:20260529T181600
-SUMMARY:Blue Heron
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070954/
-DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nAward-winning director S
- ophy Romvari’s feature debut is a lyrical and profound testament to the 
- things we carry with us\, masterfully chronicling the haze of a languid su
- mmer and the hyaline clarity of the moments that defined it.\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4070954/\n\nDetails: https://vidiots
- foundation.org/movies/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-UID:4064757@vidiotsfoundation.org
-DTSTAMP:20260530T020000Z
-DTSTART;TZID=America/Los_Angeles:20260529T190000
-DTEND;TZID=America/Los_Angeles:20260529T210600
-SUMMARY:Midnight Run
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4064757/
-DESCRIPTION:Run time: 126 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nRobert De Niro and Charles Grodin team up in Martin Brest's de
- lirious odd couple crime comedy classic Midnight Run.\n\nTickets: https://
- vidiotsfoundation.org/purchase/4064757/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/midnight-run/
-END:VEVENT
-BEGIN:VEVENT
-UID:4070955@vidiotsfoundation.org
-DTSTAMP:20260530T023000Z
-DTSTART;TZID=America/Los_Angeles:20260529T193000
-DTEND;TZID=America/Los_Angeles:20260529T210100
-SUMMARY:Blue Heron
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070955/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the M
- UBI Microcinema\n\nAward-winning director Sophy Romvari’s feature debut 
- is a lyrical and profound testament to the things we carry with us\, maste
- rfully chronicling the haze of a languid summer and the hyaline clarity of
-  the moments that defined it.\n\nTickets: https://vidiotsfoundation.org/pu
- rchase/4070955/\n\nDetails: https://vidiotsfoundation.org/movies/blue-hero
- n/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4009789@vidiotsfoundation.org
-DTSTAMP:20260530T044500Z
-DTSTART;TZID=America/Los_Angeles:20260529T214500
-DTEND;TZID=America/Los_Angeles:20260529T231100
-SUMMARY:Serpent’s Path
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4009789/
-DESCRIPTION:Run time: 86 min | Format: Digital | Release year: 1998\n\nSeri
- es: In the Eagle\n\nOne of Kiyoshi Kurosawa's most chilling investigations
-  into the endless cycle of violence and the evil that lodges in every hear
- t.\n\nTickets: https://vidiotsfoundation.org/purchase/4009789/\n\nDetails:
-  https://vidiotsfoundation.org/movies/serpents-path/
-END:VEVENT
-BEGIN:VEVENT
-UID:4070956@vidiotsfoundation.org
-DTSTAMP:20260530T050000Z
-DTSTART;TZID=America/Los_Angeles:20260529T220000
-DTEND;TZID=America/Los_Angeles:20260529T233100
-SUMMARY:The Python Hunt
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070956/
-DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the m
- icrocinema for one wild serpentine ride with Xander Robin's The Python Hun
- t\, a documentary as entertaining as it is rich in societal and environmen
- tal questions and revelations.\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4070956/\n\nDetails: https://vidiotsfoundation.org/movies/the-pyth
- on-hunt/
-END:VEVENT
-BEGIN:VEVENT
 UID:3999669@vidiotsfoundation.org
 DTSTAMP:20260530T203000Z
 DTSTART;TZID=America/Los_Angeles:20260530T133000
@@ -135,23 +38,6 @@ DESCRIPTION:Run time: 62 min | Format: Digital\n\nSeries: In the Eagle\, Te
  ter-of-shanghai/
 END:VEVENT
 BEGIN:VEVENT
-UID:4070958@vidiotsfoundation.org
-DTSTAMP:20260531T000000Z
-DTSTART;TZID=America/Los_Angeles:20260530T170000
-DTEND;TZID=America/Los_Angeles:20260530T183100
-SUMMARY:Blue Heron
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070958/
-DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nAward-winning director S
- ophy Romvari’s feature debut is a lyrical and profound testament to the 
- things we carry with us\, masterfully chronicling the haze of a languid su
- mmer and the hyaline clarity of the moments that defined it.\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4070958/\n\nDetails: https://vidiots
- foundation.org/movies/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
 UID:3999674@vidiotsfoundation.org
 DTSTAMP:20260531T020000Z
 DTSTART;TZID=America/Los_Angeles:20260530T190000
@@ -166,23 +52,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
  in the aisle.\n\nTickets: https://vidiotsfoundation.org/purchase/3999674/\
  n\nDetails: https://vidiotsfoundation.org/movies/airplane/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4070959@vidiotsfoundation.org
-DTSTAMP:20260531T023000Z
-DTSTART;TZID=America/Los_Angeles:20260530T193000
-DTEND;TZID=America/Los_Angeles:20260530T210100
-SUMMARY:The Python Hunt
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070959/
-DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the m
- icrocinema for one wild serpentine ride with Xander Robin's The Python Hun
- t\, a documentary as entertaining as it is rich in societal and environmen
- tal questions and revelations.\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4070959/\n\nDetails: https://vidiotsfoundation.org/movies/the-pyth
- on-hunt/
 END:VEVENT
 BEGIN:VEVENT
 UID:4064320@vidiotsfoundation.org
@@ -203,23 +72,6 @@ DESCRIPTION:Run time: 92 min | Format: Digital | Rating: R\n\nSeries: In th
  org/movies/bloodsport/
 END:VEVENT
 BEGIN:VEVENT
-UID:4070960@vidiotsfoundation.org
-DTSTAMP:20260531T050000Z
-DTSTART;TZID=America/Los_Angeles:20260530T220000
-DTEND;TZID=America/Los_Angeles:20260530T233100
-SUMMARY:The Python Hunt
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070960/
-DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the m
- icrocinema for one wild serpentine ride with Xander Robin's The Python Hun
- t\, a documentary as entertaining as it is rich in societal and environmen
- tal questions and revelations.\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4070960/\n\nDetails: https://vidiotsfoundation.org/movies/the-pyth
- on-hunt/
-END:VEVENT
-BEGIN:VEVENT
 UID:4012289@vidiotsfoundation.org
 DTSTAMP:20260531T190000Z
 DTSTART;TZID=America/Los_Angeles:20260531T120000
@@ -235,40 +87,6 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG\n\nSeries: Fil
  ils: https://vidiotsfoundation.org/movies/the-sandlot/
 END:VEVENT
 BEGIN:VEVENT
-UID:4070965@vidiotsfoundation.org
-DTSTAMP:20260531T193000Z
-DTSTART;TZID=America/Los_Angeles:20260531T123000
-DTEND;TZID=America/Los_Angeles:20260531T140100
-SUMMARY:Blue Heron
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070965/
-DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nAward-winning director S
- ophy Romvari’s feature debut is a lyrical and profound testament to the 
- things we carry with us\, masterfully chronicling the haze of a languid su
- mmer and the hyaline clarity of the moments that defined it.\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4070965/\n\nDetails: https://vidiots
- foundation.org/movies/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-UID:4070969@vidiotsfoundation.org
-DTSTAMP:20260531T223000Z
-DTSTART;TZID=America/Los_Angeles:20260531T153000
-DTEND;TZID=America/Los_Angeles:20260531T170100
-SUMMARY:The Python Hunt
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070969/
-DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the m
- icrocinema for one wild serpentine ride with Xander Robin's The Python Hun
- t\, a documentary as entertaining as it is rich in societal and environmen
- tal questions and revelations.\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4070969/\n\nDetails: https://vidiotsfoundation.org/movies/the-pyth
- on-hunt/
-END:VEVENT
-BEGIN:VEVENT
 UID:4012305@vidiotsfoundation.org
 DTSTAMP:20260601T020000Z
 DTSTART;TZID=America/Los_Angeles:20260531T190000
@@ -282,40 +100,6 @@ DESCRIPTION:Run time: 121 min | Format: Digital | Rating: R\n\nSeries: In t
   Mishima\, shocked the world.\n\nTickets: https://vidiotsfoundation.org/pu
  rchase/4012305/\n\nDetails: https://vidiotsfoundation.org/movies/mishima-a
  -life-in-four-chapters/
-END:VEVENT
-BEGIN:VEVENT
-UID:4070975@vidiotsfoundation.org
-DTSTAMP:20260601T023000Z
-DTSTART;TZID=America/Los_Angeles:20260531T193000
-DTEND;TZID=America/Los_Angeles:20260531T210100
-SUMMARY:Blue Heron
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070975/
-DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nAward-winning director S
- ophy Romvari’s feature debut is a lyrical and profound testament to the 
- things we carry with us\, masterfully chronicling the haze of a languid su
- mmer and the hyaline clarity of the moments that defined it.\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4070975/\n\nDetails: https://vidiots
- foundation.org/movies/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-UID:4131065@vidiotsfoundation.org
-DTSTAMP:20260602T020000Z
-DTSTART;TZID=America/Los_Angeles:20260601T190000
-DTEND;TZID=America/Los_Angeles:20260601T203100
-SUMMARY:Blue Heron
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131065/
-DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nAward-winning director S
- ophy Romvari’s feature debut is a lyrical and profound testament to the 
- things we carry with us\, masterfully chronicling the haze of a languid su
- mmer and the hyaline clarity of the moments that defined it.\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4131065/\n\nDetails: https://vidiots
- foundation.org/movies/blue-heron/
 END:VEVENT
 BEGIN:VEVENT
 UID:4063947@vidiotsfoundation.org
@@ -336,23 +120,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4070993@vidiotsfoundation.org
-DTSTAMP:20260604T020000Z
-DTSTART;TZID=America/Los_Angeles:20260603T190000
-DTEND;TZID=America/Los_Angeles:20260603T203100
-SUMMARY:Blue Heron
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070993/
-DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nAward-winning director S
- ophy Romvari’s feature debut is a lyrical and profound testament to the 
- things we carry with us\, masterfully chronicling the haze of a languid su
- mmer and the hyaline clarity of the moments that defined it.\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4070993/\n\nDetails: https://vidiots
- foundation.org/movies/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
 UID:4127889@vidiotsfoundation.org
 DTSTAMP:20260604T023000Z
 DTSTART;TZID=America/Los_Angeles:20260603T193000
@@ -368,23 +135,6 @@ DESCRIPTION:Run time: 89 min | Format: Digital\n\nSeries: In the Eagle\, Sp
   by a conversation with Aselton\, Duplass\, and cast member Daveed Diggs!\
  n\nTickets: https://vidiotsfoundation.org/purchase/4127889/\n\nDetails: ht
  tps://vidiotsfoundation.org/movies/magic-hour/
-END:VEVENT
-BEGIN:VEVENT
-UID:4131075@vidiotsfoundation.org
-DTSTAMP:20260605T020000Z
-DTSTART;TZID=America/Los_Angeles:20260604T190000
-DTEND;TZID=America/Los_Angeles:20260604T203100
-SUMMARY:Blue Heron
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131075/
-DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nAward-winning director S
- ophy Romvari’s feature debut is a lyrical and profound testament to the 
- things we carry with us\, masterfully chronicling the haze of a languid su
- mmer and the hyaline clarity of the moments that defined it.\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4131075/\n\nDetails: https://vidiots
- foundation.org/movies/blue-heron/
 END:VEVENT
 BEGIN:VEVENT
 UID:4127644@vidiotsfoundation.org
@@ -1575,5 +1325,102 @@ DESCRIPTION:Run time: 105 min | Format: 35mm Film | Rating: NC-17 | Release
  mation\, and the creative transformation from fact to fiction.\n\nTickets:
   https://vidiotsfoundation.org/purchase/4133192/\n\nDetails: https://vidio
  tsfoundation.org/movies/bad-education/
+END:VEVENT
+BEGIN:VEVENT
+UID:4070950@vidiotsfoundation.org
+DTSTAMP:20260529T224500Z
+DTSTART;TZID=America/Los_Angeles:20260529T154500
+DTEND;TZID=America/Los_Angeles:20260529T175100
+SUMMARY:The Karate Kid
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4070950/
+DESCRIPTION:Run time: 126 min | Format: Digital | Rating: PG\n\nSeries: Fil
+ ms for Everyone\, In the Eagle\n\nWax on\, wax off\, once again.\n\nTicket
+ s: https://vidiotsfoundation.org/purchase/4070950/\n\nDetails: https://vid
+ iotsfoundation.org/movies/the-karate-kid/
+END:VEVENT
+BEGIN:VEVENT
+UID:4070954@vidiotsfoundation.org
+DTSTAMP:20260529T234500Z
+DTSTART;TZID=America/Los_Angeles:20260529T164500
+DTEND;TZID=America/Los_Angeles:20260529T181600
+SUMMARY:Blue Heron
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4070954/
+DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, In the MUBI Microcinema\n\nAward-winning director S
+ ophy Romvari’s feature debut is a lyrical and profound testament to the 
+ things we carry with us\, masterfully chronicling the haze of a languid su
+ mmer and the hyaline clarity of the moments that defined it.\n\nTickets: h
+ ttps://vidiotsfoundation.org/purchase/4070954/\n\nDetails: https://vidiots
+ foundation.org/movies/blue-heron/
+END:VEVENT
+BEGIN:VEVENT
+UID:4064757@vidiotsfoundation.org
+DTSTAMP:20260530T020000Z
+DTSTART;TZID=America/Los_Angeles:20260529T190000
+DTEND;TZID=America/Los_Angeles:20260529T210600
+SUMMARY:Midnight Run
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4064757/
+DESCRIPTION:Run time: 126 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nRobert De Niro and Charles Grodin team up in Martin Brest's de
+ lirious odd couple crime comedy classic Midnight Run.\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4064757/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/midnight-run/
+END:VEVENT
+BEGIN:VEVENT
+UID:4070955@vidiotsfoundation.org
+DTSTAMP:20260530T023000Z
+DTSTART;TZID=America/Los_Angeles:20260529T193000
+DTEND;TZID=America/Los_Angeles:20260529T210100
+SUMMARY:Blue Heron
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4070955/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
+ ormat: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the M
+ UBI Microcinema\n\nAward-winning director Sophy Romvari’s feature debut 
+ is a lyrical and profound testament to the things we carry with us\, maste
+ rfully chronicling the haze of a languid summer and the hyaline clarity of
+  the moments that defined it.\n\nTickets: https://vidiotsfoundation.org/pu
+ rchase/4070955/\n\nDetails: https://vidiotsfoundation.org/movies/blue-hero
+ n/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4009789@vidiotsfoundation.org
+DTSTAMP:20260530T044500Z
+DTSTART;TZID=America/Los_Angeles:20260529T214500
+DTEND;TZID=America/Los_Angeles:20260529T231100
+SUMMARY:Serpent’s Path
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4009789/
+DESCRIPTION:Run time: 86 min | Format: Digital | Release year: 1998\n\nSeri
+ es: In the Eagle\n\nOne of Kiyoshi Kurosawa's most chilling investigations
+  into the endless cycle of violence and the evil that lodges in every hear
+ t.\n\nTickets: https://vidiotsfoundation.org/purchase/4009789/\n\nDetails:
+  https://vidiotsfoundation.org/movies/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+UID:4070956@vidiotsfoundation.org
+DTSTAMP:20260530T050000Z
+DTSTART;TZID=America/Los_Angeles:20260529T220000
+DTEND;TZID=America/Los_Angeles:20260529T233100
+SUMMARY:The Python Hunt
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4070956/
+DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the m
+ icrocinema for one wild serpentine ride with Xander Robin's The Python Hun
+ t\, a documentary as entertaining as it is rich in societal and environmen
+ tal questions and revelations.\n\nTickets: https://vidiotsfoundation.org/p
+ urchase/4070956/\n\nDetails: https://vidiotsfoundation.org/movies/the-pyth
+ on-hunt/
 END:VEVENT
 END:VCALENDAR
