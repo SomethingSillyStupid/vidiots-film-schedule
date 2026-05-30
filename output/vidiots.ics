@@ -8,92 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4070954@vidiotsfoundation.org
-DTSTAMP:20260529T234500Z
-DTSTART;TZID=America/Los_Angeles:20260529T164500
-DTEND;TZID=America/Los_Angeles:20260529T181600
-SUMMARY:Blue Heron
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070954/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the M
- UBI Microcinema\n\nAward-winning director Sophy Romvari’s feature debut 
- is a lyrical and profound testament to the things we carry with us\, maste
- rfully chronicling the haze of a languid summer and the hyaline clarity of
-  the moments that defined it.\n\nTickets: https://vidiotsfoundation.org/pu
- rchase/4070954/\n\nDetails: https://vidiotsfoundation.org/movies/blue-hero
- n/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4070955@vidiotsfoundation.org
-DTSTAMP:20260530T023000Z
-DTSTART;TZID=America/Los_Angeles:20260529T193000
-DTEND;TZID=America/Los_Angeles:20260529T210100
-SUMMARY:Blue Heron
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070955/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the M
- UBI Microcinema\n\nAward-winning director Sophy Romvari’s feature debut 
- is a lyrical and profound testament to the things we carry with us\, maste
- rfully chronicling the haze of a languid summer and the hyaline clarity of
-  the moments that defined it.\n\nTickets: https://vidiotsfoundation.org/pu
- rchase/4070955/\n\nDetails: https://vidiotsfoundation.org/movies/blue-hero
- n/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4070956@vidiotsfoundation.org
-DTSTAMP:20260530T050000Z
-DTSTART;TZID=America/Los_Angeles:20260529T220000
-DTEND;TZID=America/Los_Angeles:20260529T233100
-SUMMARY:The Python Hunt
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070956/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nJoin us in the microcinema for one wild serpent
- ine ride with Xander Robin's The Python Hunt\, a documentary as entertaini
- ng as it is rich in societal and environmental questions and revelations.\
- n\nTickets: https://vidiotsfoundation.org/purchase/4070956/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/the-python-hunt/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:3999669@vidiotsfoundation.org
-DTSTAMP:20260530T203000Z
-DTSTART;TZID=America/Los_Angeles:20260530T133000
-DTEND;TZID=America/Los_Angeles:20260530T150900
-SUMMARY:Willy Wonka & the Chocolate Factory
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/3999669/
-DESCRIPTION:Run time: 99 min | Format: Digital\n\nSeries: Films for Everyon
- e\, In the Eagle\, Special Guests in Attendance\n\nIt's Scrumdidilyumptiou
- s!\nWith a special introduction by screenwriter David Seltzer!\n\nTickets:
-  https://vidiotsfoundation.org/purchase/3999669/\n\nDetails: https://vidio
- tsfoundation.org/movies/willy-wonka-the-chocolate-factory/
-END:VEVENT
-BEGIN:VEVENT
-UID:3999673@vidiotsfoundation.org
-DTSTAMP:20260530T233000Z
-DTSTART;TZID=America/Los_Angeles:20260530T163000
-DTEND;TZID=America/Los_Angeles:20260530T173200
-SUMMARY:Daughter of Shanghai
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/3999673/
-DESCRIPTION:Run time: 62 min | Format: Digital\n\nSeries: In the Eagle\, Te
- enTix LA\n\nThe incredible Anna May Wong stars in this short and satisfyin
- g San Francisco revenge thriller!\n\nTickets: https://vidiotsfoundation.or
- g/purchase/3999673/\n\nDetails: https://vidiotsfoundation.org/movies/daugh
- ter-of-shanghai/
-END:VEVENT
-BEGIN:VEVENT
 UID:4070958@vidiotsfoundation.org
 DTSTAMP:20260531T000000Z
 DTSTART;TZID=America/Los_Angeles:20260530T170000
@@ -109,22 +23,6 @@ DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
  mmer and the hyaline clarity of the moments that defined it.\n\nTickets: h
  ttps://vidiotsfoundation.org/purchase/4070958/\n\nDetails: https://vidiots
  foundation.org/movies/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-UID:3999674@vidiotsfoundation.org
-DTSTAMP:20260531T020000Z
-DTSTART;TZID=America/Los_Angeles:20260530T190000
-DTEND;TZID=America/Los_Angeles:20260530T202800
-SUMMARY:Airplane!
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/3999674/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
- ormat: Digital | Rating: PG\n\nSeries: In the Eagle\n\nVidiots is now boar
- ding for one of the funniest movies of all time\, and we saved you a seat 
- in the aisle.\n\nTickets: https://vidiotsfoundation.org/purchase/3999674/\
- n\nDetails: https://vidiotsfoundation.org/movies/airplane/
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4070959@vidiotsfoundation.org
@@ -143,24 +41,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
  n\nTickets: https://vidiotsfoundation.org/purchase/4070959/\n\nDetails: ht
  tps://vidiotsfoundation.org/movies/the-python-hunt/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4064320@vidiotsfoundation.org
-DTSTAMP:20260531T043000Z
-DTSTART;TZID=America/Los_Angeles:20260530T213000
-DTEND;TZID=America/Los_Angeles:20260530T230200
-SUMMARY:Bloodsport
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4064320/
-DESCRIPTION:Run time: 92 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\, Live DJ Set\, Special Guests in Attendance\n\nThe Muscles from B
- russels is finally headed to the Vidiots big screen and we can't wait to s
- it front row at the brawl to end it all!\nWith a kick-ass introduction fro
- m screenwriter Sheldon Lettich! And a pre-show live Bloodsport-inspired DJ
-  set from KCRW DJ Nassir Nassirzadeh and shiLAti!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4064320/\n\nDetails: https://vidiotsfoundation.
- org/movies/bloodsport/
 END:VEVENT
 BEGIN:VEVENT
 UID:4070960@vidiotsfoundation.org
@@ -1601,47 +1481,67 @@ DESCRIPTION:Run time: 156 min | Format: Digital | Release year: 2016\n\nSer
  ils: https://vidiotsfoundation.org/movies/the-wailing/
 END:VEVENT
 BEGIN:VEVENT
-UID:4070950@vidiotsfoundation.org
-DTSTAMP:20260529T224500Z
-DTSTART;TZID=America/Los_Angeles:20260529T154500
-DTEND;TZID=America/Los_Angeles:20260529T175100
-SUMMARY:The Karate Kid
+UID:3999669@vidiotsfoundation.org
+DTSTAMP:20260530T203000Z
+DTSTART;TZID=America/Los_Angeles:20260530T133000
+DTEND;TZID=America/Los_Angeles:20260530T150900
+SUMMARY:Willy Wonka & the Chocolate Factory
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070950/
-DESCRIPTION:Run time: 126 min | Format: Digital | Rating: PG\n\nSeries: Fil
- ms for Everyone\, In the Eagle\n\nWax on\, wax off\, once again.\n\nTicket
- s: https://vidiotsfoundation.org/purchase/4070950/\n\nDetails: https://vid
- iotsfoundation.org/movies/the-karate-kid/
+URL:https://vidiotsfoundation.org/purchase/3999669/
+DESCRIPTION:Run time: 99 min | Format: Digital\n\nSeries: Films for Everyon
+ e\, In the Eagle\, Special Guests in Attendance\n\nIt's Scrumdidilyumptiou
+ s!\nWith a special introduction by screenwriter David Seltzer!\n\nTickets:
+  https://vidiotsfoundation.org/purchase/3999669/\n\nDetails: https://vidio
+ tsfoundation.org/movies/willy-wonka-the-chocolate-factory/
 END:VEVENT
 BEGIN:VEVENT
-UID:4064757@vidiotsfoundation.org
-DTSTAMP:20260530T020000Z
-DTSTART;TZID=America/Los_Angeles:20260529T190000
-DTEND;TZID=America/Los_Angeles:20260529T210600
-SUMMARY:Midnight Run
+UID:3999673@vidiotsfoundation.org
+DTSTAMP:20260530T233000Z
+DTSTART;TZID=America/Los_Angeles:20260530T163000
+DTEND;TZID=America/Los_Angeles:20260530T173200
+SUMMARY:Daughter of Shanghai
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4064757/
-DESCRIPTION:Run time: 126 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nRobert De Niro and Charles Grodin team up in Martin Brest's de
- lirious odd couple crime comedy classic Midnight Run.\n\nTickets: https://
- vidiotsfoundation.org/purchase/4064757/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/midnight-run/
+URL:https://vidiotsfoundation.org/purchase/3999673/
+DESCRIPTION:Run time: 62 min | Format: Digital\n\nSeries: In the Eagle\, Te
+ enTix LA\n\nThe incredible Anna May Wong stars in this short and satisfyin
+ g San Francisco revenge thriller!\n\nTickets: https://vidiotsfoundation.or
+ g/purchase/3999673/\n\nDetails: https://vidiotsfoundation.org/movies/daugh
+ ter-of-shanghai/
 END:VEVENT
 BEGIN:VEVENT
-UID:4009789@vidiotsfoundation.org
-DTSTAMP:20260530T044500Z
-DTSTART;TZID=America/Los_Angeles:20260529T214500
-DTEND;TZID=America/Los_Angeles:20260529T231100
-SUMMARY:Serpent’s Path
+UID:3999674@vidiotsfoundation.org
+DTSTAMP:20260531T020000Z
+DTSTART;TZID=America/Los_Angeles:20260530T190000
+DTEND;TZID=America/Los_Angeles:20260530T202800
+SUMMARY:Airplane!
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4009789/
-DESCRIPTION:Run time: 86 min | Format: Digital | Release year: 1998\n\nSeri
- es: In the Eagle\n\nOne of Kiyoshi Kurosawa's most chilling investigations
-  into the endless cycle of violence and the evil that lodges in every hear
- t.\n\nTickets: https://vidiotsfoundation.org/purchase/4009789/\n\nDetails:
-  https://vidiotsfoundation.org/movies/serpents-path/
+URL:https://vidiotsfoundation.org/purchase/3999674/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
+ ormat: Digital | Rating: PG\n\nSeries: In the Eagle\n\nVidiots is now boar
+ ding for one of the funniest movies of all time\, and we saved you a seat 
+ in the aisle.\n\nTickets: https://vidiotsfoundation.org/purchase/3999674/\
+ n\nDetails: https://vidiotsfoundation.org/movies/airplane/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4064320@vidiotsfoundation.org
+DTSTAMP:20260531T043000Z
+DTSTART;TZID=America/Los_Angeles:20260530T213000
+DTEND;TZID=America/Los_Angeles:20260530T230200
+SUMMARY:Bloodsport
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4064320/
+DESCRIPTION:Run time: 92 min | Format: Digital | Rating: R\n\nSeries: In th
+ e Eagle\, Live DJ Set\, Special Guests in Attendance\n\nThe Muscles from B
+ russels is finally headed to the Vidiots big screen and we can't wait to s
+ it front row at the brawl to end it all!\nWith a kick-ass introduction fro
+ m screenwriter Sheldon Lettich! And a pre-show live Bloodsport-inspired DJ
+  set from KCRW DJ Nassir Nassirzadeh and shiLAti!\n\nTickets: https://vidi
+ otsfoundation.org/purchase/4064320/\n\nDetails: https://vidiotsfoundation.
+ org/movies/bloodsport/
 END:VEVENT
 END:VCALENDAR
