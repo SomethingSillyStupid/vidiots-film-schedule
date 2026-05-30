@@ -16,13 +16,15 @@ SUMMARY:Blue Heron
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4070954/
-DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nAward-winning director S
- ophy Romvari’s feature debut is a lyrical and profound testament to the 
- things we carry with us\, masterfully chronicling the haze of a languid su
- mmer and the hyaline clarity of the moments that defined it.\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4070954/\n\nDetails: https://vidiots
- foundation.org/movies/blue-heron/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
+ ormat: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the M
+ UBI Microcinema\n\nAward-winning director Sophy Romvari’s feature debut 
+ is a lyrical and profound testament to the things we carry with us\, maste
+ rfully chronicling the haze of a languid summer and the hyaline clarity of
+  the moments that defined it.\n\nTickets: https://vidiotsfoundation.org/pu
+ rchase/4070954/\n\nDetails: https://vidiotsfoundation.org/movies/blue-hero
+ n/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4070955@vidiotsfoundation.org
@@ -52,13 +54,14 @@ SUMMARY:The Python Hunt
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4070956/
-DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the m
- icrocinema for one wild serpentine ride with Xander Robin's The Python Hun
- t\, a documentary as entertaining as it is rich in societal and environmen
- tal questions and revelations.\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4070956/\n\nDetails: https://vidiotsfoundation.org/movies/the-pyth
- on-hunt/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\n\nJoin us in the microcinema for one wild serpent
+ ine ride with Xander Robin's The Python Hunt\, a documentary as entertaini
+ ng as it is rich in societal and environmental questions and revelations.\
+ n\nTickets: https://vidiotsfoundation.org/purchase/4070956/\n\nDetails: ht
+ tps://vidiotsfoundation.org/movies/the-python-hunt/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:3999669@vidiotsfoundation.org
@@ -132,13 +135,14 @@ SUMMARY:The Python Hunt
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4070959/
-DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the m
- icrocinema for one wild serpentine ride with Xander Robin's The Python Hun
- t\, a documentary as entertaining as it is rich in societal and environmen
- tal questions and revelations.\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4070959/\n\nDetails: https://vidiotsfoundation.org/movies/the-pyth
- on-hunt/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\n\nJoin us in the microcinema for one wild serpent
+ ine ride with Xander Robin's The Python Hunt\, a documentary as entertaini
+ ng as it is rich in societal and environmental questions and revelations.\
+ n\nTickets: https://vidiotsfoundation.org/purchase/4070959/\n\nDetails: ht
+ tps://vidiotsfoundation.org/movies/the-python-hunt/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4064320@vidiotsfoundation.org
@@ -184,11 +188,13 @@ SUMMARY:The Sandlot
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4012289/
-DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG\n\nSeries: Fil
- ms for Everyone\, In the Eagle\, TeenTix LA\n\nThis much-cherished home ru
- n of a family film hits its the Vidiots big screen for a championship scre
- ening.\n\nTickets: https://vidiotsfoundation.org/purchase/4012289/\n\nDeta
- ils: https://vidiotsfoundation.org/movies/the-sandlot/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
+ Format: Digital | Rating: PG\n\nSeries: Films for Everyone\, In the Eagle\
+ , TeenTix LA\n\nThis much-cherished home run of a family film hits its the
+  Vidiots big screen for a championship screening.\n\nTickets: https://vidi
+ otsfoundation.org/purchase/4012289/\n\nDetails: https://vidiotsfoundation.
+ org/movies/the-sandlot/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4070965@vidiotsfoundation.org
@@ -836,6 +842,20 @@ DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
  ation for those of us who have been craving the return of originality to f
  ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4133486/\n\n
  Details: https://vidiotsfoundation.org/movies/i-love-boosters/
+END:VEVENT
+BEGIN:VEVENT
+UID:4133370@vidiotsfoundation.org
+DTSTAMP:20260614T020000Z
+DTSTART;TZID=America/Los_Angeles:20260613T190000
+DTEND;TZID=America/Los_Angeles:20260613T205100
+SUMMARY:Mission: Impossible
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4133370/
+DESCRIPTION:Run time: 111 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\n\nExpect the impossible.\n\nTickets: https://vidiotsfoundati
+ on.org/purchase/4133370/\n\nDetails: https://vidiotsfoundation.org/movies/
+ mission-impossible/
 END:VEVENT
 BEGIN:VEVENT
 UID:4133487@vidiotsfoundation.org
@@ -1563,6 +1583,22 @@ DESCRIPTION:Run time: 105 min | Format: 35mm Film | Rating: NC-17 | Release
  mation\, and the creative transformation from fact to fiction.\n\nTickets:
   https://vidiotsfoundation.org/purchase/4133192/\n\nDetails: https://vidio
  tsfoundation.org/movies/bad-education/
+END:VEVENT
+BEGIN:VEVENT
+UID:4197656@vidiotsfoundation.org
+DTSTAMP:20260710T023000Z
+DTSTART;TZID=America/Los_Angeles:20260709T193000
+DTEND;TZID=America/Los_Angeles:20260709T220600
+SUMMARY:The Wailing
+LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+URL:https://vidiotsfoundation.org/purchase/4197656/
+DESCRIPTION:Run time: 156 min | Format: Digital | Release year: 2016\n\nSer
+ ies: Community Partners\, Doors Open at 6\, Special Guests in Attendance\n
+ \nCo-presented by Luaka Bop\, the record label founded by David Byrne. The
+  screening will be followed by a conversation with Jang Young-gyu\, the fi
+ lm’s composer and founder of the award-winning Korean psych-pop band Lee
+ nalchi\n\nTickets: https://vidiotsfoundation.org/purchase/4197656/\n\nDeta
+ ils: https://vidiotsfoundation.org/movies/the-wailing/
 END:VEVENT
 BEGIN:VEVENT
 UID:4070950@vidiotsfoundation.org
