@@ -8,77 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4070958@vidiotsfoundation.org
-DTSTAMP:20260531T000000Z
-DTSTART;TZID=America/Los_Angeles:20260530T170000
-DTEND;TZID=America/Los_Angeles:20260530T183100
-SUMMARY:Blue Heron
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070958/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the M
- UBI Microcinema\n\nAward-winning director Sophy Romvari’s feature debut 
- is a lyrical and profound testament to the things we carry with us\, maste
- rfully chronicling the haze of a languid summer and the hyaline clarity of
-  the moments that defined it.\n\nTickets: https://vidiotsfoundation.org/pu
- rchase/4070958/\n\nDetails: https://vidiotsfoundation.org/movies/blue-hero
- n/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4070959@vidiotsfoundation.org
-DTSTAMP:20260531T023000Z
-DTSTART;TZID=America/Los_Angeles:20260530T193000
-DTEND;TZID=America/Los_Angeles:20260530T210100
-SUMMARY:The Python Hunt
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070959/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nJoin us in the microcinema for one wild serpent
- ine ride with Xander Robin's The Python Hunt\, a documentary as entertaini
- ng as it is rich in societal and environmental questions and revelations.\
- n\nTickets: https://vidiotsfoundation.org/purchase/4070959/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/the-python-hunt/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4070960@vidiotsfoundation.org
-DTSTAMP:20260531T050000Z
-DTSTART;TZID=America/Los_Angeles:20260530T220000
-DTEND;TZID=America/Los_Angeles:20260530T233100
-SUMMARY:The Python Hunt
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070960/
-DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the m
- icrocinema for one wild serpentine ride with Xander Robin's The Python Hun
- t\, a documentary as entertaining as it is rich in societal and environmen
- tal questions and revelations.\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4070960/\n\nDetails: https://vidiotsfoundation.org/movies/the-pyth
- on-hunt/
-END:VEVENT
-BEGIN:VEVENT
-UID:4012289@vidiotsfoundation.org
-DTSTAMP:20260531T190000Z
-DTSTART;TZID=America/Los_Angeles:20260531T120000
-DTEND;TZID=America/Los_Angeles:20260531T134100
-SUMMARY:The Sandlot
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4012289/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital | Rating: PG\n\nSeries: Films for Everyone\, In the Eagle\
- , TeenTix LA\n\nThis much-cherished home run of a family film hits its the
-  Vidiots big screen for a championship screening.\n\nTickets: https://vidi
- otsfoundation.org/purchase/4012289/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-sandlot/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4070965@vidiotsfoundation.org
 DTSTAMP:20260531T193000Z
 DTSTART;TZID=America/Los_Angeles:20260531T123000
@@ -94,39 +23,6 @@ DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
  mmer and the hyaline clarity of the moments that defined it.\n\nTickets: h
  ttps://vidiotsfoundation.org/purchase/4070965/\n\nDetails: https://vidiots
  foundation.org/movies/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-UID:4070969@vidiotsfoundation.org
-DTSTAMP:20260531T223000Z
-DTSTART;TZID=America/Los_Angeles:20260531T153000
-DTEND;TZID=America/Los_Angeles:20260531T170100
-SUMMARY:The Python Hunt
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070969/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nJoin us in the microcinema for one wild serpent
- ine ride with Xander Robin's The Python Hunt\, a documentary as entertaini
- ng as it is rich in societal and environmental questions and revelations.\
- n\nTickets: https://vidiotsfoundation.org/purchase/4070969/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/the-python-hunt/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4012305@vidiotsfoundation.org
-DTSTAMP:20260601T020000Z
-DTSTART;TZID=America/Los_Angeles:20260531T190000
-DTEND;TZID=America/Los_Angeles:20260531T210100
-SUMMARY:Mishima: A Life in Four Chapters
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4012305/
-DESCRIPTION:Run time: 121 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nOn November 25\, 1970\, Japan's most celebrated writer\, Yukio
-  Mishima\, shocked the world.\n\nTickets: https://vidiotsfoundation.org/pu
- rchase/4012305/\n\nDetails: https://vidiotsfoundation.org/movies/mishima-a
- -life-in-four-chapters/
 END:VEVENT
 BEGIN:VEVENT
 UID:4070975@vidiotsfoundation.org
@@ -247,21 +143,6 @@ DESCRIPTION:Run time: 125 min | Format: 35mm Film | Release year: 1975\n\nS
  for Rainer Werner Fassbinder's straggering queer tragedy of love\, money\,
   and loyalty lost.\n\nTickets: https://vidiotsfoundation.org/purchase/4127
  644/\n\nDetails: https://vidiotsfoundation.org/movies/fox-and-his-friends/
-END:VEVENT
-BEGIN:VEVENT
-UID:4127652@vidiotsfoundation.org
-DTSTAMP:20260605T230000Z
-DTSTART;TZID=America/Los_Angeles:20260605T160000
-DTEND;TZID=America/Los_Angeles:20260605T174100
-SUMMARY:The Sandlot
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127652/
-DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG\n\nSeries: Fil
- ms for Everyone\, In the Eagle\, TeenTix LA\n\nThis much-cherished home ru
- n of a family film hits its the Vidiots big screen for a championship scre
- ening.\n\nTickets: https://vidiotsfoundation.org/purchase/4127652/\n\nDeta
- ils: https://vidiotsfoundation.org/movies/the-sandlot/
 END:VEVENT
 BEGIN:VEVENT
 UID:4131020@vidiotsfoundation.org
@@ -1486,67 +1367,53 @@ DESCRIPTION:Run time: 156 min | Format: Digital | Release year: 2016\n\nSer
  ils: https://vidiotsfoundation.org/movies/the-wailing/
 END:VEVENT
 BEGIN:VEVENT
-UID:3999669@vidiotsfoundation.org
-DTSTAMP:20260530T203000Z
-DTSTART;TZID=America/Los_Angeles:20260530T133000
-DTEND;TZID=America/Los_Angeles:20260530T150900
-SUMMARY:Willy Wonka & the Chocolate Factory
+UID:4012289@vidiotsfoundation.org
+DTSTAMP:20260531T190000Z
+DTSTART;TZID=America/Los_Angeles:20260531T120000
+DTEND;TZID=America/Los_Angeles:20260531T134100
+SUMMARY:The Sandlot
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/3999669/
-DESCRIPTION:Run time: 99 min | Format: Digital\n\nSeries: Films for Everyon
- e\, In the Eagle\, Special Guests in Attendance\n\nIt's Scrumdidilyumptiou
- s!\nWith a special introduction by screenwriter David Seltzer!\n\nTickets:
-  https://vidiotsfoundation.org/purchase/3999669/\n\nDetails: https://vidio
- tsfoundation.org/movies/willy-wonka-the-chocolate-factory/
-END:VEVENT
-BEGIN:VEVENT
-UID:3999673@vidiotsfoundation.org
-DTSTAMP:20260530T233000Z
-DTSTART;TZID=America/Los_Angeles:20260530T163000
-DTEND;TZID=America/Los_Angeles:20260530T173200
-SUMMARY:Daughter of Shanghai
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/3999673/
-DESCRIPTION:Run time: 62 min | Format: Digital\n\nSeries: In the Eagle\, Te
- enTix LA\n\nThe incredible Anna May Wong stars in this short and satisfyin
- g San Francisco revenge thriller!\n\nTickets: https://vidiotsfoundation.or
- g/purchase/3999673/\n\nDetails: https://vidiotsfoundation.org/movies/daugh
- ter-of-shanghai/
-END:VEVENT
-BEGIN:VEVENT
-UID:3999674@vidiotsfoundation.org
-DTSTAMP:20260531T020000Z
-DTSTART;TZID=America/Los_Angeles:20260530T190000
-DTEND;TZID=America/Los_Angeles:20260530T202800
-SUMMARY:Airplane!
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/3999674/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
- ormat: Digital | Rating: PG\n\nSeries: In the Eagle\n\nVidiots is now boar
- ding for one of the funniest movies of all time\, and we saved you a seat 
- in the aisle.\n\nTickets: https://vidiotsfoundation.org/purchase/3999674/\
- n\nDetails: https://vidiotsfoundation.org/movies/airplane/
+URL:https://vidiotsfoundation.org/purchase/4012289/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
+ Format: Digital | Rating: PG\n\nSeries: Films for Everyone\, In the Eagle\
+ , TeenTix LA\n\nThis much-cherished home run of a family film hits its the
+  Vidiots big screen for a championship screening.\n\nTickets: https://vidi
+ otsfoundation.org/purchase/4012289/\n\nDetails: https://vidiotsfoundation.
+ org/movies/the-sandlot/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4064320@vidiotsfoundation.org
-DTSTAMP:20260531T043000Z
-DTSTART;TZID=America/Los_Angeles:20260530T213000
-DTEND;TZID=America/Los_Angeles:20260530T230200
-SUMMARY:Bloodsport
+UID:4070969@vidiotsfoundation.org
+DTSTAMP:20260531T223000Z
+DTSTART;TZID=America/Los_Angeles:20260531T153000
+DTEND;TZID=America/Los_Angeles:20260531T170100
+SUMMARY:The Python Hunt
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4070969/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\n\nJoin us in the microcinema for one wild serpent
+ ine ride with Xander Robin's The Python Hunt\, a documentary as entertaini
+ ng as it is rich in societal and environmental questions and revelations.\
+ n\nTickets: https://vidiotsfoundation.org/purchase/4070969/\n\nDetails: ht
+ tps://vidiotsfoundation.org/movies/the-python-hunt/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4012305@vidiotsfoundation.org
+DTSTAMP:20260601T020000Z
+DTSTART;TZID=America/Los_Angeles:20260531T190000
+DTEND;TZID=America/Los_Angeles:20260531T210100
+SUMMARY:Mishima: A Life in Four Chapters
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4064320/
-DESCRIPTION:Run time: 92 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\, Live DJ Set\, Special Guests in Attendance\n\nThe Muscles from B
- russels is finally headed to the Vidiots big screen and we can't wait to s
- it front row at the brawl to end it all!\nWith a kick-ass introduction fro
- m screenwriter Sheldon Lettich! And a pre-show live Bloodsport-inspired DJ
-  set from KCRW DJ Nassir Nassirzadeh and shiLAti!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4064320/\n\nDetails: https://vidiotsfoundation.
- org/movies/bloodsport/
+URL:https://vidiotsfoundation.org/purchase/4012305/
+DESCRIPTION:Run time: 121 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nOn November 25\, 1970\, Japan's most celebrated writer\, Yukio
+  Mishima\, shocked the world.\n\nTickets: https://vidiotsfoundation.org/pu
+ rchase/4012305/\n\nDetails: https://vidiotsfoundation.org/movies/mishima-a
+ -life-in-four-chapters/
 END:VEVENT
 END:VCALENDAR
