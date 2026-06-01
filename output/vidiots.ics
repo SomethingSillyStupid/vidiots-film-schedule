@@ -565,9 +565,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4133370/
 DESCRIPTION:Run time: 111 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\n\nExpect the impossible.\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4133370/\n\nDetails: https://vidiotsfoundation.org/movies/
- mission-impossible/
+ In the Eagle\n\nBrian De Palma and Tom Cruise team up for the first instal
+ lment of this blockbuster spy series and all the twists and turns are head
+ ing to our big screen!\n30 Year Anniversary!\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4133370/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/mission-impossible/
 END:VEVENT
 BEGIN:VEVENT
 UID:4133487@vidiotsfoundation.org
@@ -1311,6 +1313,55 @@ DESCRIPTION:Run time: 156 min | Format: Digital | Release year: 2016\n\nSer
  lm’s composer and founder of the award-winning Korean psych-pop band Lee
  nalchi\n\nTickets: https://vidiotsfoundation.org/purchase/4197656/\n\nDeta
  ils: https://vidiotsfoundation.org/movies/the-wailing/
+END:VEVENT
+BEGIN:VEVENT
+UID:4215011@vidiotsfoundation.org
+DTSTAMP:20260719T203000Z
+DTSTART;TZID=America/Los_Angeles:20260719T133000
+DTEND;TZID=America/Los_Angeles:20260719T145700
+SUMMARY:The Popcorn List: Remaining Native
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4215011/
+DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: In the MUBI Micro
+ cinema\, Special Guests in Attendance\n\nA coming-of-age documentary told 
+ from the perspective of Kutoven (Ku) Stevens\, a 17-year-old Native Americ
+ an runner\, struggling to navigate his dream of becoming a collegiate athl
+ ete as the memory of his great-grandfather's escape from an Indian boardin
+ g school begins to connect past\, present\, and future.\nEditor Stephanie 
+ Khoury in person!\n\nTickets: https://vidiotsfoundation.org/purchase/42150
+ 11/\n\nDetails: https://vidiotsfoundation.org/movies/the-popcorn-list-rema
+ ining-native/
+END:VEVENT
+BEGIN:VEVENT
+UID:4215020@vidiotsfoundation.org
+DTSTAMP:20260719T233000Z
+DTSTART;TZID=America/Los_Angeles:20260719T163000
+DTEND;TZID=America/Los_Angeles:20260719T180500
+SUMMARY:The Popcorn List: Trash Baby
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4215020/
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: In the MUBI Micro
+ cinema\n\nScreenwriter: Jacy Mairs Producers: Karlee Boon\, Cameron Holly 
+ Dexter\, Jacy Mairs Trash Baby is an indie drama that...\n\nTickets: https
+ ://vidiotsfoundation.org/purchase/4215020/\n\nDetails: https://vidiotsfoun
+ dation.org/movies/trash-baby/
+END:VEVENT
+BEGIN:VEVENT
+UID:4215022@vidiotsfoundation.org
+DTSTAMP:20260720T023000Z
+DTSTART;TZID=America/Los_Angeles:20260719T193000
+DTEND;TZID=America/Los_Angeles:20260719T211600
+SUMMARY:The Popcorn List: Fucktoys
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4215022/
+DESCRIPTION:Run time: 106 min | Format: Digital\n\nSeries: In the MUBI Micr
+ ocinema\, Special Guests in Attendance\n\nAbandon me harder daddy.\nDirect
+ or Annapurna Sriram and Producer Tim Petryn in person!\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4215022/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/fucktoys/
 END:VEVENT
 BEGIN:VEVENT
 UID:4063947@vidiotsfoundation.org
