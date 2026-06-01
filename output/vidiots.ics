@@ -8,42 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4070965@vidiotsfoundation.org
-DTSTAMP:20260531T193000Z
-DTSTART;TZID=America/Los_Angeles:20260531T123000
-DTEND;TZID=America/Los_Angeles:20260531T140100
-SUMMARY:Blue Heron
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070965/
-DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nAward-winning director S
- ophy Romvari’s feature debut is a lyrical and profound testament to the 
- things we carry with us\, masterfully chronicling the haze of a languid su
- mmer and the hyaline clarity of the moments that defined it.\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4070965/\n\nDetails: https://vidiots
- foundation.org/movies/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-UID:4070975@vidiotsfoundation.org
-DTSTAMP:20260601T023000Z
-DTSTART;TZID=America/Los_Angeles:20260531T193000
-DTEND;TZID=America/Los_Angeles:20260531T210100
-SUMMARY:Blue Heron
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070975/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the M
- UBI Microcinema\n\nAward-winning director Sophy Romvari’s feature debut 
- is a lyrical and profound testament to the things we carry with us\, maste
- rfully chronicling the haze of a languid summer and the hyaline clarity of
-  the moments that defined it.\n\nTickets: https://vidiotsfoundation.org/pu
- rchase/4070975/\n\nDetails: https://vidiotsfoundation.org/movies/blue-hero
- n/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4131065@vidiotsfoundation.org
 DTSTAMP:20260602T020000Z
 DTSTART;TZID=America/Los_Angeles:20260601T190000
@@ -59,24 +23,6 @@ DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
  mmer and the hyaline clarity of the moments that defined it.\n\nTickets: h
  ttps://vidiotsfoundation.org/purchase/4131065/\n\nDetails: https://vidiots
  foundation.org/movies/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-UID:4063947@vidiotsfoundation.org
-DTSTAMP:20260602T023000Z
-DTSTART;TZID=America/Los_Angeles:20260601T193000
-DTEND;TZID=America/Los_Angeles:20260601T205800
-SUMMARY:Stop Making Sense
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4063947/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
- ormat: 4K Digital\n\nSeries: Doors Open at 6\, In the Eagle\, Interactive\
- n\nWe're bringing the party back to the big screen to kick off June like r
- ock stars!\nIn honor of our third anniversary in Eagle Rock\, we will be o
- ffering one free rental in the video store all day on June 1st!\n\nTickets
- : https://vidiotsfoundation.org/purchase/4063947/\n\nDetails: https://vidi
- otsfoundation.org/movies/stop-making-sense-1984/
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4070993@vidiotsfoundation.org
@@ -1367,53 +1313,21 @@ DESCRIPTION:Run time: 156 min | Format: Digital | Release year: 2016\n\nSer
  ils: https://vidiotsfoundation.org/movies/the-wailing/
 END:VEVENT
 BEGIN:VEVENT
-UID:4012289@vidiotsfoundation.org
-DTSTAMP:20260531T190000Z
-DTSTART;TZID=America/Los_Angeles:20260531T120000
-DTEND;TZID=America/Los_Angeles:20260531T134100
-SUMMARY:The Sandlot
+UID:4063947@vidiotsfoundation.org
+DTSTAMP:20260602T023000Z
+DTSTART;TZID=America/Los_Angeles:20260601T193000
+DTEND;TZID=America/Los_Angeles:20260601T205800
+SUMMARY:Stop Making Sense
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4012289/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital | Rating: PG\n\nSeries: Films for Everyone\, In the Eagle\
- , TeenTix LA\n\nThis much-cherished home run of a family film hits its the
-  Vidiots big screen for a championship screening.\n\nTickets: https://vidi
- otsfoundation.org/purchase/4012289/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-sandlot/
+URL:https://vidiotsfoundation.org/purchase/4063947/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
+ ormat: 4K Digital\n\nSeries: Doors Open at 6\, In the Eagle\, Interactive\
+ n\nWe're bringing the party back to the big screen to kick off June like r
+ ock stars!\nIn honor of our third anniversary in Eagle Rock\, we will be o
+ ffering one free rental in the video store all day on June 1st!\n\nTickets
+ : https://vidiotsfoundation.org/purchase/4063947/\n\nDetails: https://vidi
+ otsfoundation.org/movies/stop-making-sense-1984/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4070969@vidiotsfoundation.org
-DTSTAMP:20260531T223000Z
-DTSTART;TZID=America/Los_Angeles:20260531T153000
-DTEND;TZID=America/Los_Angeles:20260531T170100
-SUMMARY:The Python Hunt
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070969/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nJoin us in the microcinema for one wild serpent
- ine ride with Xander Robin's The Python Hunt\, a documentary as entertaini
- ng as it is rich in societal and environmental questions and revelations.\
- n\nTickets: https://vidiotsfoundation.org/purchase/4070969/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/the-python-hunt/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4012305@vidiotsfoundation.org
-DTSTAMP:20260601T020000Z
-DTSTART;TZID=America/Los_Angeles:20260531T190000
-DTEND;TZID=America/Los_Angeles:20260531T210100
-SUMMARY:Mishima: A Life in Four Chapters
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4012305/
-DESCRIPTION:Run time: 121 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nOn November 25\, 1970\, Japan's most celebrated writer\, Yukio
-  Mishima\, shocked the world.\n\nTickets: https://vidiotsfoundation.org/pu
- rchase/4012305/\n\nDetails: https://vidiotsfoundation.org/movies/mishima-a
- -life-in-four-chapters/
 END:VEVENT
 END:VCALENDAR
