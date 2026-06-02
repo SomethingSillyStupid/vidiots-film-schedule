@@ -8,25 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4131065@vidiotsfoundation.org
-DTSTAMP:20260602T020000Z
-DTSTART;TZID=America/Los_Angeles:20260601T190000
-DTEND;TZID=America/Los_Angeles:20260601T203100
-SUMMARY:Blue Heron
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131065/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the M
- UBI Microcinema\n\nAward-winning director Sophy Romvari’s feature debut 
- is a lyrical and profound testament to the things we carry with us\, maste
- rfully chronicling the haze of a languid summer and the hyaline clarity of
-  the moments that defined it.\n\nTickets: https://vidiotsfoundation.org/pu
- rchase/4131065/\n\nDetails: https://vidiotsfoundation.org/movies/blue-hero
- n/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4070993@vidiotsfoundation.org
 DTSTAMP:20260604T020000Z
 DTSTART;TZID=America/Los_Angeles:20260603T190000
@@ -36,12 +17,12 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4070993/
 DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nAward-winning director S
- ophy Romvari’s feature debut is a lyrical and profound testament to the 
- things we carry with us\, masterfully chronicling the haze of a languid su
- mmer and the hyaline clarity of the moments that defined it.\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4070993/\n\nDetails: https://vidiots
- foundation.org/movies/blue-heron/
+ es: In the MUBI Microcinema\n\nAward-winning director Sophy Romvari’s fe
+ ature debut is a lyrical and profound testament to the things we carry wit
+ h us\, masterfully chronicling the haze of a languid summer and the hyalin
+ e clarity of the moments that defined it.\n\nTickets: https://vidiotsfound
+ ation.org/purchase/4070993/\n\nDetails: https://vidiotsfoundation.org/movi
+ es/blue-heron/
 END:VEVENT
 BEGIN:VEVENT
 UID:4127889@vidiotsfoundation.org
@@ -70,12 +51,12 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4131075/
 DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nAward-winning director S
- ophy Romvari’s feature debut is a lyrical and profound testament to the 
- things we carry with us\, masterfully chronicling the haze of a languid su
- mmer and the hyaline clarity of the moments that defined it.\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4131075/\n\nDetails: https://vidiots
- foundation.org/movies/blue-heron/
+ es: In the MUBI Microcinema\n\nAward-winning director Sophy Romvari’s fe
+ ature debut is a lyrical and profound testament to the things we carry wit
+ h us\, masterfully chronicling the haze of a languid summer and the hyalin
+ e clarity of the moments that defined it.\n\nTickets: https://vidiotsfound
+ ation.org/purchase/4131075/\n\nDetails: https://vidiotsfoundation.org/movi
+ es/blue-heron/
 END:VEVENT
 BEGIN:VEVENT
 UID:4127644@vidiotsfoundation.org
@@ -1367,23 +1348,5 @@ DESCRIPTION:Run time: 106 min | Format: Digital\n\nSeries: In the MUBI Micr
  or Annapurna Sriram and Producer Tim Petryn in person!\n\nTickets: https:/
  /vidiotsfoundation.org/purchase/4215022/\n\nDetails: https://vidiotsfounda
  tion.org/movies/fucktoys/
-END:VEVENT
-BEGIN:VEVENT
-UID:4063947@vidiotsfoundation.org
-DTSTAMP:20260602T023000Z
-DTSTART;TZID=America/Los_Angeles:20260601T193000
-DTEND;TZID=America/Los_Angeles:20260601T205800
-SUMMARY:Stop Making Sense
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4063947/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
- ormat: 4K Digital\n\nSeries: Doors Open at 6\, In the Eagle\, Interactive\
- n\nWe're bringing the party back to the big screen to kick off June like r
- ock stars!\nIn honor of our third anniversary in Eagle Rock\, we will be o
- ffering one free rental in the video store all day on June 1st!\n\nTickets
- : https://vidiotsfoundation.org/purchase/4063947/\n\nDetails: https://vidi
- otsfoundation.org/movies/stop-making-sense-1984/
-STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
