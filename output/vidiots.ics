@@ -741,10 +741,10 @@ URL:https://vidiotsfoundation.org/purchase/4127730/
 DESCRIPTION:Run time: 103 min | Format: Digital\n\nSeries: Doors Open at 6\
  , In the Eagle\, Special Guests in Attendance\, TeenTix LA\n\nVidiots is t
  hrilled to welcome filmmakers Silas Howard\, Harry Dodge\, and Steak House
-  for a special 25th Anniversary screening of their trailblazing trans budd
- y comedy! Conversation moderated by filmmaker Vera Drew!\n\nTickets: https
- ://vidiotsfoundation.org/purchase/4127730/\n\nDetails: https://vidiotsfoun
- dation.org/movies/by-hook-or-by-crook/
+  for a special 25th Anniversary screening of their trailblazing trans and 
+ butch buddy comedy! Conversation moderated by filmmaker Vera Drew!\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4127730/\n\nDetails: https://v
+ idiotsfoundation.org/movies/by-hook-or-by-crook/
 END:VEVENT
 BEGIN:VEVENT
 UID:4196620@vidiotsfoundation.org
@@ -1283,6 +1283,36 @@ DESCRIPTION:Run time: 105 min | Format: 35mm Film | Rating: NC-17 | Release
  mation\, and the creative transformation from fact to fiction.\n\nTickets:
   https://vidiotsfoundation.org/purchase/4133192/\n\nDetails: https://vidio
  tsfoundation.org/movies/bad-education/
+END:VEVENT
+BEGIN:VEVENT
+UID:4220150@vidiotsfoundation.org
+DTSTAMP:20260704T200000Z
+DTSTART;TZID=America/Los_Angeles:20260704T130000
+DTEND;TZID=America/Los_Angeles:20260704T150400
+SUMMARY:Jaws
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4220150/
+DESCRIPTION:Run time: 124 min | Format: Digital | Rating: PG\n\nSeries: In 
+ the Eagle\n\nWe've got your pre-fireworks July 4th plans handled with two 
+ sharky screenings of Steven Spielberg's perennial summer blockbuster!\n\nT
+ ickets: https://vidiotsfoundation.org/purchase/4220150/\n\nDetails: https:
+ //vidiotsfoundation.org/movies/jaws/
+END:VEVENT
+BEGIN:VEVENT
+UID:4220152@vidiotsfoundation.org
+DTSTAMP:20260704T233000Z
+DTSTART;TZID=America/Los_Angeles:20260704T163000
+DTEND;TZID=America/Los_Angeles:20260704T183400
+SUMMARY:Jaws
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4220152/
+DESCRIPTION:Run time: 124 min | Format: Digital | Rating: PG\n\nSeries: In 
+ the Eagle\n\nWe've got your pre-fireworks July 4th plans handled with two 
+ sharky screenings of Steven Spielberg's perennial summer blockbuster!\n\nT
+ ickets: https://vidiotsfoundation.org/purchase/4220152/\n\nDetails: https:
+ //vidiotsfoundation.org/movies/jaws/
 END:VEVENT
 BEGIN:VEVENT
 UID:4197656@vidiotsfoundation.org
