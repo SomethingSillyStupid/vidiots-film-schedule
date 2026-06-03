@@ -26,23 +26,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4127889@vidiotsfoundation.org
-DTSTAMP:20260604T023000Z
-DTSTART;TZID=America/Los_Angeles:20260603T193000
-DTEND;TZID=America/Los_Angeles:20260603T205900
-SUMMARY:Magic Hour
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127889/
-DESCRIPTION:Run time: 89 min | Format: Digital\n\nSeries: In the Eagle\, Sp
- ecial Guests in Attendance\, TeenTix LA\n\nVidiots welcomes back our belov
- ed Founding Members and indie legends Katie Aselton and Mark Duplass for t
- heir latest collaboration\, the honest and heartfelt Magic Hour\, followed
-  by a conversation with Aselton\, Duplass\, and cast member Daveed Diggs!\
- n\nTickets: https://vidiotsfoundation.org/purchase/4127889/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/magic-hour/
-END:VEVENT
-BEGIN:VEVENT
 UID:4131075@vidiotsfoundation.org
 DTSTAMP:20260605T020000Z
 DTSTART;TZID=America/Los_Angeles:20260604T190000
@@ -1395,5 +1378,22 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 106 min |
  r Tim Petryn in person!\n\nTickets: https://vidiotsfoundation.org/purchase
  /4215022/\n\nDetails: https://vidiotsfoundation.org/movies/fucktoys/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4127889@vidiotsfoundation.org
+DTSTAMP:20260604T023000Z
+DTSTART;TZID=America/Los_Angeles:20260603T193000
+DTEND;TZID=America/Los_Angeles:20260603T205900
+SUMMARY:Magic Hour
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4127889/
+DESCRIPTION:Run time: 89 min | Format: Digital\n\nSeries: In the Eagle\, Sp
+ ecial Guests in Attendance\, TeenTix LA\n\nVidiots welcomes back our belov
+ ed Founding Members and indie legends Katie Aselton and Mark Duplass for t
+ heir latest collaboration\, the honest and heartfelt Magic Hour\, followed
+  by a conversation with Aselton\, Duplass\, and cast member Daveed Diggs!\
+ n\nTickets: https://vidiotsfoundation.org/purchase/4127889/\n\nDetails: ht
+ tps://vidiotsfoundation.org/movies/magic-hour/
 END:VEVENT
 END:VCALENDAR
