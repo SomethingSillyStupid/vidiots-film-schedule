@@ -16,13 +16,14 @@ SUMMARY:Blue Heron
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4070993/
-DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
- es: In the MUBI Microcinema\n\nAward-winning director Sophy Romvari’s fe
- ature debut is a lyrical and profound testament to the things we carry wit
- h us\, masterfully chronicling the haze of a languid summer and the hyalin
- e clarity of the moments that defined it.\n\nTickets: https://vidiotsfound
- ation.org/purchase/4070993/\n\nDetails: https://vidiotsfoundation.org/movi
- es/blue-heron/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
+ ormat: Digital | Release year: 2026\n\nSeries: In the MUBI Microcinema\n\n
+ Award-winning director Sophy Romvari’s feature debut is a lyrical and pr
+ ofound testament to the things we carry with us\, masterfully chronicling 
+ the haze of a languid summer and the hyaline clarity of the moments that d
+ efined it.\n\nTickets: https://vidiotsfoundation.org/purchase/4070993/\n\n
+ Details: https://vidiotsfoundation.org/movies/blue-heron/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4127889@vidiotsfoundation.org
@@ -72,6 +73,21 @@ DESCRIPTION:Run time: 125 min | Format: 35mm Film | Release year: 1975\n\nS
  for Rainer Werner Fassbinder's straggering queer tragedy of love\, money\,
   and loyalty lost.\n\nTickets: https://vidiotsfoundation.org/purchase/4127
  644/\n\nDetails: https://vidiotsfoundation.org/movies/fox-and-his-friends/
+END:VEVENT
+BEGIN:VEVENT
+UID:4127652@vidiotsfoundation.org
+DTSTAMP:20260605T230000Z
+DTSTART;TZID=America/Los_Angeles:20260605T160000
+DTEND;TZID=America/Los_Angeles:20260605T174100
+SUMMARY:The Sandlot
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4127652/
+DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG\n\nSeries: Fil
+ ms for Everyone\, In the Eagle\n\nThis much-cherished home run of a family
+  film hits its the Vidiots big screen for a championship screening.\n\nTic
+ kets: https://vidiotsfoundation.org/purchase/4127652/\n\nDetails: https://
+ vidiotsfoundation.org/movies/the-sandlot/
 END:VEVENT
 BEGIN:VEVENT
 UID:4131020@vidiotsfoundation.org
@@ -1373,10 +1389,11 @@ SUMMARY:The Popcorn List: Fucktoys
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4215022/
-DESCRIPTION:Run time: 106 min | Format: Digital\n\nSeries: In the MUBI Micr
- ocinema\, Special Guests in Attendance\n\nAbandon me harder daddy.\nDirect
- or Annapurna Sriram and Producer Tim Petryn in person!\n\nTickets: https:/
- /vidiotsfoundation.org/purchase/4215022/\n\nDetails: https://vidiotsfounda
- tion.org/movies/fucktoys/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 106 min | 
+ Format: Digital\n\nSeries: In the MUBI Microcinema\, Special Guests in Att
+ endance\n\nAbandon me harder daddy.\nDirector Annapurna Sriram and Produce
+ r Tim Petryn in person!\n\nTickets: https://vidiotsfoundation.org/purchase
+ /4215022/\n\nDetails: https://vidiotsfoundation.org/movies/fucktoys/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
