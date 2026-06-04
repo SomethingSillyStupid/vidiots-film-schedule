@@ -8,56 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4070993@vidiotsfoundation.org
-DTSTAMP:20260604T020000Z
-DTSTART;TZID=America/Los_Angeles:20260603T190000
-DTEND;TZID=America/Los_Angeles:20260603T203100
-SUMMARY:Blue Heron
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4070993/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital | Release year: 2026\n\nSeries: In the MUBI Microcinema\n\n
- Award-winning director Sophy Romvari’s feature debut is a lyrical and pr
- ofound testament to the things we carry with us\, masterfully chronicling 
- the haze of a languid summer and the hyaline clarity of the moments that d
- efined it.\n\nTickets: https://vidiotsfoundation.org/purchase/4070993/\n\n
- Details: https://vidiotsfoundation.org/movies/blue-heron/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4131075@vidiotsfoundation.org
-DTSTAMP:20260605T020000Z
-DTSTART;TZID=America/Los_Angeles:20260604T190000
-DTEND;TZID=America/Los_Angeles:20260604T203100
-SUMMARY:Blue Heron
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131075/
-DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
- es: In the MUBI Microcinema\n\nAward-winning director Sophy Romvari’s fe
- ature debut is a lyrical and profound testament to the things we carry wit
- h us\, masterfully chronicling the haze of a languid summer and the hyalin
- e clarity of the moments that defined it.\n\nTickets: https://vidiotsfound
- ation.org/purchase/4131075/\n\nDetails: https://vidiotsfoundation.org/movi
- es/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-UID:4127644@vidiotsfoundation.org
-DTSTAMP:20260605T023000Z
-DTSTART;TZID=America/Los_Angeles:20260604T193000
-DTEND;TZID=America/Los_Angeles:20260604T213500
-SUMMARY:Fox and His Friends on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127644/
-DESCRIPTION:Run time: 125 min | Format: 35mm Film | Release year: 1975\n\nS
- eries: 35mm Film\, Doors Open at 6\, In the Eagle\, TeenTix LA\n\nJoin us 
- for Rainer Werner Fassbinder's straggering queer tragedy of love\, money\,
-  and loyalty lost.\n\nTickets: https://vidiotsfoundation.org/purchase/4127
- 644/\n\nDetails: https://vidiotsfoundation.org/movies/fox-and-his-friends/
-END:VEVENT
-BEGIN:VEVENT
 UID:4127652@vidiotsfoundation.org
 DTSTAMP:20260605T230000Z
 DTSTART;TZID=America/Los_Angeles:20260605T160000
@@ -117,14 +67,15 @@ SUMMARY:By Design
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4131019/
-DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, Special Guests in Attendance\n\nOur microcinem
- a is about to get strange with Amanda Kramer's latest absurd and surreal v
- ision of material and interpersonal desires as a woman (Juliette Lewis) sw
- aps bodies with a chair\, and everyone likes her better as a chair.\nWith 
- filmmaker Amanda Kramer in person on Saturday\, June 6th!\n\nTickets: http
- s://vidiotsfoundation.org/purchase/4131019/\n\nDetails: https://vidiotsfou
- ndation.org/movies/by-design/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Spe
+ cial Guests in Attendance\n\nOur microcinema is about to get strange with 
+ Amanda Kramer's latest absurd and surreal vision of material and interpers
+ onal desires as a woman (Juliette Lewis) swaps bodies with a chair\, and e
+ veryone likes her better as a chair.\nWith filmmaker Amanda Kramer in pers
+ on on Saturday\, June 6th!\n\nTickets: https://vidiotsfoundation.org/purch
+ ase/4131019/\n\nDetails: https://vidiotsfoundation.org/movies/by-design/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4134534@vidiotsfoundation.org
@@ -1381,20 +1332,35 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 106 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4127889@vidiotsfoundation.org
-DTSTAMP:20260604T023000Z
-DTSTART;TZID=America/Los_Angeles:20260603T193000
-DTEND;TZID=America/Los_Angeles:20260603T205900
-SUMMARY:Magic Hour
+UID:4131075@vidiotsfoundation.org
+DTSTAMP:20260605T020000Z
+DTSTART;TZID=America/Los_Angeles:20260604T190000
+DTEND;TZID=America/Los_Angeles:20260604T203100
+SUMMARY:Blue Heron
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4131075/
+DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
+ es: In the MUBI Microcinema\n\nAward-winning director Sophy Romvari’s fe
+ ature debut is a lyrical and profound testament to the things we carry wit
+ h us\, masterfully chronicling the haze of a languid summer and the hyalin
+ e clarity of the moments that defined it.\n\nTickets: https://vidiotsfound
+ ation.org/purchase/4131075/\n\nDetails: https://vidiotsfoundation.org/movi
+ es/blue-heron/
+END:VEVENT
+BEGIN:VEVENT
+UID:4127644@vidiotsfoundation.org
+DTSTAMP:20260605T023000Z
+DTSTART;TZID=America/Los_Angeles:20260604T193000
+DTEND;TZID=America/Los_Angeles:20260604T213500
+SUMMARY:Fox and His Friends on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127889/
-DESCRIPTION:Run time: 89 min | Format: Digital\n\nSeries: In the Eagle\, Sp
- ecial Guests in Attendance\, TeenTix LA\n\nVidiots welcomes back our belov
- ed Founding Members and indie legends Katie Aselton and Mark Duplass for t
- heir latest collaboration\, the honest and heartfelt Magic Hour\, followed
-  by a conversation with Aselton\, Duplass\, and cast member Daveed Diggs!\
- n\nTickets: https://vidiotsfoundation.org/purchase/4127889/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/magic-hour/
+URL:https://vidiotsfoundation.org/purchase/4127644/
+DESCRIPTION:Run time: 125 min | Format: 35mm Film | Release year: 1975\n\nS
+ eries: 35mm Film\, Doors Open at 6\, In the Eagle\, TeenTix LA\n\nJoin us 
+ for Rainer Werner Fassbinder's straggering queer tragedy of love\, money\,
+  and loyalty lost.\n\nTickets: https://vidiotsfoundation.org/purchase/4127
+ 644/\n\nDetails: https://vidiotsfoundation.org/movies/fox-and-his-friends/
 END:VEVENT
 END:VCALENDAR
