@@ -21,7 +21,21 @@ Import that file into Apple Calendar with `File > Import`.
 ```sh
 python3 scripts/generate_vidiots_ics.py --output output/vidiots.ics
 python3 scripts/generate_vidiots_ics.py --html saved-coming-soon.html
+python3 scripts/generate_vidiots_ics.py --html saved-coming-soon.html --today 2026-06-04
 ```
+
+## Verify locally
+
+```sh
+PYTHONPYCACHEPREFIX=/tmp/vidiots-pycache python3 -m py_compile scripts/generate_vidiots_ics.py scripts/validate_ics.py
+python3 -m unittest discover -s tests
+python3 scripts/generate_vidiots_ics.py
+python3 scripts/validate_ics.py output/vidiots.ics
+```
+
+The validation step confirms the calendar contains at least one `VEVENT`, ends with
+`END:VCALENDAR`, uses CRLF line endings, and has no physical line longer than 75
+bytes.
 
 The script uses only the Python standard library, so there is no package install step.
 

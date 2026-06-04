@@ -23,8 +23,18 @@ jobs:
         with:
           python-version: "3.x"
 
+      - name: Compile-check generator and validator
+        run: |
+          PYTHONPYCACHEPREFIX=/tmp/vidiots-pycache python -m py_compile scripts/generate_vidiots_ics.py scripts/validate_ics.py
+
+      - name: Run unit tests
+        run: python -m unittest discover -s tests
+
       - name: Generate calendar
         run: python scripts/generate_vidiots_ics.py
+
+      - name: Validate generated calendar
+        run: python scripts/validate_ics.py output/vidiots.ics
 
       - name: Prepare GitHub Pages artifact
         run: |
