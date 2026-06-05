@@ -8,107 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4127652@vidiotsfoundation.org
-DTSTAMP:20260605T230000Z
-DTSTART;TZID=America/Los_Angeles:20260605T160000
-DTEND;TZID=America/Los_Angeles:20260605T174100
-SUMMARY:The Sandlot
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127652/
-DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG\n\nSeries: Fil
- ms for Everyone\, In the Eagle\n\nThis much-cherished home run of a family
-  film hits its the Vidiots big screen for a championship screening.\n\nTic
- kets: https://vidiotsfoundation.org/purchase/4127652/\n\nDetails: https://
- vidiotsfoundation.org/movies/the-sandlot/
-END:VEVENT
-BEGIN:VEVENT
-UID:4131020@vidiotsfoundation.org
-DTSTAMP:20260605T233000Z
-DTSTART;TZID=America/Los_Angeles:20260605T163000
-DTEND;TZID=America/Los_Angeles:20260605T180100
-SUMMARY:By Design
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131020/
-DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, Special Guests in Attendance\n\nOur microcinem
- a is about to get strange with Amanda Kramer's latest absurd and surreal v
- ision of material and interpersonal desires as a woman (Juliette Lewis) sw
- aps bodies with a chair\, and everyone likes her better as a chair.\nWith 
- filmmaker Amanda Kramer in person on Saturday\, June 6th!\n\nTickets: http
- s://vidiotsfoundation.org/purchase/4131020/\n\nDetails: https://vidiotsfou
- ndation.org/movies/by-design/
-END:VEVENT
-BEGIN:VEVENT
-UID:4127653@vidiotsfoundation.org
-DTSTAMP:20260606T020000Z
-DTSTART;TZID=America/Los_Angeles:20260605T190000
-DTEND;TZID=America/Los_Angeles:20260605T205700
-SUMMARY:Barton Fink on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127653/
-DESCRIPTION:Run time: 117 min | Format: 35mm Film | Rating: R\n\nSeries: 35
- mm Film\, In the Eagle\n\nWith some of the best sound design in the histor
- y of cinema\, remarkable period set design\, and a magnificent balance of 
- unnerving bleakness and humor\, Barton Fink ranks amongst the Coen's great
- est achievements.\nWith a special introduction by Founding Member Noah Seg
- an\, writer/director of John Turturro's latest film The Only Living Pickpo
- cket in New York!\n\nTickets: https://vidiotsfoundation.org/purchase/41276
- 53/\n\nDetails: https://vidiotsfoundation.org/movies/barton-fink/
-END:VEVENT
-BEGIN:VEVENT
-UID:4131019@vidiotsfoundation.org
-DTSTAMP:20260606T023000Z
-DTSTART;TZID=America/Los_Angeles:20260605T193000
-DTEND;TZID=America/Los_Angeles:20260605T210100
-SUMMARY:By Design
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131019/
-DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, Special Guests in Attendance\n\nOur microcinem
- a is about to get strange with Amanda Kramer's latest absurd and surreal v
- ision of material and interpersonal desires as a woman (Juliette Lewis) sw
- aps bodies with a chair\, and everyone likes her better as a chair.\nWith 
- filmmaker Amanda Kramer in person on Saturday\, June 6th!\n\nTickets: http
- s://vidiotsfoundation.org/purchase/4131019/\n\nDetails: https://vidiotsfou
- ndation.org/movies/by-design/
-END:VEVENT
-BEGIN:VEVENT
-UID:4134534@vidiotsfoundation.org
-DTSTAMP:20260606T044500Z
-DTSTART;TZID=America/Los_Angeles:20260605T214500
-DTEND;TZID=America/Los_Angeles:20260605T232900
-SUMMARY:Desperado
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4134534/
-DESCRIPTION:Run time: 104 min | Format: Digital | Rating: R | Release year:
-  1995\n\nSeries: In the Eagle\, TeenTix LA\, What the Friday?!?\n\nRodrigu
- ez goes balls to the wall with his playful mixture of B-movie elements\, b
- eautiful badass stars\, and a cacophony of vengeful violence.\n\nTickets: 
- https://vidiotsfoundation.org/purchase/4134534/\n\nDetails: https://vidiot
- sfoundation.org/movies/desperado/
-END:VEVENT
-BEGIN:VEVENT
-UID:4131201@vidiotsfoundation.org
-DTSTAMP:20260606T050000Z
-DTSTART;TZID=America/Los_Angeles:20260605T220000
-DTEND;TZID=America/Los_Angeles:20260605T230000
-SUMMARY:Chime and Shé (Snake)
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131201/
-DESCRIPTION:Run time: 60 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\n\nJoin us in the microcinema for a double dose 
- of horror shorts sure to unnerve and mystify: Kiyoshi Kurosawa's NFT Chime
-  and Renee Zhan's lauded Shé (Snake).\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4131201/\n\nDetails: https://vidiotsfoundation.org/movies/
- chime-and-she-snake/
-END:VEVENT
-BEGIN:VEVENT
 UID:4127654@vidiotsfoundation.org
 DTSTAMP:20260606T200000Z
 DTSTART;TZID=America/Los_Angeles:20260606T130000
@@ -121,22 +20,6 @@ DESCRIPTION:Run time: 88 min | Format: Digital\n\nSeries: Films for Everyon
  e\, In the Eagle\, TeenTix LA\n\nWhy be a princess when you can be a warri
  or?\n\nTickets: https://vidiotsfoundation.org/purchase/4127654/\n\nDetails
  : https://vidiotsfoundation.org/movies/mulan/
-END:VEVENT
-BEGIN:VEVENT
-UID:4195042@vidiotsfoundation.org
-DTSTAMP:20260606T203000Z
-DTSTART;TZID=America/Los_Angeles:20260606T133000
-DTEND;TZID=America/Los_Angeles:20260606T143000
-SUMMARY:Chime and Shé (Snake)
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4195042/
-DESCRIPTION:Run time: 60 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\n\nJoin us in the microcinema for a double dose 
- of horror shorts sure to unnerve and mystify: Kiyoshi Kurosawa's NFT Chime
-  and Renee Zhan's lauded Shé (Snake).\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4195042/\n\nDetails: https://vidiotsfoundation.org/movies/
- chime-and-she-snake/
 END:VEVENT
 BEGIN:VEVENT
 UID:4127655@vidiotsfoundation.org
@@ -154,22 +37,6 @@ DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Groundbreaking No
  ps://vidiotsfoundation.org/movies/the-times-of-harvey-milk/
 END:VEVENT
 BEGIN:VEVENT
-UID:4131185@vidiotsfoundation.org
-DTSTAMP:20260606T233000Z
-DTSTART;TZID=America/Los_Angeles:20260606T163000
-DTEND;TZID=America/Los_Angeles:20260606T173000
-SUMMARY:Chime and Shé (Snake)
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131185/
-DESCRIPTION:Run time: 60 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\n\nJoin us in the microcinema for a double dose 
- of horror shorts sure to unnerve and mystify: Kiyoshi Kurosawa's NFT Chime
-  and Renee Zhan's lauded Shé (Snake).\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4131185/\n\nDetails: https://vidiotsfoundation.org/movies/
- chime-and-she-snake/
-END:VEVENT
-BEGIN:VEVENT
 UID:4127690@vidiotsfoundation.org
 DTSTAMP:20260607T020000Z
 DTSTART;TZID=America/Los_Angeles:20260606T190000
@@ -182,25 +49,6 @@ DESCRIPTION:Run time: 127 min | Format: Digital | Rating: R\n\nSeries: In t
  he Eagle\, TeenTix LA\n\nHow do you like them apples?\n\nTickets: https://
  vidiotsfoundation.org/purchase/4127690/\n\nDetails: https://vidiotsfoundat
  ion.org/movies/good-will-hunting/
-END:VEVENT
-BEGIN:VEVENT
-UID:4131184@vidiotsfoundation.org
-DTSTAMP:20260607T023000Z
-DTSTART;TZID=America/Los_Angeles:20260606T193000
-DTEND;TZID=America/Los_Angeles:20260606T210100
-SUMMARY:By Design
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131184/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Spe
- cial Guests in Attendance\n\nOur microcinema is about to get strange with 
- Amanda Kramer's latest absurd and surreal vision of material and interpers
- onal desires as a woman (Juliette Lewis) swaps bodies with a chair\, and e
- veryone likes her better as a chair.\nWith filmmaker Amanda Kramer in pers
- on on Saturday\, June 6th!\n\nTickets: https://vidiotsfoundation.org/purch
- ase/4131184/\n\nDetails: https://vidiotsfoundation.org/movies/by-design/
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4127691@vidiotsfoundation.org
@@ -216,24 +64,6 @@ DESCRIPTION:Run time: 108 min | Format: Digital | Rating: R\n\nSeries: In t
  stier when we dive into this late 90s cult classic thriller!\n\nTickets: h
  ttps://vidiotsfoundation.org/purchase/4127691/\n\nDetails: https://vidiots
  foundation.org/movies/wild-things/
-END:VEVENT
-BEGIN:VEVENT
-UID:4131183@vidiotsfoundation.org
-DTSTAMP:20260607T051000Z
-DTSTART;TZID=America/Los_Angeles:20260606T221000
-DTEND;TZID=America/Los_Angeles:20260606T234100
-SUMMARY:By Design
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131183/
-DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, Special Guests in Attendance\n\nOur microcinem
- a is about to get strange with Amanda Kramer's latest absurd and surreal v
- ision of material and interpersonal desires as a woman (Juliette Lewis) sw
- aps bodies with a chair\, and everyone likes her better as a chair.\nWith 
- filmmaker Amanda Kramer in person on Saturday\, June 6th!\n\nTickets: http
- s://vidiotsfoundation.org/purchase/4131183/\n\nDetails: https://vidiotsfou
- ndation.org/movies/by-design/
 END:VEVENT
 BEGIN:VEVENT
 UID:4131166@vidiotsfoundation.org
@@ -266,24 +96,6 @@ DESCRIPTION:Run time: 126 min | Format: Digital\n\nSeries: In the Eagle\, T
  org/movies/the-treasure-of-the-sierra-madre/
 END:VEVENT
 BEGIN:VEVENT
-UID:4131174@vidiotsfoundation.org
-DTSTAMP:20260607T233000Z
-DTSTART;TZID=America/Los_Angeles:20260607T163000
-DTEND;TZID=America/Los_Angeles:20260607T180100
-SUMMARY:By Design
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131174/
-DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, Special Guests in Attendance\n\nOur microcinem
- a is about to get strange with Amanda Kramer's latest absurd and surreal v
- ision of material and interpersonal desires as a woman (Juliette Lewis) sw
- aps bodies with a chair\, and everyone likes her better as a chair.\nWith 
- filmmaker Amanda Kramer in person on Saturday\, June 6th!\n\nTickets: http
- s://vidiotsfoundation.org/purchase/4131174/\n\nDetails: https://vidiotsfou
- ndation.org/movies/by-design/
-END:VEVENT
-BEGIN:VEVENT
 UID:4134801@vidiotsfoundation.org
 DTSTAMP:20260608T020000Z
 DTSTART;TZID=America/Los_Angeles:20260607T190000
@@ -297,38 +109,6 @@ DESCRIPTION:Run time: 145 min | Format: Digital | Release year: 2016\n\nSer
  inthine thriller\, full of shifting alliances\, shocking plot twists\, and
   diabolical villains.\n\nTickets: https://vidiotsfoundation.org/purchase/4
  134801/\n\nDetails: https://vidiotsfoundation.org/movies/the-handmaiden/
-END:VEVENT
-BEGIN:VEVENT
-UID:4131169@vidiotsfoundation.org
-DTSTAMP:20260608T023000Z
-DTSTART;TZID=America/Los_Angeles:20260607T193000
-DTEND;TZID=America/Los_Angeles:20260607T203000
-SUMMARY:Chime and Shé (Snake)
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131169/
-DESCRIPTION:Run time: 60 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\n\nJoin us in the microcinema for a double dose 
- of horror shorts sure to unnerve and mystify: Kiyoshi Kurosawa's NFT Chime
-  and Renee Zhan's lauded Shé (Snake).\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4131169/\n\nDetails: https://vidiotsfoundation.org/movies/
- chime-and-she-snake/
-END:VEVENT
-BEGIN:VEVENT
-UID:4137681@vidiotsfoundation.org
-DTSTAMP:20260610T020000Z
-DTSTART;TZID=America/Los_Angeles:20260609T190000
-DTEND;TZID=America/Los_Angeles:20260609T200000
-SUMMARY:Chime and Shé (Snake)
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4137681/
-DESCRIPTION:Run time: 60 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\n\nJoin us in the microcinema for a double dose 
- of horror shorts sure to unnerve and mystify: Kiyoshi Kurosawa's NFT Chime
-  and Renee Zhan's lauded Shé (Snake).\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4137681/\n\nDetails: https://vidiotsfoundation.org/movies/
- chime-and-she-snake/
 END:VEVENT
 BEGIN:VEVENT
 UID:4131202@vidiotsfoundation.org
@@ -1331,35 +1111,104 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 106 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4131075@vidiotsfoundation.org
-DTSTAMP:20260605T020000Z
-DTSTART;TZID=America/Los_Angeles:20260604T190000
-DTEND;TZID=America/Los_Angeles:20260604T203100
-SUMMARY:Blue Heron
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131075/
-DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
- es: In the MUBI Microcinema\n\nAward-winning director Sophy Romvari’s fe
- ature debut is a lyrical and profound testament to the things we carry wit
- h us\, masterfully chronicling the haze of a languid summer and the hyalin
- e clarity of the moments that defined it.\n\nTickets: https://vidiotsfound
- ation.org/purchase/4131075/\n\nDetails: https://vidiotsfoundation.org/movi
- es/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-UID:4127644@vidiotsfoundation.org
-DTSTAMP:20260605T023000Z
-DTSTART;TZID=America/Los_Angeles:20260604T193000
-DTEND;TZID=America/Los_Angeles:20260604T213500
-SUMMARY:Fox and His Friends on 35mm
+UID:4127652@vidiotsfoundation.org
+DTSTAMP:20260605T230000Z
+DTSTART;TZID=America/Los_Angeles:20260605T160000
+DTEND;TZID=America/Los_Angeles:20260605T174100
+SUMMARY:The Sandlot
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127644/
-DESCRIPTION:Run time: 125 min | Format: 35mm Film | Release year: 1975\n\nS
- eries: 35mm Film\, Doors Open at 6\, In the Eagle\, TeenTix LA\n\nJoin us 
- for Rainer Werner Fassbinder's straggering queer tragedy of love\, money\,
-  and loyalty lost.\n\nTickets: https://vidiotsfoundation.org/purchase/4127
- 644/\n\nDetails: https://vidiotsfoundation.org/movies/fox-and-his-friends/
+URL:https://vidiotsfoundation.org/purchase/4127652/
+DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG\n\nSeries: Fil
+ ms for Everyone\, In the Eagle\n\nThis much-cherished home run of a family
+  film hits its the Vidiots big screen for a championship screening.\n\nTic
+ kets: https://vidiotsfoundation.org/purchase/4127652/\n\nDetails: https://
+ vidiotsfoundation.org/movies/the-sandlot/
+END:VEVENT
+BEGIN:VEVENT
+UID:4131020@vidiotsfoundation.org
+DTSTAMP:20260605T233000Z
+DTSTART;TZID=America/Los_Angeles:20260605T163000
+DTEND;TZID=America/Los_Angeles:20260605T180100
+SUMMARY:By Design
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4131020/
+DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, Special Guests in Attendance\n\nOur microcinem
+ a is about to get strange with Amanda Kramer's latest absurd and surreal v
+ ision of material and interpersonal desires as a woman (Juliette Lewis) sw
+ aps bodies with a chair\, and everyone likes her better as a chair.\nWith 
+ filmmaker Amanda Kramer in person on Saturday\, June 6th!\n\nTickets: http
+ s://vidiotsfoundation.org/purchase/4131020/\n\nDetails: https://vidiotsfou
+ ndation.org/movies/by-design/
+END:VEVENT
+BEGIN:VEVENT
+UID:4127653@vidiotsfoundation.org
+DTSTAMP:20260606T020000Z
+DTSTART;TZID=America/Los_Angeles:20260605T190000
+DTEND;TZID=America/Los_Angeles:20260605T205700
+SUMMARY:Barton Fink on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4127653/
+DESCRIPTION:Run time: 117 min | Format: 35mm Film | Rating: R\n\nSeries: 35
+ mm Film\, In the Eagle\n\nWith some of the best sound design in the histor
+ y of cinema\, remarkable period set design\, and a magnificent balance of 
+ unnerving bleakness and humor\, Barton Fink ranks amongst the Coen's great
+ est achievements.\nWith a special introduction by Founding Member Noah Seg
+ an\, writer/director of John Turturro's latest film The Only Living Pickpo
+ cket in New York!\n\nTickets: https://vidiotsfoundation.org/purchase/41276
+ 53/\n\nDetails: https://vidiotsfoundation.org/movies/barton-fink/
+END:VEVENT
+BEGIN:VEVENT
+UID:4131019@vidiotsfoundation.org
+DTSTAMP:20260606T023000Z
+DTSTART;TZID=America/Los_Angeles:20260605T193000
+DTEND;TZID=America/Los_Angeles:20260605T210100
+SUMMARY:By Design
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4131019/
+DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, Special Guests in Attendance\n\nOur microcinem
+ a is about to get strange with Amanda Kramer's latest absurd and surreal v
+ ision of material and interpersonal desires as a woman (Juliette Lewis) sw
+ aps bodies with a chair\, and everyone likes her better as a chair.\nWith 
+ filmmaker Amanda Kramer in person on Saturday\, June 6th!\n\nTickets: http
+ s://vidiotsfoundation.org/purchase/4131019/\n\nDetails: https://vidiotsfou
+ ndation.org/movies/by-design/
+END:VEVENT
+BEGIN:VEVENT
+UID:4134534@vidiotsfoundation.org
+DTSTAMP:20260606T044500Z
+DTSTART;TZID=America/Los_Angeles:20260605T214500
+DTEND;TZID=America/Los_Angeles:20260605T232900
+SUMMARY:Desperado
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4134534/
+DESCRIPTION:Run time: 104 min | Format: Digital | Rating: R | Release year:
+  1995\n\nSeries: In the Eagle\, TeenTix LA\, What the Friday?!?\n\nRodrigu
+ ez goes balls to the wall with his playful mixture of B-movie elements\, b
+ eautiful badass stars\, and a cacophony of vengeful violence.\n\nTickets: 
+ https://vidiotsfoundation.org/purchase/4134534/\n\nDetails: https://vidiot
+ sfoundation.org/movies/desperado/
+END:VEVENT
+BEGIN:VEVENT
+UID:4131201@vidiotsfoundation.org
+DTSTAMP:20260606T050000Z
+DTSTART;TZID=America/Los_Angeles:20260605T220000
+DTEND;TZID=America/Los_Angeles:20260605T230000
+SUMMARY:Chime and Shé (Snake)
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4131201/
+DESCRIPTION:Run time: 60 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\n\nJoin us in the microcinema for a double dose 
+ of horror shorts sure to unnerve and mystify: Kiyoshi Kurosawa's NFT Chime
+  and Renee Zhan's lauded Shé (Snake).\n\nTickets: https://vidiotsfoundati
+ on.org/purchase/4131201/\n\nDetails: https://vidiotsfoundation.org/movies/
+ chime-and-she-snake/
 END:VEVENT
 END:VCALENDAR
