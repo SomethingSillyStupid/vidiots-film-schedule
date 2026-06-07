@@ -8,140 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4195042@vidiotsfoundation.org
-DTSTAMP:20260606T203000Z
-DTSTART;TZID=America/Los_Angeles:20260606T133000
-DTEND;TZID=America/Los_Angeles:20260606T143000
-SUMMARY:Chime and Shé (Snake)
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4195042/
-DESCRIPTION:Run time: 60 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\n\nJoin us in the microcinema for a double dose 
- of horror shorts sure to unnerve and mystify: Kiyoshi Kurosawa's NFT Chime
-  and Renee Zhan's lauded Shé (Snake).\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4195042/\n\nDetails: https://vidiotsfoundation.org/movies/
- chime-and-she-snake/
-END:VEVENT
-BEGIN:VEVENT
-UID:4131185@vidiotsfoundation.org
-DTSTAMP:20260606T233000Z
-DTSTART;TZID=America/Los_Angeles:20260606T163000
-DTEND;TZID=America/Los_Angeles:20260606T173000
-SUMMARY:Chime and Shé (Snake)
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131185/
-DESCRIPTION:Run time: 60 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\n\nJoin us in the microcinema for a double dose 
- of horror shorts sure to unnerve and mystify: Kiyoshi Kurosawa's NFT Chime
-  and Renee Zhan's lauded Shé (Snake).\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4131185/\n\nDetails: https://vidiotsfoundation.org/movies/
- chime-and-she-snake/
-END:VEVENT
-BEGIN:VEVENT
-UID:4131184@vidiotsfoundation.org
-DTSTAMP:20260607T023000Z
-DTSTART;TZID=America/Los_Angeles:20260606T193000
-DTEND;TZID=America/Los_Angeles:20260606T210100
-SUMMARY:By Design
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131184/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Spe
- cial Guests in Attendance\n\nOur microcinema is about to get strange with 
- Amanda Kramer's latest absurd and surreal vision of material and interpers
- onal desires as a woman (Juliette Lewis) swaps bodies with a chair\, and e
- veryone likes her better as a chair.\nWith filmmaker Amanda Kramer in pers
- on on Saturday\, June 6th!\n\nTickets: https://vidiotsfoundation.org/purch
- ase/4131184/\n\nDetails: https://vidiotsfoundation.org/movies/by-design/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4131183@vidiotsfoundation.org
-DTSTAMP:20260607T051000Z
-DTSTART;TZID=America/Los_Angeles:20260606T221000
-DTEND;TZID=America/Los_Angeles:20260606T234100
-SUMMARY:By Design
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131183/
-DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, Special Guests in Attendance\n\nOur microcinem
- a is about to get strange with Amanda Kramer's latest absurd and surreal v
- ision of material and interpersonal desires as a woman (Juliette Lewis) sw
- aps bodies with a chair\, and everyone likes her better as a chair.\nWith 
- filmmaker Amanda Kramer in person on Saturday\, June 6th!\n\nTickets: http
- s://vidiotsfoundation.org/purchase/4131183/\n\nDetails: https://vidiotsfou
- ndation.org/movies/by-design/
-END:VEVENT
-BEGIN:VEVENT
-UID:4131166@vidiotsfoundation.org
-DTSTAMP:20260607T200000Z
-DTSTART;TZID=America/Los_Angeles:20260607T130000
-DTEND;TZID=America/Los_Angeles:20260607T142900
-SUMMARY:The Brady Bunch Movie
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131166/
-DESCRIPTION:Run time: 89 min | Format: Digital | Rating: PG-13\n\nSeries: I
- n the Eagle\, TeenTix LA\n\nWatch your nose - the Bradys are back and they
- 're taking over the 1990s!\n\nTickets: https://vidiotsfoundation.org/purch
- ase/4131166/\n\nDetails: https://vidiotsfoundation.org/movies/the-brady-bu
- nch-movie/
-END:VEVENT
-BEGIN:VEVENT
-UID:4134792@vidiotsfoundation.org
-DTSTAMP:20260607T224500Z
-DTSTART;TZID=America/Los_Angeles:20260607T154500
-DTEND;TZID=America/Los_Angeles:20260607T175100
-SUMMARY:The Treasure of the Sierra Madre
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4134792/
-DESCRIPTION:Run time: 126 min | Format: Digital\n\nSeries: In the Eagle\, T
- eenTix LA\n\nJoin Humphrey Bogart on an epic treasure hunt in John Huston'
- s classic tale of cunning\, greed\, and paranoia.\n\nTickets: https://vidi
- otsfoundation.org/purchase/4134792/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-treasure-of-the-sierra-madre/
-END:VEVENT
-BEGIN:VEVENT
-UID:4131174@vidiotsfoundation.org
-DTSTAMP:20260607T233000Z
-DTSTART;TZID=America/Los_Angeles:20260607T163000
-DTEND;TZID=America/Los_Angeles:20260607T180100
-SUMMARY:By Design
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131174/
-DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, Special Guests in Attendance\n\nOur microcinem
- a is about to get strange with Amanda Kramer's latest absurd and surreal v
- ision of material and interpersonal desires as a woman (Juliette Lewis) sw
- aps bodies with a chair\, and everyone likes her better as a chair.\nWith 
- filmmaker Amanda Kramer in person on Saturday\, June 6th!\n\nTickets: http
- s://vidiotsfoundation.org/purchase/4131174/\n\nDetails: https://vidiotsfou
- ndation.org/movies/by-design/
-END:VEVENT
-BEGIN:VEVENT
-UID:4134801@vidiotsfoundation.org
-DTSTAMP:20260608T020000Z
-DTSTART;TZID=America/Los_Angeles:20260607T190000
-DTEND;TZID=America/Los_Angeles:20260607T212500
-SUMMARY:The Handmaiden
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4134801/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 145 min | 
- Format: Digital | Release year: 2016\n\nSeries: In the Eagle\n\nYou’re n
- ot going to want to miss this lurid\, labyrinthine thriller\, full of shif
- ting alliances\, shocking plot twists\, and diabolical villains.\n\nTicket
- s: https://vidiotsfoundation.org/purchase/4134801/\n\nDetails: https://vid
- iotsfoundation.org/movies/the-handmaiden/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4131169@vidiotsfoundation.org
 DTSTAMP:20260608T023000Z
 DTSTART;TZID=America/Los_Angeles:20260607T193000
@@ -150,12 +16,12 @@ SUMMARY:Chime and Shé (Snake)
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4131169/
-DESCRIPTION:Run time: 60 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\n\nJoin us in the microcinema for a double dose 
- of horror shorts sure to unnerve and mystify: Kiyoshi Kurosawa's NFT Chime
-  and Renee Zhan's lauded Shé (Snake).\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4131169/\n\nDetails: https://vidiotsfoundation.org/movies/
- chime-and-she-snake/
+DESCRIPTION:Run time: 60 min | Format: Digital\n\nSeries: In the MUBI Micro
+ cinema\n\nJoin us in the microcinema for a double dose of horror shorts su
+ re to unnerve and mystify: Kiyoshi Kurosawa's NFT Chime and Renee Zhan's l
+ auded Shé (Snake).\n\nTickets: https://vidiotsfoundation.org/purchase/413
+ 1169/\n\nDetails: https://vidiotsfoundation.org/movies/chime-and-she-snake
+ /
 END:VEVENT
 BEGIN:VEVENT
 UID:4137681@vidiotsfoundation.org
@@ -166,12 +32,12 @@ SUMMARY:Chime and Shé (Snake)
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4137681/
-DESCRIPTION:Run time: 60 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\n\nJoin us in the microcinema for a double dose 
- of horror shorts sure to unnerve and mystify: Kiyoshi Kurosawa's NFT Chime
-  and Renee Zhan's lauded Shé (Snake).\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4137681/\n\nDetails: https://vidiotsfoundation.org/movies/
- chime-and-she-snake/
+DESCRIPTION:Run time: 60 min | Format: Digital\n\nSeries: In the MUBI Micro
+ cinema\n\nJoin us in the microcinema for a double dose of horror shorts su
+ re to unnerve and mystify: Kiyoshi Kurosawa's NFT Chime and Renee Zhan's l
+ auded Shé (Snake).\n\nTickets: https://vidiotsfoundation.org/purchase/413
+ 7681/\n\nDetails: https://vidiotsfoundation.org/movies/chime-and-she-snake
+ /
 END:VEVENT
 BEGIN:VEVENT
 UID:4131202@vidiotsfoundation.org
@@ -1176,61 +1042,68 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 106 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4127654@vidiotsfoundation.org
-DTSTAMP:20260606T200000Z
-DTSTART;TZID=America/Los_Angeles:20260606T130000
-DTEND;TZID=America/Los_Angeles:20260606T142800
-SUMMARY:Mulan
+UID:4131166@vidiotsfoundation.org
+DTSTAMP:20260607T200000Z
+DTSTART;TZID=America/Los_Angeles:20260607T130000
+DTEND;TZID=America/Los_Angeles:20260607T142900
+SUMMARY:The Brady Bunch Movie
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127654/
-DESCRIPTION:Run time: 88 min | Format: Digital\n\nSeries: Films for Everyon
- e\, In the Eagle\, TeenTix LA\n\nWhy be a princess when you can be a warri
- or?\n\nTickets: https://vidiotsfoundation.org/purchase/4127654/\n\nDetails
- : https://vidiotsfoundation.org/movies/mulan/
+URL:https://vidiotsfoundation.org/purchase/4131166/
+DESCRIPTION:Run time: 89 min | Format: Digital | Rating: PG-13\n\nSeries: I
+ n the Eagle\, TeenTix LA\n\nWatch your nose - the Bradys are back and they
+ 're taking over the 1990s!\n\nTickets: https://vidiotsfoundation.org/purch
+ ase/4131166/\n\nDetails: https://vidiotsfoundation.org/movies/the-brady-bu
+ nch-movie/
 END:VEVENT
 BEGIN:VEVENT
-UID:4127655@vidiotsfoundation.org
-DTSTAMP:20260606T230000Z
-DTSTART;TZID=America/Los_Angeles:20260606T160000
-DTEND;TZID=America/Los_Angeles:20260606T173000
-SUMMARY:The Times of Harvey Milk
+UID:4134792@vidiotsfoundation.org
+DTSTAMP:20260607T224500Z
+DTSTART;TZID=America/Los_Angeles:20260607T154500
+DTEND;TZID=America/Los_Angeles:20260607T175100
+SUMMARY:The Treasure of the Sierra Madre
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127655/
-DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Groundbreaking No
- n-Fiction\, In the Eagle\, TeenTix LA\n\nHe was powerful\, charismatic\, c
- ompassionate and gay. After eleven months in office he was assassinated.\n
- \nTickets: https://vidiotsfoundation.org/purchase/4127655/\n\nDetails: htt
- ps://vidiotsfoundation.org/movies/the-times-of-harvey-milk/
+URL:https://vidiotsfoundation.org/purchase/4134792/
+DESCRIPTION:Run time: 126 min | Format: Digital\n\nSeries: In the Eagle\, T
+ eenTix LA\n\nJoin Humphrey Bogart on an epic treasure hunt in John Huston'
+ s classic tale of cunning\, greed\, and paranoia.\n\nTickets: https://vidi
+ otsfoundation.org/purchase/4134792/\n\nDetails: https://vidiotsfoundation.
+ org/movies/the-treasure-of-the-sierra-madre/
 END:VEVENT
 BEGIN:VEVENT
-UID:4127690@vidiotsfoundation.org
-DTSTAMP:20260607T020000Z
-DTSTART;TZID=America/Los_Angeles:20260606T190000
-DTEND;TZID=America/Los_Angeles:20260606T210700
-SUMMARY:Good Will Hunting
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127690/
-DESCRIPTION:Run time: 127 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\, TeenTix LA\n\nHow do you like them apples?\n\nTickets: https://
- vidiotsfoundation.org/purchase/4127690/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/good-will-hunting/
+UID:4131174@vidiotsfoundation.org
+DTSTAMP:20260607T233000Z
+DTSTART;TZID=America/Los_Angeles:20260607T163000
+DTEND;TZID=America/Los_Angeles:20260607T180100
+SUMMARY:By Design
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4131174/
+DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, Special Guests in Attendance\n\nOur microcinem
+ a is about to get strange with Amanda Kramer's latest absurd and surreal v
+ ision of material and interpersonal desires as a woman (Juliette Lewis) sw
+ aps bodies with a chair\, and everyone likes her better as a chair.\nWith 
+ filmmaker Amanda Kramer in person on Saturday\, June 6th!\n\nTickets: http
+ s://vidiotsfoundation.org/purchase/4131174/\n\nDetails: https://vidiotsfou
+ ndation.org/movies/by-design/
 END:VEVENT
 BEGIN:VEVENT
-UID:4127691@vidiotsfoundation.org
-DTSTAMP:20260607T045500Z
-DTSTART;TZID=America/Los_Angeles:20260606T215500
-DTEND;TZID=America/Los_Angeles:20260606T234300
-SUMMARY:Wild Things
+UID:4134801@vidiotsfoundation.org
+DTSTAMP:20260608T020000Z
+DTSTART;TZID=America/Los_Angeles:20260607T190000
+DTEND;TZID=America/Los_Angeles:20260607T212500
+SUMMARY:The Handmaiden
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127691/
-DESCRIPTION:Run time: 108 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nYour Saturday night is about to get a whole lot sexier and twi
- stier when we dive into this late 90s cult classic thriller!\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4127691/\n\nDetails: https://vidiots
- foundation.org/movies/wild-things/
+URL:https://vidiotsfoundation.org/purchase/4134801/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 145 min | 
+ Format: Digital | Release year: 2016\n\nSeries: In the Eagle\n\nYou’re n
+ ot going to want to miss this lurid\, labyrinthine thriller\, full of shif
+ ting alliances\, shocking plot twists\, and diabolical villains.\n\nTicket
+ s: https://vidiotsfoundation.org/purchase/4134801/\n\nDetails: https://vid
+ iotsfoundation.org/movies/the-handmaiden/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
