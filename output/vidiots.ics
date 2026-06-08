@@ -58,6 +58,22 @@ DESCRIPTION:Run time: 98 min | Format: Digital | Rating: R\n\nSeries: Doors
  ls: https://vidiotsfoundation.org/movies/five-easy-pieces/
 END:VEVENT
 BEGIN:VEVENT
+UID:4131270@vidiotsfoundation.org
+DTSTAMP:20260612T223000Z
+DTSTART;TZID=America/Los_Angeles:20260612T153000
+DTEND;TZID=America/Los_Angeles:20260612T175500
+SUMMARY:The Handmaiden
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4131270/
+DESCRIPTION:Run time: 145 min | Format: Digital | Release year: 2016\n\nSer
+ ies: In the Eagle\n\nYou’re not going to want to miss this lurid\, labyr
+ inthine thriller\, full of shifting alliances\, shocking plot twists\, and
+  diabolical villains.\nEncore Screening Added!\n\nTickets: https://vidiots
+ foundation.org/purchase/4131270/\n\nDetails: https://vidiotsfoundation.org
+ /movies/the-handmaiden/
+END:VEVENT
+BEGIN:VEVENT
 UID:4133617@vidiotsfoundation.org
 DTSTAMP:20260612T233000Z
 DTSTART;TZID=America/Los_Angeles:20260612T163000
