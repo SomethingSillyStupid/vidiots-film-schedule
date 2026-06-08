@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4131169@vidiotsfoundation.org
-DTSTAMP:20260608T023000Z
-DTSTART;TZID=America/Los_Angeles:20260607T193000
-DTEND;TZID=America/Los_Angeles:20260607T203000
-SUMMARY:Chime and Shé (Snake)
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131169/
-DESCRIPTION:Run time: 60 min | Format: Digital\n\nSeries: In the MUBI Micro
- cinema\n\nJoin us in the microcinema for a double dose of horror shorts su
- re to unnerve and mystify: Kiyoshi Kurosawa's NFT Chime and Renee Zhan's l
- auded Shé (Snake).\n\nTickets: https://vidiotsfoundation.org/purchase/413
- 1169/\n\nDetails: https://vidiotsfoundation.org/movies/chime-and-she-snake
- /
-END:VEVENT
-BEGIN:VEVENT
 UID:4137681@vidiotsfoundation.org
 DTSTAMP:20260610T020000Z
 DTSTART;TZID=America/Los_Angeles:20260609T190000
@@ -1044,71 +1028,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 106 min |
  endance\n\nAbandon me harder daddy.\nDirector Annapurna Sriram and Produce
  r Tim Petryn in person!\n\nTickets: https://vidiotsfoundation.org/purchase
  /4215022/\n\nDetails: https://vidiotsfoundation.org/movies/fucktoys/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4131166@vidiotsfoundation.org
-DTSTAMP:20260607T200000Z
-DTSTART;TZID=America/Los_Angeles:20260607T130000
-DTEND;TZID=America/Los_Angeles:20260607T142900
-SUMMARY:The Brady Bunch Movie
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131166/
-DESCRIPTION:Run time: 89 min | Format: Digital | Rating: PG-13\n\nSeries: I
- n the Eagle\, TeenTix LA\n\nWatch your nose - the Bradys are back and they
- 're taking over the 1990s!\n\nTickets: https://vidiotsfoundation.org/purch
- ase/4131166/\n\nDetails: https://vidiotsfoundation.org/movies/the-brady-bu
- nch-movie/
-END:VEVENT
-BEGIN:VEVENT
-UID:4134792@vidiotsfoundation.org
-DTSTAMP:20260607T224500Z
-DTSTART;TZID=America/Los_Angeles:20260607T154500
-DTEND;TZID=America/Los_Angeles:20260607T175100
-SUMMARY:The Treasure of the Sierra Madre
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4134792/
-DESCRIPTION:Run time: 126 min | Format: Digital\n\nSeries: In the Eagle\, T
- eenTix LA\n\nJoin Humphrey Bogart on an epic treasure hunt in John Huston'
- s classic tale of cunning\, greed\, and paranoia.\n\nTickets: https://vidi
- otsfoundation.org/purchase/4134792/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-treasure-of-the-sierra-madre/
-END:VEVENT
-BEGIN:VEVENT
-UID:4131174@vidiotsfoundation.org
-DTSTAMP:20260607T233000Z
-DTSTART;TZID=America/Los_Angeles:20260607T163000
-DTEND;TZID=America/Los_Angeles:20260607T180100
-SUMMARY:By Design
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131174/
-DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, Special Guests in Attendance\n\nOur microcinem
- a is about to get strange with Amanda Kramer's latest absurd and surreal v
- ision of material and interpersonal desires as a woman (Juliette Lewis) sw
- aps bodies with a chair\, and everyone likes her better as a chair.\nWith 
- filmmaker Amanda Kramer in person on Saturday\, June 6th!\n\nTickets: http
- s://vidiotsfoundation.org/purchase/4131174/\n\nDetails: https://vidiotsfou
- ndation.org/movies/by-design/
-END:VEVENT
-BEGIN:VEVENT
-UID:4134801@vidiotsfoundation.org
-DTSTAMP:20260608T020000Z
-DTSTART;TZID=America/Los_Angeles:20260607T190000
-DTEND;TZID=America/Los_Angeles:20260607T212500
-SUMMARY:The Handmaiden
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4134801/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 145 min | 
- Format: Digital | Release year: 2016\n\nSeries: In the Eagle\n\nYou’re n
- ot going to want to miss this lurid\, labyrinthine thriller\, full of shif
- ting alliances\, shocking plot twists\, and diabolical villains.\n\nTicket
- s: https://vidiotsfoundation.org/purchase/4134801/\n\nDetails: https://vid
- iotsfoundation.org/movies/the-handmaiden/
 STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
