@@ -377,6 +377,22 @@ DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
  Details: https://vidiotsfoundation.org/movies/i-love-boosters/
 END:VEVENT
 BEGIN:VEVENT
+UID:4242965@vidiotsfoundation.org
+DTSTAMP:20260616T023000Z
+DTSTART;TZID=America/Los_Angeles:20260615T193000
+DTEND;TZID=America/Los_Angeles:20260615T210800
+SUMMARY:Never Change!
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://events.humanitix.com/kcrw-partner-screening-never-change
+DESCRIPTION:Run time: 98 min | Format: Digital\n\nSeries: Community Partner
+ s\, Free Events\, In the Eagle\n\nKCRW\, Vidiots\, and Hulu invite you to 
+ a special advance screening of Never Change! followed by a conversation wi
+ th director Marty Schousboe moderated by Jason Woliner.\n\nTickets: https:
+ //events.humanitix.com/kcrw-partner-screening-never-change\n\nDetails: htt
+ ps://vidiotsfoundation.org/movies/never-change/
+END:VEVENT
+BEGIN:VEVENT
 UID:4196615@vidiotsfoundation.org
 DTSTAMP:20260617T020000Z
 DTSTART;TZID=America/Los_Angeles:20260616T190000
