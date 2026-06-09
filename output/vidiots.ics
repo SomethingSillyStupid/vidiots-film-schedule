@@ -8,41 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4137681@vidiotsfoundation.org
-DTSTAMP:20260610T020000Z
-DTSTART;TZID=America/Los_Angeles:20260609T190000
-DTEND;TZID=America/Los_Angeles:20260609T200000
-SUMMARY:Chime and Shé (Snake)
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4137681/
-DESCRIPTION:Run time: 60 min | Format: Digital\n\nSeries: In the MUBI Micro
- cinema\n\nJoin us in the microcinema for a double dose of horror shorts su
- re to unnerve and mystify: Kiyoshi Kurosawa's NFT Chime and Renee Zhan's l
- auded Shé (Snake).\n\nTickets: https://vidiotsfoundation.org/purchase/413
- 7681/\n\nDetails: https://vidiotsfoundation.org/movies/chime-and-she-snake
- /
-END:VEVENT
-BEGIN:VEVENT
-UID:4131202@vidiotsfoundation.org
-DTSTAMP:20260610T023000Z
-DTSTART;TZID=America/Los_Angeles:20260609T193000
-DTEND;TZID=America/Los_Angeles:20260609T211200
-SUMMARY:Rudo y Cursi on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131202/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 102 min | 
- Format: 35mm Film | Rating: R | Release year: 2008\n\nSeries: 35mm Film\, 
- Community Partners\, Doors Open at 6\, In the Eagle\, TeenTix LA\n\nGet re
- ady to score goal after goal with two of the dreamiest soccer players you'
- ve ever seen - Gael García Bernal and Diego Luna - in Carlos Cuarón's hi
- larious and skewering satiric fútbol classic Rudo y Cursi.\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4131202/\n\nDetails: https://vidiotsf
- oundation.org/movies/rudo-y-cursi/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4127701@vidiotsfoundation.org
 DTSTAMP:20260612T023000Z
 DTSTART;TZID=America/Los_Angeles:20260611T193000
@@ -1060,6 +1025,41 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 106 min |
  endance\n\nAbandon me harder daddy.\nDirector Annapurna Sriram and Produce
  r Tim Petryn in person!\n\nTickets: https://vidiotsfoundation.org/purchase
  /4215022/\n\nDetails: https://vidiotsfoundation.org/movies/fucktoys/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4137681@vidiotsfoundation.org
+DTSTAMP:20260610T020000Z
+DTSTART;TZID=America/Los_Angeles:20260609T190000
+DTEND;TZID=America/Los_Angeles:20260609T200000
+SUMMARY:Chime and Shé (Snake)
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4137681/
+DESCRIPTION:Run time: 60 min | Format: Digital\n\nSeries: In the MUBI Micro
+ cinema\n\nJoin us in the microcinema for a double dose of horror shorts su
+ re to unnerve and mystify: Kiyoshi Kurosawa's NFT Chime and Renee Zhan's l
+ auded Shé (Snake).\n\nTickets: https://vidiotsfoundation.org/purchase/413
+ 7681/\n\nDetails: https://vidiotsfoundation.org/movies/chime-and-she-snake
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:4131202@vidiotsfoundation.org
+DTSTAMP:20260610T023000Z
+DTSTART;TZID=America/Los_Angeles:20260609T193000
+DTEND;TZID=America/Los_Angeles:20260609T211200
+SUMMARY:Rudo y Cursi on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4131202/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 102 min | 
+ Format: 35mm Film | Rating: R | Release year: 2008\n\nSeries: 35mm Film\, 
+ Community Partners\, Doors Open at 6\, In the Eagle\, TeenTix LA\n\nGet re
+ ady to score goal after goal with two of the dreamiest soccer players you'
+ ve ever seen - Gael García Bernal and Diego Luna - in Carlos Cuarón's hi
+ larious and skewering satiric fútbol classic Rudo y Cursi.\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4131202/\n\nDetails: https://vidiotsf
+ oundation.org/movies/rudo-y-cursi/
 STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
