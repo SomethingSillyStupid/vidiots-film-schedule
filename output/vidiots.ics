@@ -114,12 +114,13 @@ SUMMARY:Onda Nova
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4133620/
-DESCRIPTION:Run time: 104 min | Format: Digital | Release year: 1984\n\nSer
- ies: Additional Shows\, In the MUBI Microcinema\, What the Friday?!?\n\nGe
- t your kicks in the microcinema with the coolest queer punk Brazilian socc
- er sex romp you've never seen!\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4133620/\n\nDetails: https://vidiotsfoundation.org/movies/onda-nov
- a/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 104 min | 
+ Format: Digital | Release year: 1984\n\nSeries: Additional Shows\, In the 
+ MUBI Microcinema\, What the Friday?!?\n\nGet your kicks in the microcinema
+  with the coolest queer punk Brazilian soccer sex romp you've never seen!\
+ n\nTickets: https://vidiotsfoundation.org/purchase/4133620/\n\nDetails: ht
+ tps://vidiotsfoundation.org/movies/onda-nova/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4133377@vidiotsfoundation.org
@@ -394,9 +395,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4196620@vidiotsfoundation.org
-DTSTAMP:20260618T020000Z
-DTSTART;TZID=America/Los_Angeles:20260617T190000
-DTEND;TZID=America/Los_Angeles:20260617T204500
+DTSTAMP:20260618T023000Z
+DTSTART;TZID=America/Los_Angeles:20260617T193000
+DTEND;TZID=America/Los_Angeles:20260617T211500
 SUMMARY:I Love Boosters
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
