@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4127701@vidiotsfoundation.org
-DTSTAMP:20260612T023000Z
-DTSTART;TZID=America/Los_Angeles:20260611T193000
-DTEND;TZID=America/Los_Angeles:20260611T210800
-SUMMARY:Five Easy Pieces
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127701/
-DESCRIPTION:Run time: 98 min | Format: Digital | Rating: R\n\nSeries: Doors
-  Open at 6\, In the Eagle\, TeenTix LA\n\nJoin us as we embark on a road t
- rip with legends Jack Nicholson and Karen Black in Bob Rafelson's iconic d
- rama.\n\nTickets: https://vidiotsfoundation.org/purchase/4127701/\n\nDetai
- ls: https://vidiotsfoundation.org/movies/five-easy-pieces/
-END:VEVENT
-BEGIN:VEVENT
 UID:4131270@vidiotsfoundation.org
 DTSTAMP:20260612T223000Z
 DTSTART;TZID=America/Los_Angeles:20260612T153000
@@ -1167,5 +1152,20 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 106 min |
  r Tim Petryn in person!\n\nTickets: https://vidiotsfoundation.org/purchase
  /4215022/\n\nDetails: https://vidiotsfoundation.org/movies/fucktoys/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4127701@vidiotsfoundation.org
+DTSTAMP:20260612T023000Z
+DTSTART;TZID=America/Los_Angeles:20260611T193000
+DTEND;TZID=America/Los_Angeles:20260611T210800
+SUMMARY:Five Easy Pieces
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4127701/
+DESCRIPTION:Run time: 98 min | Format: Digital | Rating: R\n\nSeries: Doors
+  Open at 6\, In the Eagle\, TeenTix LA\n\nJoin us as we embark on a road t
+ rip with legends Jack Nicholson and Karen Black in Bob Rafelson's iconic d
+ rama.\n\nTickets: https://vidiotsfoundation.org/purchase/4127701/\n\nDetai
+ ls: https://vidiotsfoundation.org/movies/five-easy-pieces/
 END:VEVENT
 END:VCALENDAR
