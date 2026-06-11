@@ -394,6 +394,24 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 103 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:4196623@vidiotsfoundation.org
+DTSTAMP:20260618T020000Z
+DTSTART;TZID=America/Los_Angeles:20260617T190000
+DTEND;TZID=America/Los_Angeles:20260617T205900
+SUMMARY:Voicemails for Isabelle
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://events.humanitix.com/kcrw-partner-screening-voicemails-for-isab
+ elle
+DESCRIPTION:Run time: 119 min | Format: Digital\n\nSeries: Community Partne
+ rs\, Free Events\, In the Eagle\, Special Guests in Attendance\n\nKCRW\, V
+ idiots\, and Netflix invite you to a special advance screening of Voicemai
+ ls for Isabelle followed by a conversation with director Leah McKendrick a
+ nd actress Zoey Deutch.\n\nTickets: https://events.humanitix.com/kcrw-part
+ ner-screening-voicemails-for-isabelle\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/voicemails-for-isabelle/
+END:VEVENT
+BEGIN:VEVENT
 UID:4196620@vidiotsfoundation.org
 DTSTAMP:20260618T023000Z
 DTSTART;TZID=America/Los_Angeles:20260617T193000
