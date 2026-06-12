@@ -252,6 +252,23 @@ DESCRIPTION:Run time: 81 min | Format: Digital\n\nSeries: Groundbreaking No
  d-sexuality-in-the-animal-world/
 END:VEVENT
 BEGIN:VEVENT
+UID:4158802@vidiotsfoundation.org
+DTSTAMP:20260620T233000Z
+DTSTART;TZID=America/Los_Angeles:20260620T163000
+DTEND;TZID=America/Los_Angeles:20260620T180900
+SUMMARY:Is God Is
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4158802/
+DESCRIPTION:Run time: 99 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nSummer is just getting started an
+ d we've got one hell of a roadtrip planned for you with Aleshea Harris' mi
+ raculous debut feature - a vengeance film so incendiary and kick-ass\, we 
+ had to bring it back for more!\n\nTickets: https://vidiotsfoundation.org/p
+ urchase/4158802/\n\nDetails: https://vidiotsfoundation.org/movies/is-god-i
+ s/
+END:VEVENT
+BEGIN:VEVENT
 UID:4133381@vidiotsfoundation.org
 DTSTAMP:20260621T020000Z
 DTSTART;TZID=America/Los_Angeles:20260620T190000
@@ -300,23 +317,6 @@ DESCRIPTION:Run time: 100 min | Format: Digital | Rating: NC-17\n\nSeries:
  pecial Cinegogue pop up shop with special giveaways and exclusive merch!\n
  \nTickets: https://vidiotsfoundation.org/purchase/4133382/\n\nDetails: htt
  ps://vidiotsfoundation.org/movies/crash/
-END:VEVENT
-BEGIN:VEVENT
-UID:4158806@vidiotsfoundation.org
-DTSTAMP:20260621T050000Z
-DTSTART;TZID=America/Los_Angeles:20260620T220000
-DTEND;TZID=America/Los_Angeles:20260620T233900
-SUMMARY:Is God Is
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158806/
-DESCRIPTION:Run time: 99 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nSummer is just getting started an
- d we've got one hell of a roadtrip planned for you with Aleshea Harris' mi
- raculous debut feature - a vengeance film so incendiary and kick-ass\, we 
- had to bring it back for more!\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4158806/\n\nDetails: https://vidiotsfoundation.org/movies/is-god-i
- s/
 END:VEVENT
 BEGIN:VEVENT
 UID:4127808@vidiotsfoundation.org
@@ -860,6 +860,34 @@ DESCRIPTION:Run time: 124 min | Format: Digital | Rating: PG\n\nSeries: In
  //vidiotsfoundation.org/movies/jaws/
 END:VEVENT
 BEGIN:VEVENT
+UID:4252664@vidiotsfoundation.org
+DTSTAMP:20260705T230000Z
+DTSTART;TZID=America/Los_Angeles:20260705T160000
+DTEND;TZID=America/Los_Angeles:20260705T175300
+SUMMARY:Charade
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252664/
+DESCRIPTION:Run time: 113 min | Format: Digital\n\nSeries: In the Eagle\n\n
+ Is anyone really who they seem to be?\n\nTickets: https://vidiotsfoundatio
+ n.org/purchase/4252664/\n\nDetails: https://vidiotsfoundation.org/movies/c
+ harade/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252673@vidiotsfoundation.org
+DTSTAMP:20260709T023000Z
+DTSTART;TZID=America/Los_Angeles:20260708T193000
+DTEND;TZID=America/Los_Angeles:20260708T210400
+SUMMARY:Trainspotting
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252673/
+DESCRIPTION:Run time: 94 min | Format: 4K Digital | Rating: R\n\nSeries: Do
+ ors Open at 6\, In the Eagle\n\nChoose life.\n30 Year Anniversary! New 4K 
+ Restoration!\n\nTickets: https://vidiotsfoundation.org/purchase/4252673/\n
+ \nDetails: https://vidiotsfoundation.org/movies/trainspotting/
+END:VEVENT
+BEGIN:VEVENT
 UID:4197656@vidiotsfoundation.org
 DTSTAMP:20260710T023000Z
 DTSTART;TZID=America/Los_Angeles:20260709T193000
@@ -874,6 +902,64 @@ DESCRIPTION:Run time: 156 min | Format: Digital | Release year: 2016\n\nSer
  lm’s composer and founder of the award-winning Korean psych-pop band Lee
  nalchi\n\nTickets: https://vidiotsfoundation.org/purchase/4197656/\n\nDeta
  ils: https://vidiotsfoundation.org/movies/the-wailing/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252699@vidiotsfoundation.org
+DTSTAMP:20260711T020000Z
+DTSTART;TZID=America/Los_Angeles:20260710T190000
+DTEND;TZID=America/Los_Angeles:20260710T211500
+SUMMARY:Waterworld
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252699/
+DESCRIPTION:Run time: 135 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\n\nBeyond the horizon lies the secret to a new beginning.\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4252699/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/waterworld/
+END:VEVENT
+BEGIN:VEVENT
+UID:4215461@vidiotsfoundation.org
+DTSTAMP:20260713T020000Z
+DTSTART;TZID=America/Los_Angeles:20260712T190000
+DTEND;TZID=America/Los_Angeles:20260712T204800
+SUMMARY:Eternal Sunshine of the Spotless Mind
+LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+URL:https://vidiotsfoundation.org/purchase/4215461/
+DESCRIPTION:Run time: 108 min | Format: Digital | Rating: R\n\nBlending the
+  boundless creativity of Charlie Kaufman and Michel Gondry and featuring r
+ emarkable performances from Jim Carrey and Kate Winslet\, you'll want to e
+ rase your memory so you can watch this masterpiece for the first time agai
+ n.\n\nTickets: https://vidiotsfoundation.org/purchase/4215461/\n\nDetails:
+  https://vidiotsfoundation.org/movies/eternal-sunshine-of-the-spotless-min
+ d/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252726@vidiotsfoundation.org
+DTSTAMP:20260714T023000Z
+DTSTART;TZID=America/Los_Angeles:20260713T193000
+DTEND;TZID=America/Los_Angeles:20260713T223300
+SUMMARY:The Deer Hunter
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252726/
+DESCRIPTION:Run time: 183 min | Format: Digital | Rating: R\n\nSeries: Door
+ s Open at 6\, In the Eagle\n\nOne of the most important and powerful films
+  of all time!\n\nTickets: https://vidiotsfoundation.org/purchase/4252726/\
+ n\nDetails: https://vidiotsfoundation.org/movies/the-deer-hunter/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252731@vidiotsfoundation.org
+DTSTAMP:20260716T023000Z
+DTSTART;TZID=America/Los_Angeles:20260715T193000
+DTEND;TZID=America/Los_Angeles:20260715T210300
+SUMMARY:Streets of Fire
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252731/
+DESCRIPTION:Run time: 93 min | Format: Digital\n\nSeries: Doors Open at 6\,
+  In the Eagle\n\nTonight is what it means to be young!\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4252731/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/streets-of-fire/
 END:VEVENT
 BEGIN:VEVENT
 UID:4215011@vidiotsfoundation.org
