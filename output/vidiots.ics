@@ -814,6 +814,22 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: Doo
  otsfoundation.org/movies/cats-the-vidiots-jellicle-ball/
 END:VEVENT
 BEGIN:VEVENT
+UID:4252658@vidiotsfoundation.org
+DTSTAMP:20260704T044500Z
+DTSTART;TZID=America/Los_Angeles:20260703T214500
+DTEND;TZID=America/Los_Angeles:20260703T231600
+SUMMARY:Tammy and the T-Rex
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252658/
+DESCRIPTION:Run time: 91 min | Format: Digital | Rating: PG-13\n\nSeries: I
+ n the Eagle\, What the Friday?!?\n\nThis post-Jurassic jam stars Denise Ri
+ chards and the late Paul Walker in an unprecedented mishmash of rom-com tr
+ opes and R-rated horror thrills.\n\nTickets: https://vidiotsfoundation.org
+ /purchase/4252658/\n\nDetails: https://vidiotsfoundation.org/movies/tammy-
+ and-the-t-rex/
+END:VEVENT
+BEGIN:VEVENT
 UID:4220150@vidiotsfoundation.org
 DTSTAMP:20260704T200000Z
 DTSTART;TZID=America/Los_Angeles:20260704T130000
