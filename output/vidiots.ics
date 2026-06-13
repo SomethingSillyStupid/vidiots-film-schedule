@@ -8,106 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4133617@vidiotsfoundation.org
-DTSTAMP:20260612T233000Z
-DTSTART;TZID=America/Los_Angeles:20260612T163000
-DTEND;TZID=America/Los_Angeles:20260612T181500
-SUMMARY:I Love Boosters
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133617/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nThe fashion\, the fun\, the gonzo satire - it's the wildest rid
- e in cinema this year and an absolute revelation for those of us who have 
- been craving the return of originality to filmmaking.\n\nTickets: https://
- vidiotsfoundation.org/purchase/4133617/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/i-love-boosters/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4131268@vidiotsfoundation.org
-DTSTAMP:20260613T020000Z
-DTSTART;TZID=America/Los_Angeles:20260612T190000
-DTEND;TZID=America/Los_Angeles:20260612T210100
-SUMMARY:Mad Max: Fury Road
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131268/
-DESCRIPTION:Run time: 121 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\, TeenTix LA\n\nA nigh-operatic spectacle of anarchic action and 
- vehicular carnage that never takes its foot off the gas!\nEncore Screening
-  Added Friday\, June 19th!\n\nTickets: https://vidiotsfoundation.org/purch
- ase/4131268/\n\nDetails: https://vidiotsfoundation.org/movies/mad-max-fury
- -road/
-END:VEVENT
-BEGIN:VEVENT
-UID:4133618@vidiotsfoundation.org
-DTSTAMP:20260613T023000Z
-DTSTART;TZID=America/Los_Angeles:20260612T193000
-DTEND;TZID=America/Los_Angeles:20260612T211500
-SUMMARY:I Love Boosters
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133618/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nThe fashion\, the fun\, the gonzo satire - it's the wildest rid
- e in cinema this year and an absolute revelation for those of us who have 
- been craving the return of originality to filmmaking.\n\nTickets: https://
- vidiotsfoundation.org/purchase/4133618/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/i-love-boosters/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4133620@vidiotsfoundation.org
-DTSTAMP:20260613T051500Z
-DTSTART;TZID=America/Los_Angeles:20260612T221500
-DTEND;TZID=America/Los_Angeles:20260612T235900
-SUMMARY:Onda Nova
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133620/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 104 min | 
- Format: Digital | Release year: 1984\n\nSeries: Additional Shows\, In the 
- MUBI Microcinema\, What the Friday?!?\n\nGet your kicks in the microcinema
-  with the coolest queer punk Brazilian soccer sex romp you've never seen!\
- n\nTickets: https://vidiotsfoundation.org/purchase/4133620/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/onda-nova/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4133377@vidiotsfoundation.org
-DTSTAMP:20260613T193000Z
-DTSTART;TZID=America/Los_Angeles:20260613T123000
-DTEND;TZID=America/Los_Angeles:20260613T144400
-SUMMARY:Princess Mononoke (English Dubbed)
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133377/
-DESCRIPTION:Run time: 134 min | Format: Digital | Rating: PG-13 | Release y
- ear: 1997\n\nSeries: Films for Everyone\, In the Eagle\, TeenTix LA\n\nThe
-  fate of the world rests on the courage of one warrior.\n\nTickets: https:
- //vidiotsfoundation.org/purchase/4133377/\n\nDetails: https://vidiotsfound
- ation.org/movies/princess-mononoke-english-dubbed/
-END:VEVENT
-BEGIN:VEVENT
-UID:4133375@vidiotsfoundation.org
-DTSTAMP:20260613T230000Z
-DTSTART;TZID=America/Los_Angeles:20260613T160000
-DTEND;TZID=America/Los_Angeles:20260613T174800
-SUMMARY:The Children’s Hour
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133375/
-DESCRIPTION:Run time: 108 min | Format: Digital\n\nSeries: In the Eagle\, T
- eenTix LA\n\nBring your hankies for William Wyler's provocative and powerf
- ul film adaptation of Lillian Hellman's heartbreaking story of homophobia 
- and slander\, starring icons Audrey Hepburn and Shirley MacLaine.\n\nTicke
- ts: https://vidiotsfoundation.org/purchase/4133375/\n\nDetails: https://vi
- diotsfoundation.org/movies/the-childrens-hour/
-END:VEVENT
-BEGIN:VEVENT
 UID:4133486@vidiotsfoundation.org
 DTSTAMP:20260613T233000Z
 DTSTART;TZID=America/Los_Angeles:20260613T163000
@@ -122,22 +22,6 @@ DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
  ation for those of us who have been craving the return of originality to f
  ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4133486/\n\n
  Details: https://vidiotsfoundation.org/movies/i-love-boosters/
-END:VEVENT
-BEGIN:VEVENT
-UID:4133370@vidiotsfoundation.org
-DTSTAMP:20260614T020000Z
-DTSTART;TZID=America/Los_Angeles:20260613T190000
-DTEND;TZID=America/Los_Angeles:20260613T205100
-SUMMARY:Mission: Impossible
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133370/
-DESCRIPTION:Run time: 111 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\n\nBrian De Palma and Tom Cruise team up for the first instal
- lment of this blockbuster spy series and all the twists and turns are head
- ing to our big screen!\n30 Year Anniversary!\n\nTickets: https://vidiotsfo
- undation.org/purchase/4133370/\n\nDetails: https://vidiotsfoundation.org/m
- ovies/mission-impossible/
 END:VEVENT
 BEGIN:VEVENT
 UID:4133487@vidiotsfoundation.org
@@ -158,21 +42,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4133371@vidiotsfoundation.org
-DTSTAMP:20260614T044500Z
-DTSTART;TZID=America/Los_Angeles:20260613T214500
-DTEND;TZID=America/Los_Angeles:20260613T231800
-SUMMARY:Pink Flamingos
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133371/
-DESCRIPTION:Run time: 93 min | Format: Digital | Rating: NC-17\n\nSeries: I
- n the Eagle\n\nWe're headed out to the trailer park for one of the trashie
- st films ever made and the quintessential cult classic that changed cinema
-  forever.\n\nTickets: https://vidiotsfoundation.org/purchase/4133371/\n\nD
- etails: https://vidiotsfoundation.org/movies/pink-flamingos/
-END:VEVENT
-BEGIN:VEVENT
 UID:4133488@vidiotsfoundation.org
 DTSTAMP:20260614T050000Z
 DTSTART;TZID=America/Los_Angeles:20260613T220000
@@ -182,11 +51,10 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4133488/
 DESCRIPTION:Run time: 104 min | Format: Digital | Release year: 1984\n\nSer
- ies: Additional Shows\, In the MUBI Microcinema\, What the Friday?!?\n\nGe
- t your kicks in the microcinema with the coolest queer punk Brazilian socc
- er sex romp you've never seen!\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4133488/\n\nDetails: https://vidiotsfoundation.org/movies/onda-nov
- a/
+ ies: Additional Shows\, In the MUBI Microcinema\n\nGet your kicks in the m
+ icrocinema with the coolest queer punk Brazilian soccer sex romp you've ne
+ ver seen!\n\nTickets: https://vidiotsfoundation.org/purchase/4133488/\n\nD
+ etails: https://vidiotsfoundation.org/movies/onda-nova/
 END:VEVENT
 BEGIN:VEVENT
 UID:4127707@vidiotsfoundation.org
@@ -247,11 +115,10 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4133519/
 DESCRIPTION:Run time: 104 min | Format: Digital | Release year: 1984\n\nSer
- ies: Additional Shows\, In the MUBI Microcinema\, What the Friday?!?\n\nGe
- t your kicks in the microcinema with the coolest queer punk Brazilian socc
- er sex romp you've never seen!\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4133519/\n\nDetails: https://vidiotsfoundation.org/movies/onda-nov
- a/
+ ies: Additional Shows\, In the MUBI Microcinema\n\nGet your kicks in the m
+ icrocinema with the coolest queer punk Brazilian soccer sex romp you've ne
+ ver seen!\n\nTickets: https://vidiotsfoundation.org/purchase/4133519/\n\nD
+ etails: https://vidiotsfoundation.org/movies/onda-nova/
 END:VEVENT
 BEGIN:VEVENT
 UID:4127711@vidiotsfoundation.org
@@ -413,11 +280,10 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4127786/
 DESCRIPTION:Run time: 121 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\, TeenTix LA\n\nA nigh-operatic spectacle of anarchic action and 
- vehicular carnage that never takes its foot off the gas!\nEncore Screening
-  Added Friday\, June 19th!\n\nTickets: https://vidiotsfoundation.org/purch
- ase/4127786/\n\nDetails: https://vidiotsfoundation.org/movies/mad-max-fury
- -road/
+ he Eagle\n\nA nigh-operatic spectacle of anarchic action and vehicular car
+ nage that never takes its foot off the gas!\nEncore Screening Added Friday
+ \, June 19th!\n\nTickets: https://vidiotsfoundation.org/purchase/4127786/\
+ n\nDetails: https://vidiotsfoundation.org/movies/mad-max-fury-road/
 END:VEVENT
 BEGIN:VEVENT
 UID:4127788@vidiotsfoundation.org
@@ -1702,35 +1568,65 @@ DESCRIPTION:Run time: 171 min | Format: Digital | Rating: R\n\nSeries: Door
  ies/the-unbearable-lightness-of-being/
 END:VEVENT
 BEGIN:VEVENT
-UID:4131270@vidiotsfoundation.org
-DTSTAMP:20260612T223000Z
-DTSTART;TZID=America/Los_Angeles:20260612T153000
-DTEND;TZID=America/Los_Angeles:20260612T175500
-SUMMARY:The Handmaiden
+UID:4133377@vidiotsfoundation.org
+DTSTAMP:20260613T193000Z
+DTSTART;TZID=America/Los_Angeles:20260613T123000
+DTEND;TZID=America/Los_Angeles:20260613T144400
+SUMMARY:Princess Mononoke (English Dubbed)
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131270/
-DESCRIPTION:Run time: 145 min | Format: Digital | Release year: 2016\n\nSer
- ies: In the Eagle\n\nYou’re not going to want to miss this lurid\, labyr
- inthine thriller\, full of shifting alliances\, shocking plot twists\, and
-  diabolical villains.\nEncore Screening Added!\n\nTickets: https://vidiots
- foundation.org/purchase/4131270/\n\nDetails: https://vidiotsfoundation.org
- /movies/the-handmaiden/
+URL:https://vidiotsfoundation.org/purchase/4133377/
+DESCRIPTION:Run time: 134 min | Format: Digital | Rating: PG-13 | Release y
+ ear: 1997\n\nSeries: Films for Everyone\, In the Eagle\, TeenTix LA\n\nThe
+  fate of the world rests on the courage of one warrior.\n\nTickets: https:
+ //vidiotsfoundation.org/purchase/4133377/\n\nDetails: https://vidiotsfound
+ ation.org/movies/princess-mononoke-english-dubbed/
 END:VEVENT
 BEGIN:VEVENT
-UID:4131269@vidiotsfoundation.org
-DTSTAMP:20260613T044500Z
-DTSTART;TZID=America/Los_Angeles:20260612T214500
-DTEND;TZID=America/Los_Angeles:20260612T233000
-SUMMARY:She’s the Man
+UID:4133375@vidiotsfoundation.org
+DTSTAMP:20260613T230000Z
+DTSTART;TZID=America/Los_Angeles:20260613T160000
+DTEND;TZID=America/Los_Angeles:20260613T174800
+SUMMARY:The Children’s Hour
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131269/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\, TeenTix LA\, What the Friday?!?\n\nWho needs the World cup 
- when you've got Amanda Bynes and Channing Tatum falling in love in drag on
-  the soccer field?!?\n20 Year Anniversary!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4131269/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/shes-the-man/
+URL:https://vidiotsfoundation.org/purchase/4133375/
+DESCRIPTION:Run time: 108 min | Format: Digital\n\nSeries: In the Eagle\, T
+ eenTix LA\n\nBring your hankies for William Wyler's provocative and powerf
+ ul film adaptation of Lillian Hellman's heartbreaking story of homophobia 
+ and slander\, starring icons Audrey Hepburn and Shirley MacLaine.\n\nTicke
+ ts: https://vidiotsfoundation.org/purchase/4133375/\n\nDetails: https://vi
+ diotsfoundation.org/movies/the-childrens-hour/
+END:VEVENT
+BEGIN:VEVENT
+UID:4133370@vidiotsfoundation.org
+DTSTAMP:20260614T020000Z
+DTSTART;TZID=America/Los_Angeles:20260613T190000
+DTEND;TZID=America/Los_Angeles:20260613T205100
+SUMMARY:Mission: Impossible
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4133370/
+DESCRIPTION:Run time: 111 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\n\nBrian De Palma and Tom Cruise team up for the first instal
+ lment of this blockbuster spy series and all the twists and turns are head
+ ing to our big screen!\n30 Year Anniversary!\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4133370/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/mission-impossible/
+END:VEVENT
+BEGIN:VEVENT
+UID:4133371@vidiotsfoundation.org
+DTSTAMP:20260614T044500Z
+DTSTART;TZID=America/Los_Angeles:20260613T214500
+DTEND;TZID=America/Los_Angeles:20260613T231800
+SUMMARY:Pink Flamingos
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4133371/
+DESCRIPTION:Run time: 93 min | Format: Digital | Rating: NC-17\n\nSeries: I
+ n the Eagle\n\nWe're headed out to the trailer park for one of the trashie
+ st films ever made and the quintessential cult classic that changed cinema
+  forever.\n\nTickets: https://vidiotsfoundation.org/purchase/4133371/\n\nD
+ etails: https://vidiotsfoundation.org/movies/pink-flamingos/
 END:VEVENT
 END:VCALENDAR
