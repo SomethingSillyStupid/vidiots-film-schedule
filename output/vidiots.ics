@@ -8,6 +8,75 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
+UID:4133617@vidiotsfoundation.org
+DTSTAMP:20260612T233000Z
+DTSTART;TZID=America/Los_Angeles:20260612T163000
+DTEND;TZID=America/Los_Angeles:20260612T181500
+SUMMARY:I Love Boosters
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4133617/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
+ Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
+ ocinema\n\nThe fashion\, the fun\, the gonzo satire - it's the wildest rid
+ e in cinema this year and an absolute revelation for those of us who have 
+ been craving the return of originality to filmmaking.\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4133617/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/i-love-boosters/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4131268@vidiotsfoundation.org
+DTSTAMP:20260613T020000Z
+DTSTART;TZID=America/Los_Angeles:20260612T190000
+DTEND;TZID=America/Los_Angeles:20260612T210100
+SUMMARY:Mad Max: Fury Road
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4131268/
+DESCRIPTION:Run time: 121 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\, TeenTix LA\n\nA nigh-operatic spectacle of anarchic action and 
+ vehicular carnage that never takes its foot off the gas!\nEncore Screening
+  Added Friday\, June 19th!\n\nTickets: https://vidiotsfoundation.org/purch
+ ase/4131268/\n\nDetails: https://vidiotsfoundation.org/movies/mad-max-fury
+ -road/
+END:VEVENT
+BEGIN:VEVENT
+UID:4133618@vidiotsfoundation.org
+DTSTAMP:20260613T023000Z
+DTSTART;TZID=America/Los_Angeles:20260612T193000
+DTEND;TZID=America/Los_Angeles:20260612T211500
+SUMMARY:I Love Boosters
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4133618/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
+ Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
+ ocinema\n\nThe fashion\, the fun\, the gonzo satire - it's the wildest rid
+ e in cinema this year and an absolute revelation for those of us who have 
+ been craving the return of originality to filmmaking.\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4133618/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/i-love-boosters/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4133620@vidiotsfoundation.org
+DTSTAMP:20260613T051500Z
+DTSTART;TZID=America/Los_Angeles:20260612T221500
+DTEND;TZID=America/Los_Angeles:20260612T235900
+SUMMARY:Onda Nova
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4133620/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 104 min | 
+ Format: Digital | Release year: 1984\n\nSeries: Additional Shows\, In the 
+ MUBI Microcinema\, What the Friday?!?\n\nGet your kicks in the microcinema
+  with the coolest queer punk Brazilian soccer sex romp you've never seen!\
+ n\nTickets: https://vidiotsfoundation.org/purchase/4133620/\n\nDetails: ht
+ tps://vidiotsfoundation.org/movies/onda-nova/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:4133377@vidiotsfoundation.org
 DTSTAMP:20260613T193000Z
 DTSTART;TZID=America/Los_Angeles:20260613T123000
@@ -39,6 +108,22 @@ DESCRIPTION:Run time: 108 min | Format: Digital\n\nSeries: In the Eagle\, T
  diotsfoundation.org/movies/the-childrens-hour/
 END:VEVENT
 BEGIN:VEVENT
+UID:4133486@vidiotsfoundation.org
+DTSTAMP:20260613T233000Z
+DTSTART;TZID=America/Los_Angeles:20260613T163000
+DTEND;TZID=America/Los_Angeles:20260613T181500
+SUMMARY:I Love Boosters
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4133486/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nThe fashion\, the fun\, the gonz
+ o satire - it's the wildest ride in cinema this year and an absolute revel
+ ation for those of us who have been craving the return of originality to f
+ ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4133486/\n\n
+ Details: https://vidiotsfoundation.org/movies/i-love-boosters/
+END:VEVENT
+BEGIN:VEVENT
 UID:4133370@vidiotsfoundation.org
 DTSTAMP:20260614T020000Z
 DTSTART;TZID=America/Los_Angeles:20260613T190000
@@ -53,6 +138,24 @@ DESCRIPTION:Run time: 111 min | Format: Digital | Rating: PG-13\n\nSeries:
  ing to our big screen!\n30 Year Anniversary!\n\nTickets: https://vidiotsfo
  undation.org/purchase/4133370/\n\nDetails: https://vidiotsfoundation.org/m
  ovies/mission-impossible/
+END:VEVENT
+BEGIN:VEVENT
+UID:4133487@vidiotsfoundation.org
+DTSTAMP:20260614T021500Z
+DTSTART;TZID=America/Los_Angeles:20260613T191500
+DTEND;TZID=America/Los_Angeles:20260613T210000
+SUMMARY:I Love Boosters
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4133487/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
+ Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
+ ocinema\n\nThe fashion\, the fun\, the gonzo satire - it's the wildest rid
+ e in cinema this year and an absolute revelation for those of us who have 
+ been craving the return of originality to filmmaking.\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4133487/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/i-love-boosters/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4133371@vidiotsfoundation.org
@@ -70,6 +173,22 @@ DESCRIPTION:Run time: 93 min | Format: Digital | Rating: NC-17\n\nSeries: I
  etails: https://vidiotsfoundation.org/movies/pink-flamingos/
 END:VEVENT
 BEGIN:VEVENT
+UID:4133488@vidiotsfoundation.org
+DTSTAMP:20260614T050000Z
+DTSTART;TZID=America/Los_Angeles:20260613T220000
+DTEND;TZID=America/Los_Angeles:20260613T234400
+SUMMARY:Onda Nova
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4133488/
+DESCRIPTION:Run time: 104 min | Format: Digital | Release year: 1984\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\, What the Friday?!?\n\nGe
+ t your kicks in the microcinema with the coolest queer punk Brazilian socc
+ er sex romp you've never seen!\n\nTickets: https://vidiotsfoundation.org/p
+ urchase/4133488/\n\nDetails: https://vidiotsfoundation.org/movies/onda-nov
+ a/
+END:VEVENT
+BEGIN:VEVENT
 UID:4127707@vidiotsfoundation.org
 DTSTAMP:20260614T194500Z
 DTSTART;TZID=America/Los_Angeles:20260614T124500
@@ -83,6 +202,24 @@ DESCRIPTION:Run time: 81 min | Format: Digital | Rating: PG\n\nSeries: Film
  ical fun as we head back in time with this icy animated classic of sub-zer
  o heroes.\n\nTickets: https://vidiotsfoundation.org/purchase/4127707/\n\nD
  etails: https://vidiotsfoundation.org/movies/ice-age/
+END:VEVENT
+BEGIN:VEVENT
+UID:4188799@vidiotsfoundation.org
+DTSTAMP:20260614T203000Z
+DTSTART;TZID=America/Los_Angeles:20260614T133000
+DTEND;TZID=America/Los_Angeles:20260614T151500
+SUMMARY:I Love Boosters
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4188799/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
+ Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
+ ocinema\n\nThe fashion\, the fun\, the gonzo satire - it's the wildest rid
+ e in cinema this year and an absolute revelation for those of us who have 
+ been craving the return of originality to filmmaking.\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4188799/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/i-love-boosters/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4127708@vidiotsfoundation.org
@@ -101,6 +238,22 @@ DESCRIPTION:Run time: 140 min | Format: Digital | Rating: R\n\nSeries: In t
  /
 END:VEVENT
 BEGIN:VEVENT
+UID:4133519@vidiotsfoundation.org
+DTSTAMP:20260614T233000Z
+DTSTART;TZID=America/Los_Angeles:20260614T163000
+DTEND;TZID=America/Los_Angeles:20260614T181400
+SUMMARY:Onda Nova
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4133519/
+DESCRIPTION:Run time: 104 min | Format: Digital | Release year: 1984\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\, What the Friday?!?\n\nGe
+ t your kicks in the microcinema with the coolest queer punk Brazilian socc
+ er sex romp you've never seen!\n\nTickets: https://vidiotsfoundation.org/p
+ urchase/4133519/\n\nDetails: https://vidiotsfoundation.org/movies/onda-nov
+ a/
+END:VEVENT
+BEGIN:VEVENT
 UID:4127711@vidiotsfoundation.org
 DTSTAMP:20260615T020000Z
 DTSTART;TZID=America/Los_Angeles:20260614T190000
@@ -114,6 +267,38 @@ DESCRIPTION:Run time: 116 min | Format: Digital | Rating: R\n\nSeries: In t
  ed by Synth History!\n\nTickets: https://vidiotsfoundation.org/purchase/41
  27711/\n\nDetails: https://vidiotsfoundation.org/movies/ghost-dog-the-way-
  of-the-samurai/
+END:VEVENT
+BEGIN:VEVENT
+UID:4133520@vidiotsfoundation.org
+DTSTAMP:20260615T023000Z
+DTSTART;TZID=America/Los_Angeles:20260614T193000
+DTEND;TZID=America/Los_Angeles:20260614T211500
+SUMMARY:I Love Boosters
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4133520/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nThe fashion\, the fun\, the gonz
+ o satire - it's the wildest ride in cinema this year and an absolute revel
+ ation for those of us who have been craving the return of originality to f
+ ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4133520/\n\n
+ Details: https://vidiotsfoundation.org/movies/i-love-boosters/
+END:VEVENT
+BEGIN:VEVENT
+UID:4133522@vidiotsfoundation.org
+DTSTAMP:20260616T020000Z
+DTSTART;TZID=America/Los_Angeles:20260615T190000
+DTEND;TZID=America/Los_Angeles:20260615T204500
+SUMMARY:I Love Boosters
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4133522/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nThe fashion\, the fun\, the gonz
+ o satire - it's the wildest ride in cinema this year and an absolute revel
+ ation for those of us who have been craving the return of originality to f
+ ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4133522/\n\n
+ Details: https://vidiotsfoundation.org/movies/i-love-boosters/
 END:VEVENT
 BEGIN:VEVENT
 UID:4242965@vidiotsfoundation.org
@@ -130,6 +315,22 @@ DESCRIPTION:Run time: 98 min | Format: Digital\n\nSeries: Community Partner
  th director Marty Schousboe moderated by Jason Woliner.\n\nTickets: https:
  //events.humanitix.com/kcrw-partner-screening-never-change\n\nDetails: htt
  ps://vidiotsfoundation.org/movies/never-change/
+END:VEVENT
+BEGIN:VEVENT
+UID:4196615@vidiotsfoundation.org
+DTSTAMP:20260617T020000Z
+DTSTART;TZID=America/Los_Angeles:20260616T190000
+DTEND;TZID=America/Los_Angeles:20260616T204500
+SUMMARY:I Love Boosters
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4196615/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nThe fashion\, the fun\, the gonz
+ o satire - it's the wildest ride in cinema this year and an absolute revel
+ ation for those of us who have been craving the return of originality to f
+ ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4196615/\n\n
+ Details: https://vidiotsfoundation.org/movies/i-love-boosters/
 END:VEVENT
 BEGIN:VEVENT
 UID:4127730@vidiotsfoundation.org
@@ -169,6 +370,22 @@ DESCRIPTION:Run time: 119 min | Format: Digital\n\nSeries: Community Partne
  n.org/movies/voicemails-for-isabelle/
 END:VEVENT
 BEGIN:VEVENT
+UID:4196620@vidiotsfoundation.org
+DTSTAMP:20260618T023000Z
+DTSTART;TZID=America/Los_Angeles:20260617T193000
+DTEND;TZID=America/Los_Angeles:20260617T211500
+SUMMARY:I Love Boosters
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4196620/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nThe fashion\, the fun\, the gonz
+ o satire - it's the wildest ride in cinema this year and an absolute revel
+ ation for those of us who have been craving the return of originality to f
+ ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4196620/\n\n
+ Details: https://vidiotsfoundation.org/movies/i-love-boosters/
+END:VEVENT
+BEGIN:VEVENT
 UID:4127741@vidiotsfoundation.org
 DTSTAMP:20260619T023000Z
 DTSTART;TZID=America/Los_Angeles:20260618T193000
@@ -185,6 +402,22 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
  vidiotsfoundation.org/purchase/4127741/\n\nDetails: https://vidiotsfoundat
  ion.org/movies/kids-in-the-hall-brain-candy/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4127786@vidiotsfoundation.org
+DTSTAMP:20260619T230000Z
+DTSTART;TZID=America/Los_Angeles:20260619T160000
+DTEND;TZID=America/Los_Angeles:20260619T180100
+SUMMARY:Mad Max: Fury Road
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4127786/
+DESCRIPTION:Run time: 121 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\, TeenTix LA\n\nA nigh-operatic spectacle of anarchic action and 
+ vehicular carnage that never takes its foot off the gas!\nEncore Screening
+  Added Friday\, June 19th!\n\nTickets: https://vidiotsfoundation.org/purch
+ ase/4127786/\n\nDetails: https://vidiotsfoundation.org/movies/mad-max-fury
+ -road/
 END:VEVENT
 BEGIN:VEVENT
 UID:4127788@vidiotsfoundation.org
@@ -319,6 +552,22 @@ DESCRIPTION:Run time: 100 min | Format: Digital | Rating: NC-17\n\nSeries:
  ps://vidiotsfoundation.org/movies/crash/
 END:VEVENT
 BEGIN:VEVENT
+UID:4158806@vidiotsfoundation.org
+DTSTAMP:20260621T050000Z
+DTSTART;TZID=America/Los_Angeles:20260620T220000
+DTEND;TZID=America/Los_Angeles:20260620T234500
+SUMMARY:I Love Boosters
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4158806/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nThe fashion\, the fun\, the gonz
+ o satire - it's the wildest ride in cinema this year and an absolute revel
+ ation for those of us who have been craving the return of originality to f
+ ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4158806/\n\n
+ Details: https://vidiotsfoundation.org/movies/i-love-boosters/
+END:VEVENT
+BEGIN:VEVENT
 UID:4127808@vidiotsfoundation.org
 DTSTAMP:20260621T223000Z
 DTSTART;TZID=America/Los_Angeles:20260621T153000
@@ -335,6 +584,22 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 107 min |
  ime!\n\nTickets: https://vidiotsfoundation.org/purchase/4127808/\n\nDetail
  s: https://vidiotsfoundation.org/movies/predator/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4158809@vidiotsfoundation.org
+DTSTAMP:20260621T230000Z
+DTSTART;TZID=America/Los_Angeles:20260621T160000
+DTEND;TZID=America/Los_Angeles:20260621T174500
+SUMMARY:I Love Boosters
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4158809/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nThe fashion\, the fun\, the gonz
+ o satire - it's the wildest ride in cinema this year and an absolute revel
+ ation for those of us who have been craving the return of originality to f
+ ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4158809/\n\n
+ Details: https://vidiotsfoundation.org/movies/i-love-boosters/
 END:VEVENT
 BEGIN:VEVENT
 UID:4134719@vidiotsfoundation.org
@@ -797,6 +1062,22 @@ DESCRIPTION:Run time: 105 min | Format: 35mm Film | Rating: NC-17 | Release
  tsfoundation.org/movies/bad-education/
 END:VEVENT
 BEGIN:VEVENT
+UID:4254089@vidiotsfoundation.org
+DTSTAMP:20260702T020000Z
+DTSTART;TZID=America/Los_Angeles:20260701T190000
+DTEND;TZID=America/Los_Angeles:20260701T201900
+SUMMARY:Underland
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4254089/
+DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
+ a\n\nUnderland dives deep into the Earth to present a groundbreaking visio
+ n for rethinking our lives on this fragile surface.\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4254089/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/underland/
+END:VEVENT
+BEGIN:VEVENT
 UID:4248103@vidiotsfoundation.org
 DTSTAMP:20260702T023000Z
 DTSTART;TZID=America/Los_Angeles:20260701T193000
@@ -812,6 +1093,100 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: Doo
  ve DJs\, themed bevies\, our pink carpet and a costume contest!\n\nTickets
  : https://vidiotsfoundation.org/purchase/4248103/\n\nDetails: https://vidi
  otsfoundation.org/movies/cats-the-vidiots-jellicle-ball/
+END:VEVENT
+BEGIN:VEVENT
+UID:4254104@vidiotsfoundation.org
+DTSTAMP:20260703T020000Z
+DTSTART;TZID=America/Los_Angeles:20260702T190000
+DTEND;TZID=America/Los_Angeles:20260702T201900
+SUMMARY:Underland
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4254104/
+DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
+ a\n\nUnderland dives deep into the Earth to present a groundbreaking visio
+ n for rethinking our lives on this fragile surface.\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4254104/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/underland/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252656@vidiotsfoundation.org
+DTSTAMP:20260703T193000Z
+DTSTART;TZID=America/Los_Angeles:20260703T123000
+DTEND;TZID=America/Los_Angeles:20260703T140800
+SUMMARY:WALL·E
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252656/
+DESCRIPTION:Run time: 98 min | Format: Digital | Rating: G\n\nSeries: Films
+  for Everyone\, In the Eagle\n\nNever has a robot had such pathos than in 
+ this beloved high-tech animation!\n\nTickets: https://vidiotsfoundation.or
+ g/purchase/4252656/\n\nDetails: https://vidiotsfoundation.org/movies/wall%
+ c2%b7e/
+END:VEVENT
+BEGIN:VEVENT
+UID:4253409@vidiotsfoundation.org
+DTSTAMP:20260703T200000Z
+DTSTART;TZID=America/Los_Angeles:20260703T130000
+DTEND;TZID=America/Los_Angeles:20260703T141900
+SUMMARY:Underland
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253409/
+DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
+ a\n\nUnderland dives deep into the Earth to present a groundbreaking visio
+ n for rethinking our lives on this fragile surface.\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4253409/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/underland/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252654@vidiotsfoundation.org
+DTSTAMP:20260703T223000Z
+DTSTART;TZID=America/Los_Angeles:20260703T153000
+DTEND;TZID=America/Los_Angeles:20260703T171800
+SUMMARY:Throne of Blood
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252654/
+DESCRIPTION:Run time: 108 min | Format: Digital | Release year: 1957\n\nSer
+ ies: In the Eagle\n\nA vivid\, visceral adaptation of Macbeth\, Akira Kuro
+ sawa's Shakespearean tale of ambition and duplicity in a ghostly\, fog-ens
+ hrouded landscape in feudal Japan.\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4252654/\n\nDetails: https://vidiotsfoundation.org/movies/thro
+ ne-of-blood/
+END:VEVENT
+BEGIN:VEVENT
+UID:4253417@vidiotsfoundation.org
+DTSTAMP:20260703T230000Z
+DTSTART;TZID=America/Los_Angeles:20260703T160000
+DTEND;TZID=America/Los_Angeles:20260703T171900
+SUMMARY:Underland
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253417/
+DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
+ a\n\nUnderland dives deep into the Earth to present a groundbreaking visio
+ n for rethinking our lives on this fragile surface.\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4253417/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/underland/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252657@vidiotsfoundation.org
+DTSTAMP:20260704T013000Z
+DTSTART;TZID=America/Los_Angeles:20260703T183000
+DTEND;TZID=America/Los_Angeles:20260703T205500
+SUMMARY:Independence Day
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252657/
+DESCRIPTION:Run time: 145 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\n\nAll salute President Bill Pullman and join us for a very p
+ atriotic screening of this action-packed science fiction blockbuster!\n\nT
+ ickets: https://vidiotsfoundation.org/purchase/4252657/\n\nDetails: https:
+ //vidiotsfoundation.org/movies/independence-day/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252658@vidiotsfoundation.org
@@ -860,6 +1235,20 @@ DESCRIPTION:Run time: 124 min | Format: Digital | Rating: PG\n\nSeries: In
  //vidiotsfoundation.org/movies/jaws/
 END:VEVENT
 BEGIN:VEVENT
+UID:4252663@vidiotsfoundation.org
+DTSTAMP:20260705T200000Z
+DTSTART;TZID=America/Los_Angeles:20260705T130000
+DTEND;TZID=America/Los_Angeles:20260705T143100
+SUMMARY:Aladdin
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252663/
+DESCRIPTION:Run time: 91 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nLet us share this whole new world w
+ ith you!\n\nTickets: https://vidiotsfoundation.org/purchase/4252663/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/aladdin/
+END:VEVENT
+BEGIN:VEVENT
 UID:4252664@vidiotsfoundation.org
 DTSTAMP:20260705T230000Z
 DTSTART;TZID=America/Los_Angeles:20260705T160000
@@ -872,6 +1261,38 @@ DESCRIPTION:Run time: 113 min | Format: Digital\n\nSeries: In the Eagle\n\n
  Is anyone really who they seem to be?\n\nTickets: https://vidiotsfoundatio
  n.org/purchase/4252664/\n\nDetails: https://vidiotsfoundation.org/movies/c
  harade/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252665@vidiotsfoundation.org
+DTSTAMP:20260706T020000Z
+DTSTART;TZID=America/Los_Angeles:20260705T190000
+DTEND;TZID=America/Los_Angeles:20260705T205200
+SUMMARY:Overboard
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252665/
+DESCRIPTION:Run time: 112 min | Format: Digital\n\nSeries: In the Eagle\n\n
+ Fall in a sea of love all over again with Kurt Russell and Goldie Hawn in 
+ this very 80s fairy tale of riches to rags from the always endearing Garry
+  Marshall!\n\nTickets: https://vidiotsfoundation.org/purchase/4252665/\n\n
+ Details: https://vidiotsfoundation.org/movies/overboard/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252668@vidiotsfoundation.org
+DTSTAMP:20260708T013000Z
+DTSTART;TZID=America/Los_Angeles:20260707T183000
+DTEND;TZID=America/Los_Angeles:20260707T201700
+SUMMARY:Picnic at Hanging Rock
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252668/
+DESCRIPTION:Run time: 107 min | Format: Digital\n\nSeries: Doors Open at 6\
+ , In the Eagle\n\nWeir achieves atmospheric perfection with the help of hi
+ s cinematographer Russell Boyd and an eerie pan flute score by Zamfir in a
+ ddition to the desolate and daunting Australian scenery and elegant and et
+ hereal costumes.\n\nTickets: https://vidiotsfoundation.org/purchase/425266
+ 8/\n\nDetails: https://vidiotsfoundation.org/movies/picnic-at-hanging-rock
+ /
 END:VEVENT
 BEGIN:VEVENT
 UID:4252673@vidiotsfoundation.org
@@ -893,15 +1314,33 @@ DTSTAMP:20260710T023000Z
 DTSTART;TZID=America/Los_Angeles:20260709T193000
 DTEND;TZID=America/Los_Angeles:20260709T220600
 SUMMARY:The Wailing
-LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4197656/
 DESCRIPTION:Run time: 156 min | Format: Digital | Release year: 2016\n\nSer
- ies: Community Partners\, Doors Open at 6\, Special Guests in Attendance\n
- \nCo-presented by Luaka Bop\, the record label founded by David Byrne. The
-  screening will be followed by a conversation with Jang Young-gyu\, the fi
- lm’s composer and founder of the award-winning Korean psych-pop band Lee
- nalchi\n\nTickets: https://vidiotsfoundation.org/purchase/4197656/\n\nDeta
- ils: https://vidiotsfoundation.org/movies/the-wailing/
+ ies: Community Partners\, Doors Open at 6\, Special Guests in Attendance\,
+  In the Eagle\n\nCo-presented by Luaka Bop\, the record label founded by D
+ avid Byrne. The screening will be followed by a conversation with Jang You
+ ng-gyu\, the film’s composer and founder of the award-winning Korean psy
+ ch-pop band Leenalchi\n\nTickets: https://vidiotsfoundation.org/purchase/4
+ 197656/\n\nDetails: https://vidiotsfoundation.org/movies/the-wailing/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252695@vidiotsfoundation.org
+DTSTAMP:20260710T221500Z
+DTSTART;TZID=America/Los_Angeles:20260710T151500
+DTEND;TZID=America/Los_Angeles:20260710T175100
+SUMMARY:The Wailing
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252695/
+DESCRIPTION:Run time: 156 min | Format: Digital | Release year: 2016\n\nSer
+ ies: Community Partners\, Doors Open at 6\, Special Guests in Attendance\,
+  In the Eagle\n\nCo-presented by Luaka Bop\, the record label founded by D
+ avid Byrne. The screening will be followed by a conversation with Jang You
+ ng-gyu\, the film’s composer and founder of the award-winning Korean psy
+ ch-pop band Leenalchi\n\nTickets: https://vidiotsfoundation.org/purchase/4
+ 252695/\n\nDetails: https://vidiotsfoundation.org/movies/the-wailing/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252699@vidiotsfoundation.org
@@ -916,6 +1355,79 @@ DESCRIPTION:Run time: 135 min | Format: Digital | Rating: PG-13\n\nSeries:
  In the Eagle\n\nBeyond the horizon lies the secret to a new beginning.\n\n
  Tickets: https://vidiotsfoundation.org/purchase/4252699/\n\nDetails: https
  ://vidiotsfoundation.org/movies/waterworld/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252700@vidiotsfoundation.org
+DTSTAMP:20260711T045500Z
+DTSTART;TZID=America/Los_Angeles:20260710T215500
+DTEND;TZID=America/Los_Angeles:20260710T232500
+SUMMARY:Heavy Metal
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252700/
+DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: In th
+ e Eagle\, What the Friday?!?\n\nOne of the most bad ass animated films of 
+ all time\, this science fiction adventure will take you on one hell of a t
+ rip - to the far reaches of the galaxy and beyond!\n\nTickets: https://vid
+ iotsfoundation.org/purchase/4252700/\n\nDetails: https://vidiotsfoundation
+ .org/movies/heavy-metal/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252707@vidiotsfoundation.org
+DTSTAMP:20260712T013000Z
+DTSTART;TZID=America/Los_Angeles:20260711T183000
+DTEND;TZID=America/Los_Angeles:20260711T205200
+SUMMARY:Summer of Sam
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252707/
+DESCRIPTION:Run time: 142 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nNo one is safe from Son of Sam.\n\nTickets: https://vidiotsfou
+ ndation.org/purchase/4252707/\n\nDetails: https://vidiotsfoundation.org/mo
+ vies/summer-of-sam/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252710@vidiotsfoundation.org
+DTSTAMP:20260712T044500Z
+DTSTART;TZID=America/Los_Angeles:20260711T214500
+DTEND;TZID=America/Los_Angeles:20260711T231700
+SUMMARY:Clerks
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252710/
+DESCRIPTION:Run time: 92 min | Format: Digital | Rating: R\n\nSeries: In th
+ e Eagle\n\nJust because they serve you doesn't mean they like you.\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4252710/\n\nDetails: https://v
+ idiotsfoundation.org/movies/clerks/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252714@vidiotsfoundation.org
+DTSTAMP:20260712T200000Z
+DTSTART;TZID=America/Los_Angeles:20260712T130000
+DTEND;TZID=America/Los_Angeles:20260712T143300
+SUMMARY:Brave
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252714/
+DESCRIPTION:Run time: 93 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nJourney to the mystical Scottish Hi
+ ghlands with this winner of the Academy Award\, Golden Globe and BAFTA Awa
+ rd for Best Animated Film.\n\nTickets: https://vidiotsfoundation.org/purch
+ ase/4252714/\n\nDetails: https://vidiotsfoundation.org/movies/brave/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252715@vidiotsfoundation.org
+DTSTAMP:20260712T230000Z
+DTSTART;TZID=America/Los_Angeles:20260712T160000
+DTEND;TZID=America/Los_Angeles:20260712T172500
+SUMMARY:Godzilla vs. Hedorah
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252715/
+DESCRIPTION:Run time: 85 min | Format: Digital | Release year: 1971\n\nSeri
+ es: In the Eagle\n\nThe Smog Monster Hedorah arrives in a shooting star!\n
+ \nTickets: https://vidiotsfoundation.org/purchase/4252715/\n\nDetails: htt
+ ps://vidiotsfoundation.org/movies/godzilla-vs-hedorah/
 END:VEVENT
 BEGIN:VEVENT
 UID:4215461@vidiotsfoundation.org
@@ -948,18 +1460,80 @@ DESCRIPTION:Run time: 183 min | Format: Digital | Rating: R\n\nSeries: Door
  n\nDetails: https://vidiotsfoundation.org/movies/the-deer-hunter/
 END:VEVENT
 BEGIN:VEVENT
+UID:4252730@vidiotsfoundation.org
+DTSTAMP:20260715T023000Z
+DTSTART;TZID=America/Los_Angeles:20260714T193000
+DTEND;TZID=America/Los_Angeles:20260714T204600
+SUMMARY:Harry Dean Stanton: Partly Fiction
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252730/
+DESCRIPTION:Run time: 76 min | Format: Digital\n\nSeries: Doors Open at 6\,
+  Groundbreaking Non-Fiction\, In the Eagle\, Special Guests in Attendance\
+ n\nJoin Vidiots as we celebrate what would have been the 100th birthday of
+  the legendary Harry Dean Stanton with a special screening of the lovingly
+  crafted documentary Harry Dean Stanton: Partly Fiction with director Soph
+ ie Huber in person!\n\nTickets: https://vidiotsfoundation.org/purchase/425
+ 2730/\n\nDetails: https://vidiotsfoundation.org/movies/harry-dean-stanton-
+ partly-fiction/
+END:VEVENT
+BEGIN:VEVENT
 UID:4252731@vidiotsfoundation.org
 DTSTAMP:20260716T023000Z
 DTSTART;TZID=America/Los_Angeles:20260715T193000
 DTEND;TZID=America/Los_Angeles:20260715T210300
-SUMMARY:Streets of Fire
+SUMMARY:Streets of Fire on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252731/
-DESCRIPTION:Run time: 93 min | Format: Digital\n\nSeries: Doors Open at 6\,
-  In the Eagle\n\nTonight is what it means to be young!\n\nTickets: https:/
- /vidiotsfoundation.org/purchase/4252731/\n\nDetails: https://vidiotsfounda
- tion.org/movies/streets-of-fire/
+DESCRIPTION:Run time: 93 min | Format: 35mm Film\n\nSeries: 35mm Film\, Doo
+ rs Open at 6\, In the Eagle\n\nTonight is what it means to be young!\n\nTi
+ ckets: https://vidiotsfoundation.org/purchase/4252731/\n\nDetails: https:/
+ /vidiotsfoundation.org/movies/streets-of-fire/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252861@vidiotsfoundation.org
+DTSTAMP:20260718T020000Z
+DTSTART;TZID=America/Los_Angeles:20260717T190000
+DTEND;TZID=America/Los_Angeles:20260717T205600
+SUMMARY:Speed
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252861/
+DESCRIPTION:Run time: 116 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nGet ready for rush hour.\n\nTickets: https://vidiotsfoundation
+ .org/purchase/4252861/\n\nDetails: https://vidiotsfoundation.org/movies/sp
+ eed/
+END:VEVENT
+BEGIN:VEVENT
+UID:4253110@vidiotsfoundation.org
+DTSTAMP:20260719T020000Z
+DTSTART;TZID=America/Los_Angeles:20260718T190000
+DTEND;TZID=America/Los_Angeles:20260718T205600
+SUMMARY:Tootsie
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253110/
+DESCRIPTION:Run time: 116 min | Format: Digital | Rating: PG\n\nSeries: In 
+ the Eagle\n\nWhat do you get when you cross a hopelessly straight starving
+  actor with a dynamite red sequined dress? You get America's hottest new a
+ ctress.\n\nTickets: https://vidiotsfoundation.org/purchase/4253110/\n\nDet
+ ails: https://vidiotsfoundation.org/movies/tootsie/
+END:VEVENT
+BEGIN:VEVENT
+UID:4253112@vidiotsfoundation.org
+DTSTAMP:20260719T044500Z
+DTSTART;TZID=America/Los_Angeles:20260718T214500
+DTEND;TZID=America/Los_Angeles:20260718T233400
+SUMMARY:The Thing
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253112/
+DESCRIPTION:Run time: 109 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nAs the temperature rises\, join us in the air conditioning for
+  a chilling trip to Antarctica with one of the best horror/sci-fi films ev
+ er made.\n\nTickets: https://vidiotsfoundation.org/purchase/4253112/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/the-thing/
 END:VEVENT
 BEGIN:VEVENT
 UID:4215011@vidiotsfoundation.org
@@ -981,6 +1555,20 @@ DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: In the MUBI Micro
  ing-native/
 END:VEVENT
 BEGIN:VEVENT
+UID:4253132@vidiotsfoundation.org
+DTSTAMP:20260719T230000Z
+DTSTART;TZID=America/Los_Angeles:20260719T160000
+DTEND;TZID=America/Los_Angeles:20260719T175500
+SUMMARY:East of Eden
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253132/
+DESCRIPTION:Run time: 115 min | Format: Digital\n\nSeries: In the Eagle\n\n
+ James Dean scorches the screen in this adaptation of John Steinbeck's dust
+  bowl-era classic.\n\nTickets: https://vidiotsfoundation.org/purchase/4253
+ 132/\n\nDetails: https://vidiotsfoundation.org/movies/east-of-eden/
+END:VEVENT
+BEGIN:VEVENT
 UID:4215020@vidiotsfoundation.org
 DTSTAMP:20260719T233000Z
 DTSTART;TZID=America/Los_Angeles:20260719T163000
@@ -994,6 +1582,20 @@ DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: In the MUBI Micro
  Dexter\, Jacy Mairs Trash Baby is an indie drama that...\n\nTickets: https
  ://vidiotsfoundation.org/purchase/4215020/\n\nDetails: https://vidiotsfoun
  dation.org/movies/trash-baby/
+END:VEVENT
+BEGIN:VEVENT
+UID:4253143@vidiotsfoundation.org
+DTSTAMP:20260720T020000Z
+DTSTART;TZID=America/Los_Angeles:20260719T190000
+DTEND;TZID=America/Los_Angeles:20260719T203900
+SUMMARY:Suspiria
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253143/
+DESCRIPTION:Run time: 99 min | Format: Digital\n\nSeries: In the Eagle\n\nA
+  Technicolor fever dream of stunning imagery on our big screen in its full
+  nightmarish glory.\n\nTickets: https://vidiotsfoundation.org/purchase/425
+ 3143/\n\nDetails: https://vidiotsfoundation.org/movies/suspiria/
 END:VEVENT
 BEGIN:VEVENT
 UID:4215022@vidiotsfoundation.org
@@ -1012,6 +1614,94 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 106 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:4253144@vidiotsfoundation.org
+DTSTAMP:20260721T020000Z
+DTSTART;TZID=America/Los_Angeles:20260720T190000
+DTEND;TZID=America/Los_Angeles:20260720T203400
+SUMMARY:Jamón Jamón
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253144/
+DESCRIPTION:Run time: 94 min | Format: Digital | Release year: 1992\n\nSeri
+ es: Doors Open at 6\, In the Eagle\n\nA film where women eat men and men e
+ at ham!\n\nTickets: https://vidiotsfoundation.org/purchase/4253144/\n\nDet
+ ails: https://vidiotsfoundation.org/movies/jamon-jamon/
+END:VEVENT
+BEGIN:VEVENT
+UID:4253152@vidiotsfoundation.org
+DTSTAMP:20260725T044500Z
+DTSTART;TZID=America/Los_Angeles:20260724T214500
+DTEND;TZID=America/Los_Angeles:20260724T233200
+SUMMARY:The Cell
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253152/
+DESCRIPTION:Run time: 107 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\, What the Friday?!?\n\nThis is Her... In the Mind Of A Killer\n\
+ nTickets: https://vidiotsfoundation.org/purchase/4253152/\n\nDetails: http
+ s://vidiotsfoundation.org/movies/the-cell/
+END:VEVENT
+BEGIN:VEVENT
+UID:4253153@vidiotsfoundation.org
+DTSTAMP:20260725T230000Z
+DTSTART;TZID=America/Los_Angeles:20260725T160000
+DTEND;TZID=America/Los_Angeles:20260725T174200
+SUMMARY:A New Leaf
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253153/
+DESCRIPTION:Run time: 102 min\n\nSeries: In the Eagle\, Staff Picks\n\nThe 
+ legendary Elaine May pulls triple duty as writer\, director\, and star of 
+ this wonderfully wry dark comedy of greed\, love\, plants\, and plotting m
+ urder.\n\nTickets: https://vidiotsfoundation.org/purchase/4253153/\n\nDeta
+ ils: https://vidiotsfoundation.org/movies/a-new-leaf/
+END:VEVENT
+BEGIN:VEVENT
+UID:4253157@vidiotsfoundation.org
+DTSTAMP:20260726T020000Z
+DTSTART;TZID=America/Los_Angeles:20260725T190000
+DTEND;TZID=America/Los_Angeles:20260725T205400
+SUMMARY:Three Kings on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253157/
+DESCRIPTION:Run time: 114 min | Format: 35mm Film | Rating: R\n\nSeries: 35
+ mm Film\, In the Eagle\n\nIt's good to be king.\n\nTickets: https://vidiot
+ sfoundation.org/purchase/4253157/\n\nDetails: https://vidiotsfoundation.or
+ g/movies/three-kings/
+END:VEVENT
+BEGIN:VEVENT
+UID:4254358@vidiotsfoundation.org
+DTSTAMP:20260728T023000Z
+DTSTART;TZID=America/Los_Angeles:20260727T193000
+DTEND;TZID=America/Los_Angeles:20260727T213200
+SUMMARY:The Face of Another
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4254358/
+DESCRIPTION:Run time: 122 min | Format: Digital | Release year: 1966\n\nSer
+ ies: Doors Open at 6\, In the Eagle\n\nWith unforgettable imagery\, Teshig
+ ahara's film explores both the limits and freedom in acquiring a new perso
+ na\, and questions the notion of individuality itself.\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4254358/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/the-face-of-another/
+END:VEVENT
+BEGIN:VEVENT
+UID:4254360@vidiotsfoundation.org
+DTSTAMP:20260729T023000Z
+DTSTART;TZID=America/Los_Angeles:20260728T193000
+DTEND;TZID=America/Los_Angeles:20260728T222100
+SUMMARY:The Unbearable Lightness of Being
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4254360/
+DESCRIPTION:Run time: 171 min | Format: Digital | Rating: R\n\nSeries: Door
+ s Open at 6\, In the Eagle\n\nWith all this heat\, we thought you might be
+  thirsty for this poetically erotic drama.\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4254360/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/the-unbearable-lightness-of-being/
+END:VEVENT
+BEGIN:VEVENT
 UID:4131270@vidiotsfoundation.org
 DTSTAMP:20260612T223000Z
 DTSTART;TZID=America/Los_Angeles:20260612T153000
@@ -1028,58 +1718,6 @@ DESCRIPTION:Run time: 145 min | Format: Digital | Release year: 2016\n\nSer
  /movies/the-handmaiden/
 END:VEVENT
 BEGIN:VEVENT
-UID:4133617@vidiotsfoundation.org
-DTSTAMP:20260612T233000Z
-DTSTART;TZID=America/Los_Angeles:20260612T163000
-DTEND;TZID=America/Los_Angeles:20260612T181500
-SUMMARY:I Love Boosters
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133617/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nThe fashion\, the fun\, the gonzo satire - it's the wildest rid
- e in cinema this year and an absolute revelation for those of us who have 
- been craving the return of originality to filmmaking.\n\nTickets: https://
- vidiotsfoundation.org/purchase/4133617/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/i-love-boosters/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4131268@vidiotsfoundation.org
-DTSTAMP:20260613T020000Z
-DTSTART;TZID=America/Los_Angeles:20260612T190000
-DTEND;TZID=America/Los_Angeles:20260612T210100
-SUMMARY:Mad Max: Fury Road
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4131268/
-DESCRIPTION:Run time: 121 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\, TeenTix LA\n\nA nigh-operatic spectacle of anarchic action and 
- vehicular carnage that never takes its foot off the gas!\nEncore Screening
-  Added Friday\, June 19th!\n\nTickets: https://vidiotsfoundation.org/purch
- ase/4131268/\n\nDetails: https://vidiotsfoundation.org/movies/mad-max-fury
- -road/
-END:VEVENT
-BEGIN:VEVENT
-UID:4133618@vidiotsfoundation.org
-DTSTAMP:20260613T023000Z
-DTSTART;TZID=America/Los_Angeles:20260612T193000
-DTEND;TZID=America/Los_Angeles:20260612T211500
-SUMMARY:I Love Boosters
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133618/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nThe fashion\, the fun\, the gonzo satire - it's the wildest rid
- e in cinema this year and an absolute revelation for those of us who have 
- been craving the return of originality to filmmaking.\n\nTickets: https://
- vidiotsfoundation.org/purchase/4133618/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/i-love-boosters/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4131269@vidiotsfoundation.org
 DTSTAMP:20260613T044500Z
 DTSTART;TZID=America/Los_Angeles:20260612T214500
@@ -1094,22 +1732,5 @@ DESCRIPTION:Run time: 105 min | Format: Digital | Rating: PG-13\n\nSeries:
   the soccer field?!?\n20 Year Anniversary!\n\nTickets: https://vidiotsfoun
  dation.org/purchase/4131269/\n\nDetails: https://vidiotsfoundation.org/mov
  ies/shes-the-man/
-END:VEVENT
-BEGIN:VEVENT
-UID:4133620@vidiotsfoundation.org
-DTSTAMP:20260613T051500Z
-DTSTART;TZID=America/Los_Angeles:20260612T221500
-DTEND;TZID=America/Los_Angeles:20260612T235900
-SUMMARY:Onda Nova
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133620/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 104 min | 
- Format: Digital | Release year: 1984\n\nSeries: Additional Shows\, In the 
- MUBI Microcinema\, What the Friday?!?\n\nGet your kicks in the microcinema
-  with the coolest queer punk Brazilian soccer sex romp you've never seen!\
- n\nTickets: https://vidiotsfoundation.org/purchase/4133620/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/onda-nova/
-STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
