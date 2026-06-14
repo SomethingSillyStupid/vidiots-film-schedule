@@ -8,72 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4133486@vidiotsfoundation.org
-DTSTAMP:20260613T233000Z
-DTSTART;TZID=America/Los_Angeles:20260613T163000
-DTEND;TZID=America/Los_Angeles:20260613T181500
-SUMMARY:I Love Boosters
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133486/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nThe fashion\, the fun\, the gonzo satire - it's the wildest rid
- e in cinema this year and an absolute revelation for those of us who have 
- been craving the return of originality to filmmaking.\n\nTickets: https://
- vidiotsfoundation.org/purchase/4133486/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/i-love-boosters/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4133487@vidiotsfoundation.org
-DTSTAMP:20260614T021500Z
-DTSTART;TZID=America/Los_Angeles:20260613T191500
-DTEND;TZID=America/Los_Angeles:20260613T210000
-SUMMARY:I Love Boosters
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133487/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nThe fashion\, the fun\, the gonzo satire - it's the wildest rid
- e in cinema this year and an absolute revelation for those of us who have 
- been craving the return of originality to filmmaking.\n\nTickets: https://
- vidiotsfoundation.org/purchase/4133487/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/i-love-boosters/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4133488@vidiotsfoundation.org
-DTSTAMP:20260614T050000Z
-DTSTART;TZID=America/Los_Angeles:20260613T220000
-DTEND;TZID=America/Los_Angeles:20260613T234400
-SUMMARY:Onda Nova
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133488/
-DESCRIPTION:Run time: 104 min | Format: Digital | Release year: 1984\n\nSer
- ies: Additional Shows\, In the MUBI Microcinema\n\nGet your kicks in the m
- icrocinema with the coolest queer punk Brazilian soccer sex romp you've ne
- ver seen!\n\nTickets: https://vidiotsfoundation.org/purchase/4133488/\n\nD
- etails: https://vidiotsfoundation.org/movies/onda-nova/
-END:VEVENT
-BEGIN:VEVENT
-UID:4127707@vidiotsfoundation.org
-DTSTAMP:20260614T194500Z
-DTSTART;TZID=America/Los_Angeles:20260614T124500
-DTEND;TZID=America/Los_Angeles:20260614T140600
-SUMMARY:Ice Age
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127707/
-DESCRIPTION:Run time: 81 min | Format: Digital | Rating: PG\n\nSeries: Film
- s for Everyone\, In the Eagle\, TeenTix LA\n\nGet ready for some prehister
- ical fun as we head back in time with this icy animated classic of sub-zer
- o heroes.\n\nTickets: https://vidiotsfoundation.org/purchase/4127707/\n\nD
- etails: https://vidiotsfoundation.org/movies/ice-age/
-END:VEVENT
-BEGIN:VEVENT
 UID:4188799@vidiotsfoundation.org
 DTSTAMP:20260614T203000Z
 DTSTART;TZID=America/Los_Angeles:20260614T133000
@@ -90,52 +24,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min |
  vidiotsfoundation.org/purchase/4188799/\n\nDetails: https://vidiotsfoundat
  ion.org/movies/i-love-boosters/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4127708@vidiotsfoundation.org
-DTSTAMP:20260614T223000Z
-DTSTART;TZID=America/Los_Angeles:20260614T153000
-DTEND;TZID=America/Los_Angeles:20260614T175000
-SUMMARY:Maurice
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127708/
-DESCRIPTION:Run time: 140 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\, TeenTix LA\n\nCome swoon with us as Hugh Grant grapples with hi
- s homosexuality in Edwardian England in Merchant and Ivory's dreamy adapta
- tion of the E.M. Forster novel.\n\nTickets: https://vidiotsfoundation.org/
- purchase/4127708/\n\nDetails: https://vidiotsfoundation.org/movies/maurice
- /
-END:VEVENT
-BEGIN:VEVENT
-UID:4133519@vidiotsfoundation.org
-DTSTAMP:20260614T233000Z
-DTSTART;TZID=America/Los_Angeles:20260614T163000
-DTEND;TZID=America/Los_Angeles:20260614T181400
-SUMMARY:Onda Nova
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133519/
-DESCRIPTION:Run time: 104 min | Format: Digital | Release year: 1984\n\nSer
- ies: Additional Shows\, In the MUBI Microcinema\n\nGet your kicks in the m
- icrocinema with the coolest queer punk Brazilian soccer sex romp you've ne
- ver seen!\n\nTickets: https://vidiotsfoundation.org/purchase/4133519/\n\nD
- etails: https://vidiotsfoundation.org/movies/onda-nova/
-END:VEVENT
-BEGIN:VEVENT
-UID:4127711@vidiotsfoundation.org
-DTSTAMP:20260615T020000Z
-DTSTART;TZID=America/Los_Angeles:20260614T190000
-DTEND;TZID=America/Los_Angeles:20260614T205600
-SUMMARY:Ghost Dog: The Way of the Samurai
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127711/
-DESCRIPTION:Run time: 116 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\, Synth History\n\nLive by the code. Die by the code.\nCo-Present
- ed by Synth History!\n\nTickets: https://vidiotsfoundation.org/purchase/41
- 27711/\n\nDetails: https://vidiotsfoundation.org/movies/ghost-dog-the-way-
- of-the-samurai/
 END:VEVENT
 BEGIN:VEVENT
 UID:4133520@vidiotsfoundation.org
@@ -1574,65 +1462,64 @@ DESCRIPTION:Run time: 171 min | Format: Digital | Rating: R\n\nSeries: Door
  ies/the-unbearable-lightness-of-being/
 END:VEVENT
 BEGIN:VEVENT
-UID:4133377@vidiotsfoundation.org
-DTSTAMP:20260613T193000Z
-DTSTART;TZID=America/Los_Angeles:20260613T123000
-DTEND;TZID=America/Los_Angeles:20260613T144400
-SUMMARY:Princess Mononoke (English Dubbed)
+UID:4127707@vidiotsfoundation.org
+DTSTAMP:20260614T194500Z
+DTSTART;TZID=America/Los_Angeles:20260614T124500
+DTEND;TZID=America/Los_Angeles:20260614T140600
+SUMMARY:Ice Age
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133377/
-DESCRIPTION:Run time: 134 min | Format: Digital | Rating: PG-13 | Release y
- ear: 1997\n\nSeries: Films for Everyone\, In the Eagle\, TeenTix LA\n\nThe
-  fate of the world rests on the courage of one warrior.\n\nTickets: https:
- //vidiotsfoundation.org/purchase/4133377/\n\nDetails: https://vidiotsfound
- ation.org/movies/princess-mononoke-english-dubbed/
+URL:https://vidiotsfoundation.org/purchase/4127707/
+DESCRIPTION:Run time: 81 min | Format: Digital | Rating: PG\n\nSeries: Film
+ s for Everyone\, In the Eagle\, TeenTix LA\n\nGet ready for some prehister
+ ical fun as we head back in time with this icy animated classic of sub-zer
+ o heroes.\n\nTickets: https://vidiotsfoundation.org/purchase/4127707/\n\nD
+ etails: https://vidiotsfoundation.org/movies/ice-age/
 END:VEVENT
 BEGIN:VEVENT
-UID:4133375@vidiotsfoundation.org
-DTSTAMP:20260613T230000Z
-DTSTART;TZID=America/Los_Angeles:20260613T160000
-DTEND;TZID=America/Los_Angeles:20260613T174800
-SUMMARY:The Children’s Hour
+UID:4127708@vidiotsfoundation.org
+DTSTAMP:20260614T223000Z
+DTSTART;TZID=America/Los_Angeles:20260614T153000
+DTEND;TZID=America/Los_Angeles:20260614T175000
+SUMMARY:Maurice
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133375/
-DESCRIPTION:Run time: 108 min | Format: Digital\n\nSeries: In the Eagle\, T
- eenTix LA\n\nBring your hankies for William Wyler's provocative and powerf
- ul film adaptation of Lillian Hellman's heartbreaking story of homophobia 
- and slander\, starring icons Audrey Hepburn and Shirley MacLaine.\n\nTicke
- ts: https://vidiotsfoundation.org/purchase/4133375/\n\nDetails: https://vi
- diotsfoundation.org/movies/the-childrens-hour/
+URL:https://vidiotsfoundation.org/purchase/4127708/
+DESCRIPTION:Run time: 140 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\, TeenTix LA\n\nCome swoon with us as Hugh Grant grapples with hi
+ s homosexuality in Edwardian England in Merchant and Ivory's dreamy adapta
+ tion of the E.M. Forster novel.\n\nTickets: https://vidiotsfoundation.org/
+ purchase/4127708/\n\nDetails: https://vidiotsfoundation.org/movies/maurice
+ /
 END:VEVENT
 BEGIN:VEVENT
-UID:4133370@vidiotsfoundation.org
-DTSTAMP:20260614T020000Z
-DTSTART;TZID=America/Los_Angeles:20260613T190000
-DTEND;TZID=America/Los_Angeles:20260613T205100
-SUMMARY:Mission: Impossible
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133370/
-DESCRIPTION:Run time: 111 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\n\nBrian De Palma and Tom Cruise team up for the first instal
- lment of this blockbuster spy series and all the twists and turns are head
- ing to our big screen!\n30 Year Anniversary!\n\nTickets: https://vidiotsfo
- undation.org/purchase/4133370/\n\nDetails: https://vidiotsfoundation.org/m
- ovies/mission-impossible/
+UID:4133519@vidiotsfoundation.org
+DTSTAMP:20260614T233000Z
+DTSTART;TZID=America/Los_Angeles:20260614T163000
+DTEND;TZID=America/Los_Angeles:20260614T181400
+SUMMARY:Onda Nova
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4133519/
+DESCRIPTION:Run time: 104 min | Format: Digital | Release year: 1984\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nGet your kicks in the m
+ icrocinema with the coolest queer punk Brazilian soccer sex romp you've ne
+ ver seen!\n\nTickets: https://vidiotsfoundation.org/purchase/4133519/\n\nD
+ etails: https://vidiotsfoundation.org/movies/onda-nova/
 END:VEVENT
 BEGIN:VEVENT
-UID:4133371@vidiotsfoundation.org
-DTSTAMP:20260614T044500Z
-DTSTART;TZID=America/Los_Angeles:20260613T214500
-DTEND;TZID=America/Los_Angeles:20260613T231800
-SUMMARY:Pink Flamingos
+UID:4127711@vidiotsfoundation.org
+DTSTAMP:20260615T020000Z
+DTSTART;TZID=America/Los_Angeles:20260614T190000
+DTEND;TZID=America/Los_Angeles:20260614T205600
+SUMMARY:Ghost Dog: The Way of the Samurai
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133371/
-DESCRIPTION:Run time: 93 min | Format: Digital | Rating: NC-17\n\nSeries: I
- n the Eagle\n\nWe're headed out to the trailer park for one of the trashie
- st films ever made and the quintessential cult classic that changed cinema
-  forever.\n\nTickets: https://vidiotsfoundation.org/purchase/4133371/\n\nD
- etails: https://vidiotsfoundation.org/movies/pink-flamingos/
+URL:https://vidiotsfoundation.org/purchase/4127711/
+DESCRIPTION:Run time: 116 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\, Synth History\n\nLive by the code. Die by the code.\nCo-Present
+ ed by Synth History!\n\nTickets: https://vidiotsfoundation.org/purchase/41
+ 27711/\n\nDetails: https://vidiotsfoundation.org/movies/ghost-dog-the-way-
+ of-the-samurai/
 END:VEVENT
 END:VCALENDAR
