@@ -188,9 +188,9 @@ DESCRIPTION:Run time: 81 min | Format: Digital\n\nSeries: Groundbreaking No
  orld\, led by brave scientists fighting censorship as they reveal the trut
  h about our nature. Second Nature — everything you didn’t learn in hig
  h school biology!\nWith producer/director Drew Denny in conversation after
-  the screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4133395
- /\n\nDetails: https://vidiotsfoundation.org/movies/second-nature-gender-an
- d-sexuality-in-the-animal-world/
+  the screening\, moderated by comedian Ever Mainard!\n\nTickets: https://v
+ idiotsfoundation.org/purchase/4133395/\n\nDetails: https://vidiotsfoundati
+ on.org/movies/second-nature-gender-and-sexuality-in-the-animal-world/
 END:VEVENT
 BEGIN:VEVENT
 UID:4158802@vidiotsfoundation.org
@@ -405,9 +405,9 @@ DESCRIPTION:Run time: 96 min\n\nSeries: In the MUBI Microcinema\n\nAn all 1
  6mm program of groundbreaking and jaw-dropping short films from the 1930s 
  - 1970s that not only challenged the norms of gender and sexuality but of 
  form and fluidity of filmmaking\, including works by Jean Genet\, Barbara 
- Hammer\, Coni Beeson and more!\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4158845/\n\nDetails: https://vidiotsfoundation.org/movies/sweet-16
- mm-revolutionary-queer-cinema/
+ Hammer\, Coni Beeson and more!\nSecond Screening added Sunday\, June 28th\
+ n\nTickets: https://vidiotsfoundation.org/purchase/4158845/\n\nDetails: ht
+ tps://vidiotsfoundation.org/movies/sweet-16mm-revolutionary-queer-cinema/
 END:VEVENT
 BEGIN:VEVENT
 UID:4134600@vidiotsfoundation.org
@@ -551,9 +551,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4133170/
 DESCRIPTION:Run time: 89 min | Format: Digital | Rating: PG\n\nSeries: Grou
- ndbreaking Non-Fiction\, In the Eagle\n\nThe untold story of the Rumble in
-  the Jungle.\n\nTickets: https://vidiotsfoundation.org/purchase/4133170/\n
- \nDetails: https://vidiotsfoundation.org/movies/when-we-were-kings/
+ ndbreaking Non-Fiction\, In the Eagle\n\nVidiots got you court-side seats 
+ to one of the most monumental bouts in the history of boxing - The Rumble 
+ in the Jungle between boxing legends Muhammad Ali and George Foreman!\n\nT
+ ickets: https://vidiotsfoundation.org/purchase/4133170/\n\nDetails: https:
+ //vidiotsfoundation.org/movies/when-we-were-kings/
 END:VEVENT
 BEGIN:VEVENT
 UID:4158871@vidiotsfoundation.org
@@ -721,6 +723,23 @@ DESCRIPTION:Run time: 92 min | Format: Digital\n\nSeries: Groundbreaking No
  tps://vidiotsfoundation.org/movies/we-are-pat/
 END:VEVENT
 BEGIN:VEVENT
+UID:4244417@vidiotsfoundation.org
+DTSTAMP:20260629T023000Z
+DTSTART;TZID=America/Los_Angeles:20260628T193000
+DTEND;TZID=America/Los_Angeles:20260628T210600
+SUMMARY:Sweet 16mm: Revolutionary Queer Cinema
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4244417/
+DESCRIPTION:Run time: 96 min\n\nSeries: In the MUBI Microcinema\n\nAn all 1
+ 6mm program of groundbreaking and jaw-dropping short films from the 1930s 
+ - 1970s that not only challenged the norms of gender and sexuality but of 
+ form and fluidity of filmmaking\, including works by Jean Genet\, Barbara 
+ Hammer\, Coni Beeson and more!\nSecond Screening added Sunday\, June 28th\
+ n\nTickets: https://vidiotsfoundation.org/purchase/4244417/\n\nDetails: ht
+ tps://vidiotsfoundation.org/movies/sweet-16mm-revolutionary-queer-cinema/
+END:VEVENT
+BEGIN:VEVENT
 UID:4158882@vidiotsfoundation.org
 DTSTAMP:20260630T020000Z
 DTSTART;TZID=America/Los_Angeles:20260629T190000
@@ -782,10 +801,12 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
 URL:https://vidiotsfoundation.org/purchase/4254089/
 DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
  es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
- a\n\nUnderland dives deep into the Earth to present a groundbreaking visio
- n for rethinking our lives on this fragile surface.\n\nTickets: https://vi
- diotsfoundation.org/purchase/4254089/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/underland/
+ a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
+ we travel alongside several ‘astronauts of the underworld’ into ancien
+ t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
+ al chambers and a deep underground laboratory built to solve the mysteries
+  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42540
+ 89/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
 END:VEVENT
 BEGIN:VEVENT
 UID:4248103@vidiotsfoundation.org
@@ -815,10 +836,12 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
 URL:https://vidiotsfoundation.org/purchase/4254104/
 DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
  es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
- a\n\nUnderland dives deep into the Earth to present a groundbreaking visio
- n for rethinking our lives on this fragile surface.\n\nTickets: https://vi
- diotsfoundation.org/purchase/4254104/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/underland/
+ a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
+ we travel alongside several ‘astronauts of the underworld’ into ancien
+ t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
+ al chambers and a deep underground laboratory built to solve the mysteries
+  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42541
+ 04/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252656@vidiotsfoundation.org
@@ -829,11 +852,11 @@ SUMMARY:WALL·E
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252656/
-DESCRIPTION:Run time: 98 min | Format: Digital | Rating: G\n\nSeries: Films
-  for Everyone\, In the Eagle\n\nNever has a robot had such pathos than in 
- this beloved high-tech animation!\n\nTickets: https://vidiotsfoundation.or
- g/purchase/4252656/\n\nDetails: https://vidiotsfoundation.org/movies/wall%
- c2%b7e/
+DESCRIPTION:Run time: 98 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nNever has a robot had such pathos t
+ han in this beloved high-tech animation!\n\nTickets: https://vidiotsfounda
+ tion.org/purchase/4252656/\n\nDetails: https://vidiotsfoundation.org/movie
+ s/wall%c2%b7e/
 END:VEVENT
 BEGIN:VEVENT
 UID:4253409@vidiotsfoundation.org
@@ -846,10 +869,12 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
 URL:https://vidiotsfoundation.org/purchase/4253409/
 DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
  es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
- a\n\nUnderland dives deep into the Earth to present a groundbreaking visio
- n for rethinking our lives on this fragile surface.\n\nTickets: https://vi
- diotsfoundation.org/purchase/4253409/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/underland/
+ a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
+ we travel alongside several ‘astronauts of the underworld’ into ancien
+ t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
+ al chambers and a deep underground laboratory built to solve the mysteries
+  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42534
+ 09/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252654@vidiotsfoundation.org
@@ -878,10 +903,12 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
 URL:https://vidiotsfoundation.org/purchase/4253417/
 DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
  es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
- a\n\nUnderland dives deep into the Earth to present a groundbreaking visio
- n for rethinking our lives on this fragile surface.\n\nTickets: https://vi
- diotsfoundation.org/purchase/4253417/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/underland/
+ a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
+ we travel alongside several ‘astronauts of the underworld’ into ancien
+ t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
+ al chambers and a deep underground laboratory built to solve the mysteries
+  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42534
+ 17/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252657@vidiotsfoundation.org
@@ -897,6 +924,21 @@ DESCRIPTION:Run time: 145 min | Format: Digital | Rating: PG-13\n\nSeries:
  atriotic screening of this action-packed science fiction blockbuster!\n\nT
  ickets: https://vidiotsfoundation.org/purchase/4252657/\n\nDetails: https:
  //vidiotsfoundation.org/movies/independence-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:4253421@vidiotsfoundation.org
+DTSTAMP:20260704T020000Z
+DTSTART;TZID=America/Los_Angeles:20260703T190000
+DTEND;TZID=America/Los_Angeles:20260703T205400
+SUMMARY:Rose of Nevada
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253421/
+DESCRIPTION:Run time: 114 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\n\nPrepare yourself for an hypnotic analog time
+  machine of a filmgoing experience with Mark Jenkin's otherworldly 16mm sc
+ ience fiction artifact!\n\nTickets: https://vidiotsfoundation.org/purchase
+ /4253421/\n\nDetails: https://vidiotsfoundation.org/movies/rose-of-nevada/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252658@vidiotsfoundation.org
@@ -954,9 +996,10 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252663/
 DESCRIPTION:Run time: 91 min | Format: Digital | Rating: All Ages\n\nSeries
- : Films for Everyone\, In the Eagle\n\nLet us share this whole new world w
- ith you!\n\nTickets: https://vidiotsfoundation.org/purchase/4252663/\n\nDe
- tails: https://vidiotsfoundation.org/movies/aladdin/
+ : Films for Everyone\, In the Eagle\n\nIt's time to hop on your magic carp
+ et for this enchanting tale of rags to riches. Let us share this whole new
+  world with you!\n\nTickets: https://vidiotsfoundation.org/purchase/425266
+ 3/\n\nDetails: https://vidiotsfoundation.org/movies/aladdin/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252664@vidiotsfoundation.org
@@ -968,9 +1011,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252664/
 DESCRIPTION:Run time: 113 min | Format: Digital\n\nSeries: In the Eagle\n\n
- Is anyone really who they seem to be?\n\nTickets: https://vidiotsfoundatio
- n.org/purchase/4252664/\n\nDetails: https://vidiotsfoundation.org/movies/c
- harade/
+ Want a glamorous vacation to Paris but don’t want to spring for airfare?
+  Then just buy a ticket to Charade\, a zesty cocktail of macabre thriller\
+ , exotic romance\, and madcap caper comedy!\n\nTickets: https://vidiotsfou
+ ndation.org/purchase/4252664/\n\nDetails: https://vidiotsfoundation.org/mo
+ vies/charade/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252665@vidiotsfoundation.org
@@ -997,12 +1042,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252668/
 DESCRIPTION:Run time: 107 min | Format: Digital\n\nSeries: Doors Open at 6\
- , In the Eagle\n\nWeir achieves atmospheric perfection with the help of hi
- s cinematographer Russell Boyd and an eerie pan flute score by Zamfir in a
- ddition to the desolate and daunting Australian scenery and elegant and et
- hereal costumes.\n\nTickets: https://vidiotsfoundation.org/purchase/425266
- 8/\n\nDetails: https://vidiotsfoundation.org/movies/picnic-at-hanging-rock
- /
+ , In the Eagle\n\nGet lost in Peter Weir's haunting dream of a film - an e
+ nduring and enigmatic mystery\, and considered to be the greatest Australi
+ an film of all time.\n\nTickets: https://vidiotsfoundation.org/purchase/42
+ 52668/\n\nDetails: https://vidiotsfoundation.org/movies/picnic-at-hanging-
+ rock/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252673@vidiotsfoundation.org
@@ -1053,6 +1097,22 @@ DESCRIPTION:Run time: 156 min | Format: Digital | Release year: 2016\n\nSer
  252695/\n\nDetails: https://vidiotsfoundation.org/movies/the-wailing/
 END:VEVENT
 BEGIN:VEVENT
+UID:4268194@vidiotsfoundation.org
+DTSTAMP:20260710T234500Z
+DTSTART;TZID=America/Los_Angeles:20260710T164500
+DTEND;TZID=America/Los_Angeles:20260710T182500
+SUMMARY:Maddie’s Secret
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4268194/
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
+ , daring tonal shifts and intimate performances\, the film marks a bold ne
+ w voice in contemporary cinema.\n\nTickets: https://vidiotsfoundation.org/
+ purchase/4268194/\n\nDetails: https://vidiotsfoundation.org/movies/maddies
+ -secret/
+END:VEVENT
+BEGIN:VEVENT
 UID:4252699@vidiotsfoundation.org
 DTSTAMP:20260711T020000Z
 DTSTART;TZID=America/Los_Angeles:20260710T190000
@@ -1062,9 +1122,27 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252699/
 DESCRIPTION:Run time: 135 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\n\nBeyond the horizon lies the secret to a new beginning.\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4252699/\n\nDetails: https
- ://vidiotsfoundation.org/movies/waterworld/
+ In the Eagle\n\nThe most expensive movie ever made at the time of its rele
+ ase\, Waterworld puts every dollar up on the screen with stunning producti
+ on design\, incredible practical effects\, and awe-inspiring stunts that l
+ ook even better today!\n\nTickets: https://vidiotsfoundation.org/purchase/
+ 4252699/\n\nDetails: https://vidiotsfoundation.org/movies/waterworld/
+END:VEVENT
+BEGIN:VEVENT
+UID:4268192@vidiotsfoundation.org
+DTSTAMP:20260711T023000Z
+DTSTART;TZID=America/Los_Angeles:20260710T193000
+DTEND;TZID=America/Los_Angeles:20260710T211000
+SUMMARY:Maddie’s Secret
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4268192/
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
+ , daring tonal shifts and intimate performances\, the film marks a bold ne
+ w voice in contemporary cinema.\n\nTickets: https://vidiotsfoundation.org/
+ purchase/4268192/\n\nDetails: https://vidiotsfoundation.org/movies/maddies
+ -secret/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252700@vidiotsfoundation.org
@@ -1083,6 +1161,41 @@ DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: In th
  .org/movies/heavy-metal/
 END:VEVENT
 BEGIN:VEVENT
+UID:4268193@vidiotsfoundation.org
+DTSTAMP:20260711T051500Z
+DTSTART;TZID=America/Los_Angeles:20260710T221500
+DTEND;TZID=America/Los_Angeles:20260710T235500
+SUMMARY:Maddie’s Secret
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4268193/
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
+ , daring tonal shifts and intimate performances\, the film marks a bold ne
+ w voice in contemporary cinema.\n\nTickets: https://vidiotsfoundation.org/
+ purchase/4268193/\n\nDetails: https://vidiotsfoundation.org/movies/maddies
+ -secret/
+END:VEVENT
+BEGIN:VEVENT
+UID:4267744@vidiotsfoundation.org
+DTSTAMP:20260711T233000Z
+DTSTART;TZID=America/Los_Angeles:20260711T163000
+DTEND;TZID=America/Los_Angeles:20260711T175500
+SUMMARY:Coroner to the Stars
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4267744/
+DESCRIPTION:Run time: 85 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the m
+ icrocinema for a fascinating documentary at the intersection of Hollywood\
+ , morbid curiosity\, and the American immigrant experience\, Coroner to th
+ e Stars - a chronicle of the extraordinary journey of Dr. Thomas Noguchi\,
+  the former Los Angeles County Chief Medical Examiner-Coroner whose ground
+ breaking autopsies forever shaped American culture.\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4267744/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/coroner-to-the-stars/
+END:VEVENT
+BEGIN:VEVENT
 UID:4252707@vidiotsfoundation.org
 DTSTAMP:20260712T013000Z
 DTSTART;TZID=America/Los_Angeles:20260711T183000
@@ -1095,6 +1208,38 @@ DESCRIPTION:Run time: 142 min | Format: Digital | Rating: R\n\nSeries: In t
  he Eagle\n\nNo one is safe from Son of Sam.\n\nTickets: https://vidiotsfou
  ndation.org/purchase/4252707/\n\nDetails: https://vidiotsfoundation.org/mo
  vies/summer-of-sam/
+END:VEVENT
+BEGIN:VEVENT
+UID:4267751@vidiotsfoundation.org
+DTSTAMP:20260712T020000Z
+DTSTART;TZID=America/Los_Angeles:20260711T190000
+DTEND;TZID=America/Los_Angeles:20260711T204000
+SUMMARY:Maddie’s Secret
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4267751/
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
+ , daring tonal shifts and intimate performances\, the film marks a bold ne
+ w voice in contemporary cinema.\n\nTickets: https://vidiotsfoundation.org/
+ purchase/4267751/\n\nDetails: https://vidiotsfoundation.org/movies/maddies
+ -secret/
+END:VEVENT
+BEGIN:VEVENT
+UID:4267752@vidiotsfoundation.org
+DTSTAMP:20260712T043000Z
+DTSTART;TZID=America/Los_Angeles:20260711T213000
+DTEND;TZID=America/Los_Angeles:20260711T231000
+SUMMARY:Maddie’s Secret
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4267752/
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
+ , daring tonal shifts and intimate performances\, the film marks a bold ne
+ w voice in contemporary cinema.\n\nTickets: https://vidiotsfoundation.org/
+ purchase/4267752/\n\nDetails: https://vidiotsfoundation.org/movies/maddies
+ -secret/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252710@vidiotsfoundation.org
@@ -1126,6 +1271,25 @@ DESCRIPTION:Run time: 93 min | Format: Digital | Rating: All Ages\n\nSeries
  ase/4252714/\n\nDetails: https://vidiotsfoundation.org/movies/brave/
 END:VEVENT
 BEGIN:VEVENT
+UID:4215458@vidiotsfoundation.org
+DTSTAMP:20260712T203000Z
+DTSTART;TZID=America/Los_Angeles:20260712T133000
+DTEND;TZID=America/Los_Angeles:20260712T145500
+SUMMARY:Coroner to the Stars
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4215458/
+DESCRIPTION:Run time: 85 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the m
+ icrocinema for a fascinating documentary at the intersection of Hollywood\
+ , morbid curiosity\, and the American immigrant experience\, Coroner to th
+ e Stars - a chronicle of the extraordinary journey of Dr. Thomas Noguchi\,
+  the former Los Angeles County Chief Medical Examiner-Coroner whose ground
+ breaking autopsies forever shaped American culture.\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4215458/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/coroner-to-the-stars/
+END:VEVENT
+BEGIN:VEVENT
 UID:4252715@vidiotsfoundation.org
 DTSTAMP:20260712T230000Z
 DTSTART;TZID=America/Los_Angeles:20260712T160000
@@ -1138,6 +1302,25 @@ DESCRIPTION:Run time: 85 min | Format: Digital | Release year: 1971\n\nSeri
  es: In the Eagle\n\nThe Smog Monster Hedorah arrives in a shooting star!\n
  \nTickets: https://vidiotsfoundation.org/purchase/4252715/\n\nDetails: htt
  ps://vidiotsfoundation.org/movies/godzilla-vs-hedorah/
+END:VEVENT
+BEGIN:VEVENT
+UID:4215468@vidiotsfoundation.org
+DTSTAMP:20260712T231500Z
+DTSTART;TZID=America/Los_Angeles:20260712T161500
+DTEND;TZID=America/Los_Angeles:20260712T174000
+SUMMARY:Coroner to the Stars
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4215468/
+DESCRIPTION:Run time: 85 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the m
+ icrocinema for a fascinating documentary at the intersection of Hollywood\
+ , morbid curiosity\, and the American immigrant experience\, Coroner to th
+ e Stars - a chronicle of the extraordinary journey of Dr. Thomas Noguchi\,
+  the former Los Angeles County Chief Medical Examiner-Coroner whose ground
+ breaking autopsies forever shaped American culture.\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4215468/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/coroner-to-the-stars/
 END:VEVENT
 BEGIN:VEVENT
 UID:4215461@vidiotsfoundation.org
@@ -1156,6 +1339,38 @@ DESCRIPTION:Run time: 108 min | Format: Digital | Rating: R\n\nBlending the
  d/
 END:VEVENT
 BEGIN:VEVENT
+UID:4268207@vidiotsfoundation.org
+DTSTAMP:20260713T023000Z
+DTSTART;TZID=America/Los_Angeles:20260712T193000
+DTEND;TZID=America/Los_Angeles:20260712T211000
+SUMMARY:Maddie’s Secret
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4268207/
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
+ , daring tonal shifts and intimate performances\, the film marks a bold ne
+ w voice in contemporary cinema.\n\nTickets: https://vidiotsfoundation.org/
+ purchase/4268207/\n\nDetails: https://vidiotsfoundation.org/movies/maddies
+ -secret/
+END:VEVENT
+BEGIN:VEVENT
+UID:4268209@vidiotsfoundation.org
+DTSTAMP:20260714T020000Z
+DTSTART;TZID=America/Los_Angeles:20260713T190000
+DTEND;TZID=America/Los_Angeles:20260713T204000
+SUMMARY:Maddie’s Secret
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4268209/
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
+ , daring tonal shifts and intimate performances\, the film marks a bold ne
+ w voice in contemporary cinema.\n\nTickets: https://vidiotsfoundation.org/
+ purchase/4268209/\n\nDetails: https://vidiotsfoundation.org/movies/maddies
+ -secret/
+END:VEVENT
+BEGIN:VEVENT
 UID:4252726@vidiotsfoundation.org
 DTSTAMP:20260714T023000Z
 DTSTART;TZID=America/Los_Angeles:20260713T193000
@@ -1165,9 +1380,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252726/
 DESCRIPTION:Run time: 183 min | Format: Digital | Rating: R\n\nSeries: Door
- s Open at 6\, In the Eagle\n\nOne of the most important and powerful films
-  of all time!\n\nTickets: https://vidiotsfoundation.org/purchase/4252726/\
- n\nDetails: https://vidiotsfoundation.org/movies/the-deer-hunter/
+ s Open at 6\, In the Eagle\n\nOne of the first American movies to directly
+  depict the chaos and violence of the Vietnam War\, The Deer Hunter is a t
+ riumph of visionary New Hollywood filmmaking from director Michael Cimino.
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4252726/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/the-deer-hunter/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252730@vidiotsfoundation.org
@@ -1186,6 +1403,22 @@ DESCRIPTION:Run time: 76 min | Format: Digital\n\nSeries: Doors Open at 6\,
  ie Huber in person!\n\nTickets: https://vidiotsfoundation.org/purchase/425
  2730/\n\nDetails: https://vidiotsfoundation.org/movies/harry-dean-stanton-
  partly-fiction/
+END:VEVENT
+BEGIN:VEVENT
+UID:4268213@vidiotsfoundation.org
+DTSTAMP:20260716T020000Z
+DTSTART;TZID=America/Los_Angeles:20260715T190000
+DTEND;TZID=America/Los_Angeles:20260715T204000
+SUMMARY:Maddie’s Secret
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4268213/
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
+ , daring tonal shifts and intimate performances\, the film marks a bold ne
+ w voice in contemporary cinema.\n\nTickets: https://vidiotsfoundation.org/
+ purchase/4268213/\n\nDetails: https://vidiotsfoundation.org/movies/maddies
+ -secret/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252731@vidiotsfoundation.org
