@@ -8,42 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4188799@vidiotsfoundation.org
-DTSTAMP:20260614T203000Z
-DTSTART;TZID=America/Los_Angeles:20260614T133000
-DTEND;TZID=America/Los_Angeles:20260614T151500
-SUMMARY:I Love Boosters
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4188799/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nThe fashion\, the fun\, the gonzo satire - it's the wildest rid
- e in cinema this year and an absolute revelation for those of us who have 
- been craving the return of originality to filmmaking.\n\nTickets: https://
- vidiotsfoundation.org/purchase/4188799/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/i-love-boosters/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4133520@vidiotsfoundation.org
-DTSTAMP:20260615T023000Z
-DTSTART;TZID=America/Los_Angeles:20260614T193000
-DTEND;TZID=America/Los_Angeles:20260614T211500
-SUMMARY:I Love Boosters
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133520/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nThe fashion\, the fun\, the gonzo satire - it's the wildest rid
- e in cinema this year and an absolute revelation for those of us who have 
- been craving the return of originality to filmmaking.\n\nTickets: https://
- vidiotsfoundation.org/purchase/4133520/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/i-love-boosters/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4133522@vidiotsfoundation.org
 DTSTAMP:20260616T020000Z
 DTSTART;TZID=America/Los_Angeles:20260615T190000
@@ -52,28 +16,12 @@ SUMMARY:I Love Boosters
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4133522/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nThe fashion\, the fun\, the gonz
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: In t
+ he MUBI Microcinema\, Additional Shows\n\nThe fashion\, the fun\, the gonz
  o satire - it's the wildest ride in cinema this year and an absolute revel
  ation for those of us who have been craving the return of originality to f
  ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4133522/\n\n
  Details: https://vidiotsfoundation.org/movies/i-love-boosters/
-END:VEVENT
-BEGIN:VEVENT
-UID:4242965@vidiotsfoundation.org
-DTSTAMP:20260616T023000Z
-DTSTART;TZID=America/Los_Angeles:20260615T193000
-DTEND;TZID=America/Los_Angeles:20260615T210800
-SUMMARY:Never Change!
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://events.humanitix.com/kcrw-partner-screening-never-change
-DESCRIPTION:Run time: 98 min | Format: Digital\n\nSeries: Community Partner
- s\, Free Events\, In the Eagle\n\nKCRW\, Vidiots\, and Hulu invite you to 
- a special advance screening of Never Change! followed by a conversation wi
- th director Marty Schousboe moderated by Jason Woliner.\n\nTickets: https:
- //events.humanitix.com/kcrw-partner-screening-never-change\n\nDetails: htt
- ps://vidiotsfoundation.org/movies/never-change/
 END:VEVENT
 BEGIN:VEVENT
 UID:4196615@vidiotsfoundation.org
@@ -85,8 +33,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4196615/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nThe fashion\, the fun\, the gonzo satire - it's the wildest rid
+ Format: Digital | Rating: R\n\nSeries: In the MUBI Microcinema\, Additiona
+ l Shows\n\nThe fashion\, the fun\, the gonzo satire - it's the wildest rid
  e in cinema this year and an absolute revelation for those of us who have 
  been craving the return of originality to filmmaking.\n\nTickets: https://
  vidiotsfoundation.org/purchase/4196615/\n\nDetails: https://vidiotsfoundat
@@ -139,8 +87,8 @@ SUMMARY:I Love Boosters
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4196620/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nThe fashion\, the fun\, the gonz
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: In t
+ he MUBI Microcinema\, Additional Shows\n\nThe fashion\, the fun\, the gonz
  o satire - it's the wildest ride in cinema this year and an absolute revel
  ation for those of us who have been craving the return of originality to f
  ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4196620/\n\n
@@ -322,8 +270,8 @@ SUMMARY:I Love Boosters
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4158806/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nThe fashion\, the fun\, the gonz
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: In t
+ he MUBI Microcinema\, Additional Shows\n\nThe fashion\, the fun\, the gonz
  o satire - it's the wildest ride in cinema this year and an absolute revel
  ation for those of us who have been craving the return of originality to f
  ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4158806/\n\n
@@ -356,8 +304,8 @@ SUMMARY:I Love Boosters
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4158809/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nThe fashion\, the fun\, the gonz
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: In t
+ he MUBI Microcinema\, Additional Shows\n\nThe fashion\, the fun\, the gonz
  o satire - it's the wildest ride in cinema this year and an absolute revel
  ation for those of us who have been craving the return of originality to f
  ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4158809/\n\n
@@ -1464,64 +1412,19 @@ DESCRIPTION:Run time: 171 min | Format: Digital | Rating: R\n\nSeries: Door
  ies/the-unbearable-lightness-of-being/
 END:VEVENT
 BEGIN:VEVENT
-UID:4127707@vidiotsfoundation.org
-DTSTAMP:20260614T194500Z
-DTSTART;TZID=America/Los_Angeles:20260614T124500
-DTEND;TZID=America/Los_Angeles:20260614T140600
-SUMMARY:Ice Age
+UID:4242965@vidiotsfoundation.org
+DTSTAMP:20260616T023000Z
+DTSTART;TZID=America/Los_Angeles:20260615T193000
+DTEND;TZID=America/Los_Angeles:20260615T210800
+SUMMARY:Never Change!
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127707/
-DESCRIPTION:Run time: 81 min | Format: Digital | Rating: PG\n\nSeries: Film
- s for Everyone\, In the Eagle\, TeenTix LA\n\nGet ready for some prehister
- ical fun as we head back in time with this icy animated classic of sub-zer
- o heroes.\n\nTickets: https://vidiotsfoundation.org/purchase/4127707/\n\nD
- etails: https://vidiotsfoundation.org/movies/ice-age/
-END:VEVENT
-BEGIN:VEVENT
-UID:4127708@vidiotsfoundation.org
-DTSTAMP:20260614T223000Z
-DTSTART;TZID=America/Los_Angeles:20260614T153000
-DTEND;TZID=America/Los_Angeles:20260614T175000
-SUMMARY:Maurice
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127708/
-DESCRIPTION:Run time: 140 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\, TeenTix LA\n\nCome swoon with us as Hugh Grant grapples with hi
- s homosexuality in Edwardian England in Merchant and Ivory's dreamy adapta
- tion of the E.M. Forster novel.\n\nTickets: https://vidiotsfoundation.org/
- purchase/4127708/\n\nDetails: https://vidiotsfoundation.org/movies/maurice
- /
-END:VEVENT
-BEGIN:VEVENT
-UID:4133519@vidiotsfoundation.org
-DTSTAMP:20260614T233000Z
-DTSTART;TZID=America/Los_Angeles:20260614T163000
-DTEND;TZID=America/Los_Angeles:20260614T181400
-SUMMARY:Onda Nova
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133519/
-DESCRIPTION:Run time: 104 min | Format: Digital | Release year: 1984\n\nSer
- ies: Additional Shows\, In the MUBI Microcinema\n\nGet your kicks in the m
- icrocinema with the coolest queer punk Brazilian soccer sex romp you've ne
- ver seen!\n\nTickets: https://vidiotsfoundation.org/purchase/4133519/\n\nD
- etails: https://vidiotsfoundation.org/movies/onda-nova/
-END:VEVENT
-BEGIN:VEVENT
-UID:4127711@vidiotsfoundation.org
-DTSTAMP:20260615T020000Z
-DTSTART;TZID=America/Los_Angeles:20260614T190000
-DTEND;TZID=America/Los_Angeles:20260614T205600
-SUMMARY:Ghost Dog: The Way of the Samurai
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127711/
-DESCRIPTION:Run time: 116 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\, Synth History\n\nLive by the code. Die by the code.\nCo-Present
- ed by Synth History!\n\nTickets: https://vidiotsfoundation.org/purchase/41
- 27711/\n\nDetails: https://vidiotsfoundation.org/movies/ghost-dog-the-way-
- of-the-samurai/
+URL:https://events.humanitix.com/kcrw-partner-screening-never-change
+DESCRIPTION:Run time: 98 min | Format: Digital\n\nSeries: Community Partner
+ s\, Free Events\, In the Eagle\n\nKCRW\, Vidiots\, and Hulu invite you to 
+ a special advance screening of Never Change! followed by a conversation wi
+ th director Marty Schousboe moderated by Jason Woliner.\n\nTickets: https:
+ //events.humanitix.com/kcrw-partner-screening-never-change\n\nDetails: htt
+ ps://vidiotsfoundation.org/movies/never-change/
 END:VEVENT
 END:VCALENDAR
