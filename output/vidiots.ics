@@ -16,12 +16,14 @@ SUMMARY:I Love Boosters
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4133522/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: In t
- he MUBI Microcinema\, Additional Shows\n\nThe fashion\, the fun\, the gonz
- o satire - it's the wildest ride in cinema this year and an absolute revel
- ation for those of us who have been craving the return of originality to f
- ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4133522/\n\n
- Details: https://vidiotsfoundation.org/movies/i-love-boosters/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
+ Format: Digital | Rating: R\n\nSeries: In the MUBI Microcinema\, Additiona
+ l Shows\n\nThe fashion\, the fun\, the gonzo satire - it's the wildest rid
+ e in cinema this year and an absolute revelation for those of us who have 
+ been craving the return of originality to filmmaking.\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4133522/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/i-love-boosters/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4196615@vidiotsfoundation.org
@@ -935,10 +937,10 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4253421/
 DESCRIPTION:Run time: 114 min | Format: Digital\n\nSeries: Additional Shows
- \, In the MUBI Microcinema\n\nPrepare yourself for an hypnotic analog time
-  machine of a filmgoing experience with Mark Jenkin's otherworldly 16mm sc
- ience fiction artifact!\n\nTickets: https://vidiotsfoundation.org/purchase
- /4253421/\n\nDetails: https://vidiotsfoundation.org/movies/rose-of-nevada/
+ \, In the MUBI Microcinema\n\nPrepare yourself for a hypnotic analog time 
+ machine of a filmgoing experience with Mark Jenkin's otherworldly 16mm sci
+ ence fiction artifact!\n\nTickets: https://vidiotsfoundation.org/purchase/
+ 4253421/\n\nDetails: https://vidiotsfoundation.org/movies/rose-of-nevada/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252658@vidiotsfoundation.org
@@ -970,6 +972,21 @@ DESCRIPTION:Run time: 124 min | Format: Digital | Rating: PG\n\nSeries: In
  sharky screenings of Steven Spielberg's perennial summer blockbuster!\n\nT
  ickets: https://vidiotsfoundation.org/purchase/4220150/\n\nDetails: https:
  //vidiotsfoundation.org/movies/jaws/
+END:VEVENT
+BEGIN:VEVENT
+UID:4268270@vidiotsfoundation.org
+DTSTAMP:20260704T230000Z
+DTSTART;TZID=America/Los_Angeles:20260704T160000
+DTEND;TZID=America/Los_Angeles:20260704T175400
+SUMMARY:Rose of Nevada
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4268270/
+DESCRIPTION:Run time: 114 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\n\nPrepare yourself for a hypnotic analog time 
+ machine of a filmgoing experience with Mark Jenkin's otherworldly 16mm sci
+ ence fiction artifact!\n\nTickets: https://vidiotsfoundation.org/purchase/
+ 4268270/\n\nDetails: https://vidiotsfoundation.org/movies/rose-of-nevada/
 END:VEVENT
 BEGIN:VEVENT
 UID:4220152@vidiotsfoundation.org
@@ -1033,6 +1050,36 @@ DESCRIPTION:Run time: 112 min | Format: Digital\n\nSeries: In the Eagle\n\n
  Details: https://vidiotsfoundation.org/movies/overboard/
 END:VEVENT
 BEGIN:VEVENT
+UID:4268290@vidiotsfoundation.org
+DTSTAMP:20260706T023000Z
+DTSTART;TZID=America/Los_Angeles:20260705T193000
+DTEND;TZID=America/Los_Angeles:20260705T212400
+SUMMARY:Rose of Nevada
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4268290/
+DESCRIPTION:Run time: 114 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\n\nPrepare yourself for a hypnotic analog time 
+ machine of a filmgoing experience with Mark Jenkin's otherworldly 16mm sci
+ ence fiction artifact!\n\nTickets: https://vidiotsfoundation.org/purchase/
+ 4268290/\n\nDetails: https://vidiotsfoundation.org/movies/rose-of-nevada/
+END:VEVENT
+BEGIN:VEVENT
+UID:4268388@vidiotsfoundation.org
+DTSTAMP:20260707T020000Z
+DTSTART;TZID=America/Los_Angeles:20260706T190000
+DTEND;TZID=America/Los_Angeles:20260706T205400
+SUMMARY:Rose of Nevada
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4268388/
+DESCRIPTION:Run time: 114 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\n\nPrepare yourself for a hypnotic analog time 
+ machine of a filmgoing experience with Mark Jenkin's otherworldly 16mm sci
+ ence fiction artifact!\n\nTickets: https://vidiotsfoundation.org/purchase/
+ 4268388/\n\nDetails: https://vidiotsfoundation.org/movies/rose-of-nevada/
+END:VEVENT
+BEGIN:VEVENT
 UID:4252668@vidiotsfoundation.org
 DTSTAMP:20260708T013000Z
 DTSTART;TZID=America/Los_Angeles:20260707T183000
@@ -1076,8 +1123,9 @@ DESCRIPTION:Run time: 156 min | Format: Digital | Release year: 2016\n\nSer
   In the Eagle\n\nCo-presented by Luaka Bop\, the record label founded by D
  avid Byrne. The screening will be followed by a conversation with Jang You
  ng-gyu\, the film’s composer and founder of the award-winning Korean psy
- ch-pop band Leenalchi\n\nTickets: https://vidiotsfoundation.org/purchase/4
- 197656/\n\nDetails: https://vidiotsfoundation.org/movies/the-wailing/
+ ch-pop band Leenalchi\nSecond screening added (screening only) Friday\, Ju
+ ly 10th\n\nTickets: https://vidiotsfoundation.org/purchase/4197656/\n\nDet
+ ails: https://vidiotsfoundation.org/movies/the-wailing/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252695@vidiotsfoundation.org
@@ -1088,13 +1136,14 @@ SUMMARY:The Wailing
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252695/
-DESCRIPTION:Run time: 156 min | Format: Digital | Release year: 2016\n\nSer
- ies: Community Partners\, Doors Open at 6\, Special Guests in Attendance\,
-  In the Eagle\n\nCo-presented by Luaka Bop\, the record label founded by D
- avid Byrne. The screening will be followed by a conversation with Jang You
- ng-gyu\, the film’s composer and founder of the award-winning Korean psy
- ch-pop band Leenalchi\n\nTickets: https://vidiotsfoundation.org/purchase/4
- 252695/\n\nDetails: https://vidiotsfoundation.org/movies/the-wailing/
+DESCRIPTION:No Guest\n\nRun time: 156 min | Format: Digital | Release year:
+  2016\n\nSeries: Community Partners\, Doors Open at 6\, Special Guests in 
+ Attendance\, In the Eagle\n\nCo-presented by Luaka Bop\, the record label 
+ founded by David Byrne. The screening will be followed by a conversation w
+ ith Jang Young-gyu\, the film’s composer and founder of the award-winnin
+ g Korean psych-pop band Leenalchi\nSecond screening added (screening only)
+  Friday\, July 10th\n\nTickets: https://vidiotsfoundation.org/purchase/425
+ 2695/\n\nDetails: https://vidiotsfoundation.org/movies/the-wailing/
 END:VEVENT
 BEGIN:VEVENT
 UID:4268194@vidiotsfoundation.org
@@ -1398,11 +1447,11 @@ URL:https://vidiotsfoundation.org/purchase/4252730/
 DESCRIPTION:Run time: 76 min | Format: Digital\n\nSeries: Doors Open at 6\,
   Groundbreaking Non-Fiction\, In the Eagle\, Special Guests in Attendance\
  n\nJoin Vidiots as we celebrate what would have been the 100th birthday of
-  the legendary Harry Dean Stanton with a special screening of the lovingly
-  crafted documentary Harry Dean Stanton: Partly Fiction with director Soph
- ie Huber in person!\n\nTickets: https://vidiotsfoundation.org/purchase/425
- 2730/\n\nDetails: https://vidiotsfoundation.org/movies/harry-dean-stanton-
- partly-fiction/
+  the legendary Harry Dean Stanton with a special screening of the critical
+ ly acclaimed\, unusually poetic documentary Harry Dean Stanton: Partly Fic
+ tion with director Sophie Huber in person!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4252730/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/harry-dean-stanton-partly-fiction/
 END:VEVENT
 BEGIN:VEVENT
 UID:4268213@vidiotsfoundation.org
@@ -1447,6 +1496,24 @@ DESCRIPTION:Run time: 116 min | Format: Digital | Rating: R\n\nSeries: In t
  he Eagle\n\nGet ready for rush hour.\n\nTickets: https://vidiotsfoundation
  .org/purchase/4252861/\n\nDetails: https://vidiotsfoundation.org/movies/sp
  eed/
+END:VEVENT
+BEGIN:VEVENT
+UID:4253111@vidiotsfoundation.org
+DTSTAMP:20260718T230000Z
+DTSTART;TZID=America/Los_Angeles:20260718T160000
+DTEND;TZID=America/Los_Angeles:20260718T172100
+SUMMARY:National Film Preservation Foundation’s Semiquincentennial Celebr
+ ation of Celluloid
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253111/
+DESCRIPTION:Run time: 81 min\n\nSeries: In the Eagle\n\nFor nearly 30 years
+  the NFPF has been helping to preserve America’s film heritage. This col
+ lection of shorts from archives around the country reveals the many ways
+ —from amateur to avant-garde—that American filmmakers have used movies
+  to inform\, honor\, document\, and critique.\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4253111/\n\nDetails: https://vidiotsfoundation.org/
+ movies/celebration-of-celluloid/
 END:VEVENT
 BEGIN:VEVENT
 UID:4253110@vidiotsfoundation.org
@@ -1612,22 +1679,6 @@ DESCRIPTION:Run time: 114 min | Format: 35mm Film | Rating: R\n\nSeries: 35
  mm Film\, In the Eagle\n\nIt's good to be king.\n\nTickets: https://vidiot
  sfoundation.org/purchase/4253157/\n\nDetails: https://vidiotsfoundation.or
  g/movies/three-kings/
-END:VEVENT
-BEGIN:VEVENT
-UID:4254358@vidiotsfoundation.org
-DTSTAMP:20260728T023000Z
-DTSTART;TZID=America/Los_Angeles:20260727T193000
-DTEND;TZID=America/Los_Angeles:20260727T213200
-SUMMARY:The Face of Another
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4254358/
-DESCRIPTION:Run time: 122 min | Format: Digital | Release year: 1966\n\nSer
- ies: Doors Open at 6\, In the Eagle\n\nWith unforgettable imagery\, Teshig
- ahara's film explores both the limits and freedom in acquiring a new perso
- na\, and questions the notion of individuality itself.\n\nTickets: https:/
- /vidiotsfoundation.org/purchase/4254358/\n\nDetails: https://vidiotsfounda
- tion.org/movies/the-face-of-another/
 END:VEVENT
 BEGIN:VEVENT
 UID:4254360@vidiotsfoundation.org
