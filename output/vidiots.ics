@@ -661,15 +661,16 @@ SUMMARY:ASCO: Without Permission
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4153311/
-DESCRIPTION:Guest\n\nRun time: 90 min | Format: Digital\n\nSeries: Addition
- al Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special 
- Guests in Attendance\n\nFrom executive producers Gael García Bernal and D
- iego Luna this inspiring triumph of creativity challenges the limits of do
- cumentary conventions to tell the story of a revolutionary Chicano art gro
- up who turned 1970s LA into their defiant canvas.\nWith Director Travis Gu
- tiérrez Senger at the Sunday\, June 28th screening!\n\nTickets: https://v
- idiotsfoundation.org/purchase/4153311/\n\nDetails: https://vidiotsfoundati
- on.org/movies/asco-without-permission/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\, Special Guests in Attendance\n\nFrom executive p
+ roducers Gael García Bernal and Diego Luna this inspiring triumph of crea
+ tivity challenges the limits of documentary conventions to tell the story 
+ of a revolutionary Chicano art group who turned 1970s LA into their defian
+ t canvas.\nWith Director Travis Gutiérrez Senger at the Sunday\, June 28t
+ h screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4153311/\n
+ \nDetails: https://vidiotsfoundation.org/movies/asco-without-permission/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4133190@vidiotsfoundation.org
@@ -809,6 +810,22 @@ DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
  al chambers and a deep underground laboratory built to solve the mysteries
   of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42541
  04/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252662@vidiotsfoundation.org
+DTSTAMP:20260703T023000Z
+DTSTART;TZID=America/Los_Angeles:20260702T193000
+DTEND;TZID=America/Los_Angeles:20260702T210700
+SUMMARY:Band of Outsiders
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252662/
+DESCRIPTION:Run time: 97 min | Format: Digital | Release year: 1964\n\nSeri
+ es: Doors Open at 6\, In the Eagle\n\nOne of Jean-Luc Godard's most charmi
+ ng crime capers\, cinema doesn't get much cooler than this laissez-faire d
+ alliance with love\, danger\, friendship\, and amateur criminality.\n\nTic
+ kets: https://vidiotsfoundation.org/purchase/4252662/\n\nDetails: https://
+ vidiotsfoundation.org/movies/band-of-outsiders/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252656@vidiotsfoundation.org
@@ -1265,9 +1282,9 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252710/
 DESCRIPTION:Run time: 92 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\n\nJust because they serve you doesn't mean they like you.\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4252710/\n\nDetails: https://v
- idiotsfoundation.org/movies/clerks/
+ e Eagle\n\nAll the action is behind the counter in Kevin Smith's micro-bud
+ get indie breakthrough.\n\nTickets: https://vidiotsfoundation.org/purchase
+ /4252710/\n\nDetails: https://vidiotsfoundation.org/movies/clerks/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252714@vidiotsfoundation.org
@@ -1603,6 +1620,21 @@ DESCRIPTION:Run time: 94 min | Format: Digital | Release year: 1992\n\nSeri
  ails: https://vidiotsfoundation.org/movies/jamon-jamon/
 END:VEVENT
 BEGIN:VEVENT
+UID:4270604@vidiotsfoundation.org
+DTSTAMP:20260722T023000Z
+DTSTART;TZID=America/Los_Angeles:20260721T193000
+DTEND;TZID=America/Los_Angeles:20260721T210500
+SUMMARY:Cries and Whispers
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4270604/
+DESCRIPTION:Run time: 95 min | Format: Digital | Release year: 1972\n\nSeri
+ es: Doors Open at 6\, In the Eagle\n\nFour women dressed in white in a man
+ sion painted red... haunted by whispers and cries.\n\nTickets: https://vid
+ iotsfoundation.org/purchase/4270604/\n\nDetails: https://vidiotsfoundation
+ .org/movies/cries-and-whispers/
+END:VEVENT
+BEGIN:VEVENT
 UID:4253152@vidiotsfoundation.org
 DTSTAMP:20260725T044500Z
 DTSTART;TZID=America/Los_Angeles:20260724T214500
@@ -1644,6 +1676,23 @@ DESCRIPTION:Run time: 114 min | Format: 35mm Film | Rating: R\n\nSeries: 35
  mm Film\, In the Eagle\n\nIt's good to be king.\n\nTickets: https://vidiot
  sfoundation.org/purchase/4253157/\n\nDetails: https://vidiotsfoundation.or
  g/movies/three-kings/
+END:VEVENT
+BEGIN:VEVENT
+UID:4253162@vidiotsfoundation.org
+DTSTAMP:20260726T223000Z
+DTSTART;TZID=America/Los_Angeles:20260726T153000
+DTEND;TZID=America/Los_Angeles:20260726T171200
+SUMMARY:Little Miss Sunshine
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253162/
+DESCRIPTION:Run time: 102 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\, Special Guests in Attendance\n\nJoin Vidiots and Searchlight Pi
+ ctures for a very special 20th Anniversary screening of the indie darling 
+ Little Miss Sunshine followed by a conversation with directors Jonathan Da
+ yton and Valerie Faris!\n\nTickets: https://vidiotsfoundation.org/purchase
+ /4253162/\n\nDetails: https://vidiotsfoundation.org/movies/little-miss-sun
+ shine/
 END:VEVENT
 BEGIN:VEVENT
 UID:4254360@vidiotsfoundation.org
