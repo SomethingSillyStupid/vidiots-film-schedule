@@ -52,12 +52,14 @@ SUMMARY:I Love Boosters
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4196620/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nThe fashion\, the fun\, the gonz
- o satire - it's the wildest ride in cinema this year and an absolute revel
- ation for those of us who have been craving the return of originality to f
- ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4196620/\n\n
- Details: https://vidiotsfoundation.org/movies/i-love-boosters/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
+ Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
+ ocinema\n\nThe fashion\, the fun\, the gonzo satire - it's the wildest rid
+ e in cinema this year and an absolute revelation for those of us who have 
+ been craving the return of originality to filmmaking.\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4196620/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/i-love-boosters/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4127741@vidiotsfoundation.org
@@ -1236,9 +1238,10 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252707/
 DESCRIPTION:Run time: 142 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nNo one is safe from Son of Sam.\n\nTickets: https://vidiotsfou
- ndation.org/purchase/4252707/\n\nDetails: https://vidiotsfoundation.org/mo
- vies/summer-of-sam/
+ he Eagle\n\nSpike Lee turns up the heat by revisiting one terrifying Bronx
+  summer during the ongoing rampage of the Son of Sam.\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4252707/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/summer-of-sam/
 END:VEVENT
 BEGIN:VEVENT
 UID:4267751@vidiotsfoundation.org
@@ -1330,9 +1333,10 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252715/
 DESCRIPTION:Run time: 85 min | Format: Digital | Release year: 1971\n\nSeri
- es: In the Eagle\n\nThe Smog Monster Hedorah arrives in a shooting star!\n
- \nTickets: https://vidiotsfoundation.org/purchase/4252715/\n\nDetails: htt
- ps://vidiotsfoundation.org/movies/godzilla-vs-hedorah/
+ es: In the Eagle\n\nGet ready for another monstrous rampage of supersized 
+ Kaiju fun when the King of the Monsters goes up against a monster made of 
+ toxic sludge!\n\nTickets: https://vidiotsfoundation.org/purchase/4252715/\
+ n\nDetails: https://vidiotsfoundation.org/movies/godzilla-vs-hedorah/
 END:VEVENT
 BEGIN:VEVENT
 UID:4215468@vidiotsfoundation.org
@@ -1528,6 +1532,21 @@ DESCRIPTION:Run time: 109 min | Format: Digital | Rating: R\n\nSeries: In t
  tails: https://vidiotsfoundation.org/movies/the-thing/
 END:VEVENT
 BEGIN:VEVENT
+UID:4253142@vidiotsfoundation.org
+DTSTAMP:20260719T200000Z
+DTSTART;TZID=America/Los_Angeles:20260719T130000
+DTEND;TZID=America/Los_Angeles:20260719T141800
+SUMMARY:The Emperor’s New Groove
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253142/
+DESCRIPTION:Run time: 78 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nGet in the groove with this llama-r
+ rific animated comedy with an all-star cast of voice talent!\n\nTickets: h
+ ttps://vidiotsfoundation.org/purchase/4253142/\n\nDetails: https://vidiots
+ foundation.org/movies/the-emperors-new-groove/
+END:VEVENT
+BEGIN:VEVENT
 UID:4215011@vidiotsfoundation.org
 DTSTAMP:20260719T203000Z
 DTSTART;TZID=America/Los_Angeles:20260719T133000
@@ -1635,6 +1654,22 @@ DESCRIPTION:Run time: 95 min | Format: Digital | Release year: 1972\n\nSeri
  .org/movies/cries-and-whispers/
 END:VEVENT
 BEGIN:VEVENT
+UID:4270697@vidiotsfoundation.org
+DTSTAMP:20260724T023000Z
+DTSTART;TZID=America/Los_Angeles:20260723T193000
+DTEND;TZID=America/Los_Angeles:20260723T211300
+SUMMARY:Zoot Suit
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4270697/
+DESCRIPTION:Run time: 103 min | Format: Digital | Rating: R\n\nSeries: Door
+ s Open at 6\, In the Eagle\, Special Guests in Attendance\n\nVidiots is th
+ rilled to welcome the legendary Luis Valdez for a special screening of Zoo
+ t Suit\, his memorable musical rendition of LA Chicano history starring Ed
+ ward James Olmos.\n\nTickets: https://vidiotsfoundation.org/purchase/42706
+ 97/\n\nDetails: https://vidiotsfoundation.org/movies/zoot-suit/
+END:VEVENT
+BEGIN:VEVENT
 UID:4253152@vidiotsfoundation.org
 DTSTAMP:20260725T044500Z
 DTSTART;TZID=America/Los_Angeles:20260724T214500
@@ -1687,12 +1722,12 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4253162/
 DESCRIPTION:Run time: 102 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\, Special Guests in Attendance\n\nJoin Vidiots and Searchlight Pi
- ctures for a very special 20th Anniversary screening of the indie darling 
- Little Miss Sunshine followed by a conversation with directors Jonathan Da
- yton and Valerie Faris!\n\nTickets: https://vidiotsfoundation.org/purchase
- /4253162/\n\nDetails: https://vidiotsfoundation.org/movies/little-miss-sun
- shine/
+ he Eagle\, Special Guests in Attendance\n\nJoin Vidiots and our friends at
+  Searchlight Pictures for a very special 20th Anniversary screening of the
+  indie darling Little Miss Sunshine followed by a conversation with direct
+ ors Jonathan Dayton and Valerie Faris!\n\nTickets: https://vidiotsfoundati
+ on.org/purchase/4253162/\n\nDetails: https://vidiotsfoundation.org/movies/
+ little-miss-sunshine/
 END:VEVENT
 BEGIN:VEVENT
 UID:4254360@vidiotsfoundation.org
@@ -1708,6 +1743,20 @@ DESCRIPTION:Run time: 171 min | Format: Digital | Rating: R\n\nSeries: Door
   thirsty for this poetically erotic drama.\n\nTickets: https://vidiotsfoun
  dation.org/purchase/4254360/\n\nDetails: https://vidiotsfoundation.org/mov
  ies/the-unbearable-lightness-of-being/
+END:VEVENT
+BEGIN:VEVENT
+UID:4270663@vidiotsfoundation.org
+DTSTAMP:20260730T210000Z
+DTSTART;TZID=America/Los_Angeles:20260730T140000
+DTEND;TZID=America/Los_Angeles:20260730T160200
+SUMMARY:Network
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4270663/
+DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nI'm mad as Hell and I'm not going to take it anymore!\nArthous
+ e Theater Day!\n\nTickets: https://vidiotsfoundation.org/purchase/4270663/
+ \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 BEGIN:VEVENT
 UID:4127730@vidiotsfoundation.org
