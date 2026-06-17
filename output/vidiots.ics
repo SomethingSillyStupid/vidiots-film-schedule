@@ -1064,6 +1064,21 @@ DESCRIPTION:Run time: 114 min | Format: Digital\n\nSeries: Additional Shows
  4268388/\n\nDetails: https://vidiotsfoundation.org/movies/rose-of-nevada/
 END:VEVENT
 BEGIN:VEVENT
+UID:4252666@vidiotsfoundation.org
+DTSTAMP:20260707T023000Z
+DTSTART;TZID=America/Los_Angeles:20260706T193000
+DTEND;TZID=America/Los_Angeles:20260706T212000
+SUMMARY:Top Gun
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252666/
+DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: Doo
+ rs Open at 6\, In the Eagle\n\nThe high-flying action film with something 
+ for everyone - daring aerial scenes\, a steamy love story\, and a homoerot
+ ic volleyball game!\n\nTickets: https://vidiotsfoundation.org/purchase/425
+ 2666/\n\nDetails: https://vidiotsfoundation.org/movies/top-gun/
+END:VEVENT
+BEGIN:VEVENT
 UID:4252668@vidiotsfoundation.org
 DTSTAMP:20260708T013000Z
 DTSTART;TZID=America/Los_Angeles:20260707T183000
@@ -1670,6 +1685,20 @@ DESCRIPTION:Run time: 103 min | Format: Digital | Rating: R\n\nSeries: Door
  97/\n\nDetails: https://vidiotsfoundation.org/movies/zoot-suit/
 END:VEVENT
 BEGIN:VEVENT
+UID:4271083@vidiotsfoundation.org
+DTSTAMP:20260725T020000Z
+DTSTART;TZID=America/Los_Angeles:20260724T190000
+DTEND;TZID=America/Los_Angeles:20260724T204600
+SUMMARY:Young Frankenstein
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4271083/
+DESCRIPTION:Run time: 106 min | Format: Digital\n\nSeries: In the Eagle\n\n
+ The scariest comedy of all time!\n\nTickets: https://vidiotsfoundation.org
+ /purchase/4271083/\n\nDetails: https://vidiotsfoundation.org/movies/young-
+ frankenstein/
+END:VEVENT
+BEGIN:VEVENT
 UID:4253152@vidiotsfoundation.org
 DTSTAMP:20260725T044500Z
 DTSTART;TZID=America/Los_Angeles:20260724T214500
@@ -1711,6 +1740,35 @@ DESCRIPTION:Run time: 114 min | Format: 35mm Film | Rating: R\n\nSeries: 35
  mm Film\, In the Eagle\n\nIt's good to be king.\n\nTickets: https://vidiot
  sfoundation.org/purchase/4253157/\n\nDetails: https://vidiotsfoundation.or
  g/movies/three-kings/
+END:VEVENT
+BEGIN:VEVENT
+UID:4271084@vidiotsfoundation.org
+DTSTAMP:20260726T044500Z
+DTSTART;TZID=America/Los_Angeles:20260725T214500
+DTEND;TZID=America/Los_Angeles:20260725T234200
+SUMMARY:Alien
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4271084/
+DESCRIPTION:Run time: 117 min | Format: Digital\n\nSeries: In the Eagle\n\n
+ If you're like us\, you could definitely use some Ellen Ripley in your lif
+ e right now!\n\nTickets: https://vidiotsfoundation.org/purchase/4271084/\n
+ \nDetails: https://vidiotsfoundation.org/movies/alien/
+END:VEVENT
+BEGIN:VEVENT
+UID:4253161@vidiotsfoundation.org
+DTSTAMP:20260726T193000Z
+DTSTART;TZID=America/Los_Angeles:20260726T123000
+DTEND;TZID=America/Los_Angeles:20260726T140700
+SUMMARY:Freaky Friday
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253161/
+DESCRIPTION:Run time: 97 min | Format: Digital\n\nSeries: Films for Everyon
+ e\, In the Eagle\n\nMondays are manic. Wednesdays are wild. And Fridays ar
+ e about to get a little freaky.\n\nTickets: https://vidiotsfoundation.org/
+ purchase/4253161/\n\nDetails: https://vidiotsfoundation.org/movies/freaky-
+ friday/
 END:VEVENT
 BEGIN:VEVENT
 UID:4253162@vidiotsfoundation.org
