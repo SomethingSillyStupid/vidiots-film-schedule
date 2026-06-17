@@ -725,24 +725,6 @@ DESCRIPTION:Run time: 105 min | Format: 35mm Film | Rating: NC-17 | Release
  tsfoundation.org/movies/bad-education/
 END:VEVENT
 BEGIN:VEVENT
-UID:4254089@vidiotsfoundation.org
-DTSTAMP:20260702T020000Z
-DTSTART;TZID=America/Los_Angeles:20260701T190000
-DTEND;TZID=America/Los_Angeles:20260701T201900
-SUMMARY:Underland
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4254089/
-DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
- a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
- we travel alongside several ‘astronauts of the underworld’ into ancien
- t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
- al chambers and a deep underground laboratory built to solve the mysteries
-  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42540
- 89/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
-END:VEVENT
-BEGIN:VEVENT
 UID:4248103@vidiotsfoundation.org
 DTSTAMP:20260702T023000Z
 DTSTART;TZID=America/Los_Angeles:20260701T193000
@@ -758,6 +740,24 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: Doo
  ve DJs\, themed bevies\, our pink carpet and a costume contest!\n\nTickets
  : https://vidiotsfoundation.org/purchase/4248103/\n\nDetails: https://vidi
  otsfoundation.org/movies/cats-the-vidiots-jellicle-ball/
+END:VEVENT
+BEGIN:VEVENT
+UID:4254089@vidiotsfoundation.org
+DTSTAMP:20260702T030000Z
+DTSTART;TZID=America/Los_Angeles:20260701T200000
+DTEND;TZID=America/Los_Angeles:20260701T211900
+SUMMARY:Underland
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4254089/
+DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
+ a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
+ we travel alongside several ‘astronauts of the underworld’ into ancien
+ t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
+ al chambers and a deep underground laboratory built to solve the mysteries
+  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42540
+ 89/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
 END:VEVENT
 BEGIN:VEVENT
 UID:4254104@vidiotsfoundation.org
