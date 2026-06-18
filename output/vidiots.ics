@@ -324,6 +324,24 @@ DESCRIPTION:Run time: 99 min | Format: Digital | Rating: R\n\nSeries: Addit
  s/
 END:VEVENT
 BEGIN:VEVENT
+UID:4158824@vidiotsfoundation.org
+DTSTAMP:20260625T023000Z
+DTSTART;TZID=America/Los_Angeles:20260624T193000
+DTEND;TZID=America/Los_Angeles:20260624T210300
+SUMMARY:Gail Daughtry and the Celebrity Sex Pass
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://events.humanitix.com/kcrw-partner-screening-gail-daughtry-and-t
+ he-celebrity-sex-pass
+DESCRIPTION:Run time: 93 min | Format: Digital | Rating: R\n\nSeries: Commu
+ nity Partners\, Free Events\, In the Eagle\n\nKCRW\, Vidiots\, and Sony Pi
+ cture Classics invite you to a special advance screening of Gail Daughtry 
+ and the Celebrity Sex Pass.\n\nTickets: https://events.humanitix.com/kcrw-
+ partner-screening-gail-daughtry-and-the-celebrity-sex-pass\n\nDetails: htt
+ ps://vidiotsfoundation.org/movies/gail-daughtry-and-the-celebrity-sex-pass
+ /
+END:VEVENT
+BEGIN:VEVENT
 UID:4158845@vidiotsfoundation.org
 DTSTAMP:20260626T020000Z
 DTSTART;TZID=America/Los_Angeles:20260625T190000
@@ -1701,9 +1719,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4253157/
 DESCRIPTION:Run time: 114 min | Format: 35mm Film | Rating: R\n\nSeries: 35
- mm Film\, In the Eagle\n\nIt's good to be king.\n\nTickets: https://vidiot
- sfoundation.org/purchase/4253157/\n\nDetails: https://vidiotsfoundation.or
- g/movies/three-kings/
+ mm Film\, In the Eagle\n\nGeorge Clooney\, Mark Wahlberg and Ice Cube star
+  in David O. Russell's biting satire on American foreign policy that remai
+ ns even more relevant today!\n\nTickets: https://vidiotsfoundation.org/pur
+ chase/4253157/\n\nDetails: https://vidiotsfoundation.org/movies/three-king
+ s/
 END:VEVENT
 BEGIN:VEVENT
 UID:4271084@vidiotsfoundation.org
