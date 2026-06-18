@@ -8,42 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4196620@vidiotsfoundation.org
-DTSTAMP:20260618T023000Z
-DTSTART;TZID=America/Los_Angeles:20260617T193000
-DTEND;TZID=America/Los_Angeles:20260617T211500
-SUMMARY:I Love Boosters
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4196620/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital | Rating: R\n\nSeries: In the MUBI Microcinema\, Additiona
- l Shows\n\nThe fashion\, the fun\, the gonzo satire - it's the wildest rid
- e in cinema this year and an absolute revelation for those of us who have 
- been craving the return of originality to filmmaking.\n\nTickets: https://
- vidiotsfoundation.org/purchase/4196620/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/i-love-boosters/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4127741@vidiotsfoundation.org
-DTSTAMP:20260619T023000Z
-DTSTART;TZID=America/Los_Angeles:20260618T193000
-DTEND;TZID=America/Los_Angeles:20260618T205800
-SUMMARY:Kids in the Hall: Brain Candy
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127741/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
- ormat: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\, Spe
- cial Guests in Attendance\n\nVidiots is flooded with serotonin to welcome 
- comedy legend Scott Thompson for a special 30th Anniversary screening of t
- he comedy cult classic Kids in the Hall: Brain Candy.\n\nTickets: https://
- vidiotsfoundation.org/purchase/4127741/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/kids-in-the-hall-brain-candy/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4127786@vidiotsfoundation.org
 DTSTAMP:20260619T230000Z
 DTSTART;TZID=America/Los_Angeles:20260619T160000
@@ -201,8 +165,8 @@ SUMMARY:I Love Boosters
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4158806/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: In t
- he MUBI Microcinema\, Additional Shows\n\nThe fashion\, the fun\, the gonz
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nThe fashion\, the fun\, the gonz
  o satire - it's the wildest ride in cinema this year and an absolute revel
  ation for those of us who have been craving the return of originality to f
  ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4158806/\n\n
@@ -235,8 +199,8 @@ SUMMARY:I Love Boosters
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4158809/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: In t
- he MUBI Microcinema\, Additional Shows\n\nThe fashion\, the fun\, the gonz
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nThe fashion\, the fun\, the gonz
  o satire - it's the wildest ride in cinema this year and an absolute revel
  ation for those of us who have been craving the return of originality to f
  ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4158809/\n\n
@@ -1801,21 +1765,21 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 BEGIN:VEVENT
-UID:4196623@vidiotsfoundation.org
-DTSTAMP:20260618T020000Z
-DTSTART;TZID=America/Los_Angeles:20260617T190000
-DTEND;TZID=America/Los_Angeles:20260617T205900
-SUMMARY:Voicemails for Isabelle
+UID:4127741@vidiotsfoundation.org
+DTSTAMP:20260619T023000Z
+DTSTART;TZID=America/Los_Angeles:20260618T193000
+DTEND;TZID=America/Los_Angeles:20260618T205800
+SUMMARY:Kids in the Hall: Brain Candy
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://events.humanitix.com/kcrw-partner-screening-voicemails-for-isab
- elle
-DESCRIPTION:Run time: 119 min | Format: Digital\n\nSeries: Community Partne
- rs\, Free Events\, In the Eagle\, Special Guests in Attendance\n\nKCRW\, V
- idiots\, and Netflix invite you to a special advance screening of Voicemai
- ls for Isabelle followed by a conversation with director Leah McKendrick a
- nd actress Zoey Deutch.\n\nTickets: https://events.humanitix.com/kcrw-part
- ner-screening-voicemails-for-isabelle\n\nDetails: https://vidiotsfoundatio
- n.org/movies/voicemails-for-isabelle/
+URL:https://vidiotsfoundation.org/purchase/4127741/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
+ ormat: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\, Spe
+ cial Guests in Attendance\n\nVidiots is flooded with serotonin to welcome 
+ comedy legend Scott Thompson for a special 30th Anniversary screening of t
+ he comedy cult classic Kids in the Hall: Brain Candy.\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4127741/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/kids-in-the-hall-brain-candy/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
