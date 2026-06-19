@@ -8,52 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4127786@vidiotsfoundation.org
-DTSTAMP:20260619T230000Z
-DTSTART;TZID=America/Los_Angeles:20260619T160000
-DTEND;TZID=America/Los_Angeles:20260619T180100
-SUMMARY:Mad Max: Fury Road
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127786/
-DESCRIPTION:Run time: 121 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nA nigh-operatic spectacle of anarchic action and vehicular car
- nage that never takes its foot off the gas!\nEncore Screening Added Friday
- \, June 19th!\n\nTickets: https://vidiotsfoundation.org/purchase/4127786/\
- n\nDetails: https://vidiotsfoundation.org/movies/mad-max-fury-road/
-END:VEVENT
-BEGIN:VEVENT
-UID:4127788@vidiotsfoundation.org
-DTSTAMP:20260620T020000Z
-DTSTART;TZID=America/Los_Angeles:20260619T190000
-DTEND;TZID=America/Los_Angeles:20260619T204800
-SUMMARY:A Weekend with Bill Duke: Deep Cover
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127788/
-DESCRIPTION:Run time: 108 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\, Special Guests in Attendance\n\nVidiots is thrilled to welcome 
- actor/director/legend Bill Duke for a special screening of his neon-soaked
-  neo-noir starring Laurence Fishburne and Jeff Goldblum!\n\nTickets: https
- ://vidiotsfoundation.org/purchase/4127788/\n\nDetails: https://vidiotsfoun
- dation.org/movies/deep-cover/
-END:VEVENT
-BEGIN:VEVENT
-UID:4127789@vidiotsfoundation.org
-DTSTAMP:20260620T044500Z
-DTSTART;TZID=America/Los_Angeles:20260619T214500
-DTEND;TZID=America/Los_Angeles:20260619T231600
-SUMMARY:D.E.B.S.
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127789/
-DESCRIPTION:Run time: 91 min | Format: Digital | Rating: PG-13\n\nSeries: I
- n the Eagle\, What the Friday?!?\n\nEveryone's favorite teen girl secret a
- gent squad movie finally comes to Vidiots' big screen in all its queer and
-  girl power glory!\n\nTickets: https://vidiotsfoundation.org/purchase/4127
- 789/\n\nDetails: https://vidiotsfoundation.org/movies/d-e-b-s/
-END:VEVENT
-BEGIN:VEVENT
 UID:4133415@vidiotsfoundation.org
 DTSTAMP:20260620T200000Z
 DTSTART;TZID=America/Los_Angeles:20260620T130000
@@ -1766,21 +1720,49 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 BEGIN:VEVENT
-UID:4127741@vidiotsfoundation.org
-DTSTAMP:20260619T023000Z
-DTSTART;TZID=America/Los_Angeles:20260618T193000
-DTEND;TZID=America/Los_Angeles:20260618T205800
-SUMMARY:Kids in the Hall: Brain Candy
+UID:4127786@vidiotsfoundation.org
+DTSTAMP:20260619T230000Z
+DTSTART;TZID=America/Los_Angeles:20260619T160000
+DTEND;TZID=America/Los_Angeles:20260619T180100
+SUMMARY:Mad Max: Fury Road
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127741/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
- ormat: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\, Spe
- cial Guests in Attendance\n\nVidiots is flooded with serotonin to welcome 
- comedy legend Scott Thompson for a special 30th Anniversary screening of t
- he comedy cult classic Kids in the Hall: Brain Candy.\n\nTickets: https://
- vidiotsfoundation.org/purchase/4127741/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/kids-in-the-hall-brain-candy/
-STATUS:TENTATIVE
+URL:https://vidiotsfoundation.org/purchase/4127786/
+DESCRIPTION:Run time: 121 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nA nigh-operatic spectacle of anarchic action and vehicular car
+ nage that never takes its foot off the gas!\nEncore Screening Added Friday
+ \, June 19th!\n\nTickets: https://vidiotsfoundation.org/purchase/4127786/\
+ n\nDetails: https://vidiotsfoundation.org/movies/mad-max-fury-road/
+END:VEVENT
+BEGIN:VEVENT
+UID:4127788@vidiotsfoundation.org
+DTSTAMP:20260620T020000Z
+DTSTART;TZID=America/Los_Angeles:20260619T190000
+DTEND;TZID=America/Los_Angeles:20260619T204800
+SUMMARY:A Weekend with Bill Duke: Deep Cover
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4127788/
+DESCRIPTION:Run time: 108 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\, Special Guests in Attendance\n\nVidiots is thrilled to welcome 
+ actor/director/legend Bill Duke for a special screening of his neon-soaked
+  neo-noir starring Laurence Fishburne and Jeff Goldblum!\n\nTickets: https
+ ://vidiotsfoundation.org/purchase/4127788/\n\nDetails: https://vidiotsfoun
+ dation.org/movies/deep-cover/
+END:VEVENT
+BEGIN:VEVENT
+UID:4127789@vidiotsfoundation.org
+DTSTAMP:20260620T044500Z
+DTSTART;TZID=America/Los_Angeles:20260619T214500
+DTEND;TZID=America/Los_Angeles:20260619T231600
+SUMMARY:D.E.B.S.
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4127789/
+DESCRIPTION:Run time: 91 min | Format: Digital | Rating: PG-13\n\nSeries: I
+ n the Eagle\, What the Friday?!?\n\nEveryone's favorite teen girl secret a
+ gent squad movie finally comes to Vidiots' big screen in all its queer and
+  girl power glory!\n\nTickets: https://vidiotsfoundation.org/purchase/4127
+ 789/\n\nDetails: https://vidiotsfoundation.org/movies/d-e-b-s/
 END:VEVENT
 END:VCALENDAR
