@@ -8,110 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4133415@vidiotsfoundation.org
-DTSTAMP:20260620T200000Z
-DTSTART;TZID=America/Los_Angeles:20260620T130000
-DTEND;TZID=America/Los_Angeles:20260620T144200
-SUMMARY:Labyrinth
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133415/
-DESCRIPTION:Run time: 102 min | Format: Digital | Rating: PG\n\nSeries: Fil
- ms for Everyone\, In the Eagle\n\nStep into one of Jim Henson's most belov
- ed fantasy worlds with Rock God and Goblin King David Bowie!\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4133415/\n\nDetails: https://vidiots
- foundation.org/movies/labyrinth/
-END:VEVENT
-BEGIN:VEVENT
-UID:4133395@vidiotsfoundation.org
-DTSTAMP:20260620T230000Z
-DTSTART;TZID=America/Los_Angeles:20260620T160000
-DTEND;TZID=America/Los_Angeles:20260620T172100
-SUMMARY:Second Nature: Gender and Sexuality in the Animal World
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133395/
-DESCRIPTION:Run time: 81 min | Format: Digital\n\nSeries: Groundbreaking No
- n-Fiction\, In the Eagle\, Special Guests in Attendance\, TeenTix LA\n\nEl
- liot Page narrates this hilarious and heartening romp through the animal w
- orld\, led by brave scientists fighting censorship as they reveal the trut
- h about our nature. Second Nature — everything you didn’t learn in hig
- h school biology!\nWith producer/director Drew Denny in conversation after
-  the screening\, moderated by comedian Ever Mainard!\n\nTickets: https://v
- idiotsfoundation.org/purchase/4133395/\n\nDetails: https://vidiotsfoundati
- on.org/movies/second-nature-gender-and-sexuality-in-the-animal-world/
-END:VEVENT
-BEGIN:VEVENT
-UID:4158802@vidiotsfoundation.org
-DTSTAMP:20260620T233000Z
-DTSTART;TZID=America/Los_Angeles:20260620T163000
-DTEND;TZID=America/Los_Angeles:20260620T180900
-SUMMARY:Is God Is
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158802/
-DESCRIPTION:Run time: 99 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nSummer is just getting started an
- d we've got one hell of a roadtrip planned for you with Aleshea Harris' mi
- raculous debut feature - a vengeance film so incendiary and kick-ass\, we 
- had to bring it back for more!\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4158802/\n\nDetails: https://vidiotsfoundation.org/movies/is-god-i
- s/
-END:VEVENT
-BEGIN:VEVENT
-UID:4133381@vidiotsfoundation.org
-DTSTAMP:20260621T020000Z
-DTSTART;TZID=America/Los_Angeles:20260620T190000
-DTEND;TZID=America/Los_Angeles:20260620T204500
-SUMMARY:My Best Friend’s Wedding
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133381/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\n\nJulianne fell in love with her best friend the day he deci
- ded to marry someone else.\n\nTickets: https://vidiotsfoundation.org/purch
- ase/4133381/\n\nDetails: https://vidiotsfoundation.org/movies/my-best-frie
- nds-wedding/
-END:VEVENT
-BEGIN:VEVENT
-UID:4158803@vidiotsfoundation.org
-DTSTAMP:20260621T023000Z
-DTSTART;TZID=America/Los_Angeles:20260620T193000
-DTEND;TZID=America/Los_Angeles:20260620T210900
-SUMMARY:Is God Is
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158803/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 99 min | F
- ormat: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micro
- cinema\n\nSummer is just getting started and we've got one hell of a roadt
- rip planned for you with Aleshea Harris' miraculous debut feature - a veng
- eance film so incendiary and kick-ass\, we had to bring it back for more!\
- n\nTickets: https://vidiotsfoundation.org/purchase/4158803/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/is-god-is/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4133382@vidiotsfoundation.org
-DTSTAMP:20260621T043000Z
-DTSTART;TZID=America/Los_Angeles:20260620T213000
-DTEND;TZID=America/Los_Angeles:20260620T231000
-SUMMARY:Crash
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133382/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Rating: NC-17\n\nSeries: Community Partners\, In the Eag
- le\n\nCar culture has never been more bizarrely erotic than in David Crone
- nberg's take on J.G. Ballard's disturbing novel in this audacious and twis
- ted fetishistic phenomenon.\nCo-Presented by The Cinegogue! Stop by the vi
- deo store between 8:00pm and 9:30pm for a special Cinegogue pop up shop wi
- th special giveaways and exclusive merch!\n\nTickets: https://vidiotsfound
- ation.org/purchase/4133382/\n\nDetails: https://vidiotsfoundation.org/movi
- es/crash/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4158806@vidiotsfoundation.org
 DTSTAMP:20260621T050000Z
 DTSTART;TZID=America/Los_Angeles:20260620T220000
@@ -177,40 +73,6 @@ DESCRIPTION:Run time: 89 min | Format: Digital | Rating: R\n\nSeries: In th
  vidiotsfoundation.org/movies/stand-by-me/
 END:VEVENT
 BEGIN:VEVENT
-UID:4158815@vidiotsfoundation.org
-DTSTAMP:20260622T023000Z
-DTSTART;TZID=America/Los_Angeles:20260621T193000
-DTEND;TZID=America/Los_Angeles:20260621T210900
-SUMMARY:Is God Is
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158815/
-DESCRIPTION:Run time: 99 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nSummer is just getting started an
- d we've got one hell of a roadtrip planned for you with Aleshea Harris' mi
- raculous debut feature - a vengeance film so incendiary and kick-ass\, we 
- had to bring it back for more!\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4158815/\n\nDetails: https://vidiotsfoundation.org/movies/is-god-i
- s/
-END:VEVENT
-BEGIN:VEVENT
-UID:4158816@vidiotsfoundation.org
-DTSTAMP:20260623T020000Z
-DTSTART;TZID=America/Los_Angeles:20260622T190000
-DTEND;TZID=America/Los_Angeles:20260622T203900
-SUMMARY:Is God Is
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158816/
-DESCRIPTION:Run time: 99 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nSummer is just getting started an
- d we've got one hell of a roadtrip planned for you with Aleshea Harris' mi
- raculous debut feature - a vengeance film so incendiary and kick-ass\, we 
- had to bring it back for more!\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4158816/\n\nDetails: https://vidiotsfoundation.org/movies/is-god-i
- s/
-END:VEVENT
-BEGIN:VEVENT
 UID:4127892@vidiotsfoundation.org
 DTSTAMP:20260623T023000Z
 DTSTART;TZID=America/Los_Angeles:20260622T193000
@@ -224,23 +86,6 @@ DESCRIPTION:Run time: 93 min | Format: Digital | Rating: R\n\nSeries: Doors
  ank\, funny\, and desensationalized look at sex work and the women behind 
  the work.\n\nTickets: https://vidiotsfoundation.org/purchase/4127892/\n\nD
  etails: https://vidiotsfoundation.org/movies/working-girls/
-END:VEVENT
-BEGIN:VEVENT
-UID:4188828@vidiotsfoundation.org
-DTSTAMP:20260625T020000Z
-DTSTART;TZID=America/Los_Angeles:20260624T190000
-DTEND;TZID=America/Los_Angeles:20260624T203900
-SUMMARY:Is God Is
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4188828/
-DESCRIPTION:Run time: 99 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nSummer is just getting started an
- d we've got one hell of a roadtrip planned for you with Aleshea Harris' mi
- raculous debut feature - a vengeance film so incendiary and kick-ass\, we 
- had to bring it back for more!\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4188828/\n\nDetails: https://vidiotsfoundation.org/movies/is-god-i
- s/
 END:VEVENT
 BEGIN:VEVENT
 UID:4158824@vidiotsfoundation.org
@@ -1720,49 +1565,107 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 BEGIN:VEVENT
-UID:4127786@vidiotsfoundation.org
-DTSTAMP:20260619T230000Z
-DTSTART;TZID=America/Los_Angeles:20260619T160000
-DTEND;TZID=America/Los_Angeles:20260619T180100
-SUMMARY:Mad Max: Fury Road
+UID:4133415@vidiotsfoundation.org
+DTSTAMP:20260620T200000Z
+DTSTART;TZID=America/Los_Angeles:20260620T130000
+DTEND;TZID=America/Los_Angeles:20260620T144200
+SUMMARY:Labyrinth
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127786/
-DESCRIPTION:Run time: 121 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nA nigh-operatic spectacle of anarchic action and vehicular car
- nage that never takes its foot off the gas!\nEncore Screening Added Friday
- \, June 19th!\n\nTickets: https://vidiotsfoundation.org/purchase/4127786/\
- n\nDetails: https://vidiotsfoundation.org/movies/mad-max-fury-road/
+URL:https://vidiotsfoundation.org/purchase/4133415/
+DESCRIPTION:Run time: 102 min | Format: Digital | Rating: PG\n\nSeries: Fil
+ ms for Everyone\, In the Eagle\n\nStep into one of Jim Henson's most belov
+ ed fantasy worlds with Rock God and Goblin King David Bowie!\n\nTickets: h
+ ttps://vidiotsfoundation.org/purchase/4133415/\n\nDetails: https://vidiots
+ foundation.org/movies/labyrinth/
 END:VEVENT
 BEGIN:VEVENT
-UID:4127788@vidiotsfoundation.org
-DTSTAMP:20260620T020000Z
-DTSTART;TZID=America/Los_Angeles:20260619T190000
-DTEND;TZID=America/Los_Angeles:20260619T204800
-SUMMARY:A Weekend with Bill Duke: Deep Cover
+UID:4133395@vidiotsfoundation.org
+DTSTAMP:20260620T230000Z
+DTSTART;TZID=America/Los_Angeles:20260620T160000
+DTEND;TZID=America/Los_Angeles:20260620T172100
+SUMMARY:Second Nature: Gender and Sexuality in the Animal World
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127788/
-DESCRIPTION:Run time: 108 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\, Special Guests in Attendance\n\nVidiots is thrilled to welcome 
- actor/director/legend Bill Duke for a special screening of his neon-soaked
-  neo-noir starring Laurence Fishburne and Jeff Goldblum!\n\nTickets: https
- ://vidiotsfoundation.org/purchase/4127788/\n\nDetails: https://vidiotsfoun
- dation.org/movies/deep-cover/
+URL:https://vidiotsfoundation.org/purchase/4133395/
+DESCRIPTION:Run time: 81 min | Format: Digital\n\nSeries: Groundbreaking No
+ n-Fiction\, In the Eagle\, Special Guests in Attendance\, TeenTix LA\n\nEl
+ liot Page narrates this hilarious and heartening romp through the animal w
+ orld\, led by brave scientists fighting censorship as they reveal the trut
+ h about our nature. Second Nature — everything you didn’t learn in hig
+ h school biology!\nWith producer/director Drew Denny in conversation after
+  the screening\, moderated by comedian Ever Mainard!\n\nTickets: https://v
+ idiotsfoundation.org/purchase/4133395/\n\nDetails: https://vidiotsfoundati
+ on.org/movies/second-nature-gender-and-sexuality-in-the-animal-world/
 END:VEVENT
 BEGIN:VEVENT
-UID:4127789@vidiotsfoundation.org
-DTSTAMP:20260620T044500Z
-DTSTART;TZID=America/Los_Angeles:20260619T214500
-DTEND;TZID=America/Los_Angeles:20260619T231600
-SUMMARY:D.E.B.S.
+UID:4158802@vidiotsfoundation.org
+DTSTAMP:20260620T233000Z
+DTSTART;TZID=America/Los_Angeles:20260620T163000
+DTEND;TZID=America/Los_Angeles:20260620T180900
+SUMMARY:Is God Is
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4158802/
+DESCRIPTION:Run time: 99 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nSummer is just getting started an
+ d we've got one hell of a roadtrip planned for you with Aleshea Harris' mi
+ raculous debut feature - a vengeance film so incendiary and kick-ass\, we 
+ had to bring it back for more!\n\nTickets: https://vidiotsfoundation.org/p
+ urchase/4158802/\n\nDetails: https://vidiotsfoundation.org/movies/is-god-i
+ s/
+END:VEVENT
+BEGIN:VEVENT
+UID:4133381@vidiotsfoundation.org
+DTSTAMP:20260621T020000Z
+DTSTART;TZID=America/Los_Angeles:20260620T190000
+DTEND;TZID=America/Los_Angeles:20260620T204500
+SUMMARY:My Best Friend’s Wedding
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127789/
-DESCRIPTION:Run time: 91 min | Format: Digital | Rating: PG-13\n\nSeries: I
- n the Eagle\, What the Friday?!?\n\nEveryone's favorite teen girl secret a
- gent squad movie finally comes to Vidiots' big screen in all its queer and
-  girl power glory!\n\nTickets: https://vidiotsfoundation.org/purchase/4127
- 789/\n\nDetails: https://vidiotsfoundation.org/movies/d-e-b-s/
+URL:https://vidiotsfoundation.org/purchase/4133381/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\n\nJulianne fell in love with her best friend the day he deci
+ ded to marry someone else.\n\nTickets: https://vidiotsfoundation.org/purch
+ ase/4133381/\n\nDetails: https://vidiotsfoundation.org/movies/my-best-frie
+ nds-wedding/
+END:VEVENT
+BEGIN:VEVENT
+UID:4158803@vidiotsfoundation.org
+DTSTAMP:20260621T023000Z
+DTSTART;TZID=America/Los_Angeles:20260620T193000
+DTEND;TZID=America/Los_Angeles:20260620T210900
+SUMMARY:Is God Is
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4158803/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 99 min | F
+ ormat: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micro
+ cinema\n\nSummer is just getting started and we've got one hell of a roadt
+ rip planned for you with Aleshea Harris' miraculous debut feature - a veng
+ eance film so incendiary and kick-ass\, we had to bring it back for more!\
+ n\nTickets: https://vidiotsfoundation.org/purchase/4158803/\n\nDetails: ht
+ tps://vidiotsfoundation.org/movies/is-god-is/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4133382@vidiotsfoundation.org
+DTSTAMP:20260621T043000Z
+DTSTART;TZID=America/Los_Angeles:20260620T213000
+DTEND;TZID=America/Los_Angeles:20260620T231000
+SUMMARY:Crash
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4133382/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital | Rating: NC-17\n\nSeries: Community Partners\, In the Eag
+ le\n\nCar culture has never been more bizarrely erotic than in David Crone
+ nberg's take on J.G. Ballard's disturbing novel in this audacious and twis
+ ted fetishistic phenomenon.\nCo-Presented by The Cinegogue! Stop by the vi
+ deo store between 8:00pm and 9:30pm for a special Cinegogue pop up shop wi
+ th special giveaways and exclusive merch!\n\nTickets: https://vidiotsfound
+ ation.org/purchase/4133382/\n\nDetails: https://vidiotsfoundation.org/movi
+ es/crash/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
