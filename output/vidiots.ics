@@ -8,71 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4158806@vidiotsfoundation.org
-DTSTAMP:20260621T050000Z
-DTSTART;TZID=America/Los_Angeles:20260620T220000
-DTEND;TZID=America/Los_Angeles:20260620T234500
-SUMMARY:I Love Boosters
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158806/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nThe fashion\, the fun\, the gonz
- o satire - it's the wildest ride in cinema this year and an absolute revel
- ation for those of us who have been craving the return of originality to f
- ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4158806/\n\n
- Details: https://vidiotsfoundation.org/movies/i-love-boosters/
-END:VEVENT
-BEGIN:VEVENT
-UID:4127808@vidiotsfoundation.org
-DTSTAMP:20260621T223000Z
-DTSTART;TZID=America/Los_Angeles:20260621T153000
-DTEND;TZID=America/Los_Angeles:20260621T171700
-SUMMARY:A Weekend with Bill Duke: Predator on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127808/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 107 min | 
- Format: 35mm Film | Rating: R\n\nSeries: 35mm Film\, In the Eagle\, Specia
- l Guests in Attendance\n\nIn celebration of an epic weekend with the Holly
- wood legend Bill Duke\, he and actor Richard Chaves will be joining us for
-  a for a special screening of one of the best action-sci-fi films of all t
- ime!\n\nTickets: https://vidiotsfoundation.org/purchase/4127808/\n\nDetail
- s: https://vidiotsfoundation.org/movies/predator/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4158809@vidiotsfoundation.org
-DTSTAMP:20260621T230000Z
-DTSTART;TZID=America/Los_Angeles:20260621T160000
-DTEND;TZID=America/Los_Angeles:20260621T174500
-SUMMARY:I Love Boosters
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158809/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nThe fashion\, the fun\, the gonz
- o satire - it's the wildest ride in cinema this year and an absolute revel
- ation for those of us who have been craving the return of originality to f
- ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4158809/\n\n
- Details: https://vidiotsfoundation.org/movies/i-love-boosters/
-END:VEVENT
-BEGIN:VEVENT
-UID:4134719@vidiotsfoundation.org
-DTSTAMP:20260622T020000Z
-DTSTART;TZID=America/Los_Angeles:20260621T190000
-DTEND;TZID=America/Los_Angeles:20260621T202900
-SUMMARY:Stand by Me
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4134719/
-DESCRIPTION:Run time: 89 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\, Remembering Rob Reiner\n\nBring your gang for Rob Reiner's belov
- ed tale of friendship adapted from the short story by Stephen King.\n\nTic
- kets: https://vidiotsfoundation.org/purchase/4134719/\n\nDetails: https://
- vidiotsfoundation.org/movies/stand-by-me/
-END:VEVENT
-BEGIN:VEVENT
 UID:4127892@vidiotsfoundation.org
 DTSTAMP:20260623T023000Z
 DTSTART;TZID=America/Los_Angeles:20260622T193000
@@ -167,12 +102,14 @@ SUMMARY:The Matrix
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4134601/
-DESCRIPTION:Run time: 136 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nLily and Lana Wachowski's ground-breaking science fiction para
- ble set the standard for both action movies and Science Fiction films for 
- years to come with its innovative visuals and one-of-a-kind fight choreogr
- aphy.\n\nTickets: https://vidiotsfoundation.org/purchase/4134601/\n\nDetai
- ls: https://vidiotsfoundation.org/movies/the-matrix/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 136 min | 
+ Format: Digital | Rating: R\n\nSeries: In the Eagle\n\nLily and Lana Wacho
+ wski's ground-breaking science fiction parable set the standard for both a
+ ction movies and Science Fiction films for years to come with its innovati
+ ve visuals and one-of-a-kind fight choreography.\n\nTickets: https://vidio
+ tsfoundation.org/purchase/4134601/\n\nDetails: https://vidiotsfoundation.o
+ rg/movies/the-matrix/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4158849@vidiotsfoundation.org
@@ -1565,107 +1502,52 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 BEGIN:VEVENT
-UID:4133415@vidiotsfoundation.org
-DTSTAMP:20260620T200000Z
-DTSTART;TZID=America/Los_Angeles:20260620T130000
-DTEND;TZID=America/Los_Angeles:20260620T144200
-SUMMARY:Labyrinth
+UID:4127808@vidiotsfoundation.org
+DTSTAMP:20260621T223000Z
+DTSTART;TZID=America/Los_Angeles:20260621T153000
+DTEND;TZID=America/Los_Angeles:20260621T171700
+SUMMARY:A Weekend with Bill Duke: Predator on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133415/
-DESCRIPTION:Run time: 102 min | Format: Digital | Rating: PG\n\nSeries: Fil
- ms for Everyone\, In the Eagle\n\nStep into one of Jim Henson's most belov
- ed fantasy worlds with Rock God and Goblin King David Bowie!\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4133415/\n\nDetails: https://vidiots
- foundation.org/movies/labyrinth/
-END:VEVENT
-BEGIN:VEVENT
-UID:4133395@vidiotsfoundation.org
-DTSTAMP:20260620T230000Z
-DTSTART;TZID=America/Los_Angeles:20260620T160000
-DTEND;TZID=America/Los_Angeles:20260620T172100
-SUMMARY:Second Nature: Gender and Sexuality in the Animal World
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133395/
-DESCRIPTION:Run time: 81 min | Format: Digital\n\nSeries: Groundbreaking No
- n-Fiction\, In the Eagle\, Special Guests in Attendance\, TeenTix LA\n\nEl
- liot Page narrates this hilarious and heartening romp through the animal w
- orld\, led by brave scientists fighting censorship as they reveal the trut
- h about our nature. Second Nature — everything you didn’t learn in hig
- h school biology!\nWith producer/director Drew Denny in conversation after
-  the screening\, moderated by comedian Ever Mainard!\n\nTickets: https://v
- idiotsfoundation.org/purchase/4133395/\n\nDetails: https://vidiotsfoundati
- on.org/movies/second-nature-gender-and-sexuality-in-the-animal-world/
-END:VEVENT
-BEGIN:VEVENT
-UID:4158802@vidiotsfoundation.org
-DTSTAMP:20260620T233000Z
-DTSTART;TZID=America/Los_Angeles:20260620T163000
-DTEND;TZID=America/Los_Angeles:20260620T180900
-SUMMARY:Is God Is
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158802/
-DESCRIPTION:Run time: 99 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nSummer is just getting started an
- d we've got one hell of a roadtrip planned for you with Aleshea Harris' mi
- raculous debut feature - a vengeance film so incendiary and kick-ass\, we 
- had to bring it back for more!\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4158802/\n\nDetails: https://vidiotsfoundation.org/movies/is-god-i
- s/
-END:VEVENT
-BEGIN:VEVENT
-UID:4133381@vidiotsfoundation.org
-DTSTAMP:20260621T020000Z
-DTSTART;TZID=America/Los_Angeles:20260620T190000
-DTEND;TZID=America/Los_Angeles:20260620T204500
-SUMMARY:My Best Friend’s Wedding
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133381/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\n\nJulianne fell in love with her best friend the day he deci
- ded to marry someone else.\n\nTickets: https://vidiotsfoundation.org/purch
- ase/4133381/\n\nDetails: https://vidiotsfoundation.org/movies/my-best-frie
- nds-wedding/
-END:VEVENT
-BEGIN:VEVENT
-UID:4158803@vidiotsfoundation.org
-DTSTAMP:20260621T023000Z
-DTSTART;TZID=America/Los_Angeles:20260620T193000
-DTEND;TZID=America/Los_Angeles:20260620T210900
-SUMMARY:Is God Is
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158803/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 99 min | F
- ormat: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micro
- cinema\n\nSummer is just getting started and we've got one hell of a roadt
- rip planned for you with Aleshea Harris' miraculous debut feature - a veng
- eance film so incendiary and kick-ass\, we had to bring it back for more!\
- n\nTickets: https://vidiotsfoundation.org/purchase/4158803/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/is-god-is/
+URL:https://vidiotsfoundation.org/purchase/4127808/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 107 min | 
+ Format: 35mm Film | Rating: R\n\nSeries: 35mm Film\, In the Eagle\, Specia
+ l Guests in Attendance\n\nIn celebration of an epic weekend with the Holly
+ wood legend Bill Duke\, he and actor Richard Chaves will be joining us for
+  a for a special screening of one of the best action-sci-fi films of all t
+ ime!\n\nTickets: https://vidiotsfoundation.org/purchase/4127808/\n\nDetail
+ s: https://vidiotsfoundation.org/movies/predator/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4133382@vidiotsfoundation.org
-DTSTAMP:20260621T043000Z
-DTSTART;TZID=America/Los_Angeles:20260620T213000
-DTEND;TZID=America/Los_Angeles:20260620T231000
-SUMMARY:Crash
+UID:4158809@vidiotsfoundation.org
+DTSTAMP:20260621T230000Z
+DTSTART;TZID=America/Los_Angeles:20260621T160000
+DTEND;TZID=America/Los_Angeles:20260621T174500
+SUMMARY:I Love Boosters
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4158809/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nThe fashion\, the fun\, the gonz
+ o satire - it's the wildest ride in cinema this year and an absolute revel
+ ation for those of us who have been craving the return of originality to f
+ ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4158809/\n\n
+ Details: https://vidiotsfoundation.org/movies/i-love-boosters/
+END:VEVENT
+BEGIN:VEVENT
+UID:4134719@vidiotsfoundation.org
+DTSTAMP:20260622T020000Z
+DTSTART;TZID=America/Los_Angeles:20260621T190000
+DTEND;TZID=America/Los_Angeles:20260621T202900
+SUMMARY:Stand by Me
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133382/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Rating: NC-17\n\nSeries: Community Partners\, In the Eag
- le\n\nCar culture has never been more bizarrely erotic than in David Crone
- nberg's take on J.G. Ballard's disturbing novel in this audacious and twis
- ted fetishistic phenomenon.\nCo-Presented by The Cinegogue! Stop by the vi
- deo store between 8:00pm and 9:30pm for a special Cinegogue pop up shop wi
- th special giveaways and exclusive merch!\n\nTickets: https://vidiotsfound
- ation.org/purchase/4133382/\n\nDetails: https://vidiotsfoundation.org/movi
- es/crash/
-STATUS:TENTATIVE
+URL:https://vidiotsfoundation.org/purchase/4134719/
+DESCRIPTION:Run time: 89 min | Format: Digital | Rating: R\n\nSeries: In th
+ e Eagle\, Remembering Rob Reiner\n\nBring your gang for Rob Reiner's belov
+ ed tale of friendship adapted from the short story by Stephen King.\n\nTic
+ kets: https://vidiotsfoundation.org/purchase/4134719/\n\nDetails: https://
+ vidiotsfoundation.org/movies/stand-by-me/
 END:VEVENT
 END:VCALENDAR
