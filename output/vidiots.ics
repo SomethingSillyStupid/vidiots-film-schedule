@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4127892@vidiotsfoundation.org
-DTSTAMP:20260623T023000Z
-DTSTART;TZID=America/Los_Angeles:20260622T193000
-DTEND;TZID=America/Los_Angeles:20260622T210300
-SUMMARY:Working Girls
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127892/
-DESCRIPTION:Run time: 93 min | Format: Digital | Rating: R\n\nSeries: Doors
-  Open at 6\, In the Eagle\n\nIt's time you rediscovered Lizzie Borden's fr
- ank\, funny\, and desensationalized look at sex work and the women behind 
- the work.\n\nTickets: https://vidiotsfoundation.org/purchase/4127892/\n\nD
- etails: https://vidiotsfoundation.org/movies/working-girls/
-END:VEVENT
-BEGIN:VEVENT
 UID:4158824@vidiotsfoundation.org
 DTSTAMP:20260625T023000Z
 DTSTART;TZID=America/Los_Angeles:20260624T193000
@@ -418,12 +403,14 @@ SUMMARY:All That Jazz
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4133191/
-DESCRIPTION:Run time: 123 min | Format: Digital | Rating: R\n\nSeries: Door
- s Open at 6\, In the Eagle\n\nIt's Showtime Folks!\nWinner of the Palme d'
- Or at the Cannes Film Festival and nominated for 9 Academy Awards\, All Th
- at Jazz is a musical like no other and a cinematic triumph on every level.
- \n\nTickets: https://vidiotsfoundation.org/purchase/4133191/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/all-that-jazz/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 123 min | 
+ Format: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\n\nI
+ t's Showtime Folks!\nWinner of the Palme d'Or at the Cannes Film Festival 
+ and nominated for 9 Academy Awards\, All That Jazz is a musical like no ot
+ her and a cinematic triumph on every level.\n\nTickets: https://vidiotsfou
+ ndation.org/purchase/4133191/\n\nDetails: https://vidiotsfoundation.org/mo
+ vies/all-that-jazz/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4133192@vidiotsfoundation.org
@@ -1502,52 +1489,18 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 BEGIN:VEVENT
-UID:4127808@vidiotsfoundation.org
-DTSTAMP:20260621T223000Z
-DTSTART;TZID=America/Los_Angeles:20260621T153000
-DTEND;TZID=America/Los_Angeles:20260621T171700
-SUMMARY:A Weekend with Bill Duke: Predator on 35mm
+UID:4127892@vidiotsfoundation.org
+DTSTAMP:20260623T023000Z
+DTSTART;TZID=America/Los_Angeles:20260622T193000
+DTEND;TZID=America/Los_Angeles:20260622T210300
+SUMMARY:Working Girls
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127808/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 107 min | 
- Format: 35mm Film | Rating: R\n\nSeries: 35mm Film\, In the Eagle\, Specia
- l Guests in Attendance\n\nIn celebration of an epic weekend with the Holly
- wood legend Bill Duke\, he and actor Richard Chaves will be joining us for
-  a for a special screening of one of the best action-sci-fi films of all t
- ime!\n\nTickets: https://vidiotsfoundation.org/purchase/4127808/\n\nDetail
- s: https://vidiotsfoundation.org/movies/predator/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4158809@vidiotsfoundation.org
-DTSTAMP:20260621T230000Z
-DTSTART;TZID=America/Los_Angeles:20260621T160000
-DTEND;TZID=America/Los_Angeles:20260621T174500
-SUMMARY:I Love Boosters
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158809/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nThe fashion\, the fun\, the gonz
- o satire - it's the wildest ride in cinema this year and an absolute revel
- ation for those of us who have been craving the return of originality to f
- ilmmaking.\n\nTickets: https://vidiotsfoundation.org/purchase/4158809/\n\n
- Details: https://vidiotsfoundation.org/movies/i-love-boosters/
-END:VEVENT
-BEGIN:VEVENT
-UID:4134719@vidiotsfoundation.org
-DTSTAMP:20260622T020000Z
-DTSTART;TZID=America/Los_Angeles:20260621T190000
-DTEND;TZID=America/Los_Angeles:20260621T202900
-SUMMARY:Stand by Me
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4134719/
-DESCRIPTION:Run time: 89 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\, Remembering Rob Reiner\n\nBring your gang for Rob Reiner's belov
- ed tale of friendship adapted from the short story by Stephen King.\n\nTic
- kets: https://vidiotsfoundation.org/purchase/4134719/\n\nDetails: https://
- vidiotsfoundation.org/movies/stand-by-me/
+URL:https://vidiotsfoundation.org/purchase/4127892/
+DESCRIPTION:Run time: 93 min | Format: Digital | Rating: R\n\nSeries: Doors
+  Open at 6\, In the Eagle\n\nIt's time you rediscovered Lizzie Borden's fr
+ ank\, funny\, and desensationalized look at sex work and the women behind 
+ the work.\n\nTickets: https://vidiotsfoundation.org/purchase/4127892/\n\nD
+ etails: https://vidiotsfoundation.org/movies/working-girls/
 END:VEVENT
 END:VCALENDAR
