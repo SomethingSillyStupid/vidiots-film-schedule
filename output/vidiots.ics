@@ -613,6 +613,38 @@ DESCRIPTION:Run time: 91 min | Format: Digital | Rating: PG-13\n\nSeries: I
  and-the-t-rex/
 END:VEVENT
 BEGIN:VEVENT
+UID:4253425@vidiotsfoundation.org
+DTSTAMP:20260704T050000Z
+DTSTART;TZID=America/Los_Angeles:20260703T220000
+DTEND;TZID=America/Los_Angeles:20260703T235300
+SUMMARY:The Furious
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253425/
+DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
+  2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nMartial art
+ s fan rejoice - there's a new masterpiece to add to your favorites list an
+ d it's hitting our microcinema with a vengeance!\n\nTickets: https://vidio
+ tsfoundation.org/purchase/4253425/\n\nDetails: https://vidiotsfoundation.o
+ rg/movies/the-furious/
+END:VEVENT
+BEGIN:VEVENT
+UID:4268390@vidiotsfoundation.org
+DTSTAMP:20260704T193000Z
+DTSTART;TZID=America/Los_Angeles:20260704T123000
+DTEND;TZID=America/Los_Angeles:20260704T142300
+SUMMARY:The Furious
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4268390/
+DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
+  2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nMartial art
+ s fan rejoice - there's a new masterpiece to add to your favorites list an
+ d it's hitting our microcinema with a vengeance!\n\nTickets: https://vidio
+ tsfoundation.org/purchase/4268390/\n\nDetails: https://vidiotsfoundation.o
+ rg/movies/the-furious/
+END:VEVENT
+BEGIN:VEVENT
 UID:4220150@vidiotsfoundation.org
 DTSTAMP:20260704T200000Z
 DTSTART;TZID=America/Los_Angeles:20260704T130000
@@ -673,6 +705,22 @@ DESCRIPTION:Run time: 91 min | Format: Digital | Rating: All Ages\n\nSeries
  3/\n\nDetails: https://vidiotsfoundation.org/movies/aladdin/
 END:VEVENT
 BEGIN:VEVENT
+UID:4268400@vidiotsfoundation.org
+DTSTAMP:20260705T203000Z
+DTSTART;TZID=America/Los_Angeles:20260705T133000
+DTEND;TZID=America/Los_Angeles:20260705T152300
+SUMMARY:The Furious
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4268400/
+DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
+  2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nMartial art
+ s fan rejoice - there's a new masterpiece to add to your favorites list an
+ d it's hitting our microcinema with a vengeance!\n\nTickets: https://vidio
+ tsfoundation.org/purchase/4268400/\n\nDetails: https://vidiotsfoundation.o
+ rg/movies/the-furious/
+END:VEVENT
+BEGIN:VEVENT
 UID:4252664@vidiotsfoundation.org
 DTSTAMP:20260705T230000Z
 DTSTART;TZID=America/Los_Angeles:20260705T160000
@@ -687,6 +735,22 @@ DESCRIPTION:Run time: 113 min | Format: Digital\n\nSeries: In the Eagle\n\n
  , exotic romance\, and madcap caper comedy!\n\nTickets: https://vidiotsfou
  ndation.org/purchase/4252664/\n\nDetails: https://vidiotsfoundation.org/mo
  vies/charade/
+END:VEVENT
+BEGIN:VEVENT
+UID:4268401@vidiotsfoundation.org
+DTSTAMP:20260705T233000Z
+DTSTART;TZID=America/Los_Angeles:20260705T163000
+DTEND;TZID=America/Los_Angeles:20260705T182300
+SUMMARY:The Furious
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4268401/
+DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
+  2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nMartial art
+ s fan rejoice - there's a new masterpiece to add to your favorites list an
+ d it's hitting our microcinema with a vengeance!\n\nTickets: https://vidio
+ tsfoundation.org/purchase/4268401/\n\nDetails: https://vidiotsfoundation.o
+ rg/movies/the-furious/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252665@vidiotsfoundation.org
@@ -749,10 +813,26 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: Doo
  2666/\n\nDetails: https://vidiotsfoundation.org/movies/top-gun/
 END:VEVENT
 BEGIN:VEVENT
+UID:4297603@vidiotsfoundation.org
+DTSTAMP:20260708T020000Z
+DTSTART;TZID=America/Los_Angeles:20260707T190000
+DTEND;TZID=America/Los_Angeles:20260707T205300
+SUMMARY:The Furious
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297603/
+DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
+  2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nMartial art
+ s fan rejoice - there's a new masterpiece to add to your favorites list an
+ d it's hitting our microcinema with a vengeance!\n\nTickets: https://vidio
+ tsfoundation.org/purchase/4297603/\n\nDetails: https://vidiotsfoundation.o
+ rg/movies/the-furious/
+END:VEVENT
+BEGIN:VEVENT
 UID:4252668@vidiotsfoundation.org
-DTSTAMP:20260708T013000Z
-DTSTART;TZID=America/Los_Angeles:20260707T183000
-DTEND;TZID=America/Los_Angeles:20260707T201700
+DTSTAMP:20260708T023000Z
+DTSTART;TZID=America/Los_Angeles:20260707T193000
+DTEND;TZID=America/Los_Angeles:20260707T211700
 SUMMARY:Picnic at Hanging Rock
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
@@ -763,6 +843,22 @@ DESCRIPTION:Run time: 107 min | Format: Digital\n\nSeries: Doors Open at 6\
  an film of all time.\n\nTickets: https://vidiotsfoundation.org/purchase/42
  52668/\n\nDetails: https://vidiotsfoundation.org/movies/picnic-at-hanging-
  rock/
+END:VEVENT
+BEGIN:VEVENT
+UID:4297605@vidiotsfoundation.org
+DTSTAMP:20260709T020000Z
+DTSTART;TZID=America/Los_Angeles:20260708T190000
+DTEND;TZID=America/Los_Angeles:20260708T205300
+SUMMARY:The Furious
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297605/
+DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
+  2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nMartial art
+ s fan rejoice - there's a new masterpiece to add to your favorites list an
+ d it's hitting our microcinema with a vengeance!\n\nTickets: https://vidio
+ tsfoundation.org/purchase/4297605/\n\nDetails: https://vidiotsfoundation.o
+ rg/movies/the-furious/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252673@vidiotsfoundation.org
@@ -1169,6 +1265,21 @@ DESCRIPTION:Run time: 116 min | Format: Digital | Rating: R\n\nSeries: In t
  eed/
 END:VEVENT
 BEGIN:VEVENT
+UID:4252862@vidiotsfoundation.org
+DTSTAMP:20260718T044500Z
+DTSTART;TZID=America/Los_Angeles:20260717T214500
+DTEND;TZID=America/Los_Angeles:20260717T230600
+SUMMARY:Perfect Blue
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252862/
+DESCRIPTION:Run time: 81 min | Format: Digital | Rating: R | Release year: 
+ 1998\n\nSeries: In the Eagle\, What the Friday?!?\n\nVisionary director Sa
+ toshi Kon brings us this intense animated psychological thriller for the s
+ ocial media era.\n\nTickets: https://vidiotsfoundation.org/purchase/425286
+ 2/\n\nDetails: https://vidiotsfoundation.org/movies/perfect-blue/
+END:VEVENT
+BEGIN:VEVENT
 UID:4253111@vidiotsfoundation.org
 DTSTAMP:20260718T230000Z
 DTSTART;TZID=America/Los_Angeles:20260718T160000
@@ -1196,10 +1307,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4253110/
 DESCRIPTION:Run time: 116 min | Format: Digital | Rating: PG\n\nSeries: In 
- the Eagle\n\nWhat do you get when you cross a hopelessly straight starving
-  actor with a dynamite red sequined dress? You get America's hottest new a
- ctress.\n\nTickets: https://vidiotsfoundation.org/purchase/4253110/\n\nDet
- ails: https://vidiotsfoundation.org/movies/tootsie/
+ the Eagle\n\nFor a smart\, dynamic comedy that never drags\, grab your seq
+ uins for Sydney Pollack's iconic comedy classic starring Dustin Hoffman as
+  America's hottest new actress!\n\nTickets: https://vidiotsfoundation.org/
+ purchase/4253110/\n\nDetails: https://vidiotsfoundation.org/movies/tootsie
+ /
 END:VEVENT
 BEGIN:VEVENT
 UID:4253112@vidiotsfoundation.org
@@ -1452,12 +1564,26 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4253162/
 DESCRIPTION:Run time: 102 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\, Special Guests in Attendance\n\nJoin Vidiots and our friends at
-  Searchlight Pictures for a very special 20th Anniversary screening of the
-  indie darling Little Miss Sunshine followed by a conversation with direct
- ors Jonathan Dayton and Valerie Faris!\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4253162/\n\nDetails: https://vidiotsfoundation.org/movies/
- little-miss-sunshine/
+ he Eagle\n\nJoin Vidiots and our friends at Searchlight Pictures for a ver
+ y special 20th Anniversary screening of the indie darling Little Miss Suns
+ hine!\n\nTickets: https://vidiotsfoundation.org/purchase/4253162/\n\nDetai
+ ls: https://vidiotsfoundation.org/movies/little-miss-sunshine/
+END:VEVENT
+BEGIN:VEVENT
+UID:4254358@vidiotsfoundation.org
+DTSTAMP:20260728T023000Z
+DTSTART;TZID=America/Los_Angeles:20260727T193000
+DTEND;TZID=America/Los_Angeles:20260727T213200
+SUMMARY:The Face of Another
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4254358/
+DESCRIPTION:Run time: 122 min | Format: Digital | Release year: 1966\n\nSer
+ ies: Doors Open at 6\, In the Eagle\n\nWith unforgettable imagery\, Teshig
+ ahara's film explores both the limits and freedom in acquiring a new perso
+ na\, and questions the notion of individuality itself.\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4254358/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/the-face-of-another/
 END:VEVENT
 BEGIN:VEVENT
 UID:4254360@vidiotsfoundation.org
@@ -1470,9 +1596,10 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
 URL:https://vidiotsfoundation.org/purchase/4254360/
 DESCRIPTION:Run time: 171 min | Format: Digital | Rating: R\n\nSeries: Door
  s Open at 6\, In the Eagle\n\nWith all this heat\, we thought you might be
-  thirsty for this poetically erotic drama.\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4254360/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/the-unbearable-lightness-of-being/
+  thirsty for Philip Kaufman's poetically polyamorous drama starring Daniel
+  Day-Lewis\, Lena Olin\, and Juliette Binoche.\n\nTickets: https://vidiots
+ foundation.org/purchase/4254360/\n\nDetails: https://vidiotsfoundation.org
+ /movies/the-unbearable-lightness-of-being/
 END:VEVENT
 BEGIN:VEVENT
 UID:4270663@vidiotsfoundation.org
