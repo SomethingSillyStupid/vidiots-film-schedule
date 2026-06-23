@@ -68,15 +68,16 @@ SUMMARY:ASCO: Without Permission
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4158848/
-DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests in
-  Attendance\n\nFrom executive producers Gael García Bernal and Diego Luna
-  this inspiring triumph of creativity challenges the limits of documentary
-  conventions to tell the story of a revolutionary Chicano art group who tu
- rned 1970s LA into their defiant canvas.\nWith Director Travis Gutiérrez 
- Senger at the Sunday\, June 28th screening!\n\nTickets: https://vidiotsfou
- ndation.org/purchase/4158848/\n\nDetails: https://vidiotsfoundation.org/mo
- vies/asco-without-permission/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\, Special Guests in Attendance\n\nFrom executive p
+ roducers Gael García Bernal and Diego Luna this inspiring triumph of crea
+ tivity challenges the limits of documentary conventions to tell the story 
+ of a revolutionary Chicano art group who turned 1970s LA into their defian
+ t canvas.\nWith Director Travis Gutiérrez Senger at the Sunday\, June 28t
+ h screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4158848/\n
+ \nDetails: https://vidiotsfoundation.org/movies/asco-without-permission/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4134601@vidiotsfoundation.org
@@ -1467,6 +1468,21 @@ DESCRIPTION:Run time: 103 min | Format: Digital | Rating: R\n\nSeries: Door
  97/\n\nDetails: https://vidiotsfoundation.org/movies/zoot-suit/
 END:VEVENT
 BEGIN:VEVENT
+UID:4297787@vidiotsfoundation.org
+DTSTAMP:20260724T234500Z
+DTSTART;TZID=America/Los_Angeles:20260724T164500
+DTEND;TZID=America/Los_Angeles:20260724T181300
+SUMMARY:Leviticus
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297787/
+DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nYoung love can be a monster in th
+ is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
+ foundation.org/purchase/4297787/\n\nDetails: https://vidiotsfoundation.org
+ /movies/leviticus/
+END:VEVENT
+BEGIN:VEVENT
 UID:4271083@vidiotsfoundation.org
 DTSTAMP:20260725T020000Z
 DTSTART;TZID=America/Los_Angeles:20260724T190000
@@ -1481,6 +1497,21 @@ DESCRIPTION:Run time: 106 min | Format: Digital\n\nSeries: In the Eagle\n\n
  frankenstein/
 END:VEVENT
 BEGIN:VEVENT
+UID:4297789@vidiotsfoundation.org
+DTSTAMP:20260725T023000Z
+DTSTART;TZID=America/Los_Angeles:20260724T193000
+DTEND;TZID=America/Los_Angeles:20260724T205800
+SUMMARY:Leviticus
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297789/
+DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nYoung love can be a monster in th
+ is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
+ foundation.org/purchase/4297789/\n\nDetails: https://vidiotsfoundation.org
+ /movies/leviticus/
+END:VEVENT
+BEGIN:VEVENT
 UID:4253152@vidiotsfoundation.org
 DTSTAMP:20260725T044500Z
 DTSTART;TZID=America/Los_Angeles:20260724T214500
@@ -1493,6 +1524,21 @@ DESCRIPTION:Run time: 107 min | Format: Digital | Rating: R\n\nSeries: In t
  he Eagle\, What the Friday?!?\n\nThis is Her... In the Mind Of A Killer\n\
  nTickets: https://vidiotsfoundation.org/purchase/4253152/\n\nDetails: http
  s://vidiotsfoundation.org/movies/the-cell/
+END:VEVENT
+BEGIN:VEVENT
+UID:4297791@vidiotsfoundation.org
+DTSTAMP:20260725T050000Z
+DTSTART;TZID=America/Los_Angeles:20260724T220000
+DTEND;TZID=America/Los_Angeles:20260724T232800
+SUMMARY:Leviticus
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297791/
+DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nYoung love can be a monster in th
+ is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
+ foundation.org/purchase/4297791/\n\nDetails: https://vidiotsfoundation.org
+ /movies/leviticus/
 END:VEVENT
 BEGIN:VEVENT
 UID:4253153@vidiotsfoundation.org
@@ -1526,6 +1572,21 @@ DESCRIPTION:Run time: 114 min | Format: 35mm Film | Rating: R\n\nSeries: 35
  s/
 END:VEVENT
 BEGIN:VEVENT
+UID:4297814@vidiotsfoundation.org
+DTSTAMP:20260726T023000Z
+DTSTART;TZID=America/Los_Angeles:20260725T193000
+DTEND;TZID=America/Los_Angeles:20260725T205800
+SUMMARY:Leviticus
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297814/
+DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nYoung love can be a monster in th
+ is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
+ foundation.org/purchase/4297814/\n\nDetails: https://vidiotsfoundation.org
+ /movies/leviticus/
+END:VEVENT
+BEGIN:VEVENT
 UID:4271084@vidiotsfoundation.org
 DTSTAMP:20260726T044500Z
 DTSTART;TZID=America/Los_Angeles:20260725T214500
@@ -1538,6 +1599,21 @@ DESCRIPTION:Run time: 117 min | Format: Digital\n\nSeries: In the Eagle\n\n
  If you're like us\, you could definitely use some Ellen Ripley in your lif
  e right now!\n\nTickets: https://vidiotsfoundation.org/purchase/4271084/\n
  \nDetails: https://vidiotsfoundation.org/movies/alien/
+END:VEVENT
+BEGIN:VEVENT
+UID:4297815@vidiotsfoundation.org
+DTSTAMP:20260726T050000Z
+DTSTART;TZID=America/Los_Angeles:20260725T220000
+DTEND;TZID=America/Los_Angeles:20260725T232800
+SUMMARY:Leviticus
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297815/
+DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nYoung love can be a monster in th
+ is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
+ foundation.org/purchase/4297815/\n\nDetails: https://vidiotsfoundation.org
+ /movies/leviticus/
 END:VEVENT
 BEGIN:VEVENT
 UID:4253161@vidiotsfoundation.org
@@ -1568,6 +1644,51 @@ DESCRIPTION:Run time: 102 min | Format: Digital | Rating: R\n\nSeries: In t
  y special 20th Anniversary screening of the indie darling Little Miss Suns
  hine!\n\nTickets: https://vidiotsfoundation.org/purchase/4253162/\n\nDetai
  ls: https://vidiotsfoundation.org/movies/little-miss-sunshine/
+END:VEVENT
+BEGIN:VEVENT
+UID:4297818@vidiotsfoundation.org
+DTSTAMP:20260726T233000Z
+DTSTART;TZID=America/Los_Angeles:20260726T163000
+DTEND;TZID=America/Los_Angeles:20260726T175800
+SUMMARY:Leviticus
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297818/
+DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nYoung love can be a monster in th
+ is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
+ foundation.org/purchase/4297818/\n\nDetails: https://vidiotsfoundation.org
+ /movies/leviticus/
+END:VEVENT
+BEGIN:VEVENT
+UID:4297819@vidiotsfoundation.org
+DTSTAMP:20260727T023000Z
+DTSTART;TZID=America/Los_Angeles:20260726T193000
+DTEND;TZID=America/Los_Angeles:20260726T205800
+SUMMARY:Leviticus
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297819/
+DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nYoung love can be a monster in th
+ is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
+ foundation.org/purchase/4297819/\n\nDetails: https://vidiotsfoundation.org
+ /movies/leviticus/
+END:VEVENT
+BEGIN:VEVENT
+UID:4297838@vidiotsfoundation.org
+DTSTAMP:20260728T020000Z
+DTSTART;TZID=America/Los_Angeles:20260727T190000
+DTEND;TZID=America/Los_Angeles:20260727T202800
+SUMMARY:Leviticus
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297838/
+DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nYoung love can be a monster in th
+ is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
+ foundation.org/purchase/4297838/\n\nDetails: https://vidiotsfoundation.org
+ /movies/leviticus/
 END:VEVENT
 BEGIN:VEVENT
 UID:4254358@vidiotsfoundation.org
