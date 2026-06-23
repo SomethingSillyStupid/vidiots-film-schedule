@@ -1736,19 +1736,4 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  e Theater Day!\n\nTickets: https://vidiotsfoundation.org/purchase/4270663/
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
-BEGIN:VEVENT
-UID:4127892@vidiotsfoundation.org
-DTSTAMP:20260623T023000Z
-DTSTART;TZID=America/Los_Angeles:20260622T193000
-DTEND;TZID=America/Los_Angeles:20260622T210300
-SUMMARY:Working Girls
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4127892/
-DESCRIPTION:Run time: 93 min | Format: Digital | Rating: R\n\nSeries: Doors
-  Open at 6\, In the Eagle\n\nIt's time you rediscovered Lizzie Borden's fr
- ank\, funny\, and desensationalized look at sex work and the women behind 
- the work.\n\nTickets: https://vidiotsfoundation.org/purchase/4127892/\n\nD
- etails: https://vidiotsfoundation.org/movies/working-girls/
-END:VEVENT
 END:VCALENDAR
