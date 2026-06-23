@@ -8,6 +8,22 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
+UID:4188828@vidiotsfoundation.org
+DTSTAMP:20260625T020000Z
+DTSTART;TZID=America/Los_Angeles:20260624T190000
+DTEND;TZID=America/Los_Angeles:20260624T203900
+SUMMARY:Is God Is
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4188828/
+DESCRIPTION:Run time: 99 min | Format: Digital | Rating: R\n\nSeries: In th
+ e MUBI Microcinema\n\nSummer is just getting started and we've got one hel
+ l of a roadtrip planned for you with Aleshea Harris' miraculous debut feat
+ ure - a vengeance film so incendiary and kick-ass\, we had to bring it bac
+ k for more!\n\nTickets: https://vidiotsfoundation.org/purchase/4188828/\n\
+ nDetails: https://vidiotsfoundation.org/movies/is-god-is/
+END:VEVENT
+BEGIN:VEVENT
 UID:4158824@vidiotsfoundation.org
 DTSTAMP:20260625T023000Z
 DTSTART;TZID=America/Los_Angeles:20260624T193000
