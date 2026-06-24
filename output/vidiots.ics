@@ -151,15 +151,16 @@ SUMMARY:ASCO: Without Permission
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4244419/
-DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests in
-  Attendance\n\nFrom executive producers Gael García Bernal and Diego Luna
-  this inspiring triumph of creativity challenges the limits of documentary
-  conventions to tell the story of a revolutionary Chicano art group who tu
- rned 1970s LA into their defiant canvas.\nWith Director Travis Gutiérrez 
- Senger at the Sunday\, June 28th screening!\n\nTickets: https://vidiotsfou
- ndation.org/purchase/4244419/\n\nDetails: https://vidiotsfoundation.org/mo
- vies/asco-without-permission/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\, Special Guests in Attendance\n\nFrom executive p
+ roducers Gael García Bernal and Diego Luna this inspiring triumph of crea
+ tivity challenges the limits of documentary conventions to tell the story 
+ of a revolutionary Chicano art group who turned 1970s LA into their defian
+ t canvas.\nWith Director Travis Gutiérrez Senger at the Sunday\, June 28t
+ h screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4244419/\n
+ \nDetails: https://vidiotsfoundation.org/movies/asco-without-permission/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4133170@vidiotsfoundation.org
@@ -206,11 +207,13 @@ SUMMARY:The Birdcage
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4133171/
-DESCRIPTION:Run time: 117 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nNichols and May team up again\, this time with an all-star cas
- t\, to bring you this much-cherished comedy of closeted manners.\n\nTicket
- s: https://vidiotsfoundation.org/purchase/4133171/\n\nDetails: https://vid
- iotsfoundation.org/movies/the-birdcage/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 117 min | 
+ Format: Digital | Rating: R\n\nSeries: In the Eagle\n\nNichols and May tea
+ m up again\, this time with an all-star cast\, to bring you this much-cher
+ ished comedy of closeted manners.\n\nTickets: https://vidiotsfoundation.or
+ g/purchase/4133171/\n\nDetails: https://vidiotsfoundation.org/movies/the-b
+ irdcage/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4153320@vidiotsfoundation.org
@@ -974,6 +977,39 @@ DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
  -secret/
 END:VEVENT
 BEGIN:VEVENT
+UID:4252701@vidiotsfoundation.org
+DTSTAMP:20260711T193000Z
+DTSTART;TZID=America/Los_Angeles:20260711T123000
+DTEND;TZID=America/Los_Angeles:20260711T141800
+SUMMARY:Night at the Museum
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252701/
+DESCRIPTION:Run time: 108 min | Format: Digital | Rating: PG\n\nSeries: Fil
+ ms for Everyone\, In the Eagle\n\nCo-starring a list of legendary Hollywoo
+ d veterans like Mickey Rooney and Dick Van Dyke\, and written by the sheri
+ ff's department at Reno 911 (Tom Lennon and Ben Garant) you know you're in
+  for a historically hilarious and magical time at this museum!\n\nTickets:
+  https://vidiotsfoundation.org/purchase/4252701/\n\nDetails: https://vidio
+ tsfoundation.org/movies/night-at-the-museum/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252705@vidiotsfoundation.org
+DTSTAMP:20260711T224500Z
+DTSTART;TZID=America/Los_Angeles:20260711T154500
+DTEND;TZID=America/Los_Angeles:20260711T172600
+SUMMARY:Adam’s Rib
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252705/
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: In the Eagle\n\n
+ Screwball comedy has never been so litigious and effervescent than in Geor
+ ge Cukor's madcap masterpiece starring the infectiously iconic Katharine H
+ epburn and co-written by legend Ruth Gordon!\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4252705/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/adams-rib/
+END:VEVENT
+BEGIN:VEVENT
 UID:4267744@vidiotsfoundation.org
 DTSTAMP:20260711T233000Z
 DTSTART;TZID=America/Los_Angeles:20260711T163000
@@ -983,14 +1019,16 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4267744/
 DESCRIPTION:Run time: 85 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the m
- icrocinema for a fascinating documentary at the intersection of Hollywood\
- , morbid curiosity\, and the American immigrant experience\, Coroner to th
- e Stars - a chronicle of the extraordinary journey of Dr. Thomas Noguchi\,
-  the former Los Angeles County Chief Medical Examiner-Coroner whose ground
- breaking autopsies forever shaped American culture.\n\nTickets: https://vi
- diotsfoundation.org/purchase/4267744/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/coroner-to-the-stars/
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests in
+  Attendance\n\nJoin us in the microcinema for a fascinating documentary at
+  the intersection of Hollywood\, morbid curiosity\, and the American immig
+ rant experience\, Coroner to the Stars - a chronicle of the extraordinary 
+ journey of Dr. Thomas Noguchi\, the former Los Angeles County Chief Medica
+ l Examiner-Coroner whose groundbreaking autopsies forever shaped American 
+ culture.\nWith director Ben Hethcoat in conversation with Adrienne Hill on
+  Sunday\, July 12th!\n\nTickets: https://vidiotsfoundation.org/purchase/42
+ 67744/\n\nDetails: https://vidiotsfoundation.org/movies/coroner-to-the-sta
+ rs/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252707@vidiotsfoundation.org
@@ -1078,14 +1116,16 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4215458/
 DESCRIPTION:Run time: 85 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the m
- icrocinema for a fascinating documentary at the intersection of Hollywood\
- , morbid curiosity\, and the American immigrant experience\, Coroner to th
- e Stars - a chronicle of the extraordinary journey of Dr. Thomas Noguchi\,
-  the former Los Angeles County Chief Medical Examiner-Coroner whose ground
- breaking autopsies forever shaped American culture.\n\nTickets: https://vi
- diotsfoundation.org/purchase/4215458/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/coroner-to-the-stars/
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests in
+  Attendance\n\nJoin us in the microcinema for a fascinating documentary at
+  the intersection of Hollywood\, morbid curiosity\, and the American immig
+ rant experience\, Coroner to the Stars - a chronicle of the extraordinary 
+ journey of Dr. Thomas Noguchi\, the former Los Angeles County Chief Medica
+ l Examiner-Coroner whose groundbreaking autopsies forever shaped American 
+ culture.\nWith director Ben Hethcoat in conversation with Adrienne Hill on
+  Sunday\, July 12th!\n\nTickets: https://vidiotsfoundation.org/purchase/42
+ 15458/\n\nDetails: https://vidiotsfoundation.org/movies/coroner-to-the-sta
+ rs/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252715@vidiotsfoundation.org
@@ -1112,14 +1152,16 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4215468/
 DESCRIPTION:Run time: 85 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the m
- icrocinema for a fascinating documentary at the intersection of Hollywood\
- , morbid curiosity\, and the American immigrant experience\, Coroner to th
- e Stars - a chronicle of the extraordinary journey of Dr. Thomas Noguchi\,
-  the former Los Angeles County Chief Medical Examiner-Coroner whose ground
- breaking autopsies forever shaped American culture.\n\nTickets: https://vi
- diotsfoundation.org/purchase/4215468/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/coroner-to-the-stars/
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests in
+  Attendance\n\nJoin us in the microcinema for a fascinating documentary at
+  the intersection of Hollywood\, morbid curiosity\, and the American immig
+ rant experience\, Coroner to the Stars - a chronicle of the extraordinary 
+ journey of Dr. Thomas Noguchi\, the former Los Angeles County Chief Medica
+ l Examiner-Coroner whose groundbreaking autopsies forever shaped American 
+ culture.\nWith director Ben Hethcoat in conversation with Adrienne Hill on
+  Sunday\, July 12th!\n\nTickets: https://vidiotsfoundation.org/purchase/42
+ 15468/\n\nDetails: https://vidiotsfoundation.org/movies/coroner-to-the-sta
+ rs/
 END:VEVENT
 BEGIN:VEVENT
 UID:4215461@vidiotsfoundation.org
@@ -1234,6 +1276,22 @@ DESCRIPTION:Run time: 93 min | Format: 35mm Film\n\nSeries: 35mm Film\, Doo
  /vidiotsfoundation.org/movies/streets-of-fire/
 END:VEVENT
 BEGIN:VEVENT
+UID:4301573@vidiotsfoundation.org
+DTSTAMP:20260717T023000Z
+DTSTART;TZID=America/Los_Angeles:20260716T193000
+DTEND;TZID=America/Los_Angeles:20260716T220400
+SUMMARY:Amores Perros
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4301573/
+DESCRIPTION:Run time: 154 min | Format: Digital | Rating: R | Release year:
+  2000\n\nSeries: Community Partners\, In the Eagle\n\nLove. Betrayal. Deat
+ h.\nCo-Presented by the MUBI Podcast featuring an in-person introduction f
+ rom MUBI Podcast host Rico Gagliano!\n\nTickets: https://vidiotsfoundation
+ .org/purchase/4301573/\n\nDetails: https://vidiotsfoundation.org/movies/am
+ ores-perros/
+END:VEVENT
+BEGIN:VEVENT
 UID:4252861@vidiotsfoundation.org
 DTSTAMP:20260718T020000Z
 DTSTART;TZID=America/Los_Angeles:20260717T190000
@@ -1246,6 +1304,22 @@ DESCRIPTION:Run time: 116 min | Format: Digital | Rating: R\n\nSeries: In t
  he Eagle\n\nGet ready for rush hour.\n\nTickets: https://vidiotsfoundation
  .org/purchase/4252861/\n\nDetails: https://vidiotsfoundation.org/movies/sp
  eed/
+END:VEVENT
+BEGIN:VEVENT
+UID:4297840@vidiotsfoundation.org
+DTSTAMP:20260718T023000Z
+DTSTART;TZID=America/Los_Angeles:20260717T193000
+DTEND;TZID=America/Los_Angeles:20260717T211000
+SUMMARY:Unidentified
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297840/
+DESCRIPTION:Run time: 100 min | Format: Digital | Rating: PG-13 | Release y
+ ear: 2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nEvil hi
+ des best in plain sight. Uncover the truth in Unidentified\, a gripping Sa
+ udi murder mystery from acclaimed filmmaker Haifaa al-Mansour (Wadjda).\n\
+ nTickets: https://vidiotsfoundation.org/purchase/4297840/\n\nDetails: http
+ s://vidiotsfoundation.org/movies/unidentified/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252862@vidiotsfoundation.org
@@ -1261,6 +1335,22 @@ DESCRIPTION:Run time: 81 min | Format: Digital | Rating: R | Release year:
  toshi Kon brings us this intense animated psychological thriller for the s
  ocial media era.\n\nTickets: https://vidiotsfoundation.org/purchase/425286
  2/\n\nDetails: https://vidiotsfoundation.org/movies/perfect-blue/
+END:VEVENT
+BEGIN:VEVENT
+UID:4297841@vidiotsfoundation.org
+DTSTAMP:20260718T050000Z
+DTSTART;TZID=America/Los_Angeles:20260717T220000
+DTEND;TZID=America/Los_Angeles:20260717T234000
+SUMMARY:Unidentified
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297841/
+DESCRIPTION:Run time: 100 min | Format: Digital | Rating: PG-13 | Release y
+ ear: 2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nEvil hi
+ des best in plain sight. Uncover the truth in Unidentified\, a gripping Sa
+ udi murder mystery from acclaimed filmmaker Haifaa al-Mansour (Wadjda).\n\
+ nTickets: https://vidiotsfoundation.org/purchase/4297841/\n\nDetails: http
+ s://vidiotsfoundation.org/movies/unidentified/
 END:VEVENT
 BEGIN:VEVENT
 UID:4253111@vidiotsfoundation.org
@@ -1279,6 +1369,22 @@ DESCRIPTION:Run time: 81 min\n\nSeries: In the Eagle\n\nFor nearly 30 years
   to inform\, honor\, document\, and critique.\n\nTickets: https://vidiotsf
  oundation.org/purchase/4253111/\n\nDetails: https://vidiotsfoundation.org/
  movies/celebration-of-celluloid/
+END:VEVENT
+BEGIN:VEVENT
+UID:4298064@vidiotsfoundation.org
+DTSTAMP:20260719T013000Z
+DTSTART;TZID=America/Los_Angeles:20260718T183000
+DTEND;TZID=America/Los_Angeles:20260718T201000
+SUMMARY:Unidentified
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4298064/
+DESCRIPTION:Run time: 100 min | Format: Digital | Rating: PG-13 | Release y
+ ear: 2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nEvil hi
+ des best in plain sight. Uncover the truth in Unidentified\, a gripping Sa
+ udi murder mystery from acclaimed filmmaker Haifaa al-Mansour (Wadjda).\n\
+ nTickets: https://vidiotsfoundation.org/purchase/4298064/\n\nDetails: http
+ s://vidiotsfoundation.org/movies/unidentified/
 END:VEVENT
 BEGIN:VEVENT
 UID:4253110@vidiotsfoundation.org
@@ -1405,10 +1511,26 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 106 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4253144@vidiotsfoundation.org
+UID:4301565@vidiotsfoundation.org
 DTSTAMP:20260721T020000Z
 DTSTART;TZID=America/Los_Angeles:20260720T190000
-DTEND;TZID=America/Los_Angeles:20260720T203400
+DTEND;TZID=America/Los_Angeles:20260720T204000
+SUMMARY:Unidentified
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4301565/
+DESCRIPTION:Run time: 100 min | Format: Digital | Rating: PG-13 | Release y
+ ear: 2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nEvil hi
+ des best in plain sight. Uncover the truth in Unidentified\, a gripping Sa
+ udi murder mystery from acclaimed filmmaker Haifaa al-Mansour (Wadjda).\n\
+ nTickets: https://vidiotsfoundation.org/purchase/4301565/\n\nDetails: http
+ s://vidiotsfoundation.org/movies/unidentified/
+END:VEVENT
+BEGIN:VEVENT
+UID:4253144@vidiotsfoundation.org
+DTSTAMP:20260721T023000Z
+DTSTART;TZID=America/Los_Angeles:20260720T193000
+DTEND;TZID=America/Los_Angeles:20260720T210400
 SUMMARY:Jamón Jamón
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
