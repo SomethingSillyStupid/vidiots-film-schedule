@@ -8,40 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4188828@vidiotsfoundation.org
-DTSTAMP:20260625T020000Z
-DTSTART;TZID=America/Los_Angeles:20260624T190000
-DTEND;TZID=America/Los_Angeles:20260624T203900
-SUMMARY:Is God Is
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4188828/
-DESCRIPTION:Run time: 99 min | Format: Digital | Rating: R\n\nSeries: In th
- e MUBI Microcinema\n\nSummer is just getting started and we've got one hel
- l of a roadtrip planned for you with Aleshea Harris' miraculous debut feat
- ure - a vengeance film so incendiary and kick-ass\, we had to bring it bac
- k for more!\n\nTickets: https://vidiotsfoundation.org/purchase/4188828/\n\
- nDetails: https://vidiotsfoundation.org/movies/is-god-is/
-END:VEVENT
-BEGIN:VEVENT
-UID:4158824@vidiotsfoundation.org
-DTSTAMP:20260625T023000Z
-DTSTART;TZID=America/Los_Angeles:20260624T193000
-DTEND;TZID=America/Los_Angeles:20260624T210300
-SUMMARY:Gail Daughtry and the Celebrity Sex Pass
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://events.humanitix.com/kcrw-partner-screening-gail-daughtry-and-t
- he-celebrity-sex-pass
-DESCRIPTION:Run time: 93 min | Format: Digital | Rating: R\n\nSeries: Commu
- nity Partners\, Free Events\, In the Eagle\n\nKCRW\, Vidiots\, and Sony Pi
- cture Classics invite you to a special advance screening of Gail Daughtry 
- and the Celebrity Sex Pass.\n\nTickets: https://events.humanitix.com/kcrw-
- partner-screening-gail-daughtry-and-the-celebrity-sex-pass\n\nDetails: htt
- ps://vidiotsfoundation.org/movies/gail-daughtry-and-the-celebrity-sex-pass
- /
-END:VEVENT
-BEGIN:VEVENT
 UID:4158845@vidiotsfoundation.org
 DTSTAMP:20260626T020000Z
 DTSTART;TZID=America/Los_Angeles:20260625T190000
@@ -220,15 +186,16 @@ SUMMARY:ASCO: Without Permission
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4158871/
-DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests in
-  Attendance\n\nFrom executive producers Gael García Bernal and Diego Luna
-  this inspiring triumph of creativity challenges the limits of documentary
-  conventions to tell the story of a revolutionary Chicano art group who tu
- rned 1970s LA into their defiant canvas.\nWith Director Travis Gutiérrez 
- Senger at the Sunday\, June 28th screening!\n\nTickets: https://vidiotsfou
- ndation.org/purchase/4158871/\n\nDetails: https://vidiotsfoundation.org/mo
- vies/asco-without-permission/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\, Special Guests in Attendance\n\nFrom executive p
+ roducers Gael García Bernal and Diego Luna this inspiring triumph of crea
+ tivity challenges the limits of documentary conventions to tell the story 
+ of a revolutionary Chicano art group who turned 1970s LA into their defian
+ t canvas.\nWith Director Travis Gutiérrez Senger at the Sunday\, June 28t
+ h screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4158871/\n
+ \nDetails: https://vidiotsfoundation.org/movies/asco-without-permission/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4133171@vidiotsfoundation.org
@@ -1750,5 +1717,39 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  he Eagle\n\nI'm mad as Hell and I'm not going to take it anymore!\nArthous
  e Theater Day!\n\nTickets: https://vidiotsfoundation.org/purchase/4270663/
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
+END:VEVENT
+BEGIN:VEVENT
+UID:4188828@vidiotsfoundation.org
+DTSTAMP:20260625T020000Z
+DTSTART;TZID=America/Los_Angeles:20260624T190000
+DTEND;TZID=America/Los_Angeles:20260624T203900
+SUMMARY:Is God Is
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4188828/
+DESCRIPTION:Run time: 99 min | Format: Digital | Rating: R\n\nSeries: In th
+ e MUBI Microcinema\n\nSummer is just getting started and we've got one hel
+ l of a roadtrip planned for you with Aleshea Harris' miraculous debut feat
+ ure - a vengeance film so incendiary and kick-ass\, we had to bring it bac
+ k for more!\n\nTickets: https://vidiotsfoundation.org/purchase/4188828/\n\
+ nDetails: https://vidiotsfoundation.org/movies/is-god-is/
+END:VEVENT
+BEGIN:VEVENT
+UID:4158824@vidiotsfoundation.org
+DTSTAMP:20260625T023000Z
+DTSTART;TZID=America/Los_Angeles:20260624T193000
+DTEND;TZID=America/Los_Angeles:20260624T210300
+SUMMARY:Gail Daughtry and the Celebrity Sex Pass
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://events.humanitix.com/kcrw-partner-screening-gail-daughtry-and-t
+ he-celebrity-sex-pass
+DESCRIPTION:Run time: 93 min | Format: Digital | Rating: R\n\nSeries: Commu
+ nity Partners\, Free Events\, In the Eagle\n\nKCRW\, Vidiots\, and Sony Pi
+ cture Classics invite you to a special advance screening of Gail Daughtry 
+ and the Celebrity Sex Pass.\n\nTickets: https://events.humanitix.com/kcrw-
+ partner-screening-gail-daughtry-and-the-celebrity-sex-pass\n\nDetails: htt
+ ps://vidiotsfoundation.org/movies/gail-daughtry-and-the-celebrity-sex-pass
+ /
 END:VEVENT
 END:VCALENDAR
