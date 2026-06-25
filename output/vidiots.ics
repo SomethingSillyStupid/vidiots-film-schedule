@@ -1630,21 +1630,6 @@ DESCRIPTION:Run time: 107 min | Format: Digital | Rating: R\n\nSeries: In t
  s://vidiotsfoundation.org/movies/the-cell/
 END:VEVENT
 BEGIN:VEVENT
-UID:4297791@vidiotsfoundation.org
-DTSTAMP:20260725T050000Z
-DTSTART;TZID=America/Los_Angeles:20260724T220000
-DTEND;TZID=America/Los_Angeles:20260724T232800
-SUMMARY:Leviticus
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297791/
-DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nYoung love can be a monster in th
- is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
- foundation.org/purchase/4297791/\n\nDetails: https://vidiotsfoundation.org
- /movies/leviticus/
-END:VEVENT
-BEGIN:VEVENT
 UID:4253153@vidiotsfoundation.org
 DTSTAMP:20260725T230000Z
 DTSTART;TZID=America/Los_Angeles:20260725T160000
