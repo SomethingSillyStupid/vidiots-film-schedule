@@ -8,25 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4158845@vidiotsfoundation.org
-DTSTAMP:20260626T020000Z
-DTSTART;TZID=America/Los_Angeles:20260625T190000
-DTEND;TZID=America/Los_Angeles:20260625T203600
-SUMMARY:Sweet 16mm: Revolutionary Queer Cinema
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158845/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 96 min\n\n
- Series: In the MUBI Microcinema\n\nAn all 16mm program of groundbreaking a
- nd jaw-dropping short films from the 1930s - 1970s that not only challenge
- d the norms of gender and sexuality but of form and fluidity of filmmaking
- \, including works by Jean Genet\, Barbara Hammer\, Coni Beeson and more!\
- nSecond Screening added Sunday\, June 28th\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4158845/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/sweet-16mm-revolutionary-queer-cinema/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4134600@vidiotsfoundation.org
 DTSTAMP:20260626T224500Z
 DTSTART;TZID=America/Los_Angeles:20260626T154500
@@ -345,23 +326,6 @@ DESCRIPTION:Run time: 92 min | Format: Digital\n\nSeries: Groundbreaking No
   screening of the massively entertaining\, endearing\, and thought-provoki
  ng documentary We Are Pat!\n\nTickets: https://vidiotsfoundation.org/purch
  ase/4133190/\n\nDetails: https://vidiotsfoundation.org/movies/we-are-pat/
-END:VEVENT
-BEGIN:VEVENT
-UID:4244417@vidiotsfoundation.org
-DTSTAMP:20260629T023000Z
-DTSTART;TZID=America/Los_Angeles:20260628T193000
-DTEND;TZID=America/Los_Angeles:20260628T210600
-SUMMARY:Sweet 16mm: Revolutionary Queer Cinema
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4244417/
-DESCRIPTION:Run time: 96 min\n\nSeries: In the MUBI Microcinema\n\nAn all 1
- 6mm program of groundbreaking and jaw-dropping short films from the 1930s 
- - 1970s that not only challenged the norms of gender and sexuality but of 
- form and fluidity of filmmaking\, including works by Jean Genet\, Barbara 
- Hammer\, Coni Beeson and more!\nSecond Screening added Sunday\, June 28th\
- n\nTickets: https://vidiotsfoundation.org/purchase/4244417/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/sweet-16mm-revolutionary-queer-cinema/
 END:VEVENT
 BEGIN:VEVENT
 UID:4158882@vidiotsfoundation.org
@@ -1826,37 +1790,22 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 BEGIN:VEVENT
-UID:4188828@vidiotsfoundation.org
-DTSTAMP:20260625T020000Z
-DTSTART;TZID=America/Los_Angeles:20260624T190000
-DTEND;TZID=America/Los_Angeles:20260624T203900
-SUMMARY:Is God Is
+UID:4158845@vidiotsfoundation.org
+DTSTAMP:20260626T020000Z
+DTSTART;TZID=America/Los_Angeles:20260625T190000
+DTEND;TZID=America/Los_Angeles:20260625T203600
+SUMMARY:Sweet 16mm: Revolutionary Queer Cinema
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
-URL:https://vidiotsfoundation.org/purchase/4188828/
-DESCRIPTION:Run time: 99 min | Format: Digital | Rating: R\n\nSeries: In th
- e MUBI Microcinema\n\nSummer is just getting started and we've got one hel
- l of a roadtrip planned for you with Aleshea Harris' miraculous debut feat
- ure - a vengeance film so incendiary and kick-ass\, we had to bring it bac
- k for more!\n\nTickets: https://vidiotsfoundation.org/purchase/4188828/\n\
- nDetails: https://vidiotsfoundation.org/movies/is-god-is/
-END:VEVENT
-BEGIN:VEVENT
-UID:4158824@vidiotsfoundation.org
-DTSTAMP:20260625T023000Z
-DTSTART;TZID=America/Los_Angeles:20260624T193000
-DTEND;TZID=America/Los_Angeles:20260624T210300
-SUMMARY:Gail Daughtry and the Celebrity Sex Pass
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://events.humanitix.com/kcrw-partner-screening-gail-daughtry-and-t
- he-celebrity-sex-pass
-DESCRIPTION:Run time: 93 min | Format: Digital | Rating: R\n\nSeries: Commu
- nity Partners\, Free Events\, In the Eagle\n\nKCRW\, Vidiots\, and Sony Pi
- cture Classics invite you to a special advance screening of Gail Daughtry 
- and the Celebrity Sex Pass.\n\nTickets: https://events.humanitix.com/kcrw-
- partner-screening-gail-daughtry-and-the-celebrity-sex-pass\n\nDetails: htt
- ps://vidiotsfoundation.org/movies/gail-daughtry-and-the-celebrity-sex-pass
- /
+URL:https://vidiotsfoundation.org/purchase/4158845/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 96 min\n\n
+ Series: In the MUBI Microcinema\n\nAn all 16mm program of groundbreaking a
+ nd jaw-dropping short films from the 1930s - 1970s that not only challenge
+ d the norms of gender and sexuality but of form and fluidity of filmmaking
+ \, including works by Jean Genet\, Barbara Hammer\, Coni Beeson and more!\
+ nSecond Screening added Sunday\, June 28th\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4158845/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/sweet-16mm-revolutionary-queer-cinema/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
