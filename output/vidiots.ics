@@ -69,11 +69,13 @@ SUMMARY:Camp
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4158849/
-DESCRIPTION:Run time: 111 min | Format: Digital\n\nSeries: In the MUBI Micr
- ocinema\n\nSummer is finally here\, and it's time to bring your coven to t
- he woods of our microcinema for Avalon Fast's dark and witchy indie darlin
- g Camp.\n\nTickets: https://vidiotsfoundation.org/purchase/4158849/\n\nDet
- ails: https://vidiotsfoundation.org/movies/camp/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 111 min | 
+ Format: Digital\n\nSeries: In the MUBI Microcinema\n\nSummer is finally he
+ re\, and it's time to bring your coven to the woods of our microcinema for
+  Avalon Fast's dark and witchy indie darling Camp.\n\nTickets: https://vid
+ iotsfoundation.org/purchase/4158849/\n\nDetails: https://vidiotsfoundation
+ .org/movies/camp/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4158219@vidiotsfoundation.org
@@ -357,9 +359,9 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 123 min |
  Format: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\n\nI
  t's Showtime Folks!\nWinner of the Palme d'Or at the Cannes Film Festival 
  and nominated for 9 Academy Awards\, All That Jazz is a musical like no ot
- her and a cinematic triumph on every level.\n\nTickets: https://vidiotsfou
- ndation.org/purchase/4133191/\n\nDetails: https://vidiotsfoundation.org/mo
- vies/all-that-jazz/
+ her and a cinematic triumph on every level.\nEncore Screening Added July 1
+ 7th!\n\nTickets: https://vidiotsfoundation.org/purchase/4133191/\n\nDetail
+ s: https://vidiotsfoundation.org/movies/all-that-jazz/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -1249,11 +1251,28 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4301573/
 DESCRIPTION:Run time: 154 min | Format: Digital | Rating: R | Release year:
-  2000\n\nSeries: Community Partners\, In the Eagle\n\nLove. Betrayal. Deat
- h.\nCo-Presented by the MUBI Podcast featuring an in-person introduction f
- rom MUBI Podcast host Rico Gagliano!\n\nTickets: https://vidiotsfoundation
- .org/purchase/4301573/\n\nDetails: https://vidiotsfoundation.org/movies/am
- ores-perros/
+  2000\n\nSeries: Community Partners\, In the Eagle\n\n25th Anniversary and
+  Brand-New Restoration!\nCo-Presented by the MUBI Podcast featuring an in-
+ person introduction from MUBI Podcast host Rico Gagliano!\n\nTickets: http
+ s://vidiotsfoundation.org/purchase/4301573/\n\nDetails: https://vidiotsfou
+ ndation.org/movies/amores-perros/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252855@vidiotsfoundation.org
+DTSTAMP:20260717T230000Z
+DTSTART;TZID=America/Los_Angeles:20260717T160000
+DTEND;TZID=America/Los_Angeles:20260717T180300
+SUMMARY:All That Jazz
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252855/
+DESCRIPTION:Run time: 123 min | Format: Digital | Rating: R\n\nSeries: Door
+ s Open at 6\, In the Eagle\n\nIt's Showtime Folks!\nWinner of the Palme d'
+ Or at the Cannes Film Festival and nominated for 9 Academy Awards\, All Th
+ at Jazz is a musical like no other and a cinematic triumph on every level.
+ \nEncore Screening Added July 17th!\n\nTickets: https://vidiotsfoundation.
+ org/purchase/4252855/\n\nDetails: https://vidiotsfoundation.org/movies/all
+ -that-jazz/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252861@vidiotsfoundation.org
@@ -1626,9 +1645,9 @@ DESCRIPTION:Run time: 114 min | Format: 35mm Film | Rating: R\n\nSeries: 35
 END:VEVENT
 BEGIN:VEVENT
 UID:4297814@vidiotsfoundation.org
-DTSTAMP:20260726T023000Z
-DTSTART;TZID=America/Los_Angeles:20260725T193000
-DTEND;TZID=America/Los_Angeles:20260725T205800
+DTSTAMP:20260726T024500Z
+DTSTART;TZID=America/Los_Angeles:20260725T194500
+DTEND;TZID=America/Los_Angeles:20260725T211300
 SUMMARY:Leviticus
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
@@ -1655,9 +1674,9 @@ DESCRIPTION:Run time: 117 min | Format: Digital\n\nSeries: In the Eagle\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:4297815@vidiotsfoundation.org
-DTSTAMP:20260726T050000Z
-DTSTART;TZID=America/Los_Angeles:20260725T220000
-DTEND;TZID=America/Los_Angeles:20260725T232800
+DTSTAMP:20260726T051500Z
+DTSTART;TZID=America/Los_Angeles:20260725T221500
+DTEND;TZID=America/Los_Angeles:20260725T234300
 SUMMARY:Leviticus
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
