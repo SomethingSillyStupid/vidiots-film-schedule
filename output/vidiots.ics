@@ -51,14 +51,12 @@ SUMMARY:The Matrix
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4134601/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 136 min | 
- Format: Digital | Rating: R\n\nSeries: In the Eagle\n\nLily and Lana Wacho
- wski's ground-breaking science fiction parable set the standard for both a
- ction movies and Science Fiction films for years to come with its innovati
- ve visuals and one-of-a-kind fight choreography.\n\nTickets: https://vidio
- tsfoundation.org/purchase/4134601/\n\nDetails: https://vidiotsfoundation.o
- rg/movies/the-matrix/
-STATUS:TENTATIVE
+DESCRIPTION:Run time: 136 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nLily and Lana Wachowski's ground-breaking science fiction para
+ ble set the standard for both action movies and Science Fiction films for 
+ years to come with its innovative visuals and one-of-a-kind fight choreogr
+ aphy.\n\nTickets: https://vidiotsfoundation.org/purchase/4134601/\n\nDetai
+ ls: https://vidiotsfoundation.org/movies/the-matrix/
 END:VEVENT
 BEGIN:VEVENT
 UID:4158849@vidiotsfoundation.org
@@ -1054,8 +1052,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
 URL:https://vidiotsfoundation.org/purchase/4252710/
 DESCRIPTION:Run time: 92 min | Format: Digital | Rating: R\n\nSeries: In th
  e Eagle\n\nAll the action is behind the counter in Kevin Smith's micro-bud
- get indie breakthrough.\n\nTickets: https://vidiotsfoundation.org/purchase
- /4252710/\n\nDetails: https://vidiotsfoundation.org/movies/clerks/
+ get indie breakthrough with tons of glorious 90s video store footage!\nAnd
+  to spread the video store love - show us your "Clerks" movie ticket on Ju
+ ly 11th for one free rental in the video store!\n\nTickets: https://vidiot
+ sfoundation.org/purchase/4252710/\n\nDetails: https://vidiotsfoundation.or
+ g/movies/clerks/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252714@vidiotsfoundation.org
@@ -1237,9 +1238,10 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252731/
 DESCRIPTION:Run time: 93 min | Format: 35mm Film\n\nSeries: 35mm Film\, Doo
- rs Open at 6\, In the Eagle\n\nTonight is what it means to be young!\n\nTi
- ckets: https://vidiotsfoundation.org/purchase/4252731/\n\nDetails: https:/
- /vidiotsfoundation.org/movies/streets-of-fire/
+ rs Open at 6\, In the Eagle\n\nAn '80s Rock Opera for the Ages! Directed b
+ y Walter Hill and featuring music by Rock God Jim Steinman\, this modern m
+ usical scorches!\n\nTickets: https://vidiotsfoundation.org/purchase/425273
+ 1/\n\nDetails: https://vidiotsfoundation.org/movies/streets-of-fire/
 END:VEVENT
 BEGIN:VEVENT
 UID:4301573@vidiotsfoundation.org
@@ -1284,9 +1286,10 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252861/
 DESCRIPTION:Run time: 116 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nGet ready for rush hour.\n\nTickets: https://vidiotsfoundation
- .org/purchase/4252861/\n\nDetails: https://vidiotsfoundation.org/movies/sp
- eed/
+ he Eagle\n\nYou know you can't resist this high-speed adventure\, so buckl
+ e up for the fun!\nShow us your Metro Pass at the concession stand and get
+  a free small popcorn!\n\nTickets: https://vidiotsfoundation.org/purchase/
+ 4252861/\n\nDetails: https://vidiotsfoundation.org/movies/speed/
 END:VEVENT
 BEGIN:VEVENT
 UID:4297840@vidiotsfoundation.org
@@ -1731,6 +1734,23 @@ DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
  is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
  foundation.org/purchase/4297818/\n\nDetails: https://vidiotsfoundation.org
  /movies/leviticus/
+END:VEVENT
+BEGIN:VEVENT
+UID:4253163@vidiotsfoundation.org
+DTSTAMP:20260727T020000Z
+DTSTART;TZID=America/Los_Angeles:20260726T190000
+DTEND;TZID=America/Los_Angeles:20260726T212000
+SUMMARY:Twin Peaks: The Original Mystery –  Episodes 1 + 2
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253163/
+DESCRIPTION:Run time: 140 min | Format: Digital\n\nSeries: In the Eagle\, T
+ he Lynchian Legacy\n\nGo back to the beginning of David Lynch and Mark Fro
+ st's game-changing television phenomenon with a special theatrical screeni
+ ng of the first two episodes of this landmark series on our beautiful big 
+ screen.\n\nTickets: https://vidiotsfoundation.org/purchase/4253163/\n\nDet
+ ails: https://vidiotsfoundation.org/movies/twin-peaks-the-original-mystery
+ -episodes-1-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:4297819@vidiotsfoundation.org
