@@ -8,107 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4134600@vidiotsfoundation.org
-DTSTAMP:20260626T224500Z
-DTSTART;TZID=America/Los_Angeles:20260626T154500
-DTEND;TZID=America/Los_Angeles:20260626T175900
-SUMMARY:Princess Mononoke (Japanese with English subtitles)
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4134600/
-DESCRIPTION:Run time: 134 min | Format: Digital | Rating: PG-13 | Release y
- ear: 1997\n\nSeries: In the Eagle\n\nThe fate of the world rests on the co
- urage of one warrior.\n\nTickets: https://vidiotsfoundation.org/purchase/4
- 134600/\n\nDetails: https://vidiotsfoundation.org/movies/princess-mononoke
- /
-END:VEVENT
-BEGIN:VEVENT
-UID:4158848@vidiotsfoundation.org
-DTSTAMP:20260626T233000Z
-DTSTART;TZID=America/Los_Angeles:20260626T163000
-DTEND;TZID=America/Los_Angeles:20260626T180000
-SUMMARY:ASCO: Without Permission
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158848/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\, Special Guests in Attendance\n\nFrom executive p
- roducers Gael García Bernal and Diego Luna this inspiring triumph of crea
- tivity challenges the limits of documentary conventions to tell the story 
- of a revolutionary Chicano art group who turned 1970s LA into their defian
- t canvas.\nWith Director Travis Gutiérrez Senger at the Sunday\, June 28t
- h screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4158848/\n
- \nDetails: https://vidiotsfoundation.org/movies/asco-without-permission/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4134601@vidiotsfoundation.org
-DTSTAMP:20260627T020000Z
-DTSTART;TZID=America/Los_Angeles:20260626T190000
-DTEND;TZID=America/Los_Angeles:20260626T211600
-SUMMARY:The Matrix
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4134601/
-DESCRIPTION:Run time: 136 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nLily and Lana Wachowski's ground-breaking science fiction para
- ble set the standard for both action movies and Science Fiction films for 
- years to come with its innovative visuals and one-of-a-kind fight choreogr
- aphy.\n\nTickets: https://vidiotsfoundation.org/purchase/4134601/\n\nDetai
- ls: https://vidiotsfoundation.org/movies/the-matrix/
-END:VEVENT
-BEGIN:VEVENT
-UID:4158849@vidiotsfoundation.org
-DTSTAMP:20260627T022000Z
-DTSTART;TZID=America/Los_Angeles:20260626T192000
-DTEND;TZID=America/Los_Angeles:20260626T211100
-SUMMARY:Camp
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158849/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 111 min | 
- Format: Digital\n\nSeries: In the MUBI Microcinema\n\nSummer is finally he
- re\, and it's time to bring your coven to the woods of our microcinema for
-  Avalon Fast's dark and witchy indie darling Camp.\n\nTickets: https://vid
- iotsfoundation.org/purchase/4158849/\n\nDetails: https://vidiotsfoundation
- .org/movies/camp/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4158219@vidiotsfoundation.org
-DTSTAMP:20260627T050000Z
-DTSTART;TZID=America/Los_Angeles:20260626T220000
-DTEND;TZID=America/Los_Angeles:20260626T232600
-SUMMARY:Koyaanisqatsi
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158219/
-DESCRIPTION:Run time: 86 min | Format: Digital\n\nSeries: In the Eagle\, Te
- enTix LA\, What the Friday?!?\n\nHold onto your eyeballs for one of the mo
- st dazzling and transcendent documentaries of all time - Godfrey Reggio's 
- hypnotic experimental masterpiece!\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4158219/\n\nDetails: https://vidiotsfoundation.org/movies/koya
- anisqatsi/
-END:VEVENT
-BEGIN:VEVENT
-UID:4158855@vidiotsfoundation.org
-DTSTAMP:20260627T051500Z
-DTSTART;TZID=America/Los_Angeles:20260626T221500
-DTEND;TZID=America/Los_Angeles:20260626T234800
-SUMMARY:Jinsei
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158855/
-DESCRIPTION:Run time: 93 min | Format: Digital | Release year: 2025\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nWritten\, directed\, edi
- ted and entirely hand-drawn by newcomer Ryuya Suzuki over eighteen months\
- , Jinsei (meaning “life” in Japanese) is an anime tour-de-force that a
- nnounces Suzuki to the world as a bold new talent in independent animation
- .\n\nTickets: https://vidiotsfoundation.org/purchase/4158855/\n\nDetails: 
- https://vidiotsfoundation.org/movies/jinsei/
-END:VEVENT
-BEGIN:VEVENT
 UID:4133178@vidiotsfoundation.org
 DTSTAMP:20260627T194500Z
 DTSTART;TZID=America/Los_Angeles:20260627T124500
@@ -122,26 +21,6 @@ DESCRIPTION:Run time: 115 min | Format: Digital\n\nSeries: Films for Everyo
  and good feelies\, this super fun family adventure lives up to its name!\n
  \nTickets: https://vidiotsfoundation.org/purchase/4133178/\n\nDetails: htt
  ps://vidiotsfoundation.org/movies/the-incredibles/
-END:VEVENT
-BEGIN:VEVENT
-UID:4244419@vidiotsfoundation.org
-DTSTAMP:20260627T201500Z
-DTSTART;TZID=America/Los_Angeles:20260627T131500
-DTEND;TZID=America/Los_Angeles:20260627T144500
-SUMMARY:ASCO: Without Permission
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4244419/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\, Special Guests in Attendance\n\nFrom executive p
- roducers Gael García Bernal and Diego Luna this inspiring triumph of crea
- tivity challenges the limits of documentary conventions to tell the story 
- of a revolutionary Chicano art group who turned 1970s LA into their defian
- t canvas.\nWith Director Travis Gutiérrez Senger at the Sunday\, June 28t
- h screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4244419/\n
- \nDetails: https://vidiotsfoundation.org/movies/asco-without-permission/
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4133170@vidiotsfoundation.org
@@ -158,26 +37,6 @@ DESCRIPTION:Run time: 89 min | Format: Digital | Rating: PG\n\nSeries: Grou
  n the Jungle between boxing legends Muhammad Ali and George Foreman!\n\nTi
  ckets: https://vidiotsfoundation.org/purchase/4133170/\n\nDetails: https:/
  /vidiotsfoundation.org/movies/when-we-were-kings/
-END:VEVENT
-BEGIN:VEVENT
-UID:4158871@vidiotsfoundation.org
-DTSTAMP:20260627T233000Z
-DTSTART;TZID=America/Los_Angeles:20260627T163000
-DTEND;TZID=America/Los_Angeles:20260627T180000
-SUMMARY:ASCO: Without Permission
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158871/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\, Special Guests in Attendance\n\nFrom executive p
- roducers Gael García Bernal and Diego Luna this inspiring triumph of crea
- tivity challenges the limits of documentary conventions to tell the story 
- of a revolutionary Chicano art group who turned 1970s LA into their defian
- t canvas.\nWith Director Travis Gutiérrez Senger at the Sunday\, June 28t
- h screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4158871/\n
- \nDetails: https://vidiotsfoundation.org/movies/asco-without-permission/
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4133171@vidiotsfoundation.org
@@ -197,23 +56,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 117 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4153320@vidiotsfoundation.org
-DTSTAMP:20260628T023000Z
-DTSTART;TZID=America/Los_Angeles:20260627T193000
-DTEND;TZID=America/Los_Angeles:20260627T210300
-SUMMARY:Jinsei
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4153320/
-DESCRIPTION:Run time: 93 min | Format: Digital | Release year: 2025\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nWritten\, directed\, edi
- ted and entirely hand-drawn by newcomer Ryuya Suzuki over eighteen months\
- , Jinsei (meaning “life” in Japanese) is an anime tour-de-force that a
- nnounces Suzuki to the world as a bold new talent in independent animation
- .\n\nTickets: https://vidiotsfoundation.org/purchase/4153320/\n\nDetails: 
- https://vidiotsfoundation.org/movies/jinsei/
-END:VEVENT
-BEGIN:VEVENT
 UID:4133172@vidiotsfoundation.org
 DTSTAMP:20260628T044500Z
 DTSTART;TZID=America/Los_Angeles:20260627T214500
@@ -229,21 +71,6 @@ DESCRIPTION:Run time: 85 min | Format: Digital | Rating: PG | Release year:
  ro-non-troppo/
 END:VEVENT
 BEGIN:VEVENT
-UID:4153321@vidiotsfoundation.org
-DTSTAMP:20260628T050000Z
-DTSTART;TZID=America/Los_Angeles:20260627T220000
-DTEND;TZID=America/Los_Angeles:20260627T235100
-SUMMARY:Camp
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4153321/
-DESCRIPTION:Run time: 111 min | Format: Digital\n\nSeries: In the MUBI Micr
- ocinema\n\nSummer is finally here\, and it's time to bring your coven to t
- he woods of our microcinema for Avalon Fast's dark and witchy indie darlin
- g Camp.\n\nTickets: https://vidiotsfoundation.org/purchase/4153321/\n\nDet
- ails: https://vidiotsfoundation.org/movies/camp/
-END:VEVENT
-BEGIN:VEVENT
 UID:4133187@vidiotsfoundation.org
 DTSTAMP:20260628T194500Z
 DTSTART;TZID=America/Los_Angeles:20260628T124500
@@ -256,23 +83,6 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: All Ages\n\nSeries
  : Films for Everyone\, In the Eagle\, Interactive\n\nYou want thingamabobs
  ? I've got twenty!\n\nTickets: https://vidiotsfoundation.org/purchase/4133
  187/\n\nDetails: https://vidiotsfoundation.org/movies/the-little-mermaid/
-END:VEVENT
-BEGIN:VEVENT
-UID:4153061@vidiotsfoundation.org
-DTSTAMP:20260628T201500Z
-DTSTART;TZID=America/Los_Angeles:20260628T131500
-DTEND;TZID=America/Los_Angeles:20260628T144800
-SUMMARY:Jinsei
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4153061/
-DESCRIPTION:Run time: 93 min | Format: Digital | Release year: 2025\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nWritten\, directed\, edi
- ted and entirely hand-drawn by newcomer Ryuya Suzuki over eighteen months\
- , Jinsei (meaning “life” in Japanese) is an anime tour-de-force that a
- nnounces Suzuki to the world as a bold new talent in independent animation
- .\n\nTickets: https://vidiotsfoundation.org/purchase/4153061/\n\nDetails: 
- https://vidiotsfoundation.org/movies/jinsei/
 END:VEVENT
 BEGIN:VEVENT
 UID:4133188@vidiotsfoundation.org
@@ -291,26 +101,6 @@ DESCRIPTION:Run time: 135 min | Format: Digital | Release year: 1962\n\nSer
  /vidiotsfoundation.org/movies/harakiri/
 END:VEVENT
 BEGIN:VEVENT
-UID:4153311@vidiotsfoundation.org
-DTSTAMP:20260628T230000Z
-DTSTART;TZID=America/Los_Angeles:20260628T160000
-DTEND;TZID=America/Los_Angeles:20260628T173000
-SUMMARY:ASCO: Without Permission
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4153311/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\, Special Guests in Attendance\n\nFrom executive p
- roducers Gael García Bernal and Diego Luna this inspiring triumph of crea
- tivity challenges the limits of documentary conventions to tell the story 
- of a revolutionary Chicano art group who turned 1970s LA into their defian
- t canvas.\nWith Director Travis Gutiérrez Senger at the Sunday\, June 28t
- h screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4153311/\n
- \nDetails: https://vidiotsfoundation.org/movies/asco-without-permission/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4133190@vidiotsfoundation.org
 DTSTAMP:20260629T020000Z
 DTSTART;TZID=America/Los_Angeles:20260628T190000
@@ -326,23 +116,6 @@ DESCRIPTION:Run time: 92 min | Format: Digital\n\nSeries: Groundbreaking No
   screening of the massively entertaining\, endearing\, and thought-provoki
  ng documentary We Are Pat!\n\nTickets: https://vidiotsfoundation.org/purch
  ase/4133190/\n\nDetails: https://vidiotsfoundation.org/movies/we-are-pat/
-END:VEVENT
-BEGIN:VEVENT
-UID:4158882@vidiotsfoundation.org
-DTSTAMP:20260630T020000Z
-DTSTART;TZID=America/Los_Angeles:20260629T190000
-DTEND;TZID=America/Los_Angeles:20260629T203300
-SUMMARY:Jinsei
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158882/
-DESCRIPTION:Run time: 93 min | Format: Digital | Release year: 2025\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nWritten\, directed\, edi
- ted and entirely hand-drawn by newcomer Ryuya Suzuki over eighteen months\
- , Jinsei (meaning “life” in Japanese) is an anime tour-de-force that a
- nnounces Suzuki to the world as a bold new talent in independent animation
- .\n\nTickets: https://vidiotsfoundation.org/purchase/4158882/\n\nDetails: 
- https://vidiotsfoundation.org/movies/jinsei/
 END:VEVENT
 BEGIN:VEVENT
 UID:4133191@vidiotsfoundation.org
@@ -1829,22 +1602,104 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 BEGIN:VEVENT
-UID:4158845@vidiotsfoundation.org
-DTSTAMP:20260626T020000Z
-DTSTART;TZID=America/Los_Angeles:20260625T190000
-DTEND;TZID=America/Los_Angeles:20260625T203600
-SUMMARY:Sweet 16mm: Revolutionary Queer Cinema
+UID:4134600@vidiotsfoundation.org
+DTSTAMP:20260626T224500Z
+DTSTART;TZID=America/Los_Angeles:20260626T154500
+DTEND;TZID=America/Los_Angeles:20260626T175900
+SUMMARY:Princess Mononoke (Japanese with English subtitles)
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4134600/
+DESCRIPTION:Run time: 134 min | Format: Digital | Rating: PG-13 | Release y
+ ear: 1997\n\nSeries: In the Eagle\n\nThe fate of the world rests on the co
+ urage of one warrior.\n\nTickets: https://vidiotsfoundation.org/purchase/4
+ 134600/\n\nDetails: https://vidiotsfoundation.org/movies/princess-mononoke
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:4158848@vidiotsfoundation.org
+DTSTAMP:20260626T233000Z
+DTSTART;TZID=America/Los_Angeles:20260626T163000
+DTEND;TZID=America/Los_Angeles:20260626T180000
+SUMMARY:ASCO: Without Permission
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158845/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 96 min\n\n
- Series: In the MUBI Microcinema\n\nAn all 16mm program of groundbreaking a
- nd jaw-dropping short films from the 1930s - 1970s that not only challenge
- d the norms of gender and sexuality but of form and fluidity of filmmaking
- \, including works by Jean Genet\, Barbara Hammer\, Coni Beeson and more!\
- nSecond Screening added Sunday\, June 28th\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4158845/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/sweet-16mm-revolutionary-queer-cinema/
+URL:https://vidiotsfoundation.org/purchase/4158848/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\, Special Guests in Attendance\n\nFrom executive p
+ roducers Gael García Bernal and Diego Luna this inspiring triumph of crea
+ tivity challenges the limits of documentary conventions to tell the story 
+ of a revolutionary Chicano art group who turned 1970s LA into their defian
+ t canvas.\nWith Director Travis Gutiérrez Senger at the Sunday\, June 28t
+ h screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4158848/\n
+ \nDetails: https://vidiotsfoundation.org/movies/asco-without-permission/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4134601@vidiotsfoundation.org
+DTSTAMP:20260627T020000Z
+DTSTART;TZID=America/Los_Angeles:20260626T190000
+DTEND;TZID=America/Los_Angeles:20260626T211600
+SUMMARY:The Matrix
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4134601/
+DESCRIPTION:Run time: 136 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nLily and Lana Wachowski's ground-breaking science fiction para
+ ble set the standard for both action movies and Science Fiction films for 
+ years to come with its innovative visuals and one-of-a-kind fight choreogr
+ aphy.\n\nTickets: https://vidiotsfoundation.org/purchase/4134601/\n\nDetai
+ ls: https://vidiotsfoundation.org/movies/the-matrix/
+END:VEVENT
+BEGIN:VEVENT
+UID:4158849@vidiotsfoundation.org
+DTSTAMP:20260627T022000Z
+DTSTART;TZID=America/Los_Angeles:20260626T192000
+DTEND;TZID=America/Los_Angeles:20260626T211100
+SUMMARY:Camp
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4158849/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 111 min | 
+ Format: Digital\n\nSeries: In the MUBI Microcinema\n\nSummer is finally he
+ re\, and it's time to bring your coven to the woods of our microcinema for
+  Avalon Fast's dark and witchy indie darling Camp.\n\nTickets: https://vid
+ iotsfoundation.org/purchase/4158849/\n\nDetails: https://vidiotsfoundation
+ .org/movies/camp/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4158219@vidiotsfoundation.org
+DTSTAMP:20260627T050000Z
+DTSTART;TZID=America/Los_Angeles:20260626T220000
+DTEND;TZID=America/Los_Angeles:20260626T232600
+SUMMARY:Koyaanisqatsi
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4158219/
+DESCRIPTION:Run time: 86 min | Format: Digital\n\nSeries: In the Eagle\, Te
+ enTix LA\, What the Friday?!?\n\nHold onto your eyeballs for one of the mo
+ st dazzling and transcendent documentaries of all time - Godfrey Reggio's 
+ hypnotic experimental masterpiece!\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4158219/\n\nDetails: https://vidiotsfoundation.org/movies/koya
+ anisqatsi/
+END:VEVENT
+BEGIN:VEVENT
+UID:4158855@vidiotsfoundation.org
+DTSTAMP:20260627T051500Z
+DTSTART;TZID=America/Los_Angeles:20260626T221500
+DTEND;TZID=America/Los_Angeles:20260626T234800
+SUMMARY:Jinsei
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4158855/
+DESCRIPTION:Run time: 93 min | Format: Digital | Release year: 2025\n\nSeri
+ es: Additional Shows\, In the MUBI Microcinema\n\nWritten\, directed\, edi
+ ted and entirely hand-drawn by newcomer Ryuya Suzuki over eighteen months\
+ , Jinsei (meaning “life” in Japanese) is an anime tour-de-force that a
+ nnounces Suzuki to the world as a bold new talent in independent animation
+ .\n\nTickets: https://vidiotsfoundation.org/purchase/4158855/\n\nDetails: 
+ https://vidiotsfoundation.org/movies/jinsei/
 END:VEVENT
 END:VCALENDAR
