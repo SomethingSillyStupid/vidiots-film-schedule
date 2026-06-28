@@ -8,77 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4244419@vidiotsfoundation.org
-DTSTAMP:20260627T201500Z
-DTSTART;TZID=America/Los_Angeles:20260627T131500
-DTEND;TZID=America/Los_Angeles:20260627T144500
-SUMMARY:ASCO: Without Permission
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4244419/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\, Special Guests in Attendance\n\nFrom executive p
- roducers Gael García Bernal and Diego Luna this inspiring triumph of crea
- tivity challenges the limits of documentary conventions to tell the story 
- of a revolutionary Chicano art group who turned 1970s LA into their defian
- t canvas.\nWith Director Travis Gutiérrez Senger at the Sunday\, June 28t
- h screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4244419/\n
- \nDetails: https://vidiotsfoundation.org/movies/asco-without-permission/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4158871@vidiotsfoundation.org
-DTSTAMP:20260627T233000Z
-DTSTART;TZID=America/Los_Angeles:20260627T163000
-DTEND;TZID=America/Los_Angeles:20260627T180000
-SUMMARY:ASCO: Without Permission
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158871/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\, Special Guests in Attendance\n\nFrom executive p
- roducers Gael García Bernal and Diego Luna this inspiring triumph of crea
- tivity challenges the limits of documentary conventions to tell the story 
- of a revolutionary Chicano art group who turned 1970s LA into their defian
- t canvas.\nWith Director Travis Gutiérrez Senger at the Sunday\, June 28t
- h screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4158871/\n
- \nDetails: https://vidiotsfoundation.org/movies/asco-without-permission/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4153320@vidiotsfoundation.org
-DTSTAMP:20260628T023000Z
-DTSTART;TZID=America/Los_Angeles:20260627T193000
-DTEND;TZID=America/Los_Angeles:20260627T210300
-SUMMARY:Jinsei
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4153320/
-DESCRIPTION:Run time: 93 min | Format: Digital | Release year: 2025\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nWritten\, directed\, edi
- ted and entirely hand-drawn by newcomer Ryuya Suzuki over eighteen months\
- , Jinsei (meaning “life” in Japanese) is an anime tour-de-force that a
- nnounces Suzuki to the world as a bold new talent in independent animation
- .\n\nTickets: https://vidiotsfoundation.org/purchase/4153320/\n\nDetails: 
- https://vidiotsfoundation.org/movies/jinsei/
-END:VEVENT
-BEGIN:VEVENT
-UID:4133187@vidiotsfoundation.org
-DTSTAMP:20260628T194500Z
-DTSTART;TZID=America/Los_Angeles:20260628T124500
-DTEND;TZID=America/Los_Angeles:20260628T140800
-SUMMARY:The Little Mermaid Sing-Along
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133187/
-DESCRIPTION:Run time: 83 min | Format: Digital | Rating: All Ages\n\nSeries
- : Films for Everyone\, In the Eagle\, Interactive\n\nYou want thingamabobs
- ? I've got twenty!\n\nTickets: https://vidiotsfoundation.org/purchase/4133
- 187/\n\nDetails: https://vidiotsfoundation.org/movies/the-little-mermaid/
-END:VEVENT
-BEGIN:VEVENT
 UID:4153061@vidiotsfoundation.org
 DTSTAMP:20260628T201500Z
 DTSTART;TZID=America/Los_Angeles:20260628T131500
@@ -94,76 +23,6 @@ DESCRIPTION:Run time: 93 min | Format: Digital | Release year: 2025\n\nSeri
  nnounces Suzuki to the world as a bold new talent in independent animation
  .\n\nTickets: https://vidiotsfoundation.org/purchase/4153061/\n\nDetails: 
  https://vidiotsfoundation.org/movies/jinsei/
-END:VEVENT
-BEGIN:VEVENT
-UID:4133188@vidiotsfoundation.org
-DTSTAMP:20260628T223000Z
-DTSTART;TZID=America/Los_Angeles:20260628T153000
-DTEND;TZID=America/Los_Angeles:20260628T174500
-SUMMARY:Harakiri
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133188/
-DESCRIPTION:Run time: 135 min | Format: Digital | Release year: 1962\n\nSer
- ies: In the Eagle\n\nWinner of the Special Jury Award at the 1963 Cannes F
- ilm Festival\, Harakiri is a timeless meditation on the difficulty of hold
- ing on to one’s humanity in the face of a cruel and unjust system.\n\nTi
- ckets: https://vidiotsfoundation.org/purchase/4133188/\n\nDetails: https:/
- /vidiotsfoundation.org/movies/harakiri/
-END:VEVENT
-BEGIN:VEVENT
-UID:4153311@vidiotsfoundation.org
-DTSTAMP:20260628T230000Z
-DTSTART;TZID=America/Los_Angeles:20260628T160000
-DTEND;TZID=America/Los_Angeles:20260628T173000
-SUMMARY:ASCO: Without Permission
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4153311/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\, Special Guests in Attendance\n\nFrom executive p
- roducers Gael García Bernal and Diego Luna this inspiring triumph of crea
- tivity challenges the limits of documentary conventions to tell the story 
- of a revolutionary Chicano art group who turned 1970s LA into their defian
- t canvas.\nWith Director Travis Gutiérrez Senger at the Sunday\, June 28t
- h screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4153311/\n
- \nDetails: https://vidiotsfoundation.org/movies/asco-without-permission/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4133190@vidiotsfoundation.org
-DTSTAMP:20260629T020000Z
-DTSTART;TZID=America/Los_Angeles:20260628T190000
-DTEND;TZID=America/Los_Angeles:20260628T203200
-SUMMARY:We Are Pat
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133190/
-DESCRIPTION:Run time: 92 min | Format: Digital\n\nSeries: Groundbreaking No
- n-Fiction\, In the Eagle\, Special Guests in Attendance\n\nVidiots is thri
- lled to welcome filmmaker Ro Haber along with comedy icons Julia Sweeney a
- nd Harper Steele\, and all-around legend Alan Cumming for an extra special
-  screening of the massively entertaining\, endearing\, and thought-provoki
- ng documentary We Are Pat!\n\nTickets: https://vidiotsfoundation.org/purch
- ase/4133190/\n\nDetails: https://vidiotsfoundation.org/movies/we-are-pat/
-END:VEVENT
-BEGIN:VEVENT
-UID:4244417@vidiotsfoundation.org
-DTSTAMP:20260629T023000Z
-DTSTART;TZID=America/Los_Angeles:20260628T193000
-DTEND;TZID=America/Los_Angeles:20260628T210600
-SUMMARY:Sweet 16mm: Revolutionary Queer Cinema
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4244417/
-DESCRIPTION:Run time: 96 min\n\nSeries: In the MUBI Microcinema\n\nAn all 1
- 6mm program of groundbreaking and jaw-dropping short films from the 1930s 
- - 1970s that not only challenged the norms of gender and sexuality but of 
- form and fluidity of filmmaking\, including works by Jean Genet\, Barbara 
- Hammer\, Coni Beeson and more!\nSecond Screening added Sunday\, June 28th\
- n\nTickets: https://vidiotsfoundation.org/purchase/4244417/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/sweet-16mm-revolutionary-queer-cinema/
 END:VEVENT
 BEGIN:VEVENT
 UID:4158882@vidiotsfoundation.org
@@ -1668,81 +1527,87 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 BEGIN:VEVENT
-UID:4133178@vidiotsfoundation.org
-DTSTAMP:20260627T194500Z
-DTSTART;TZID=America/Los_Angeles:20260627T124500
-DTEND;TZID=America/Los_Angeles:20260627T144000
-SUMMARY:The Incredibles
+UID:4133187@vidiotsfoundation.org
+DTSTAMP:20260628T194500Z
+DTSTART;TZID=America/Los_Angeles:20260628T124500
+DTEND;TZID=America/Los_Angeles:20260628T140800
+SUMMARY:The Little Mermaid Sing-Along
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133178/
-DESCRIPTION:Run time: 115 min | Format: Digital\n\nSeries: Films for Everyo
- ne\, In the Eagle\n\nWith an incredible amount of fun\, action\, comedy\, 
- and good feelies\, this super fun family adventure lives up to its name!\n
- \nTickets: https://vidiotsfoundation.org/purchase/4133178/\n\nDetails: htt
- ps://vidiotsfoundation.org/movies/the-incredibles/
+URL:https://vidiotsfoundation.org/purchase/4133187/
+DESCRIPTION:Run time: 83 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\, Interactive\n\nYou want thingamabobs
+ ? I've got twenty!\n\nTickets: https://vidiotsfoundation.org/purchase/4133
+ 187/\n\nDetails: https://vidiotsfoundation.org/movies/the-little-mermaid/
 END:VEVENT
 BEGIN:VEVENT
-UID:4133170@vidiotsfoundation.org
-DTSTAMP:20260627T230000Z
-DTSTART;TZID=America/Los_Angeles:20260627T160000
-DTEND;TZID=America/Los_Angeles:20260627T172900
-SUMMARY:When We Were Kings
+UID:4133188@vidiotsfoundation.org
+DTSTAMP:20260628T223000Z
+DTSTART;TZID=America/Los_Angeles:20260628T153000
+DTEND;TZID=America/Los_Angeles:20260628T174500
+SUMMARY:Harakiri
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133170/
-DESCRIPTION:Run time: 89 min | Format: Digital | Rating: PG\n\nSeries: Grou
- ndbreaking Non-Fiction\, In the Eagle\n\nVidiots got you ring-side seats t
- o one of the most monumental bouts in the history of boxing - The Rumble i
- n the Jungle between boxing legends Muhammad Ali and George Foreman!\n\nTi
- ckets: https://vidiotsfoundation.org/purchase/4133170/\n\nDetails: https:/
- /vidiotsfoundation.org/movies/when-we-were-kings/
+URL:https://vidiotsfoundation.org/purchase/4133188/
+DESCRIPTION:Run time: 135 min | Format: Digital | Release year: 1962\n\nSer
+ ies: In the Eagle\n\nWinner of the Special Jury Award at the 1963 Cannes F
+ ilm Festival\, Harakiri is a timeless meditation on the difficulty of hold
+ ing on to one’s humanity in the face of a cruel and unjust system.\n\nTi
+ ckets: https://vidiotsfoundation.org/purchase/4133188/\n\nDetails: https:/
+ /vidiotsfoundation.org/movies/harakiri/
 END:VEVENT
 BEGIN:VEVENT
-UID:4133171@vidiotsfoundation.org
-DTSTAMP:20260628T020000Z
-DTSTART;TZID=America/Los_Angeles:20260627T190000
-DTEND;TZID=America/Los_Angeles:20260627T205700
-SUMMARY:The Birdcage
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133171/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 117 min | 
- Format: Digital | Rating: R\n\nSeries: In the Eagle\n\nNichols and May tea
- m up again\, this time with an all-star cast\, to bring you this much-cher
- ished comedy of closeted manners.\n\nTickets: https://vidiotsfoundation.or
- g/purchase/4133171/\n\nDetails: https://vidiotsfoundation.org/movies/the-b
- irdcage/
+UID:4153311@vidiotsfoundation.org
+DTSTAMP:20260628T230000Z
+DTSTART;TZID=America/Los_Angeles:20260628T160000
+DTEND;TZID=America/Los_Angeles:20260628T173000
+SUMMARY:ASCO: Without Permission
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4153311/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\, Special Guests in Attendance\n\nFrom executive p
+ roducers Gael García Bernal and Diego Luna this inspiring triumph of crea
+ tivity challenges the limits of documentary conventions to tell the story 
+ of a revolutionary Chicano art group who turned 1970s LA into their defian
+ t canvas.\nWith Director Travis Gutiérrez Senger at the Sunday\, June 28t
+ h screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4153311/\n
+ \nDetails: https://vidiotsfoundation.org/movies/asco-without-permission/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4133172@vidiotsfoundation.org
-DTSTAMP:20260628T044500Z
-DTSTART;TZID=America/Los_Angeles:20260627T214500
-DTEND;TZID=America/Los_Angeles:20260627T231000
-SUMMARY:Allegro non troppo
+UID:4133190@vidiotsfoundation.org
+DTSTAMP:20260629T020000Z
+DTSTART;TZID=America/Los_Angeles:20260628T190000
+DTEND;TZID=America/Los_Angeles:20260628T203200
+SUMMARY:We Are Pat
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133172/
-DESCRIPTION:Run time: 85 min | Format: Digital | Rating: PG | Release year:
-  1976\n\nSeries: In the Eagle\n\n50th Anniversary of Bruno Bozzetto's anim
- ated eye-popper! New Restoration!\n\nTickets: https://vidiotsfoundation.or
- g/purchase/4133172/\n\nDetails: https://vidiotsfoundation.org/movies/alleg
- ro-non-troppo/
+URL:https://vidiotsfoundation.org/purchase/4133190/
+DESCRIPTION:Run time: 92 min | Format: Digital\n\nSeries: Groundbreaking No
+ n-Fiction\, In the Eagle\, Special Guests in Attendance\n\nVidiots is thri
+ lled to welcome filmmaker Ro Haber along with comedy icons Julia Sweeney a
+ nd Harper Steele\, and all-around legend Alan Cumming for an extra special
+  screening of the massively entertaining\, endearing\, and thought-provoki
+ ng documentary We Are Pat!\n\nTickets: https://vidiotsfoundation.org/purch
+ ase/4133190/\n\nDetails: https://vidiotsfoundation.org/movies/we-are-pat/
 END:VEVENT
 BEGIN:VEVENT
-UID:4153321@vidiotsfoundation.org
-DTSTAMP:20260628T050000Z
-DTSTART;TZID=America/Los_Angeles:20260627T220000
-DTEND;TZID=America/Los_Angeles:20260627T235100
-SUMMARY:Camp
+UID:4244417@vidiotsfoundation.org
+DTSTAMP:20260629T023000Z
+DTSTART;TZID=America/Los_Angeles:20260628T193000
+DTEND;TZID=America/Los_Angeles:20260628T210600
+SUMMARY:Sweet 16mm: Revolutionary Queer Cinema
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
-URL:https://vidiotsfoundation.org/purchase/4153321/
-DESCRIPTION:Run time: 111 min | Format: Digital\n\nSeries: In the MUBI Micr
- ocinema\n\nSummer is finally here\, and it's time to bring your coven to t
- he woods of our microcinema for Avalon Fast's dark and witchy indie darlin
- g Camp.\n\nTickets: https://vidiotsfoundation.org/purchase/4153321/\n\nDet
- ails: https://vidiotsfoundation.org/movies/camp/
+URL:https://vidiotsfoundation.org/purchase/4244417/
+DESCRIPTION:Run time: 96 min\n\nSeries: In the MUBI Microcinema\n\nAn all 1
+ 6mm program of groundbreaking and jaw-dropping short films from the 1930s 
+ - 1970s that not only challenged the norms of gender and sexuality but of 
+ form and fluidity of filmmaking\, including works by Jean Genet\, Barbara 
+ Hammer\, Coni Beeson and more!\nSecond Screening added Sunday\, June 28th\
+ n\nTickets: https://vidiotsfoundation.org/purchase/4244417/\n\nDetails: ht
+ tps://vidiotsfoundation.org/movies/sweet-16mm-revolutionary-queer-cinema/
 END:VEVENT
 END:VCALENDAR
