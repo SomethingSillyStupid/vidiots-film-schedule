@@ -8,58 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4153061@vidiotsfoundation.org
-DTSTAMP:20260628T201500Z
-DTSTART;TZID=America/Los_Angeles:20260628T131500
-DTEND;TZID=America/Los_Angeles:20260628T144800
-SUMMARY:Jinsei
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4153061/
-DESCRIPTION:Run time: 93 min | Format: Digital | Release year: 2025\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nWritten\, directed\, edi
- ted and entirely hand-drawn by newcomer Ryuya Suzuki over eighteen months\
- , Jinsei (meaning “life” in Japanese) is an anime tour-de-force that a
- nnounces Suzuki to the world as a bold new talent in independent animation
- .\n\nTickets: https://vidiotsfoundation.org/purchase/4153061/\n\nDetails: 
- https://vidiotsfoundation.org/movies/jinsei/
-END:VEVENT
-BEGIN:VEVENT
-UID:4158882@vidiotsfoundation.org
-DTSTAMP:20260630T020000Z
-DTSTART;TZID=America/Los_Angeles:20260629T190000
-DTEND;TZID=America/Los_Angeles:20260629T203300
-SUMMARY:Jinsei
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158882/
-DESCRIPTION:Run time: 93 min | Format: Digital | Release year: 2025\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nWritten\, directed\, edi
- ted and entirely hand-drawn by newcomer Ryuya Suzuki over eighteen months\
- , Jinsei (meaning “life” in Japanese) is an anime tour-de-force that a
- nnounces Suzuki to the world as a bold new talent in independent animation
- .\n\nTickets: https://vidiotsfoundation.org/purchase/4158882/\n\nDetails: 
- https://vidiotsfoundation.org/movies/jinsei/
-END:VEVENT
-BEGIN:VEVENT
-UID:4133191@vidiotsfoundation.org
-DTSTAMP:20260630T023000Z
-DTSTART;TZID=America/Los_Angeles:20260629T193000
-DTEND;TZID=America/Los_Angeles:20260629T213300
-SUMMARY:All That Jazz
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133191/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 123 min | 
- Format: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\n\nI
- t's Showtime Folks!\nWinner of the Palme d'Or at the Cannes Film Festival 
- and nominated for 9 Academy Awards\, All That Jazz is a musical like no ot
- her and a cinematic triumph on every level.\nEncore Screening Added July 1
- 7th!\n\nTickets: https://vidiotsfoundation.org/purchase/4133191/\n\nDetail
- s: https://vidiotsfoundation.org/movies/all-that-jazz/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4133192@vidiotsfoundation.org
 DTSTAMP:20260701T023000Z
 DTSTART;TZID=America/Los_Angeles:20260630T193000
@@ -958,23 +906,6 @@ DESCRIPTION:Run time: 154 min | Format: Digital | Rating: R | Release year:
  ndation.org/movies/amores-perros/
 END:VEVENT
 BEGIN:VEVENT
-UID:4252855@vidiotsfoundation.org
-DTSTAMP:20260717T230000Z
-DTSTART;TZID=America/Los_Angeles:20260717T160000
-DTEND;TZID=America/Los_Angeles:20260717T180300
-SUMMARY:All That Jazz
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252855/
-DESCRIPTION:Run time: 123 min | Format: Digital | Rating: R\n\nSeries: Door
- s Open at 6\, In the Eagle\n\nIt's Showtime Folks!\nWinner of the Palme d'
- Or at the Cannes Film Festival and nominated for 9 Academy Awards\, All Th
- at Jazz is a musical like no other and a cinematic triumph on every level.
- \nEncore Screening Added July 17th!\n\nTickets: https://vidiotsfoundation.
- org/purchase/4252855/\n\nDetails: https://vidiotsfoundation.org/movies/all
- -that-jazz/
-END:VEVENT
-BEGIN:VEVENT
 UID:4307271@vidiotsfoundation.org
 DTSTAMP:20260717T233000Z
 DTSTART;TZID=America/Los_Angeles:20260717T163000
@@ -1527,87 +1458,38 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 BEGIN:VEVENT
-UID:4133187@vidiotsfoundation.org
-DTSTAMP:20260628T194500Z
-DTSTART;TZID=America/Los_Angeles:20260628T124500
-DTEND;TZID=America/Los_Angeles:20260628T140800
-SUMMARY:The Little Mermaid Sing-Along
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133187/
-DESCRIPTION:Run time: 83 min | Format: Digital | Rating: All Ages\n\nSeries
- : Films for Everyone\, In the Eagle\, Interactive\n\nYou want thingamabobs
- ? I've got twenty!\n\nTickets: https://vidiotsfoundation.org/purchase/4133
- 187/\n\nDetails: https://vidiotsfoundation.org/movies/the-little-mermaid/
-END:VEVENT
-BEGIN:VEVENT
-UID:4133188@vidiotsfoundation.org
-DTSTAMP:20260628T223000Z
-DTSTART;TZID=America/Los_Angeles:20260628T153000
-DTEND;TZID=America/Los_Angeles:20260628T174500
-SUMMARY:Harakiri
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133188/
-DESCRIPTION:Run time: 135 min | Format: Digital | Release year: 1962\n\nSer
- ies: In the Eagle\n\nWinner of the Special Jury Award at the 1963 Cannes F
- ilm Festival\, Harakiri is a timeless meditation on the difficulty of hold
- ing on to one’s humanity in the face of a cruel and unjust system.\n\nTi
- ckets: https://vidiotsfoundation.org/purchase/4133188/\n\nDetails: https:/
- /vidiotsfoundation.org/movies/harakiri/
-END:VEVENT
-BEGIN:VEVENT
-UID:4153311@vidiotsfoundation.org
-DTSTAMP:20260628T230000Z
-DTSTART;TZID=America/Los_Angeles:20260628T160000
-DTEND;TZID=America/Los_Angeles:20260628T173000
-SUMMARY:ASCO: Without Permission
+UID:4158882@vidiotsfoundation.org
+DTSTAMP:20260630T020000Z
+DTSTART;TZID=America/Los_Angeles:20260629T190000
+DTEND;TZID=America/Los_Angeles:20260629T203300
+SUMMARY:Jinsei
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
-URL:https://vidiotsfoundation.org/purchase/4153311/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\, Special Guests in Attendance\n\nFrom executive p
- roducers Gael García Bernal and Diego Luna this inspiring triumph of crea
- tivity challenges the limits of documentary conventions to tell the story 
- of a revolutionary Chicano art group who turned 1970s LA into their defian
- t canvas.\nWith Director Travis Gutiérrez Senger at the Sunday\, June 28t
- h screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4153311/\n
- \nDetails: https://vidiotsfoundation.org/movies/asco-without-permission/
+URL:https://vidiotsfoundation.org/purchase/4158882/
+DESCRIPTION:Run time: 93 min | Format: Digital | Release year: 2025\n\nSeri
+ es: Additional Shows\, In the MUBI Microcinema\n\nWritten\, directed\, edi
+ ted and entirely hand-drawn by newcomer Ryuya Suzuki over eighteen months\
+ , Jinsei (meaning “life” in Japanese) is an anime tour-de-force that a
+ nnounces Suzuki to the world as a bold new talent in independent animation
+ .\n\nTickets: https://vidiotsfoundation.org/purchase/4158882/\n\nDetails: 
+ https://vidiotsfoundation.org/movies/jinsei/
+END:VEVENT
+BEGIN:VEVENT
+UID:4133191@vidiotsfoundation.org
+DTSTAMP:20260630T023000Z
+DTSTART;TZID=America/Los_Angeles:20260629T193000
+DTEND;TZID=America/Los_Angeles:20260629T213300
+SUMMARY:All That Jazz
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4133191/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 123 min | 
+ Format: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\n\nI
+ t's Showtime Folks!\nWinner of the Palme d'Or at the Cannes Film Festival 
+ and nominated for 9 Academy Awards\, All That Jazz is a musical like no ot
+ her and a cinematic triumph on every level.\nEncore Screening Added July 1
+ 7th!\n\nTickets: https://vidiotsfoundation.org/purchase/4133191/\n\nDetail
+ s: https://vidiotsfoundation.org/movies/all-that-jazz/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4133190@vidiotsfoundation.org
-DTSTAMP:20260629T020000Z
-DTSTART;TZID=America/Los_Angeles:20260628T190000
-DTEND;TZID=America/Los_Angeles:20260628T203200
-SUMMARY:We Are Pat
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133190/
-DESCRIPTION:Run time: 92 min | Format: Digital\n\nSeries: Groundbreaking No
- n-Fiction\, In the Eagle\, Special Guests in Attendance\n\nVidiots is thri
- lled to welcome filmmaker Ro Haber along with comedy icons Julia Sweeney a
- nd Harper Steele\, and all-around legend Alan Cumming for an extra special
-  screening of the massively entertaining\, endearing\, and thought-provoki
- ng documentary We Are Pat!\n\nTickets: https://vidiotsfoundation.org/purch
- ase/4133190/\n\nDetails: https://vidiotsfoundation.org/movies/we-are-pat/
-END:VEVENT
-BEGIN:VEVENT
-UID:4244417@vidiotsfoundation.org
-DTSTAMP:20260629T023000Z
-DTSTART;TZID=America/Los_Angeles:20260628T193000
-DTEND;TZID=America/Los_Angeles:20260628T210600
-SUMMARY:Sweet 16mm: Revolutionary Queer Cinema
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4244417/
-DESCRIPTION:Run time: 96 min\n\nSeries: In the MUBI Microcinema\n\nAn all 1
- 6mm program of groundbreaking and jaw-dropping short films from the 1930s 
- - 1970s that not only challenged the norms of gender and sexuality but of 
- form and fluidity of filmmaking\, including works by Jean Genet\, Barbara 
- Hammer\, Coni Beeson and more!\nSecond Screening added Sunday\, June 28th\
- n\nTickets: https://vidiotsfoundation.org/purchase/4244417/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/sweet-16mm-revolutionary-queer-cinema/
 END:VEVENT
 END:VCALENDAR
