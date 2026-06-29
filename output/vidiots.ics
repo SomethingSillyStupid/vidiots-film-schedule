@@ -841,6 +841,24 @@ DESCRIPTION:Run time: 183 min | Format: Digital | Rating: R\n\nSeries: Door
  ttps://vidiotsfoundation.org/movies/the-deer-hunter/
 END:VEVENT
 BEGIN:VEVENT
+UID:4325769@vidiotsfoundation.org
+DTSTAMP:20260715T020000Z
+DTSTART;TZID=America/Los_Angeles:20260714T190000
+DTEND;TZID=America/Los_Angeles:20260714T203000
+SUMMARY:ASCO: Without Permission
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4325769/
+DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nFrom executive p
+ roducers Gael García Bernal and Diego Luna this inspiring triumph of crea
+ tivity challenges the limits of documentary conventions to tell the story 
+ of a revolutionary Chicano art group who turned 1970s LA into their defian
+ t canvas.\nMore screenings added by Popular Demand!\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4325769/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/asco-without-permission/
+END:VEVENT
+BEGIN:VEVENT
 UID:4252730@vidiotsfoundation.org
 DTSTAMP:20260715T023000Z
 DTSTART;TZID=America/Los_Angeles:20260714T193000
@@ -888,6 +906,24 @@ DESCRIPTION:Run time: 93 min | Format: 35mm Film\n\nSeries: 35mm Film\, Doo
  y Walter Hill and featuring music by Rock God Jim Steinman\, this modern m
  usical scorches!\n\nTickets: https://vidiotsfoundation.org/purchase/425273
  1/\n\nDetails: https://vidiotsfoundation.org/movies/streets-of-fire/
+END:VEVENT
+BEGIN:VEVENT
+UID:4325701@vidiotsfoundation.org
+DTSTAMP:20260717T020000Z
+DTSTART;TZID=America/Los_Angeles:20260716T190000
+DTEND;TZID=America/Los_Angeles:20260716T203000
+SUMMARY:ASCO: Without Permission
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4325701/
+DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nFrom executive p
+ roducers Gael García Bernal and Diego Luna this inspiring triumph of crea
+ tivity challenges the limits of documentary conventions to tell the story 
+ of a revolutionary Chicano art group who turned 1970s LA into their defian
+ t canvas.\nMore screenings added by Popular Demand!\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4325701/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/asco-without-permission/
 END:VEVENT
 BEGIN:VEVENT
 UID:4301573@vidiotsfoundation.org
@@ -968,6 +1004,42 @@ DESCRIPTION:Run time: 81 min | Format: Digital | Rating: R | Release year:
  2/\n\nDetails: https://vidiotsfoundation.org/movies/perfect-blue/
 END:VEVENT
 BEGIN:VEVENT
+UID:4297841@vidiotsfoundation.org
+DTSTAMP:20260718T050000Z
+DTSTART;TZID=America/Los_Angeles:20260717T220000
+DTEND;TZID=America/Los_Angeles:20260717T233000
+SUMMARY:ASCO: Without Permission
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297841/
+DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nFrom executive p
+ roducers Gael García Bernal and Diego Luna this inspiring triumph of crea
+ tivity challenges the limits of documentary conventions to tell the story 
+ of a revolutionary Chicano art group who turned 1970s LA into their defian
+ t canvas.\nMore screenings added by Popular Demand!\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4297841/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/asco-without-permission/
+END:VEVENT
+BEGIN:VEVENT
+UID:4298063@vidiotsfoundation.org
+DTSTAMP:20260718T223000Z
+DTSTART;TZID=America/Los_Angeles:20260718T153000
+DTEND;TZID=America/Los_Angeles:20260718T170000
+SUMMARY:ASCO: Without Permission
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4298063/
+DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nFrom executive p
+ roducers Gael García Bernal and Diego Luna this inspiring triumph of crea
+ tivity challenges the limits of documentary conventions to tell the story 
+ of a revolutionary Chicano art group who turned 1970s LA into their defian
+ t canvas.\nMore screenings added by Popular Demand!\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4298063/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/asco-without-permission/
+END:VEVENT
+BEGIN:VEVENT
 UID:4253111@vidiotsfoundation.org
 DTSTAMP:20260718T230000Z
 DTSTART;TZID=America/Los_Angeles:20260718T160000
@@ -1016,6 +1088,22 @@ DESCRIPTION:Run time: 116 min | Format: Digital | Rating: PG\n\nSeries: In
   America's hottest new actress!\n\nTickets: https://vidiotsfoundation.org/
  purchase/4253110/\n\nDetails: https://vidiotsfoundation.org/movies/tootsie
  /
+END:VEVENT
+BEGIN:VEVENT
+UID:4298073@vidiotsfoundation.org
+DTSTAMP:20260719T043000Z
+DTSTART;TZID=America/Los_Angeles:20260718T213000
+DTEND;TZID=America/Los_Angeles:20260718T231000
+SUMMARY:Unidentified
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4298073/
+DESCRIPTION:Run time: 100 min | Format: Digital | Rating: PG-13 | Release y
+ ear: 2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nEvil hi
+ des best in plain sight. Uncover the truth in Unidentified\, a gripping Sa
+ udi murder mystery from acclaimed filmmaker Haifaa al-Mansour (Wadjda).\n\
+ nTickets: https://vidiotsfoundation.org/purchase/4298073/\n\nDetails: http
+ s://vidiotsfoundation.org/movies/unidentified/
 END:VEVENT
 BEGIN:VEVENT
 UID:4253112@vidiotsfoundation.org
