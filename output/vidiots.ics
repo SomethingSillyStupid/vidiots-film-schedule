@@ -8,24 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4133192@vidiotsfoundation.org
-DTSTAMP:20260701T023000Z
-DTSTART;TZID=America/Los_Angeles:20260630T193000
-DTEND;TZID=America/Los_Angeles:20260630T211500
-SUMMARY:Bad Education on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133192/
-DESCRIPTION:Run time: 105 min | Format: 35mm Film | Rating: NC-17 | Release
-  year: 2004\n\nSeries: 35mm Film\, Doors Open at 6\, In the Eagle\n\nWeavi
- ng stories within stories\, fictions within truths\, and layers upon layer
- s\, this meta masterpiece from maestro Almodóvar is an essential and tort
- urous melodrama of young queer love\, clerical overreach\, gender transfor
- mation\, and the creative transformation from fact to fiction.\n\nTickets:
-  https://vidiotsfoundation.org/purchase/4133192/\n\nDetails: https://vidio
- tsfoundation.org/movies/bad-education/
-END:VEVENT
-BEGIN:VEVENT
 UID:4248103@vidiotsfoundation.org
 DTSTAMP:20260702T023000Z
 DTSTART;TZID=America/Los_Angeles:20260701T193000
@@ -1549,38 +1531,21 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 BEGIN:VEVENT
-UID:4158882@vidiotsfoundation.org
-DTSTAMP:20260630T020000Z
-DTSTART;TZID=America/Los_Angeles:20260629T190000
-DTEND;TZID=America/Los_Angeles:20260629T203300
-SUMMARY:Jinsei
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4158882/
-DESCRIPTION:Run time: 93 min | Format: Digital | Release year: 2025\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nWritten\, directed\, edi
- ted and entirely hand-drawn by newcomer Ryuya Suzuki over eighteen months\
- , Jinsei (meaning “life” in Japanese) is an anime tour-de-force that a
- nnounces Suzuki to the world as a bold new talent in independent animation
- .\n\nTickets: https://vidiotsfoundation.org/purchase/4158882/\n\nDetails: 
- https://vidiotsfoundation.org/movies/jinsei/
-END:VEVENT
-BEGIN:VEVENT
-UID:4133191@vidiotsfoundation.org
-DTSTAMP:20260630T023000Z
-DTSTART;TZID=America/Los_Angeles:20260629T193000
-DTEND;TZID=America/Los_Angeles:20260629T213300
-SUMMARY:All That Jazz
+UID:4133192@vidiotsfoundation.org
+DTSTAMP:20260701T023000Z
+DTSTART;TZID=America/Los_Angeles:20260630T193000
+DTEND;TZID=America/Los_Angeles:20260630T211500
+SUMMARY:Bad Education on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133191/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 123 min | 
- Format: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\n\nI
- t's Showtime Folks!\nWinner of the Palme d'Or at the Cannes Film Festival 
- and nominated for 9 Academy Awards\, All That Jazz is a musical like no ot
- her and a cinematic triumph on every level.\nEncore Screening Added July 1
- 7th!\n\nTickets: https://vidiotsfoundation.org/purchase/4133191/\n\nDetail
- s: https://vidiotsfoundation.org/movies/all-that-jazz/
-STATUS:TENTATIVE
+URL:https://vidiotsfoundation.org/purchase/4133192/
+DESCRIPTION:Run time: 105 min | Format: 35mm Film | Rating: NC-17 | Release
+  year: 2004\n\nSeries: 35mm Film\, Doors Open at 6\, In the Eagle\n\nWeavi
+ ng stories within stories\, fictions within truths\, and layers upon layer
+ s\, this meta masterpiece from maestro Almodóvar is an essential and tort
+ urous melodrama of young queer love\, clerical overreach\, gender transfor
+ mation\, and the creative transformation from fact to fiction.\n\nTickets:
+  https://vidiotsfoundation.org/purchase/4133192/\n\nDetails: https://vidio
+ tsfoundation.org/movies/bad-education/
 END:VEVENT
 END:VCALENDAR
