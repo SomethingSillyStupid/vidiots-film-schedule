@@ -8,61 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4248103@vidiotsfoundation.org
-DTSTAMP:20260702T023000Z
-DTSTART;TZID=America/Los_Angeles:20260701T193000
-DTEND;TZID=America/Los_Angeles:20260701T212000
-SUMMARY:Cats + Vidiots’ Jellicle Ball
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4248103/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 110 min | 
- Format: Digital | Rating: PG\n\nSeries: Doors Open at 6\, In the Eagle\, L
- ive DJ Set\n\nMeow! You are cordially invited to the feline ball to end it
-  all when Vidiots goes full Jellicle with a special screening of the all-s
- tar furry film meowiscal bonanza! Plus\, live DJs\, themed bevies\, our pi
- nk carpet and a costume contest!\n\nTickets: https://vidiotsfoundation.org
- /purchase/4248103/\n\nDetails: https://vidiotsfoundation.org/movies/cats-t
- he-vidiots-jellicle-ball/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4254089@vidiotsfoundation.org
-DTSTAMP:20260702T030000Z
-DTSTART;TZID=America/Los_Angeles:20260701T200000
-DTEND;TZID=America/Los_Angeles:20260701T211900
-SUMMARY:Underland
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4254089/
-DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
- a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
- we travel alongside several ‘astronauts of the underworld’ into ancien
- t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
- al chambers and a deep underground laboratory built to solve the mysteries
-  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42540
- 89/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
-END:VEVENT
-BEGIN:VEVENT
-UID:4254104@vidiotsfoundation.org
-DTSTAMP:20260703T020000Z
-DTSTART;TZID=America/Los_Angeles:20260702T190000
-DTEND;TZID=America/Los_Angeles:20260702T201900
-SUMMARY:Underland
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4254104/
-DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
- a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
- we travel alongside several ‘astronauts of the underworld’ into ancien
- t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
- al chambers and a deep underground laboratory built to solve the mysteries
-  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42541
- 04/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
-END:VEVENT
-BEGIN:VEVENT
 UID:4252662@vidiotsfoundation.org
 DTSTAMP:20260703T023000Z
 DTSTART;TZID=America/Los_Angeles:20260702T193000
@@ -94,24 +39,6 @@ DESCRIPTION:Run time: 98 min | Format: Digital | Rating: All Ages\n\nSeries
  s/wall%c2%b7e/
 END:VEVENT
 BEGIN:VEVENT
-UID:4253409@vidiotsfoundation.org
-DTSTAMP:20260703T200000Z
-DTSTART;TZID=America/Los_Angeles:20260703T130000
-DTEND;TZID=America/Los_Angeles:20260703T141900
-SUMMARY:Underland
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253409/
-DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
- a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
- we travel alongside several ‘astronauts of the underworld’ into ancien
- t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
- al chambers and a deep underground laboratory built to solve the mysteries
-  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42534
- 09/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
-END:VEVENT
-BEGIN:VEVENT
 UID:4252654@vidiotsfoundation.org
 DTSTAMP:20260703T223000Z
 DTSTART;TZID=America/Los_Angeles:20260703T153000
@@ -126,24 +53,6 @@ DESCRIPTION:Run time: 108 min | Format: Digital | Release year: 1957\n\nSer
  hrouded landscape in feudal Japan.\n\nTickets: https://vidiotsfoundation.o
  rg/purchase/4252654/\n\nDetails: https://vidiotsfoundation.org/movies/thro
  ne-of-blood/
-END:VEVENT
-BEGIN:VEVENT
-UID:4253417@vidiotsfoundation.org
-DTSTAMP:20260703T230000Z
-DTSTART;TZID=America/Los_Angeles:20260703T160000
-DTEND;TZID=America/Los_Angeles:20260703T171900
-SUMMARY:Underland
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253417/
-DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
- a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
- we travel alongside several ‘astronauts of the underworld’ into ancien
- t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
- al chambers and a deep underground laboratory built to solve the mysteries
-  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42534
- 17/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252657@vidiotsfoundation.org
@@ -1549,21 +1458,40 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 BEGIN:VEVENT
-UID:4133192@vidiotsfoundation.org
-DTSTAMP:20260701T023000Z
-DTSTART;TZID=America/Los_Angeles:20260630T193000
-DTEND;TZID=America/Los_Angeles:20260630T211500
-SUMMARY:Bad Education on 35mm
+UID:4248103@vidiotsfoundation.org
+DTSTAMP:20260702T023000Z
+DTSTART;TZID=America/Los_Angeles:20260701T193000
+DTEND;TZID=America/Los_Angeles:20260701T212000
+SUMMARY:Cats + Vidiots’ Jellicle Ball
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4133192/
-DESCRIPTION:Run time: 105 min | Format: 35mm Film | Rating: NC-17 | Release
-  year: 2004\n\nSeries: 35mm Film\, Doors Open at 6\, In the Eagle\n\nWeavi
- ng stories within stories\, fictions within truths\, and layers upon layer
- s\, this meta masterpiece from maestro Almodóvar is an essential and tort
- urous melodrama of young queer love\, clerical overreach\, gender transfor
- mation\, and the creative transformation from fact to fiction.\n\nTickets:
-  https://vidiotsfoundation.org/purchase/4133192/\n\nDetails: https://vidio
- tsfoundation.org/movies/bad-education/
+URL:https://vidiotsfoundation.org/purchase/4248103/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 110 min | 
+ Format: Digital | Rating: PG\n\nSeries: Doors Open at 6\, In the Eagle\, L
+ ive DJ Set\n\nMeow! You are cordially invited to the feline ball to end it
+  all when Vidiots goes full Jellicle with a special screening of the all-s
+ tar furry film meowiscal bonanza! Plus\, live DJs\, themed bevies\, our pi
+ nk carpet and a costume contest!\n\nTickets: https://vidiotsfoundation.org
+ /purchase/4248103/\n\nDetails: https://vidiotsfoundation.org/movies/cats-t
+ he-vidiots-jellicle-ball/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4254089@vidiotsfoundation.org
+DTSTAMP:20260702T030000Z
+DTSTART;TZID=America/Los_Angeles:20260701T200000
+DTEND;TZID=America/Los_Angeles:20260701T211900
+SUMMARY:Underland
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4254089/
+DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
+ a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
+ we travel alongside several ‘astronauts of the underworld’ into ancien
+ t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
+ al chambers and a deep underground laboratory built to solve the mysteries
+  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42540
+ 89/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
 END:VEVENT
 END:VCALENDAR
