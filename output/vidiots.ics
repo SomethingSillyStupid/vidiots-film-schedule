@@ -1517,6 +1517,24 @@ DESCRIPTION:Run time: 171 min | Format: Digital | Rating: R\n\nSeries: Door
  /movies/the-unbearable-lightness-of-being/
 END:VEVENT
 BEGIN:VEVENT
+UID:4270660@vidiotsfoundation.org
+DTSTAMP:20260730T023000Z
+DTSTART;TZID=America/Los_Angeles:20260729T193000
+DTEND;TZID=America/Los_Angeles:20260729T213300
+SUMMARY:Interview with the Vampire on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4270660/
+DESCRIPTION:Run time: 123 min | Format: 35mm Film | Rating: R\n\nSeries: 35
+ mm Film\, Doors Open at 6\, In the Eagle\n\nWith stunning costume and art 
+ direction\, a jaw-dropping performance from an 11 year-old Kirsten Dunst\,
+  a healthy dose of homoeroticism\, and so many sexy\, brooding vampires\, 
+ we can't wait to sink our teeth into this lush bloodthirsty classic on glo
+ rious celluloid!\n\nTickets: https://vidiotsfoundation.org/purchase/427066
+ 0/\n\nDetails: https://vidiotsfoundation.org/movies/interview-with-the-vam
+ pire/
+END:VEVENT
+BEGIN:VEVENT
 UID:4270663@vidiotsfoundation.org
 DTSTAMP:20260730T210000Z
 DTSTART;TZID=America/Los_Angeles:20260730T140000
