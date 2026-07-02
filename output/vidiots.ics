@@ -8,6 +8,42 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
+UID:4254089@vidiotsfoundation.org
+DTSTAMP:20260702T030000Z
+DTSTART;TZID=America/Los_Angeles:20260701T200000
+DTEND;TZID=America/Los_Angeles:20260701T211900
+SUMMARY:Underland
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4254089/
+DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
+ a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
+ we travel alongside several ‘astronauts of the underworld’ into ancien
+ t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
+ al chambers and a deep underground laboratory built to solve the mysteries
+  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42540
+ 89/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
+END:VEVENT
+BEGIN:VEVENT
+UID:4254104@vidiotsfoundation.org
+DTSTAMP:20260703T020000Z
+DTSTART;TZID=America/Los_Angeles:20260702T190000
+DTEND;TZID=America/Los_Angeles:20260702T201900
+SUMMARY:Underland
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4254104/
+DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
+ a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
+ we travel alongside several ‘astronauts of the underworld’ into ancien
+ t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
+ al chambers and a deep underground laboratory built to solve the mysteries
+  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42541
+ 04/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
+END:VEVENT
+BEGIN:VEVENT
 UID:4252662@vidiotsfoundation.org
 DTSTAMP:20260703T023000Z
 DTSTART;TZID=America/Los_Angeles:20260702T193000
@@ -39,6 +75,24 @@ DESCRIPTION:Run time: 98 min | Format: Digital | Rating: All Ages\n\nSeries
  s/wall%c2%b7e/
 END:VEVENT
 BEGIN:VEVENT
+UID:4253409@vidiotsfoundation.org
+DTSTAMP:20260703T200000Z
+DTSTART;TZID=America/Los_Angeles:20260703T130000
+DTEND;TZID=America/Los_Angeles:20260703T141900
+SUMMARY:Underland
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253409/
+DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
+ a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
+ we travel alongside several ‘astronauts of the underworld’ into ancien
+ t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
+ al chambers and a deep underground laboratory built to solve the mysteries
+  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42534
+ 09/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
+END:VEVENT
+BEGIN:VEVENT
 UID:4252654@vidiotsfoundation.org
 DTSTAMP:20260703T223000Z
 DTSTART;TZID=America/Los_Angeles:20260703T153000
@@ -55,6 +109,24 @@ DESCRIPTION:Run time: 108 min | Format: Digital | Release year: 1957\n\nSer
  ne-of-blood/
 END:VEVENT
 BEGIN:VEVENT
+UID:4253417@vidiotsfoundation.org
+DTSTAMP:20260703T230000Z
+DTSTART;TZID=America/Los_Angeles:20260703T160000
+DTEND;TZID=America/Los_Angeles:20260703T171900
+SUMMARY:Underland
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253417/
+DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
+ a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
+ we travel alongside several ‘astronauts of the underworld’ into ancien
+ t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
+ al chambers and a deep underground laboratory built to solve the mysteries
+  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42534
+ 17/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
+END:VEVENT
+BEGIN:VEVENT
 UID:4252657@vidiotsfoundation.org
 DTSTAMP:20260704T013000Z
 DTSTART;TZID=America/Los_Angeles:20260703T183000
@@ -63,11 +135,13 @@ SUMMARY:Independence Day
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252657/
-DESCRIPTION:Run time: 145 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\n\nAll salute President Bill Pullman and join us for a very p
- atriotic screening of this action-packed science fiction blockbuster!\n\nT
- ickets: https://vidiotsfoundation.org/purchase/4252657/\n\nDetails: https:
- //vidiotsfoundation.org/movies/independence-day/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 145 min | 
+ Format: Digital | Rating: PG-13\n\nSeries: In the Eagle\n\nAll salute Pres
+ ident Bill Pullman and join us for a very patriotic screening of this acti
+ on-packed science fiction blockbuster!\n\nTickets: https://vidiotsfoundati
+ on.org/purchase/4252657/\n\nDetails: https://vidiotsfoundation.org/movies/
+ independence-day/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4253421@vidiotsfoundation.org
@@ -715,12 +789,13 @@ SUMMARY:Maddie’s Secret
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4268209/
-DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
- \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
- , daring tonal shifts and intimate performances\, the film marks a bold ne
- w voice in contemporary cinema.\n\nTickets: https://vidiotsfoundation.org/
- purchase/4268209/\n\nDetails: https://vidiotsfoundation.org/movies/maddies
- -secret/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
+  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
+ ate performances\, the film marks a bold new voice in contemporary cinema.
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4268209/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/maddies-secret/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4252726@vidiotsfoundation.org
@@ -838,6 +913,22 @@ DESCRIPTION:Run time: 154 min | Format: Digital | Rating: R | Release year:
  person introduction from MUBI Podcast host Rico Gagliano!\n\nTickets: http
  s://vidiotsfoundation.org/purchase/4301573/\n\nDetails: https://vidiotsfou
  ndation.org/movies/amores-perros/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252855@vidiotsfoundation.org
+DTSTAMP:20260717T230000Z
+DTSTART;TZID=America/Los_Angeles:20260717T160000
+DTEND;TZID=America/Los_Angeles:20260717T180300
+SUMMARY:All That Jazz
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252855/
+DESCRIPTION:Run time: 123 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nIt's Showtime Folks!\nWinner of the Palme d'Or at the Cannes F
+ ilm Festival and nominated for 9 Academy Awards\, All That Jazz is a music
+ al like no other and a cinematic triumph on every level.\nEncore Screening
+  Added July 17th!\n\nTickets: https://vidiotsfoundation.org/purchase/42528
+ 55/\n\nDetails: https://vidiotsfoundation.org/movies/all-that-jazz/
 END:VEVENT
 BEGIN:VEVENT
 UID:4307271@vidiotsfoundation.org
@@ -1479,23 +1570,5 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 110 min |
  /purchase/4248103/\n\nDetails: https://vidiotsfoundation.org/movies/cats-t
  he-vidiots-jellicle-ball/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4254089@vidiotsfoundation.org
-DTSTAMP:20260702T030000Z
-DTSTART;TZID=America/Los_Angeles:20260701T200000
-DTEND;TZID=America/Los_Angeles:20260701T211900
-SUMMARY:Underland
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4254089/
-DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
- a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
- we travel alongside several ‘astronauts of the underworld’ into ancien
- t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
- al chambers and a deep underground laboratory built to solve the mysteries
-  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42540
- 89/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
 END:VEVENT
 END:VCALENDAR
