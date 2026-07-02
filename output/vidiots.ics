@@ -118,11 +118,13 @@ SUMMARY:Rose of Nevada
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4253421/
-DESCRIPTION:Run time: 114 min | Format: Digital\n\nSeries: Additional Shows
- \, In the MUBI Microcinema\n\nPrepare yourself for a hypnotic analog time 
- machine of a filmgoing experience with Mark Jenkin's otherworldly 16mm sci
- ence fiction artifact!\n\nTickets: https://vidiotsfoundation.org/purchase/
- 4253421/\n\nDetails: https://vidiotsfoundation.org/movies/rose-of-nevada/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 114 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nP
+ repare yourself for a hypnotic analog time machine of a filmgoing experien
+ ce with Mark Jenkin's otherworldly 16mm science fiction artifact!\n\nTicke
+ ts: https://vidiotsfoundation.org/purchase/4253421/\n\nDetails: https://vi
+ diotsfoundation.org/movies/rose-of-nevada/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4252658@vidiotsfoundation.org
@@ -1198,6 +1200,23 @@ DESCRIPTION:Run time: 94 min | Format: Digital | Release year: 1992\n\nSeri
  es: Doors Open at 6\, In the Eagle\n\nA film where women eat men and men e
  at ham!\n\nTickets: https://vidiotsfoundation.org/purchase/4253144/\n\nDet
  ails: https://vidiotsfoundation.org/movies/jamon-jamon/
+END:VEVENT
+BEGIN:VEVENT
+UID:4337912@vidiotsfoundation.org
+DTSTAMP:20260722T020000Z
+DTSTART;TZID=America/Los_Angeles:20260721T190000
+DTEND;TZID=America/Los_Angeles:20260721T203000
+SUMMARY:Sweet 16mm – Rare Notes
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4337912/
+DESCRIPTION:Run time: 90 min\n\nSeries: In the MUBI Microcinema\n\nGet your
+  eyes and ears ready for our latest 16mm installment of celluloid obscurit
+ ies Rare Notes\, a program ranging from the 1920s - 1970s of offbeat music
+ al masterpieces\, curiosities\, and cartoons. From blues and jazz to funk 
+ and prog rock\, this smorgasbord of sounds will move you and get you movin
+ g!\n\nTickets: https://vidiotsfoundation.org/purchase/4337912/\n\nDetails:
+  https://vidiotsfoundation.org/movies/sweet-16mm-rare-notes/
 END:VEVENT
 BEGIN:VEVENT
 UID:4270604@vidiotsfoundation.org
