@@ -8,24 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4254089@vidiotsfoundation.org
-DTSTAMP:20260702T030000Z
-DTSTART;TZID=America/Los_Angeles:20260701T200000
-DTEND;TZID=America/Los_Angeles:20260701T211900
-SUMMARY:Underland
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4254089/
-DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
- a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
- we travel alongside several ‘astronauts of the underworld’ into ancien
- t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
- al chambers and a deep underground laboratory built to solve the mysteries
-  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42540
- 89/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
-END:VEVENT
-BEGIN:VEVENT
 UID:4254104@vidiotsfoundation.org
 DTSTAMP:20260703T020000Z
 DTSTART;TZID=America/Los_Angeles:20260702T190000
@@ -42,22 +24,6 @@ DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
  al chambers and a deep underground laboratory built to solve the mysteries
   of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42541
  04/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
-END:VEVENT
-BEGIN:VEVENT
-UID:4252662@vidiotsfoundation.org
-DTSTAMP:20260703T023000Z
-DTSTART;TZID=America/Los_Angeles:20260702T193000
-DTEND;TZID=America/Los_Angeles:20260702T210700
-SUMMARY:Band of Outsiders
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252662/
-DESCRIPTION:Run time: 97 min | Format: Digital | Release year: 1964\n\nSeri
- es: Doors Open at 6\, In the Eagle\n\nOne of Jean-Luc Godard's most charmi
- ng crime capers\, cinema doesn't get much cooler than this laissez-faire d
- alliance with love\, danger\, friendship\, and amateur criminality.\n\nTic
- kets: https://vidiotsfoundation.org/purchase/4252662/\n\nDetails: https://
- vidiotsfoundation.org/movies/band-of-outsiders/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252656@vidiotsfoundation.org
@@ -635,12 +601,13 @@ SUMMARY:Maddie’s Secret
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4267751/
-DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
- \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
- , daring tonal shifts and intimate performances\, the film marks a bold ne
- w voice in contemporary cinema.\n\nTickets: https://vidiotsfoundation.org/
- purchase/4267751/\n\nDetails: https://vidiotsfoundation.org/movies/maddies
- -secret/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
+  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
+ ate performances\, the film marks a bold new voice in contemporary cinema.
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4267751/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/maddies-secret/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4267752@vidiotsfoundation.org
@@ -1553,22 +1520,19 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 BEGIN:VEVENT
-UID:4248103@vidiotsfoundation.org
-DTSTAMP:20260702T023000Z
-DTSTART;TZID=America/Los_Angeles:20260701T193000
-DTEND;TZID=America/Los_Angeles:20260701T212000
-SUMMARY:Cats + Vidiots’ Jellicle Ball
+UID:4252662@vidiotsfoundation.org
+DTSTAMP:20260703T023000Z
+DTSTART;TZID=America/Los_Angeles:20260702T193000
+DTEND;TZID=America/Los_Angeles:20260702T210700
+SUMMARY:Band of Outsiders
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4248103/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 110 min | 
- Format: Digital | Rating: PG\n\nSeries: Doors Open at 6\, In the Eagle\, L
- ive DJ Set\n\nMeow! You are cordially invited to the feline ball to end it
-  all when Vidiots goes full Jellicle with a special screening of the all-s
- tar furry film meowiscal bonanza! Plus\, live DJs\, themed bevies\, our pi
- nk carpet and a costume contest!\n\nTickets: https://vidiotsfoundation.org
- /purchase/4248103/\n\nDetails: https://vidiotsfoundation.org/movies/cats-t
- he-vidiots-jellicle-ball/
-STATUS:TENTATIVE
+URL:https://vidiotsfoundation.org/purchase/4252662/
+DESCRIPTION:Run time: 97 min | Format: Digital | Release year: 1964\n\nSeri
+ es: Doors Open at 6\, In the Eagle\n\nOne of Jean-Luc Godard's most charmi
+ ng crime capers\, cinema doesn't get much cooler than this laissez-faire d
+ alliance with love\, danger\, friendship\, and amateur criminality.\n\nTic
+ kets: https://vidiotsfoundation.org/purchase/4252662/\n\nDetails: https://
+ vidiotsfoundation.org/movies/band-of-outsiders/
 END:VEVENT
 END:VCALENDAR
