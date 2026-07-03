@@ -8,173 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4254104@vidiotsfoundation.org
-DTSTAMP:20260703T020000Z
-DTSTART;TZID=America/Los_Angeles:20260702T190000
-DTEND;TZID=America/Los_Angeles:20260702T201900
-SUMMARY:Underland
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4254104/
-DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
- a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
- we travel alongside several ‘astronauts of the underworld’ into ancien
- t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
- al chambers and a deep underground laboratory built to solve the mysteries
-  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42541
- 04/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
-END:VEVENT
-BEGIN:VEVENT
-UID:4252656@vidiotsfoundation.org
-DTSTAMP:20260703T193000Z
-DTSTART;TZID=America/Los_Angeles:20260703T123000
-DTEND;TZID=America/Los_Angeles:20260703T140800
-SUMMARY:WALL·E
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252656/
-DESCRIPTION:Run time: 98 min | Format: Digital | Rating: All Ages\n\nSeries
- : Films for Everyone\, In the Eagle\n\nNever has a robot had such pathos t
- han in this beloved high-tech animation!\n\nTickets: https://vidiotsfounda
- tion.org/purchase/4252656/\n\nDetails: https://vidiotsfoundation.org/movie
- s/wall%c2%b7e/
-END:VEVENT
-BEGIN:VEVENT
-UID:4253409@vidiotsfoundation.org
-DTSTAMP:20260703T200000Z
-DTSTART;TZID=America/Los_Angeles:20260703T130000
-DTEND;TZID=America/Los_Angeles:20260703T141900
-SUMMARY:Underland
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253409/
-DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
- a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
- we travel alongside several ‘astronauts of the underworld’ into ancien
- t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
- al chambers and a deep underground laboratory built to solve the mysteries
-  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42534
- 09/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
-END:VEVENT
-BEGIN:VEVENT
-UID:4252654@vidiotsfoundation.org
-DTSTAMP:20260703T223000Z
-DTSTART;TZID=America/Los_Angeles:20260703T153000
-DTEND;TZID=America/Los_Angeles:20260703T171800
-SUMMARY:Throne of Blood
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252654/
-DESCRIPTION:Run time: 108 min | Format: Digital | Release year: 1957\n\nSer
- ies: In the Eagle\n\nA vivid\, visceral adaptation of Macbeth\, Akira Kuro
- sawa's Shakespearean tale of ambition and duplicity in a ghostly\, fog-ens
- hrouded landscape in feudal Japan.\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4252654/\n\nDetails: https://vidiotsfoundation.org/movies/thro
- ne-of-blood/
-END:VEVENT
-BEGIN:VEVENT
-UID:4253417@vidiotsfoundation.org
-DTSTAMP:20260703T230000Z
-DTSTART;TZID=America/Los_Angeles:20260703T160000
-DTEND;TZID=America/Los_Angeles:20260703T171900
-SUMMARY:Underland
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253417/
-DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
- a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
- we travel alongside several ‘astronauts of the underworld’ into ancien
- t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
- al chambers and a deep underground laboratory built to solve the mysteries
-  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42534
- 17/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
-END:VEVENT
-BEGIN:VEVENT
-UID:4252657@vidiotsfoundation.org
-DTSTAMP:20260704T013000Z
-DTSTART;TZID=America/Los_Angeles:20260703T183000
-DTEND;TZID=America/Los_Angeles:20260703T205500
-SUMMARY:Independence Day
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252657/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 145 min | 
- Format: Digital | Rating: PG-13\n\nSeries: In the Eagle\n\nAll salute Pres
- ident Bill Pullman and join us for a very patriotic screening of this acti
- on-packed science fiction blockbuster!\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4252657/\n\nDetails: https://vidiotsfoundation.org/movies/
- independence-day/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4253421@vidiotsfoundation.org
-DTSTAMP:20260704T020000Z
-DTSTART;TZID=America/Los_Angeles:20260703T190000
-DTEND;TZID=America/Los_Angeles:20260703T205400
-SUMMARY:Rose of Nevada
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253421/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 114 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nP
- repare yourself for a hypnotic analog time machine of a filmgoing experien
- ce with Mark Jenkin's otherworldly 16mm science fiction artifact!\n\nTicke
- ts: https://vidiotsfoundation.org/purchase/4253421/\n\nDetails: https://vi
- diotsfoundation.org/movies/rose-of-nevada/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4252658@vidiotsfoundation.org
-DTSTAMP:20260704T044500Z
-DTSTART;TZID=America/Los_Angeles:20260703T214500
-DTEND;TZID=America/Los_Angeles:20260703T231600
-SUMMARY:Tammy and the T-Rex
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252658/
-DESCRIPTION:Run time: 91 min | Format: Digital | Rating: PG-13\n\nSeries: I
- n the Eagle\, What the Friday?!?\n\nThis post-Jurassic jam stars Denise Ri
- chards and the late Paul Walker in an unprecedented mishmash of rom-com tr
- opes and R-rated horror thrills.\n\nTickets: https://vidiotsfoundation.org
- /purchase/4252658/\n\nDetails: https://vidiotsfoundation.org/movies/tammy-
- and-the-t-rex/
-END:VEVENT
-BEGIN:VEVENT
-UID:4253425@vidiotsfoundation.org
-DTSTAMP:20260704T050000Z
-DTSTART;TZID=America/Los_Angeles:20260703T220000
-DTEND;TZID=America/Los_Angeles:20260703T235300
-SUMMARY:The Furious
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253425/
-DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
-  2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nMartial art
- s fans rejoice - there's a new masterpiece to add to your favorites list a
- nd it's hitting our microcinema with a vengeance!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4253425/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-furious/
-END:VEVENT
-BEGIN:VEVENT
-UID:4268390@vidiotsfoundation.org
-DTSTAMP:20260704T193000Z
-DTSTART;TZID=America/Los_Angeles:20260704T123000
-DTEND;TZID=America/Los_Angeles:20260704T142300
-SUMMARY:The Furious
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268390/
-DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
-  2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nMartial art
- s fans rejoice - there's a new masterpiece to add to your favorites list a
- nd it's hitting our microcinema with a vengeance!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4268390/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-furious/
-END:VEVENT
-BEGIN:VEVENT
 UID:4220150@vidiotsfoundation.org
 DTSTAMP:20260704T200000Z
 DTSTART;TZID=America/Los_Angeles:20260704T130000
@@ -188,21 +21,6 @@ DESCRIPTION:Run time: 124 min | Format: Digital | Rating: PG\n\nSeries: In
  sharky screenings of Steven Spielberg's perennial summer blockbuster!\n\nT
  ickets: https://vidiotsfoundation.org/purchase/4220150/\n\nDetails: https:
  //vidiotsfoundation.org/movies/jaws/
-END:VEVENT
-BEGIN:VEVENT
-UID:4268270@vidiotsfoundation.org
-DTSTAMP:20260704T230000Z
-DTSTART;TZID=America/Los_Angeles:20260704T160000
-DTEND;TZID=America/Los_Angeles:20260704T175400
-SUMMARY:Rose of Nevada
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268270/
-DESCRIPTION:Run time: 114 min | Format: Digital\n\nSeries: Additional Shows
- \, In the MUBI Microcinema\n\nPrepare yourself for a hypnotic analog time 
- machine of a filmgoing experience with Mark Jenkin's otherworldly 16mm sci
- ence fiction artifact!\n\nTickets: https://vidiotsfoundation.org/purchase/
- 4268270/\n\nDetails: https://vidiotsfoundation.org/movies/rose-of-nevada/
 END:VEVENT
 BEGIN:VEVENT
 UID:4220152@vidiotsfoundation.org
@@ -235,22 +53,6 @@ DESCRIPTION:Run time: 91 min | Format: Digital | Rating: All Ages\n\nSeries
  3/\n\nDetails: https://vidiotsfoundation.org/movies/aladdin/
 END:VEVENT
 BEGIN:VEVENT
-UID:4268400@vidiotsfoundation.org
-DTSTAMP:20260705T203000Z
-DTSTART;TZID=America/Los_Angeles:20260705T133000
-DTEND;TZID=America/Los_Angeles:20260705T152300
-SUMMARY:The Furious
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268400/
-DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
-  2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nMartial art
- s fans rejoice - there's a new masterpiece to add to your favorites list a
- nd it's hitting our microcinema with a vengeance!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4268400/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-furious/
-END:VEVENT
-BEGIN:VEVENT
 UID:4252664@vidiotsfoundation.org
 DTSTAMP:20260705T230000Z
 DTSTART;TZID=America/Los_Angeles:20260705T160000
@@ -265,22 +67,6 @@ DESCRIPTION:Run time: 113 min | Format: Digital\n\nSeries: In the Eagle\n\n
  , exotic romance\, and madcap caper comedy!\n\nTickets: https://vidiotsfou
  ndation.org/purchase/4252664/\n\nDetails: https://vidiotsfoundation.org/mo
  vies/charade/
-END:VEVENT
-BEGIN:VEVENT
-UID:4268401@vidiotsfoundation.org
-DTSTAMP:20260705T233000Z
-DTSTART;TZID=America/Los_Angeles:20260705T163000
-DTEND;TZID=America/Los_Angeles:20260705T182300
-SUMMARY:The Furious
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268401/
-DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
-  2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nMartial art
- s fans rejoice - there's a new masterpiece to add to your favorites list a
- nd it's hitting our microcinema with a vengeance!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4268401/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-furious/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252665@vidiotsfoundation.org
@@ -298,36 +84,6 @@ DESCRIPTION:Run time: 112 min | Format: Digital\n\nSeries: In the Eagle\n\n
  Details: https://vidiotsfoundation.org/movies/overboard/
 END:VEVENT
 BEGIN:VEVENT
-UID:4268290@vidiotsfoundation.org
-DTSTAMP:20260706T023000Z
-DTSTART;TZID=America/Los_Angeles:20260705T193000
-DTEND;TZID=America/Los_Angeles:20260705T212400
-SUMMARY:Rose of Nevada
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268290/
-DESCRIPTION:Run time: 114 min | Format: Digital\n\nSeries: Additional Shows
- \, In the MUBI Microcinema\n\nPrepare yourself for a hypnotic analog time 
- machine of a filmgoing experience with Mark Jenkin's otherworldly 16mm sci
- ence fiction artifact!\n\nTickets: https://vidiotsfoundation.org/purchase/
- 4268290/\n\nDetails: https://vidiotsfoundation.org/movies/rose-of-nevada/
-END:VEVENT
-BEGIN:VEVENT
-UID:4268388@vidiotsfoundation.org
-DTSTAMP:20260707T020000Z
-DTSTART;TZID=America/Los_Angeles:20260706T190000
-DTEND;TZID=America/Los_Angeles:20260706T205400
-SUMMARY:Rose of Nevada
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268388/
-DESCRIPTION:Run time: 114 min | Format: Digital\n\nSeries: Additional Shows
- \, In the MUBI Microcinema\n\nPrepare yourself for a hypnotic analog time 
- machine of a filmgoing experience with Mark Jenkin's otherworldly 16mm sci
- ence fiction artifact!\n\nTickets: https://vidiotsfoundation.org/purchase/
- 4268388/\n\nDetails: https://vidiotsfoundation.org/movies/rose-of-nevada/
-END:VEVENT
-BEGIN:VEVENT
 UID:4252666@vidiotsfoundation.org
 DTSTAMP:20260707T023000Z
 DTSTART;TZID=America/Los_Angeles:20260706T193000
@@ -341,22 +97,6 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: Doo
  for everyone - daring aerial scenes\, a steamy love story\, and a homoerot
  ic volleyball game!\n\nTickets: https://vidiotsfoundation.org/purchase/425
  2666/\n\nDetails: https://vidiotsfoundation.org/movies/top-gun/
-END:VEVENT
-BEGIN:VEVENT
-UID:4297603@vidiotsfoundation.org
-DTSTAMP:20260708T020000Z
-DTSTART;TZID=America/Los_Angeles:20260707T190000
-DTEND;TZID=America/Los_Angeles:20260707T205300
-SUMMARY:The Furious
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297603/
-DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
-  2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nMartial art
- s fans rejoice - there's a new masterpiece to add to your favorites list a
- nd it's hitting our microcinema with a vengeance!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4297603/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-furious/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252668@vidiotsfoundation.org
@@ -373,22 +113,6 @@ DESCRIPTION:Run time: 107 min | Format: Digital\n\nSeries: Doors Open at 6\
  an film of all time.\n\nTickets: https://vidiotsfoundation.org/purchase/42
  52668/\n\nDetails: https://vidiotsfoundation.org/movies/picnic-at-hanging-
  rock/
-END:VEVENT
-BEGIN:VEVENT
-UID:4297605@vidiotsfoundation.org
-DTSTAMP:20260709T020000Z
-DTSTART;TZID=America/Los_Angeles:20260708T190000
-DTEND;TZID=America/Los_Angeles:20260708T205300
-SUMMARY:The Furious
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297605/
-DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
-  2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nMartial art
- s fans rejoice - there's a new masterpiece to add to your favorites list a
- nd it's hitting our microcinema with a vengeance!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4297605/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-furious/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252673@vidiotsfoundation.org
@@ -1539,19 +1263,136 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 BEGIN:VEVENT
-UID:4252662@vidiotsfoundation.org
-DTSTAMP:20260703T023000Z
-DTSTART;TZID=America/Los_Angeles:20260702T193000
-DTEND;TZID=America/Los_Angeles:20260702T210700
-SUMMARY:Band of Outsiders
+UID:4252656@vidiotsfoundation.org
+DTSTAMP:20260703T193000Z
+DTSTART;TZID=America/Los_Angeles:20260703T123000
+DTEND;TZID=America/Los_Angeles:20260703T140800
+SUMMARY:WALL·E
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252662/
-DESCRIPTION:Run time: 97 min | Format: Digital | Release year: 1964\n\nSeri
- es: Doors Open at 6\, In the Eagle\n\nOne of Jean-Luc Godard's most charmi
- ng crime capers\, cinema doesn't get much cooler than this laissez-faire d
- alliance with love\, danger\, friendship\, and amateur criminality.\n\nTic
- kets: https://vidiotsfoundation.org/purchase/4252662/\n\nDetails: https://
- vidiotsfoundation.org/movies/band-of-outsiders/
+URL:https://vidiotsfoundation.org/purchase/4252656/
+DESCRIPTION:Run time: 98 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nNever has a robot had such pathos t
+ han in this beloved high-tech animation!\n\nTickets: https://vidiotsfounda
+ tion.org/purchase/4252656/\n\nDetails: https://vidiotsfoundation.org/movie
+ s/wall%c2%b7e/
+END:VEVENT
+BEGIN:VEVENT
+UID:4253409@vidiotsfoundation.org
+DTSTAMP:20260703T200000Z
+DTSTART;TZID=America/Los_Angeles:20260703T130000
+DTEND;TZID=America/Los_Angeles:20260703T141900
+SUMMARY:Underland
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253409/
+DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
+ a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
+ we travel alongside several ‘astronauts of the underworld’ into ancien
+ t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
+ al chambers and a deep underground laboratory built to solve the mysteries
+  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42534
+ 09/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252654@vidiotsfoundation.org
+DTSTAMP:20260703T223000Z
+DTSTART;TZID=America/Los_Angeles:20260703T153000
+DTEND;TZID=America/Los_Angeles:20260703T171800
+SUMMARY:Throne of Blood
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252654/
+DESCRIPTION:Run time: 108 min | Format: Digital | Release year: 1957\n\nSer
+ ies: In the Eagle\n\nA vivid\, visceral adaptation of Macbeth\, Akira Kuro
+ sawa's Shakespearean tale of ambition and duplicity in a ghostly\, fog-ens
+ hrouded landscape in feudal Japan.\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4252654/\n\nDetails: https://vidiotsfoundation.org/movies/thro
+ ne-of-blood/
+END:VEVENT
+BEGIN:VEVENT
+UID:4253417@vidiotsfoundation.org
+DTSTAMP:20260703T230000Z
+DTSTART;TZID=America/Los_Angeles:20260703T160000
+DTEND;TZID=America/Los_Angeles:20260703T171900
+SUMMARY:Underland
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253417/
+DESCRIPTION:Run time: 79 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
+ a\n\nAn astonishing and hypnotic glimpse beneath the surface of the Earth 
+ we travel alongside several ‘astronauts of the underworld’ into ancien
+ t sacred caves\, flooded storm drains\, melting glaciers\, underwater buri
+ al chambers and a deep underground laboratory built to solve the mysteries
+  of the Universe.\n\nTickets: https://vidiotsfoundation.org/purchase/42534
+ 17/\n\nDetails: https://vidiotsfoundation.org/movies/underland/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252657@vidiotsfoundation.org
+DTSTAMP:20260704T013000Z
+DTSTART;TZID=America/Los_Angeles:20260703T183000
+DTEND;TZID=America/Los_Angeles:20260703T205500
+SUMMARY:Independence Day
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252657/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 145 min | 
+ Format: Digital | Rating: PG-13\n\nSeries: In the Eagle\n\nAll salute Pres
+ ident Bill Pullman and join us for a very patriotic screening of this acti
+ on-packed science fiction blockbuster!\n\nTickets: https://vidiotsfoundati
+ on.org/purchase/4252657/\n\nDetails: https://vidiotsfoundation.org/movies/
+ independence-day/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4253421@vidiotsfoundation.org
+DTSTAMP:20260704T020000Z
+DTSTART;TZID=America/Los_Angeles:20260703T190000
+DTEND;TZID=America/Los_Angeles:20260703T205400
+SUMMARY:Rose of Nevada
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253421/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 114 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nP
+ repare yourself for a hypnotic analog time machine of a filmgoing experien
+ ce with Mark Jenkin's otherworldly 16mm science fiction artifact!\n\nTicke
+ ts: https://vidiotsfoundation.org/purchase/4253421/\n\nDetails: https://vi
+ diotsfoundation.org/movies/rose-of-nevada/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4252658@vidiotsfoundation.org
+DTSTAMP:20260704T044500Z
+DTSTART;TZID=America/Los_Angeles:20260703T214500
+DTEND;TZID=America/Los_Angeles:20260703T231600
+SUMMARY:Tammy and the T-Rex
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252658/
+DESCRIPTION:Run time: 91 min | Format: Digital | Rating: PG-13\n\nSeries: I
+ n the Eagle\, What the Friday?!?\n\nThis post-Jurassic jam stars Denise Ri
+ chards and the late Paul Walker in an unprecedented mishmash of rom-com tr
+ opes and R-rated horror thrills.\n\nTickets: https://vidiotsfoundation.org
+ /purchase/4252658/\n\nDetails: https://vidiotsfoundation.org/movies/tammy-
+ and-the-t-rex/
+END:VEVENT
+BEGIN:VEVENT
+UID:4253425@vidiotsfoundation.org
+DTSTAMP:20260704T050000Z
+DTSTART;TZID=America/Los_Angeles:20260703T220000
+DTEND;TZID=America/Los_Angeles:20260703T235300
+SUMMARY:The Furious
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253425/
+DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
+  2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nMartial art
+ s fans rejoice - there's a new masterpiece to add to your favorites list a
+ nd it's hitting our microcinema with a vengeance!\n\nTickets: https://vidi
+ otsfoundation.org/purchase/4253425/\n\nDetails: https://vidiotsfoundation.
+ org/movies/the-furious/
 END:VEVENT
 END:VCALENDAR
