@@ -8,87 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4268400@vidiotsfoundation.org
-DTSTAMP:20260705T203000Z
-DTSTART;TZID=America/Los_Angeles:20260705T133000
-DTEND;TZID=America/Los_Angeles:20260705T152300
-SUMMARY:The Furious
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268400/
-DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
-  2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nMartial art
- s fans rejoice - there's a new masterpiece to add to your favorites list a
- nd it's hitting our microcinema with a vengeance!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4268400/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-furious/
-END:VEVENT
-BEGIN:VEVENT
-UID:4268401@vidiotsfoundation.org
-DTSTAMP:20260705T233000Z
-DTSTART;TZID=America/Los_Angeles:20260705T163000
-DTEND;TZID=America/Los_Angeles:20260705T182300
-SUMMARY:The Furious
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268401/
-DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
-  2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nMartial art
- s fans rejoice - there's a new masterpiece to add to your favorites list a
- nd it's hitting our microcinema with a vengeance!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4268401/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-furious/
-END:VEVENT
-BEGIN:VEVENT
-UID:4268290@vidiotsfoundation.org
-DTSTAMP:20260706T023000Z
-DTSTART;TZID=America/Los_Angeles:20260705T193000
-DTEND;TZID=America/Los_Angeles:20260705T212400
-SUMMARY:Rose of Nevada
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268290/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 114 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nP
- repare yourself for a hypnotic analog time machine of a filmgoing experien
- ce with Mark Jenkin's otherworldly 16mm science fiction artifact!\n\nTicke
- ts: https://vidiotsfoundation.org/purchase/4268290/\n\nDetails: https://vi
- diotsfoundation.org/movies/rose-of-nevada/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4268388@vidiotsfoundation.org
-DTSTAMP:20260707T020000Z
-DTSTART;TZID=America/Los_Angeles:20260706T190000
-DTEND;TZID=America/Los_Angeles:20260706T205400
-SUMMARY:Rose of Nevada
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268388/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 114 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nP
- repare yourself for a hypnotic analog time machine of a filmgoing experien
- ce with Mark Jenkin's otherworldly 16mm science fiction artifact!\n\nTicke
- ts: https://vidiotsfoundation.org/purchase/4268388/\n\nDetails: https://vi
- diotsfoundation.org/movies/rose-of-nevada/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4252666@vidiotsfoundation.org
-DTSTAMP:20260707T023000Z
-DTSTART;TZID=America/Los_Angeles:20260706T193000
-DTEND;TZID=America/Los_Angeles:20260706T212000
-SUMMARY:Top Gun
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252666/
-DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: Doo
- rs Open at 6\, In the Eagle\n\nThe high-flying action film with something 
- for everyone - daring aerial scenes\, a steamy love story\, and a homoerot
- ic volleyball game!\n\nTickets: https://vidiotsfoundation.org/purchase/425
- 2666/\n\nDetails: https://vidiotsfoundation.org/movies/top-gun/
-END:VEVENT
-BEGIN:VEVENT
 UID:4297603@vidiotsfoundation.org
 DTSTAMP:20260708T020000Z
 DTSTART;TZID=America/Los_Angeles:20260707T190000
@@ -1288,49 +1207,35 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 BEGIN:VEVENT
-UID:4252663@vidiotsfoundation.org
-DTSTAMP:20260705T200000Z
-DTSTART;TZID=America/Los_Angeles:20260705T130000
-DTEND;TZID=America/Los_Angeles:20260705T143100
-SUMMARY:Aladdin
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252663/
-DESCRIPTION:Run time: 91 min | Format: Digital | Rating: All Ages\n\nSeries
- : Films for Everyone\, In the Eagle\n\nIt's time to hop on your magic carp
- et for this enchanting tale of rags to riches. Let us share this whole new
-  world with you!\n\nTickets: https://vidiotsfoundation.org/purchase/425266
- 3/\n\nDetails: https://vidiotsfoundation.org/movies/aladdin/
+UID:4268388@vidiotsfoundation.org
+DTSTAMP:20260707T020000Z
+DTSTART;TZID=America/Los_Angeles:20260706T190000
+DTEND;TZID=America/Los_Angeles:20260706T205400
+SUMMARY:Rose of Nevada
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4268388/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 114 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nP
+ repare yourself for a hypnotic analog time machine of a filmgoing experien
+ ce with Mark Jenkin's otherworldly 16mm science fiction artifact!\n\nTicke
+ ts: https://vidiotsfoundation.org/purchase/4268388/\n\nDetails: https://vi
+ diotsfoundation.org/movies/rose-of-nevada/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4252664@vidiotsfoundation.org
-DTSTAMP:20260705T230000Z
-DTSTART;TZID=America/Los_Angeles:20260705T160000
-DTEND;TZID=America/Los_Angeles:20260705T175300
-SUMMARY:Charade
+UID:4252666@vidiotsfoundation.org
+DTSTAMP:20260707T023000Z
+DTSTART;TZID=America/Los_Angeles:20260706T193000
+DTEND;TZID=America/Los_Angeles:20260706T212000
+SUMMARY:Top Gun
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252664/
-DESCRIPTION:Run time: 113 min | Format: Digital\n\nSeries: In the Eagle\n\n
- Want a glamorous vacation to Paris but don’t want to spring for airfare?
-  Then just buy a ticket to Charade\, a zesty cocktail of macabre thriller\
- , exotic romance\, and madcap caper comedy!\n\nTickets: https://vidiotsfou
- ndation.org/purchase/4252664/\n\nDetails: https://vidiotsfoundation.org/mo
- vies/charade/
-END:VEVENT
-BEGIN:VEVENT
-UID:4252665@vidiotsfoundation.org
-DTSTAMP:20260706T020000Z
-DTSTART;TZID=America/Los_Angeles:20260705T190000
-DTEND;TZID=America/Los_Angeles:20260705T205200
-SUMMARY:Overboard
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252665/
-DESCRIPTION:Run time: 112 min | Format: Digital\n\nSeries: In the Eagle\n\n
- Fall in a sea of love all over again with Kurt Russell and Goldie Hawn in 
- this very 80s fairy tale of riches to rags from the always endearing Garry
-  Marshall!\n\nTickets: https://vidiotsfoundation.org/purchase/4252665/\n\n
- Details: https://vidiotsfoundation.org/movies/overboard/
+URL:https://vidiotsfoundation.org/purchase/4252666/
+DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: Doo
+ rs Open at 6\, In the Eagle\n\nThe high-flying action film with something 
+ for everyone - daring aerial scenes\, a steamy love story\, and a homoerot
+ ic volleyball game!\n\nTickets: https://vidiotsfoundation.org/purchase/425
+ 2666/\n\nDetails: https://vidiotsfoundation.org/movies/top-gun/
 END:VEVENT
 END:VCALENDAR
