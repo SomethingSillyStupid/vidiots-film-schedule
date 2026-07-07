@@ -50,9 +50,9 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
 URL:https://vidiotsfoundation.org/purchase/4252673/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 94 min | F
  ormat: 4K Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\n\
- nChoose life.\n30 Year Anniversary! New 4K Restoration!\n\nTickets: https:
- //vidiotsfoundation.org/purchase/4252673/\n\nDetails: https://vidiotsfound
- ation.org/movies/trainspotting/
+ nEncore Screening Added!\n30 Year Anniversary! New 4K Restoration!\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4252673/\n\nDetails: https://v
+ idiotsfoundation.org/movies/trainspotting/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -903,6 +903,20 @@ DESCRIPTION:Run time: 103 min | Format: Digital | Rating: R\n\nSeries: Door
  97/\n\nDetails: https://vidiotsfoundation.org/movies/zoot-suit/
 END:VEVENT
 BEGIN:VEVENT
+UID:4360418@vidiotsfoundation.org
+DTSTAMP:20260724T231500Z
+DTSTART;TZID=America/Los_Angeles:20260724T161500
+DTEND;TZID=America/Los_Angeles:20260724T174900
+SUMMARY:Trainspotting
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4360418/
+DESCRIPTION:Run time: 94 min | Format: 4K Digital | Rating: R\n\nSeries: Do
+ ors Open at 6\, In the Eagle\n\nEncore Screening Added!\n30 Year Anniversa
+ ry! New 4K Restoration!\n\nTickets: https://vidiotsfoundation.org/purchase
+ /4360418/\n\nDetails: https://vidiotsfoundation.org/movies/trainspotting/
+END:VEVENT
+BEGIN:VEVENT
 UID:4297787@vidiotsfoundation.org
 DTSTAMP:20260724T234500Z
 DTSTART;TZID=America/Los_Angeles:20260724T164500
@@ -1190,6 +1204,107 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  he Eagle\n\nI'm mad as Hell and I'm not going to take it anymore!\nArthous
  e Theater Day!\n\nTickets: https://vidiotsfoundation.org/purchase/4270663/
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
+END:VEVENT
+BEGIN:VEVENT
+UID:4338196@vidiotsfoundation.org
+DTSTAMP:20260802T020000Z
+DTSTART;TZID=America/Los_Angeles:20260801T190000
+DTEND;TZID=America/Los_Angeles:20260801T204300
+SUMMARY:The Truman Show on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4338196/
+DESCRIPTION:Run time: 103 min | Format: 35mm Film | Rating: PG\n\nSeries: 3
+ 5mm Film\, In the Eagle\n\nA smart\, funny\, and endearing satire of celeb
+ rity culture and reality television with a killer cast and a soundtrack th
+ at includes tons of Phillip Glass\, Peter Weir's modern classic remains pe
+ rennially relevant and rewatch-worthy. Don't miss it in glorious 35mm cell
+ uloid!\n\nTickets: https://vidiotsfoundation.org/purchase/4338196/\n\nDeta
+ ils: https://vidiotsfoundation.org/movies/the-truman-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:4338228@vidiotsfoundation.org
+DTSTAMP:20260802T230000Z
+DTSTART;TZID=America/Los_Angeles:20260802T160000
+DTEND;TZID=America/Los_Angeles:20260802T173500
+SUMMARY:Persepolis
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4338228/
+DESCRIPTION:Run time: 95 min | Format: Digital | Rating: PG-13 | Release ye
+ ar: 2007\n\nSeries: In the Eagle\n\nVidiots remembers the life\, legacy\, 
+ and creativity of the extraordinary Marjane Satrapi with a special screeni
+ ng of the animated masterpiece Persepolis!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4338228/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/persepolis/
+END:VEVENT
+BEGIN:VEVENT
+UID:4338227@vidiotsfoundation.org
+DTSTAMP:20260803T020000Z
+DTSTART;TZID=America/Los_Angeles:20260802T190000
+DTEND;TZID=America/Los_Angeles:20260802T205500
+SUMMARY:Miller’s Crossing
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4338227/
+DESCRIPTION:Run time: 115 min | Format: Digital | Rating: R\n\nSeries: Comm
+ unity Partners\, In the Eagle\, Special Guests in Attendance\n\nThe Coen B
+ rothers head back to the neo-noir in this effortless\, quotable\, and beau
+ tifully shot gangster drama.\nCo-presented by our friends at American Cine
+ ma Editors and featuring a conversation with editor Michael Miller moderat
+ ed by John Venzon. Also featuring a book signing of Miller's book "Develop
+ ing the Editor’s Eye".\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4338227/\n\nDetails: https://vidiotsfoundation.org/movies/millers-crossi
+ ng/
+END:VEVENT
+BEGIN:VEVENT
+UID:4360508@vidiotsfoundation.org
+DTSTAMP:20260808T200000Z
+DTSTART;TZID=America/Los_Angeles:20260808T130000
+DTEND;TZID=America/Los_Angeles:20260808T141000
+SUMMARY:CatVideoFest 2026
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4360508/
+DESCRIPTION:Run time: 70 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Community Partners\, Films for Everyone\, In the Eagle\n\nOur fuzzy over
+ lords return to the big screen! Vidiots is purrfectly enthralled to bring 
+ back the cutest kitty compilation ever!\n\nTickets: https://vidiotsfoundat
+ ion.org/purchase/4360508/\n\nDetails: https://vidiotsfoundation.org/movies
+ /catvideofest-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:4360511@vidiotsfoundation.org
+DTSTAMP:20260809T200000Z
+DTSTART;TZID=America/Los_Angeles:20260809T130000
+DTEND;TZID=America/Los_Angeles:20260809T141000
+SUMMARY:CatVideoFest 2026
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4360511/
+DESCRIPTION:Run time: 70 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Community Partners\, Films for Everyone\, In the Eagle\n\nOur fuzzy over
+ lords return to the big screen! Vidiots is purrfectly enthralled to bring 
+ back the cutest kitty compilation ever!\n\nTickets: https://vidiotsfoundat
+ ion.org/purchase/4360511/\n\nDetails: https://vidiotsfoundation.org/movies
+ /catvideofest-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:4360544@vidiotsfoundation.org
+DTSTAMP:20260820T023000Z
+DTSTART;TZID=America/Los_Angeles:20260819T193000
+DTEND;TZID=America/Los_Angeles:20260819T210000
+SUMMARY:Programme 4
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4360544/
+DESCRIPTION:Run time: 90 min\n\nSeries: Doors Open at 6\, In the Eagle\, Li
+ ve Show\, Special Guests in Attendance\n\nHosted by Masters of Ceremonies 
+ the Sklar Brothers\, with pre and post-show cocktail lounge entertainment 
+ featuring the soft sounds of Jon Spurney on the Rhodes piano. Plus Program
+ me 4 creator Rachel Lichtman\, special guest stars\, complimentary matchbo
+ oks\, and more!\n\nTickets: https://vidiotsfoundation.org/purchase/4360544
+ /\n\nDetails: https://vidiotsfoundation.org/movies/programme-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252668@vidiotsfoundation.org
