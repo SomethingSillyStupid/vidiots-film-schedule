@@ -24,22 +24,6 @@ DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
  org/movies/the-furious/
 END:VEVENT
 BEGIN:VEVENT
-UID:4252668@vidiotsfoundation.org
-DTSTAMP:20260708T023000Z
-DTSTART;TZID=America/Los_Angeles:20260707T193000
-DTEND;TZID=America/Los_Angeles:20260707T211700
-SUMMARY:Picnic at Hanging Rock
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252668/
-DESCRIPTION:Run time: 107 min | Format: Digital\n\nSeries: Doors Open at 6\
- , In the Eagle\n\nGet lost in Peter Weir's haunting dream of a film - an e
- nduring and enigmatic mystery\, and considered to be the greatest Australi
- an film of all time.\n\nTickets: https://vidiotsfoundation.org/purchase/42
- 52668/\n\nDetails: https://vidiotsfoundation.org/movies/picnic-at-hanging-
- rock/
-END:VEVENT
-BEGIN:VEVENT
 UID:4297605@vidiotsfoundation.org
 DTSTAMP:20260709T020000Z
 DTSTART;TZID=America/Los_Angeles:20260708T190000
@@ -1208,35 +1192,19 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 BEGIN:VEVENT
-UID:4268388@vidiotsfoundation.org
-DTSTAMP:20260707T020000Z
-DTSTART;TZID=America/Los_Angeles:20260706T190000
-DTEND;TZID=America/Los_Angeles:20260706T205400
-SUMMARY:Rose of Nevada
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268388/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 114 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nP
- repare yourself for a hypnotic analog time machine of a filmgoing experien
- ce with Mark Jenkin's otherworldly 16mm science fiction artifact!\n\nTicke
- ts: https://vidiotsfoundation.org/purchase/4268388/\n\nDetails: https://vi
- diotsfoundation.org/movies/rose-of-nevada/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4252666@vidiotsfoundation.org
-DTSTAMP:20260707T023000Z
-DTSTART;TZID=America/Los_Angeles:20260706T193000
-DTEND;TZID=America/Los_Angeles:20260706T212000
-SUMMARY:Top Gun
+UID:4252668@vidiotsfoundation.org
+DTSTAMP:20260708T023000Z
+DTSTART;TZID=America/Los_Angeles:20260707T193000
+DTEND;TZID=America/Los_Angeles:20260707T211700
+SUMMARY:Picnic at Hanging Rock
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252666/
-DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: Doo
- rs Open at 6\, In the Eagle\n\nThe high-flying action film with something 
- for everyone - daring aerial scenes\, a steamy love story\, and a homoerot
- ic volleyball game!\n\nTickets: https://vidiotsfoundation.org/purchase/425
- 2666/\n\nDetails: https://vidiotsfoundation.org/movies/top-gun/
+URL:https://vidiotsfoundation.org/purchase/4252668/
+DESCRIPTION:Run time: 107 min | Format: Digital\n\nSeries: Doors Open at 6\
+ , In the Eagle\n\nGet lost in Peter Weir's haunting dream of a film - an e
+ nduring and enigmatic mystery\, and considered to be the greatest Australi
+ an film of all time.\n\nTickets: https://vidiotsfoundation.org/purchase/42
+ 52668/\n\nDetails: https://vidiotsfoundation.org/movies/picnic-at-hanging-
+ rock/
 END:VEVENT
 END:VCALENDAR
