@@ -8,54 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4297603@vidiotsfoundation.org
-DTSTAMP:20260708T020000Z
-DTSTART;TZID=America/Los_Angeles:20260707T190000
-DTEND;TZID=America/Los_Angeles:20260707T205300
-SUMMARY:The Furious
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297603/
-DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
-  2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nMartial art
- s fans rejoice - there's a new masterpiece to add to your favorites list a
- nd it's hitting our microcinema with a vengeance!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4297603/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-furious/
-END:VEVENT
-BEGIN:VEVENT
-UID:4297605@vidiotsfoundation.org
-DTSTAMP:20260709T020000Z
-DTSTART;TZID=America/Los_Angeles:20260708T190000
-DTEND;TZID=America/Los_Angeles:20260708T205300
-SUMMARY:The Furious
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297605/
-DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
-  2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nMartial art
- s fans rejoice - there's a new masterpiece to add to your favorites list a
- nd it's hitting our microcinema with a vengeance!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4297605/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-furious/
-END:VEVENT
-BEGIN:VEVENT
-UID:4252673@vidiotsfoundation.org
-DTSTAMP:20260709T023000Z
-DTSTART;TZID=America/Los_Angeles:20260708T193000
-DTEND;TZID=America/Los_Angeles:20260708T210400
-SUMMARY:Trainspotting
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252673/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 94 min | F
- ormat: 4K Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\n\
- nEncore Screening Added!\n30 Year Anniversary! New 4K Restoration!\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4252673/\n\nDetails: https://v
- idiotsfoundation.org/movies/trainspotting/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4197656@vidiotsfoundation.org
 DTSTAMP:20260710T023000Z
 DTSTART;TZID=America/Los_Angeles:20260709T193000
@@ -891,20 +843,6 @@ DESCRIPTION:Run time: 103 min | Format: Digital | Rating: R\n\nSeries: Door
  97/\n\nDetails: https://vidiotsfoundation.org/movies/zoot-suit/
 END:VEVENT
 BEGIN:VEVENT
-UID:4360418@vidiotsfoundation.org
-DTSTAMP:20260724T231500Z
-DTSTART;TZID=America/Los_Angeles:20260724T161500
-DTEND;TZID=America/Los_Angeles:20260724T174900
-SUMMARY:Trainspotting
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4360418/
-DESCRIPTION:Run time: 94 min | Format: 4K Digital | Rating: R\n\nSeries: Do
- ors Open at 6\, In the Eagle\n\nEncore Screening Added!\n30 Year Anniversa
- ry! New 4K Restoration!\n\nTickets: https://vidiotsfoundation.org/purchase
- /4360418/\n\nDetails: https://vidiotsfoundation.org/movies/trainspotting/
-END:VEVENT
-BEGIN:VEVENT
 UID:4297787@vidiotsfoundation.org
 DTSTAMP:20260724T234500Z
 DTSTART;TZID=America/Los_Angeles:20260724T164500
@@ -1343,19 +1281,35 @@ DESCRIPTION:Run time: 90 min\n\nSeries: Doors Open at 6\, In the Eagle\, Li
  /\n\nDetails: https://vidiotsfoundation.org/movies/programme-4/
 END:VEVENT
 BEGIN:VEVENT
-UID:4252668@vidiotsfoundation.org
-DTSTAMP:20260708T023000Z
-DTSTART;TZID=America/Los_Angeles:20260707T193000
-DTEND;TZID=America/Los_Angeles:20260707T211700
-SUMMARY:Picnic at Hanging Rock
+UID:4297605@vidiotsfoundation.org
+DTSTAMP:20260709T020000Z
+DTSTART;TZID=America/Los_Angeles:20260708T190000
+DTEND;TZID=America/Los_Angeles:20260708T205300
+SUMMARY:The Furious
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297605/
+DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
+  2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nMartial art
+ s fans rejoice - there's a new masterpiece to add to your favorites list a
+ nd it's hitting our microcinema with a vengeance!\n\nTickets: https://vidi
+ otsfoundation.org/purchase/4297605/\n\nDetails: https://vidiotsfoundation.
+ org/movies/the-furious/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252673@vidiotsfoundation.org
+DTSTAMP:20260709T023000Z
+DTSTART;TZID=America/Los_Angeles:20260708T193000
+DTEND;TZID=America/Los_Angeles:20260708T210400
+SUMMARY:Trainspotting
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252668/
-DESCRIPTION:Run time: 107 min | Format: Digital\n\nSeries: Doors Open at 6\
- , In the Eagle\n\nGet lost in Peter Weir's haunting dream of a film - an e
- nduring and enigmatic mystery\, and considered to be the greatest Australi
- an film of all time.\n\nTickets: https://vidiotsfoundation.org/purchase/42
- 52668/\n\nDetails: https://vidiotsfoundation.org/movies/picnic-at-hanging-
- rock/
+URL:https://vidiotsfoundation.org/purchase/4252673/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 94 min | F
+ ormat: 4K Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\n\
+ nEncore Screening Added!\n30 Year Anniversary! New 4K Restoration!\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4252673/\n\nDetails: https://v
+ idiotsfoundation.org/movies/trainspotting/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
