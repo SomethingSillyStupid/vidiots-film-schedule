@@ -8,6 +8,22 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
+UID:4252673@vidiotsfoundation.org
+DTSTAMP:20260709T023000Z
+DTSTART;TZID=America/Los_Angeles:20260708T193000
+DTEND;TZID=America/Los_Angeles:20260708T210400
+SUMMARY:Trainspotting
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252673/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 94 min | F
+ ormat: 4K Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\n\
+ nEncore Screening Added!\n30 Year Anniversary! New 4K Restoration!\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4252673/\n\nDetails: https://v
+ idiotsfoundation.org/movies/trainspotting/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:4197656@vidiotsfoundation.org
 DTSTAMP:20260710T023000Z
 DTSTART;TZID=America/Los_Angeles:20260709T193000
@@ -208,12 +224,14 @@ SUMMARY:Maddie’s Secret
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4267752/
-DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
- \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
- , daring tonal shifts and intimate performances\, the film marks a bold ne
- w voice in contemporary cinema.\nMore Screenings Added by Popular Demand!\
- n\nTickets: https://vidiotsfoundation.org/purchase/4267752/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/maddies-secret/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
+  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
+ ate performances\, the film marks a bold new voice in contemporary cinema.
+ \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4267752/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/maddies-secret/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4252710@vidiotsfoundation.org
@@ -405,9 +423,10 @@ DESCRIPTION:Run time: 76 min | Format: Digital\n\nSeries: Doors Open at 6\,
  , TeenTix LA\n\nJoin Vidiots as we celebrate what would have been the 100t
  h birthday of the legendary Harry Dean Stanton with a special screening of
   the critically acclaimed\, unusually poetic documentary Harry Dean Stanto
- n: Partly Fiction with director Sophie Huber in person!\n\nTickets: https:
- //vidiotsfoundation.org/purchase/4252730/\n\nDetails: https://vidiotsfound
- ation.org/movies/harry-dean-stanton-partly-fiction/
+ n: Partly Fiction with director Sophie Huber in conversation with actor Lo
+ gan Sparks\, moderated by Cherry Jones after the screening!\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4252730/\n\nDetails: https://vidiotsf
+ oundation.org/movies/harry-dean-stanton-partly-fiction/
 END:VEVENT
 BEGIN:VEVENT
 UID:4268213@vidiotsfoundation.org
@@ -843,6 +862,20 @@ DESCRIPTION:Run time: 103 min | Format: Digital | Rating: R\n\nSeries: Door
  97/\n\nDetails: https://vidiotsfoundation.org/movies/zoot-suit/
 END:VEVENT
 BEGIN:VEVENT
+UID:4360418@vidiotsfoundation.org
+DTSTAMP:20260724T231500Z
+DTSTART;TZID=America/Los_Angeles:20260724T161500
+DTEND;TZID=America/Los_Angeles:20260724T174900
+SUMMARY:Trainspotting
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4360418/
+DESCRIPTION:Run time: 94 min | Format: 4K Digital | Rating: R\n\nSeries: Do
+ ors Open at 6\, In the Eagle\n\nEncore Screening Added!\n30 Year Anniversa
+ ry! New 4K Restoration!\n\nTickets: https://vidiotsfoundation.org/purchase
+ /4360418/\n\nDetails: https://vidiotsfoundation.org/movies/trainspotting/
+END:VEVENT
+BEGIN:VEVENT
 UID:4297787@vidiotsfoundation.org
 DTSTAMP:20260724T234500Z
 DTSTART;TZID=America/Los_Angeles:20260724T164500
@@ -1050,8 +1083,10 @@ URL:https://vidiotsfoundation.org/purchase/4253162/
 DESCRIPTION:Run time: 102 min | Format: Digital | Rating: R\n\nSeries: In t
  he Eagle\n\nJoin Vidiots and our friends at Searchlight Pictures for a ver
  y special 20th Anniversary screening of the indie darling Little Miss Suns
- hine!\n\nTickets: https://vidiotsfoundation.org/purchase/4253162/\n\nDetai
- ls: https://vidiotsfoundation.org/movies/little-miss-sunshine/
+ hine! Come through for themed bevies\, photo-ops\, and dress your best for
+  a costume contest/Little Miss Vidiots Pageant after the show to take home
+  the crown!\n\nTickets: https://vidiotsfoundation.org/purchase/4253162/\n\
+ nDetails: https://vidiotsfoundation.org/movies/little-miss-sunshine/
 END:VEVENT
 BEGIN:VEVENT
 UID:4297818@vidiotsfoundation.org
@@ -1184,17 +1219,17 @@ UID:4338196@vidiotsfoundation.org
 DTSTAMP:20260802T020000Z
 DTSTART;TZID=America/Los_Angeles:20260801T190000
 DTEND;TZID=America/Los_Angeles:20260801T204300
-SUMMARY:The Truman Show on 35mm
+SUMMARY:The Truman Show
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4338196/
-DESCRIPTION:Run time: 103 min | Format: 35mm Film | Rating: PG\n\nSeries: 3
- 5mm Film\, In the Eagle\n\nA smart\, funny\, and endearing satire of celeb
- rity culture and reality television with a killer cast and a soundtrack th
- at includes tons of Phillip Glass\, Peter Weir's modern classic remains pe
- rennially relevant and rewatch-worthy. Don't miss it in glorious 35mm cell
- uloid!\n\nTickets: https://vidiotsfoundation.org/purchase/4338196/\n\nDeta
- ils: https://vidiotsfoundation.org/movies/the-truman-show/
+DESCRIPTION:Run time: 103 min | Format: Digital | Rating: PG\n\nSeries: In 
+ the Eagle\n\nA smart\, funny\, and endearing satire of celebrity culture a
+ nd reality television with a killer cast and a soundtrack that includes to
+ ns of Phillip Glass\, Peter Weir's modern classic remains perennially rele
+ vant and rewatch-worthy.\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4338196/\n\nDetails: https://vidiotsfoundation.org/movies/the-truman-sho
+ w/
 END:VEVENT
 BEGIN:VEVENT
 UID:4338228@vidiotsfoundation.org
@@ -1295,21 +1330,5 @@ DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
  nd it's hitting our microcinema with a vengeance!\n\nTickets: https://vidi
  otsfoundation.org/purchase/4297605/\n\nDetails: https://vidiotsfoundation.
  org/movies/the-furious/
-END:VEVENT
-BEGIN:VEVENT
-UID:4252673@vidiotsfoundation.org
-DTSTAMP:20260709T023000Z
-DTSTART;TZID=America/Los_Angeles:20260708T193000
-DTEND;TZID=America/Los_Angeles:20260708T210400
-SUMMARY:Trainspotting
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252673/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 94 min | F
- ormat: 4K Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\n\
- nEncore Screening Added!\n30 Year Anniversary! New 4K Restoration!\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4252673/\n\nDetails: https://v
- idiotsfoundation.org/movies/trainspotting/
-STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
