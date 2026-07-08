@@ -61,38 +61,17 @@ DTSTAMP:20260710T023000Z
 DTSTART;TZID=America/Los_Angeles:20260709T193000
 DTEND;TZID=America/Los_Angeles:20260709T220600
 SUMMARY:The Wailing
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
+LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
 URL:https://vidiotsfoundation.org/purchase/4197656/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 156 min | 
  Format: Digital | Release year: 2016\n\nSeries: Community Partners\, Doors
-  Open at 6\, Special Guests in Attendance\, In the Eagle\n\nCo-presented b
- y GYOPO\, KALH\, and Luaka Bop\, the record label founded by David Byrne. 
- The screening will be followed by a conversation with Jang Young-gyu\, the
-  film’s composer and founder of the award-winning Korean psych-pop band 
- Leenalchi.\nSecond screening added (screening only) Friday\, July 10th\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4197656/\n\nDetails: https
- ://vidiotsfoundation.org/movies/the-wailing/
+  Open at 6\, Special Guests in Attendance\n\nCo-presented by GYOPO\, KALH\
+ , and Luaka Bop\, the record label founded by David Byrne. The screening w
+ ill be followed by a conversation with Jang Young-gyu\, the film’s compo
+ ser and founder of the award-winning Korean psych-pop band Leenalchi.\n\nT
+ ickets: https://vidiotsfoundation.org/purchase/4197656/\n\nDetails: https:
+ //vidiotsfoundation.org/movies/the-wailing/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4252695@vidiotsfoundation.org
-DTSTAMP:20260710T221500Z
-DTSTART;TZID=America/Los_Angeles:20260710T151500
-DTEND;TZID=America/Los_Angeles:20260710T175100
-SUMMARY:The Wailing
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252695/
-DESCRIPTION:No Guest\n\nRun time: 156 min | Format: Digital | Release year:
-  2016\n\nSeries: Community Partners\, Doors Open at 6\, Special Guests in 
- Attendance\, In the Eagle\n\nCo-presented by GYOPO\, KALH\, and Luaka Bop\
- , the record label founded by David Byrne. The screening will be followed 
- by a conversation with Jang Young-gyu\, the film’s composer and founder 
- of the award-winning Korean psych-pop band Leenalchi.\nSecond screening ad
- ded (screening only) Friday\, July 10th\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4252695/\n\nDetails: https://vidiotsfoundation.org/movies
- /the-wailing/
 END:VEVENT
 BEGIN:VEVENT
 UID:4268194@vidiotsfoundation.org
@@ -107,8 +86,9 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
  Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
   pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
  ate performances\, the film marks a bold new voice in contemporary cinema.
- \n\nTickets: https://vidiotsfoundation.org/purchase/4268194/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/maddies-secret/
+ \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4268194/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/maddies-secret/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -121,11 +101,12 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252699/
 DESCRIPTION:Run time: 135 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\n\nThe most expensive movie ever made at the time of its rele
- ase\, Waterworld puts every dollar up on the screen with stunning producti
- on design\, incredible practical effects\, and awe-inspiring stunts that l
- ook even better today!\n\nTickets: https://vidiotsfoundation.org/purchase/
- 4252699/\n\nDetails: https://vidiotsfoundation.org/movies/waterworld/
+ In the Eagle\, TeenTix LA\n\nThe most expensive movie ever made at the tim
+ e of its release\, Waterworld puts every dollar up on the screen with stun
+ ning production design\, incredible practical effects\, and awe-inspiring 
+ stunts that look even better today!\n\nTickets: https://vidiotsfoundation.
+ org/purchase/4252699/\n\nDetails: https://vidiotsfoundation.org/movies/wat
+ erworld/
 END:VEVENT
 BEGIN:VEVENT
 UID:4268192@vidiotsfoundation.org
@@ -140,8 +121,9 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
  Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
   pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
  ate performances\, the film marks a bold new voice in contemporary cinema.
- \n\nTickets: https://vidiotsfoundation.org/purchase/4268192/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/maddies-secret/
+ \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4268192/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/maddies-secret/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -154,11 +136,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252700/
 DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\, What the Friday?!?\n\nOne of the most bad ass animated films of 
- all time\, this science fiction adventure will take you on one hell of a t
- rip - to the far reaches of the galaxy and beyond!\n\nTickets: https://vid
- iotsfoundation.org/purchase/4252700/\n\nDetails: https://vidiotsfoundation
- .org/movies/heavy-metal/
+ e Eagle\, TeenTix LA\, What the Friday?!?\n\nOne of the most bad ass anima
+ ted films of all time\, this science fiction adventure will take you on on
+ e hell of a trip - to the far reaches of the galaxy and beyond!\n\nTickets
+ : https://vidiotsfoundation.org/purchase/4252700/\n\nDetails: https://vidi
+ otsfoundation.org/movies/heavy-metal/
 END:VEVENT
 BEGIN:VEVENT
 UID:4268193@vidiotsfoundation.org
@@ -173,8 +155,9 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
  Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
   pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
  ate performances\, the film marks a bold new voice in contemporary cinema.
- \n\nTickets: https://vidiotsfoundation.org/purchase/4268193/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/maddies-secret/
+ \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4268193/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/maddies-secret/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -187,12 +170,12 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252701/
 DESCRIPTION:Run time: 108 min | Format: Digital | Rating: PG\n\nSeries: Fil
- ms for Everyone\, In the Eagle\n\nCo-starring a list of legendary Hollywoo
- d veterans like Mickey Rooney and Dick Van Dyke\, and written by the sheri
- ff's department at Reno 911 (Tom Lennon and Ben Garant) you know you're in
-  for a historically hilarious and magical time at this museum!\n\nTickets:
-  https://vidiotsfoundation.org/purchase/4252701/\n\nDetails: https://vidio
- tsfoundation.org/movies/night-at-the-museum/
+ ms for Everyone\, In the Eagle\, TeenTix LA\n\nCo-starring a list of legen
+ dary Hollywood veterans like Mickey Rooney and Dick Van Dyke\, and written
+  by the sheriff's department at Reno 911 (Tom Lennon and Ben Garant) you k
+ now you're in for a historically hilarious and magical time at this museum
+ !\n\nTickets: https://vidiotsfoundation.org/purchase/4252701/\n\nDetails: 
+ https://vidiotsfoundation.org/movies/night-at-the-museum/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252705@vidiotsfoundation.org
@@ -203,12 +186,12 @@ SUMMARY:Adam’s Rib
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252705/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: In the Eagle\n\n
- Screwball comedy has never been so litigious and effervescent than in Geor
- ge Cukor's madcap masterpiece starring the infectiously iconic Katharine H
- epburn and co-written by legend Ruth Gordon!\n\nTickets: https://vidiotsfo
- undation.org/purchase/4252705/\n\nDetails: https://vidiotsfoundation.org/m
- ovies/adams-rib/
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: In the Eagle\, T
+ eenTix LA\n\nScrewball comedy has never been so litigious and effervescent
+  than in George Cukor's madcap masterpiece starring the infectiously iconi
+ c Katharine Hepburn and co-written by legend Ruth Gordon!\n\nTickets: http
+ s://vidiotsfoundation.org/purchase/4252705/\n\nDetails: https://vidiotsfou
+ ndation.org/movies/adams-rib/
 END:VEVENT
 BEGIN:VEVENT
 UID:4267744@vidiotsfoundation.org
@@ -241,10 +224,10 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252707/
 DESCRIPTION:Run time: 142 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nSpike Lee turns up the heat by revisiting one terrifying Bronx
-  summer during the ongoing rampage of the Son of Sam.\n\nTickets: https://
- vidiotsfoundation.org/purchase/4252707/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/summer-of-sam/
+ he Eagle\, TeenTix LA\n\nSpike Lee turns up the heat by revisiting one ter
+ rifying Bronx summer during the ongoing rampage of the Son of Sam.\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4252707/\n\nDetails: https://v
+ idiotsfoundation.org/movies/summer-of-sam/
 END:VEVENT
 BEGIN:VEVENT
 UID:4267751@vidiotsfoundation.org
@@ -259,8 +242,9 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
  Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
   pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
  ate performances\, the film marks a bold new voice in contemporary cinema.
- \n\nTickets: https://vidiotsfoundation.org/purchase/4267751/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/maddies-secret/
+ \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4267751/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/maddies-secret/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -275,9 +259,9 @@ URL:https://vidiotsfoundation.org/purchase/4267752/
 DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
  \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
  , daring tonal shifts and intimate performances\, the film marks a bold ne
- w voice in contemporary cinema.\n\nTickets: https://vidiotsfoundation.org/
- purchase/4267752/\n\nDetails: https://vidiotsfoundation.org/movies/maddies
- -secret/
+ w voice in contemporary cinema.\nMore Screenings Added by Popular Demand!\
+ n\nTickets: https://vidiotsfoundation.org/purchase/4267752/\n\nDetails: ht
+ tps://vidiotsfoundation.org/movies/maddies-secret/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252710@vidiotsfoundation.org
@@ -342,10 +326,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252715/
 DESCRIPTION:Run time: 85 min | Format: Digital | Release year: 1971\n\nSeri
- es: In the Eagle\n\nGet ready for another monstrous rampage of supersized 
- Kaiju fun when the King of the Monsters goes up against a monster made of 
- toxic sludge!\n\nTickets: https://vidiotsfoundation.org/purchase/4252715/\
- n\nDetails: https://vidiotsfoundation.org/movies/godzilla-vs-hedorah/
+ es: In the Eagle\, TeenTix LA\n\nGet ready for another monstrous rampage o
+ f supersized Kaiju fun when the King of the Monsters goes up against a mon
+ ster made of toxic sludge!\n\nTickets: https://vidiotsfoundation.org/purch
+ ase/4252715/\n\nDetails: https://vidiotsfoundation.org/movies/godzilla-vs-
+ hedorah/
 END:VEVENT
 BEGIN:VEVENT
 UID:4215468@vidiotsfoundation.org
@@ -397,8 +382,9 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
  Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
   pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
  ate performances\, the film marks a bold new voice in contemporary cinema.
- \n\nTickets: https://vidiotsfoundation.org/purchase/4268207/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/maddies-secret/
+ \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4268207/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/maddies-secret/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -414,8 +400,9 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
  Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
   pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
  ate performances\, the film marks a bold new voice in contemporary cinema.
- \n\nTickets: https://vidiotsfoundation.org/purchase/4268209/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/maddies-secret/
+ \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4268209/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/maddies-secret/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -428,11 +415,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252726/
 DESCRIPTION:Run time: 183 min | Format: Digital | Rating: R\n\nSeries: Door
- s Open at 6\, In the Eagle\n\nOne of the first American movies to directly
-  depict the chaos and violence of the Vietnam War\, The Deer Hunter is a t
- riumph of visionary New Hollywood filmmaking from director Michael Cimino.
- \n\nTickets: https://vidiotsfoundation.org/purchase/4252726/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/the-deer-hunter/
+ s Open at 6\, In the Eagle\, TeenTix LA\n\nOne of the first American movie
+ s to directly depict the chaos and violence of the Vietnam War\, The Deer 
+ Hunter is a triumph of visionary New Hollywood filmmaking from director Mi
+ chael Cimino.\n\nTickets: https://vidiotsfoundation.org/purchase/4252726/\
+ n\nDetails: https://vidiotsfoundation.org/movies/the-deer-hunter/
 END:VEVENT
 BEGIN:VEVENT
 UID:4325769@vidiotsfoundation.org
@@ -463,12 +450,12 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
 URL:https://vidiotsfoundation.org/purchase/4252730/
 DESCRIPTION:Run time: 76 min | Format: Digital\n\nSeries: Doors Open at 6\,
   Groundbreaking Non-Fiction\, In the Eagle\, Special Guests in Attendance\
- n\nJoin Vidiots as we celebrate what would have been the 100th birthday of
-  the legendary Harry Dean Stanton with a special screening of the critical
- ly acclaimed\, unusually poetic documentary Harry Dean Stanton: Partly Fic
- tion with director Sophie Huber in person!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4252730/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/harry-dean-stanton-partly-fiction/
+ , TeenTix LA\n\nJoin Vidiots as we celebrate what would have been the 100t
+ h birthday of the legendary Harry Dean Stanton with a special screening of
+  the critically acclaimed\, unusually poetic documentary Harry Dean Stanto
+ n: Partly Fiction with director Sophie Huber in person!\n\nTickets: https:
+ //vidiotsfoundation.org/purchase/4252730/\n\nDetails: https://vidiotsfound
+ ation.org/movies/harry-dean-stanton-partly-fiction/
 END:VEVENT
 BEGIN:VEVENT
 UID:4268213@vidiotsfoundation.org
@@ -483,8 +470,9 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
  Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
   pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
  ate performances\, the film marks a bold new voice in contemporary cinema.
- \n\nTickets: https://vidiotsfoundation.org/purchase/4268213/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/maddies-secret/
+ \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4268213/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/maddies-secret/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -557,16 +545,16 @@ UID:4307271@vidiotsfoundation.org
 DTSTAMP:20260717T233000Z
 DTSTART;TZID=America/Los_Angeles:20260717T163000
 DTEND;TZID=America/Los_Angeles:20260717T181000
-SUMMARY:Unidentified
+SUMMARY:Maddie’s Secret
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4307271/
-DESCRIPTION:Run time: 100 min | Format: Digital | Rating: PG-13 | Release y
- ear: 2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nEvil hi
- des best in plain sight. Uncover the truth in Unidentified\, a gripping Sa
- udi murder mystery from acclaimed filmmaker Haifaa al-Mansour (Wadjda).\n\
- nTickets: https://vidiotsfoundation.org/purchase/4307271/\n\nDetails: http
- s://vidiotsfoundation.org/movies/unidentified/
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
+ , daring tonal shifts and intimate performances\, the film marks a bold ne
+ w voice in contemporary cinema.\nMore Screenings Added by Popular Demand!\
+ n\nTickets: https://vidiotsfoundation.org/purchase/4307271/\n\nDetails: ht
+ tps://vidiotsfoundation.org/movies/maddies-secret/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252861@vidiotsfoundation.org
@@ -660,13 +648,13 @@ SUMMARY:National Film Preservation Foundation’s Semiquincentennial Celebr
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4253111/
-DESCRIPTION:Run time: 81 min\n\nSeries: In the Eagle\n\nFor nearly 30 years
-  the NFPF has been helping to preserve America’s film heritage. This col
- lection of shorts from archives around the country reveals the many ways
- —from amateur to avant-garde—that American filmmakers have used movies
-  to inform\, honor\, document\, and critique.\n\nTickets: https://vidiotsf
- oundation.org/purchase/4253111/\n\nDetails: https://vidiotsfoundation.org/
- movies/celebration-of-celluloid/
+DESCRIPTION:Run time: 81 min\n\nSeries: In the Eagle\, TeenTix LA\n\nFor ne
+ arly 30 years the NFPF has been helping to preserve America’s film herit
+ age. This collection of shorts from archives around the country reveals th
+ e many ways—from amateur to avant-garde—that American filmmakers have 
+ used movies to inform\, honor\, document\, and critique.\n\nTickets: https
+ ://vidiotsfoundation.org/purchase/4253111/\n\nDetails: https://vidiotsfoun
+ dation.org/movies/celebration-of-celluloid/
 END:VEVENT
 BEGIN:VEVENT
 UID:4298064@vidiotsfoundation.org
@@ -694,27 +682,27 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4253110/
 DESCRIPTION:Run time: 116 min | Format: Digital | Rating: PG\n\nSeries: In 
- the Eagle\n\nFor a smart\, dynamic comedy that never drags\, grab your seq
- uins for Sydney Pollack's iconic comedy classic starring Dustin Hoffman as
-  America's hottest new actress!\n\nTickets: https://vidiotsfoundation.org/
- purchase/4253110/\n\nDetails: https://vidiotsfoundation.org/movies/tootsie
- /
+ the Eagle\, TeenTix LA\n\nFor a smart\, dynamic comedy that never drags\, 
+ grab your sequins for Sydney Pollack's iconic comedy classic starring Dust
+ in Hoffman as America's hottest new actress!\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4253110/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/tootsie/
 END:VEVENT
 BEGIN:VEVENT
 UID:4298073@vidiotsfoundation.org
 DTSTAMP:20260719T043000Z
 DTSTART;TZID=America/Los_Angeles:20260718T213000
 DTEND;TZID=America/Los_Angeles:20260718T231000
-SUMMARY:Unidentified
+SUMMARY:Maddie’s Secret
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4298073/
-DESCRIPTION:Run time: 100 min | Format: Digital | Rating: PG-13 | Release y
- ear: 2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nEvil hi
- des best in plain sight. Uncover the truth in Unidentified\, a gripping Sa
- udi murder mystery from acclaimed filmmaker Haifaa al-Mansour (Wadjda).\n\
- nTickets: https://vidiotsfoundation.org/purchase/4298073/\n\nDetails: http
- s://vidiotsfoundation.org/movies/unidentified/
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
+ , daring tonal shifts and intimate performances\, the film marks a bold ne
+ w voice in contemporary cinema.\nMore Screenings Added by Popular Demand!\
+ n\nTickets: https://vidiotsfoundation.org/purchase/4298073/\n\nDetails: ht
+ tps://vidiotsfoundation.org/movies/maddies-secret/
 END:VEVENT
 BEGIN:VEVENT
 UID:4253112@vidiotsfoundation.org
@@ -975,6 +963,22 @@ DESCRIPTION:Run time: 107 min | Format: Digital | Rating: R\n\nSeries: In t
  s://vidiotsfoundation.org/movies/the-cell/
 END:VEVENT
 BEGIN:VEVENT
+UID:4297791@vidiotsfoundation.org
+DTSTAMP:20260725T050000Z
+DTSTART;TZID=America/Los_Angeles:20260724T220000
+DTEND;TZID=America/Los_Angeles:20260724T233200
+SUMMARY:American Pachuco: The Legend of Luis Valdez
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297791/
+DESCRIPTION:Run time: 92 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nAn auteur emerge
+ s from America’s underclass: from migrant farmworker to revolutionary ar
+ tist\, Luis Valdez changed American culture.\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4297791/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/american-pachuco-the-legend-of-luis-valdez/
+END:VEVENT
+BEGIN:VEVENT
 UID:4253153@vidiotsfoundation.org
 DTSTAMP:20260725T230000Z
 DTSTART;TZID=America/Los_Angeles:20260725T160000
@@ -983,11 +987,27 @@ SUMMARY:A New Leaf
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4253153/
-DESCRIPTION:Run time: 102 min\n\nSeries: In the Eagle\, Staff Picks\n\nThe 
- legendary Elaine May pulls triple duty as writer\, director\, and star of 
- this wonderfully wry dark comedy of greed\, love\, plants\, and plotting m
- urder.\n\nTickets: https://vidiotsfoundation.org/purchase/4253153/\n\nDeta
- ils: https://vidiotsfoundation.org/movies/a-new-leaf/
+DESCRIPTION:Run time: 102 min\n\nSeries: In the Eagle\, Staff Picks\, TeenT
+ ix LA\n\nThe legendary Elaine May pulls triple duty as writer\, director\,
+  and star of this wonderfully wry dark comedy of greed\, love\, plants\, a
+ nd plotting murder.\n\nTickets: https://vidiotsfoundation.org/purchase/425
+ 3153/\n\nDetails: https://vidiotsfoundation.org/movies/a-new-leaf/
+END:VEVENT
+BEGIN:VEVENT
+UID:4297813@vidiotsfoundation.org
+DTSTAMP:20260726T000000Z
+DTSTART;TZID=America/Los_Angeles:20260725T170000
+DTEND;TZID=America/Los_Angeles:20260725T183200
+SUMMARY:American Pachuco: The Legend of Luis Valdez
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297813/
+DESCRIPTION:Run time: 92 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nAn auteur emerge
+ s from America’s underclass: from migrant farmworker to revolutionary ar
+ tist\, Luis Valdez changed American culture.\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4297813/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/american-pachuco-the-legend-of-luis-valdez/
 END:VEVENT
 BEGIN:VEVENT
 UID:4253157@vidiotsfoundation.org
@@ -1063,6 +1083,22 @@ DESCRIPTION:Run time: 97 min | Format: Digital\n\nSeries: Films for Everyon
  e about to get a little freaky.\n\nTickets: https://vidiotsfoundation.org/
  purchase/4253161/\n\nDetails: https://vidiotsfoundation.org/movies/freaky-
  friday/
+END:VEVENT
+BEGIN:VEVENT
+UID:4305101@vidiotsfoundation.org
+DTSTAMP:20260726T200000Z
+DTSTART;TZID=America/Los_Angeles:20260726T130000
+DTEND;TZID=America/Los_Angeles:20260726T143200
+SUMMARY:American Pachuco: The Legend of Luis Valdez
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4305101/
+DESCRIPTION:Run time: 92 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nAn auteur emerge
+ s from America’s underclass: from migrant farmworker to revolutionary ar
+ tist\, Luis Valdez changed American culture.\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4305101/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/american-pachuco-the-legend-of-luis-valdez/
 END:VEVENT
 BEGIN:VEVENT
 UID:4253162@vidiotsfoundation.org
