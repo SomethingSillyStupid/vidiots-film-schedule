@@ -331,13 +331,14 @@ DTEND;TZID=America/Los_Angeles:20260712T204800
 SUMMARY:Eternal Sunshine of the Spotless Mind
 LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
 URL:https://vidiotsfoundation.org/purchase/4215461/
-DESCRIPTION:Run time: 108 min | Format: Digital | Rating: R\n\nBlending the
-  boundless creativity of Charlie Kaufman and Michel Gondry and featuring r
- emarkable performances from Jim Carrey and Kate Winslet\, you'll want to e
- rase your memory so you can watch this masterpiece for the first time agai
- n.\n\nTickets: https://vidiotsfoundation.org/purchase/4215461/\n\nDetails:
-  https://vidiotsfoundation.org/movies/eternal-sunshine-of-the-spotless-min
- d/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 108 min | 
+ Format: Digital | Rating: R\n\nBlending the boundless creativity of Charli
+ e Kaufman and Michel Gondry and featuring remarkable performances from Jim
+  Carrey and Kate Winslet\, you'll want to erase your memory so you can wat
+ ch this masterpiece for the first time again.\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4215461/\n\nDetails: https://vidiotsfoundation.org/
+ movies/eternal-sunshine-of-the-spotless-mind/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4268207@vidiotsfoundation.org
@@ -455,11 +456,13 @@ SUMMARY:Streets of Fire on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252731/
-DESCRIPTION:Run time: 93 min | Format: 35mm Film\n\nSeries: 35mm Film\, Doo
- rs Open at 6\, In the Eagle\n\nAn '80s Rock Opera for the Ages! Directed b
- y Walter Hill and featuring music by Rock God Jim Steinman\, this modern m
- usical scorches!\n\nTickets: https://vidiotsfoundation.org/purchase/425273
- 1/\n\nDetails: https://vidiotsfoundation.org/movies/streets-of-fire/
+DESCRIPTION:Run time: 93 min | Format: 35mm Film | Rating: PG\n\nSeries: 35
+ mm Film\, Doors Open at 6\, In the Eagle\, Live DJ Set\n\nAn '80s Rock Ope
+ ra for the Ages! Directed by Walter Hill and featuring music by Rock God J
+ im Steinman\, this modern musical scorches!\nCome early for a special live
+  DJ set from DJ WADE881!\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4252731/\n\nDetails: https://vidiotsfoundation.org/movies/streets-of-fir
+ e/
 END:VEVENT
 BEGIN:VEVENT
 UID:4325701@vidiotsfoundation.org
@@ -1215,21 +1218,19 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 BEGIN:VEVENT
-UID:4338196@vidiotsfoundation.org
-DTSTAMP:20260802T020000Z
-DTSTART;TZID=America/Los_Angeles:20260801T190000
-DTEND;TZID=America/Los_Angeles:20260801T204300
-SUMMARY:The Truman Show
+UID:4338229@vidiotsfoundation.org
+DTSTAMP:20260802T200000Z
+DTSTART;TZID=America/Los_Angeles:20260802T130000
+DTEND;TZID=America/Los_Angeles:20260802T141900
+SUMMARY:One Hundred and One Dalmatians
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338196/
-DESCRIPTION:Run time: 103 min | Format: Digital | Rating: PG\n\nSeries: In 
- the Eagle\n\nA smart\, funny\, and endearing satire of celebrity culture a
- nd reality television with a killer cast and a soundtrack that includes to
- ns of Phillip Glass\, Peter Weir's modern classic remains perennially rele
- vant and rewatch-worthy.\n\nTickets: https://vidiotsfoundation.org/purchas
- e/4338196/\n\nDetails: https://vidiotsfoundation.org/movies/the-truman-sho
- w/
+URL:https://vidiotsfoundation.org/purchase/4338229/
+DESCRIPTION:Run time: 79 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nWhat's better than one puppy? Over 
+ one hundred puppies of course!\n\nTickets: https://vidiotsfoundation.org/p
+ urchase/4338229/\n\nDetails: https://vidiotsfoundation.org/movies/one-hund
+ red-and-one-dalmatians/
 END:VEVENT
 BEGIN:VEVENT
 UID:4338228@vidiotsfoundation.org
@@ -1267,6 +1268,21 @@ DESCRIPTION:Run time: 115 min | Format: Digital | Rating: R\n\nSeries: Comm
  ng/
 END:VEVENT
 BEGIN:VEVENT
+UID:4338261@vidiotsfoundation.org
+DTSTAMP:20260805T023000Z
+DTSTART;TZID=America/Los_Angeles:20260804T193000
+DTEND;TZID=America/Los_Angeles:20260804T211400
+SUMMARY:The Third Man
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4338261/
+DESCRIPTION:Run time: 104 min | Format: 4K Digital\n\nSeries: Doors Open at
+  6\, In the Eagle\n\nJoin us for Carol Reed's slick masterpiece of thrilli
+ ng double-crosses\, doomed love\, and startling philosophy.\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4338261/\n\nDetails: https://vidiotsf
+ oundation.org/movies/the-third-man/
+END:VEVENT
+BEGIN:VEVENT
 UID:4360508@vidiotsfoundation.org
 DTSTAMP:20260808T200000Z
 DTSTART;TZID=America/Los_Angeles:20260808T130000
@@ -1284,9 +1300,9 @@ DESCRIPTION:Run time: 70 min | Format: Digital | Rating: All Ages\n\nSeries
 END:VEVENT
 BEGIN:VEVENT
 UID:4360511@vidiotsfoundation.org
-DTSTAMP:20260809T200000Z
-DTSTART;TZID=America/Los_Angeles:20260809T130000
-DTEND;TZID=America/Los_Angeles:20260809T141000
+DTSTAMP:20260809T203000Z
+DTSTART;TZID=America/Los_Angeles:20260809T133000
+DTEND;TZID=America/Los_Angeles:20260809T144000
 SUMMARY:CatVideoFest 2026
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
@@ -1297,6 +1313,55 @@ DESCRIPTION:Run time: 70 min | Format: Digital | Rating: All Ages\n\nSeries
  back the cutest kitty compilation ever!\n\nTickets: https://vidiotsfoundat
  ion.org/purchase/4360511/\n\nDetails: https://vidiotsfoundation.org/movies
  /catvideofest-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:4365144@vidiotsfoundation.org
+DTSTAMP:20260810T020000Z
+DTSTART;TZID=America/Los_Angeles:20260809T190000
+DTEND;TZID=America/Los_Angeles:20260809T204000
+SUMMARY:Can’t Hardly Wait
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4365144/
+DESCRIPTION:Run time: 100 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\, Special Guests in Attendance\n\nVidiots can't wait to party
+  with Writer/Directors Deborah Kaplan and Harry Elfont at a special screen
+ ing of their quintessential 90s teen classic Can't Hardly Wait!\n\nTickets
+ : https://vidiotsfoundation.org/purchase/4365144/\n\nDetails: https://vidi
+ otsfoundation.org/movies/cant-hardly-wait/
+END:VEVENT
+BEGIN:VEVENT
+UID:4364996@vidiotsfoundation.org
+DTSTAMP:20260813T023000Z
+DTSTART;TZID=America/Los_Angeles:20260812T193000
+DTEND;TZID=America/Los_Angeles:20260812T213200
+SUMMARY:Manhunter: The Final Cut
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4364996/
+DESCRIPTION:Run time: 122 min | Format: 4K Digital | Rating: R\n\nSeries: D
+ oors Open at 6\, In the Eagle\n\nIt's just you and me now\, sport…\n40th
+  Anniversary! New 4K Restoration!\n\nTickets: https://vidiotsfoundation.or
+ g/purchase/4364996/\n\nDetails: https://vidiotsfoundation.org/movies/manhu
+ nter/
+END:VEVENT
+BEGIN:VEVENT
+UID:4364993@vidiotsfoundation.org
+DTSTAMP:20260817T020000Z
+DTSTART;TZID=America/Los_Angeles:20260816T190000
+DTEND;TZID=America/Los_Angeles:20260816T203300
+SUMMARY:The Off Hours
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4364993/
+DESCRIPTION:Run time: 93 min | Format: Digital\n\nSeries: In the Eagle\, Sp
+ ecial Guests in Attendance\n\nVidiots is excited to welcome writer/directo
+ r Megan Griffiths for a special 15th Anniversary screening of her engaging
+  character study The Off Hours followed by a conversation with Griffiths a
+ nd cast members Amy Seimetz\, Scoot McNairy\, and Ross Partridge\, moderat
+ ed by Vidiots Founding Member Mark Duplass!\n\nTickets: https://vidiotsfou
+ ndation.org/purchase/4364993/\n\nDetails: https://vidiotsfoundation.org/mo
+ vies/the-off-hours/
 END:VEVENT
 BEGIN:VEVENT
 UID:4360544@vidiotsfoundation.org
