@@ -359,6 +359,23 @@ DESCRIPTION:Run time: 183 min | Format: Digital | Rating: R\n\nSeries: Door
  n\nDetails: https://vidiotsfoundation.org/movies/the-deer-hunter/
 END:VEVENT
 BEGIN:VEVENT
+UID:4325707@vidiotsfoundation.org
+DTSTAMP:20260714T200000Z
+DTSTART;TZID=America/Los_Angeles:20260714T130000
+DTEND;TZID=America/Los_Angeles:20260714T143100
+SUMMARY:The Angry Black Girl and Her Monster
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4325707/
+DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: In the MUBI Micro
+ cinema\, Movie Den\, Special Guests in Attendance\n\nBomani J. Story's aus
+ picious debut film breathes fresh life into a classic horror trope by mode
+ rnizing and recontextualizing Mary Shelley's ubiquitous story from an enti
+ rely new and unique perspective.\n\nTickets: https://vidiotsfoundation.org
+ /purchase/4325707/\n\nDetails: https://vidiotsfoundation.org/movies/the-an
+ gry-black-girl-and-her-monster/
+END:VEVENT
+BEGIN:VEVENT
 UID:4325769@vidiotsfoundation.org
 DTSTAMP:20260715T020000Z
 DTSTART;TZID=America/Los_Angeles:20260714T190000
@@ -390,10 +407,10 @@ DESCRIPTION:Run time: 76 min | Format: Digital\n\nSeries: Doors Open at 6\,
  , TeenTix LA\n\nJoin Vidiots as we celebrate what would have been the 100t
  h birthday of the legendary Harry Dean Stanton with a special screening of
   the critically acclaimed\, unusually poetic documentary Harry Dean Stanto
- n: Partly Fiction with director Sophie Huber in conversation with actor Lo
- gan Sparks\, moderated by Cherry Jones after the screening!\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4252730/\n\nDetails: https://vidiotsf
- oundation.org/movies/harry-dean-stanton-partly-fiction/
+ n: Partly Fiction with director Sophie Huber in conversation with Logan Sp
+ arks (Lucky) after the screening! Evening hosted by Cherry Jones.\n\nTicke
+ ts: https://vidiotsfoundation.org/purchase/4252730/\n\nDetails: https://vi
+ diotsfoundation.org/movies/harry-dean-stanton-partly-fiction/
 END:VEVENT
 BEGIN:VEVENT
 UID:4268213@vidiotsfoundation.org
@@ -1105,6 +1122,19 @@ DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
  /movies/leviticus/
 END:VEVENT
 BEGIN:VEVENT
+UID:4368679@vidiotsfoundation.org
+DTSTAMP:20260727T200000Z
+DTSTART;TZID=America/Los_Angeles:20260727T130000
+DTEND;TZID=America/Los_Angeles:20260727T152000
+SUMMARY:Everything Everywhere All at Once
+LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+URL:https://vidiotsfoundation.org/purchase/4368679/
+DESCRIPTION:Run time: 140 min | Format: Digital | Rating: R\n\nSeries: Movi
+ e Den\n\nThe universe is so much bigger than you realize.\n\nTickets: http
+ s://vidiotsfoundation.org/purchase/4368679/\n\nDetails: https://vidiotsfou
+ ndation.org/movies/everything-everywhere-all-at-once/
+END:VEVENT
+BEGIN:VEVENT
 UID:4297838@vidiotsfoundation.org
 DTSTAMP:20260728T020000Z
 DTSTART;TZID=America/Los_Angeles:20260727T190000
@@ -1184,6 +1214,21 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 BEGIN:VEVENT
+UID:4338180@vidiotsfoundation.org
+DTSTAMP:20260801T191500Z
+DTSTART;TZID=America/Los_Angeles:20260801T121500
+DTEND;TZID=America/Los_Angeles:20260801T134800
+SUMMARY:Honey\, I Shrunk the Kids
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4338180/
+DESCRIPTION:Run time: 93 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nA microscopic adventure to share wi
+ th the whole family!\n\nTickets: https://vidiotsfoundation.org/purchase/43
+ 38180/\n\nDetails: https://vidiotsfoundation.org/movies/honey-i-shrunk-the
+ -kids/
+END:VEVENT
+BEGIN:VEVENT
 UID:4338229@vidiotsfoundation.org
 DTSTAMP:20260802T200000Z
 DTSTART;TZID=America/Los_Angeles:20260802T130000
@@ -1242,17 +1287,17 @@ SUMMARY:The Third Man
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4338261/
-DESCRIPTION:Run time: 104 min | Format: 4K Digital\n\nSeries: Doors Open at
-  6\, In the Eagle\n\nJoin us for Carol Reed's slick masterpiece of thrilli
- ng double-crosses\, doomed love\, and startling philosophy.\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4338261/\n\nDetails: https://vidiotsf
- oundation.org/movies/the-third-man/
+DESCRIPTION:Run time: 104 min | Format: 35mm Film\n\nSeries: 35mm Film\, Do
+ ors Open at 6\, In the Eagle\n\nJoin us for Carol Reed's slick masterpiece
+  of thrilling double-crosses\, doomed love\, and startling philosophy.\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4338261/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/the-third-man/
 END:VEVENT
 BEGIN:VEVENT
 UID:4360508@vidiotsfoundation.org
-DTSTAMP:20260808T200000Z
-DTSTART;TZID=America/Los_Angeles:20260808T130000
-DTEND;TZID=America/Los_Angeles:20260808T141000
+DTSTAMP:20260808T190000Z
+DTSTART;TZID=America/Los_Angeles:20260808T120000
+DTEND;TZID=America/Los_Angeles:20260808T131000
 SUMMARY:CatVideoFest 2026
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
@@ -1263,6 +1308,37 @@ DESCRIPTION:Run time: 70 min | Format: Digital | Rating: All Ages\n\nSeries
  back the cutest kitty compilation ever!\n\nTickets: https://vidiotsfoundat
  ion.org/purchase/4360508/\n\nDetails: https://vidiotsfoundation.org/movies
  /catvideofest-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:4368431@vidiotsfoundation.org
+DTSTAMP:20260809T020000Z
+DTSTART;TZID=America/Los_Angeles:20260808T190000
+DTEND;TZID=America/Los_Angeles:20260808T204400
+SUMMARY:Robin Hood: Men in Tights
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4368431/
+DESCRIPTION:Run time: 104 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\n\nThe legend had it coming...\nCelebrating 100 Years of one 
+ of the greatest legends of comedy and cinema - the incomparable Mel Brooks
+ !\n\nTickets: https://vidiotsfoundation.org/purchase/4368431/\n\nDetails: 
+ https://vidiotsfoundation.org/movies/robin-hood-men-in-tights/
+END:VEVENT
+BEGIN:VEVENT
+UID:4368451@vidiotsfoundation.org
+DTSTAMP:20260809T044500Z
+DTSTART;TZID=America/Los_Angeles:20260808T214500
+DTEND;TZID=America/Los_Angeles:20260808T233500
+SUMMARY:Christine
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4368451/
+DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nA meeting of two of the greatest minds in horror\, this vehicu
+ lar monster movie combines the sentient machines of Stephen King with the 
+ uneasy vibes of John Carpenter for an 80s horror classic in high gear.\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4368451/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/christine/
 END:VEVENT
 BEGIN:VEVENT
 UID:4360511@vidiotsfoundation.org
@@ -1310,6 +1386,22 @@ DESCRIPTION:Run time: 122 min | Format: 4K Digital | Rating: R\n\nSeries: D
   Anniversary! New 4K Restoration!\n\nTickets: https://vidiotsfoundation.or
  g/purchase/4364996/\n\nDetails: https://vidiotsfoundation.org/movies/manhu
  nter/
+END:VEVENT
+BEGIN:VEVENT
+UID:4368484@vidiotsfoundation.org
+DTSTAMP:20260815T044500Z
+DTSTART;TZID=America/Los_Angeles:20260814T214500
+DTEND;TZID=America/Los_Angeles:20260814T231500
+SUMMARY:Commando
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4368484/
+DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: In th
+ e Eagle\, What the Friday?!?\n\nOne of the best popcorn blockbusters of th
+ e 1980s\, Rae Dawn Chong and the Governator team up for action\, for fun\,
+  and for revenge in this bad-ass specatacular.\n\nTickets: https://vidiots
+ foundation.org/purchase/4368484/\n\nDetails: https://vidiotsfoundation.org
+ /movies/commando/
 END:VEVENT
 BEGIN:VEVENT
 UID:4364993@vidiotsfoundation.org
