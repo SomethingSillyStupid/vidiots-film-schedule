@@ -8,40 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4252673@vidiotsfoundation.org
-DTSTAMP:20260709T023000Z
-DTSTART;TZID=America/Los_Angeles:20260708T193000
-DTEND;TZID=America/Los_Angeles:20260708T210400
-SUMMARY:Trainspotting
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252673/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 94 min | F
- ormat: 4K Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\n\
- nEncore Screening Added!\n30 Year Anniversary! New 4K Restoration!\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4252673/\n\nDetails: https://v
- idiotsfoundation.org/movies/trainspotting/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4197656@vidiotsfoundation.org
-DTSTAMP:20260710T023000Z
-DTSTART;TZID=America/Los_Angeles:20260709T193000
-DTEND;TZID=America/Los_Angeles:20260709T220600
-SUMMARY:The Wailing
-LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
-URL:https://vidiotsfoundation.org/purchase/4197656/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 156 min | 
- Format: Digital | Release year: 2016\n\nSeries: Community Partners\, Doors
-  Open at 6\, Special Guests in Attendance\n\nCo-presented by GYOPO\, KALH\
- , and Luaka Bop\, the record label founded by David Byrne. The screening w
- ill be followed by a conversation with Jang Young-gyu\, the film’s compo
- ser and founder of the award-winning Korean psych-pop band Leenalchi.\n\nT
- ickets: https://vidiotsfoundation.org/purchase/4197656/\n\nDetails: https:
- //vidiotsfoundation.org/movies/the-wailing/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4268194@vidiotsfoundation.org
 DTSTAMP:20260710T234500Z
 DTSTART;TZID=America/Los_Angeles:20260710T164500
@@ -873,10 +839,10 @@ SUMMARY:Trainspotting
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4360418/
-DESCRIPTION:Run time: 94 min | Format: 4K Digital | Rating: R\n\nSeries: Do
- ors Open at 6\, In the Eagle\n\nEncore Screening Added!\n30 Year Anniversa
- ry! New 4K Restoration!\n\nTickets: https://vidiotsfoundation.org/purchase
- /4360418/\n\nDetails: https://vidiotsfoundation.org/movies/trainspotting/
+DESCRIPTION:Run time: 94 min | Format: 4K Digital | Rating: R\n\nSeries: In
+  the Eagle\n\nEncore Screening Added!\n30 Year Anniversary! New 4K Restora
+ tion!\n\nTickets: https://vidiotsfoundation.org/purchase/4360418/\n\nDetai
+ ls: https://vidiotsfoundation.org/movies/trainspotting/
 END:VEVENT
 BEGIN:VEVENT
 UID:4297787@vidiotsfoundation.org
@@ -1381,19 +1347,21 @@ DESCRIPTION:Run time: 90 min\n\nSeries: Doors Open at 6\, In the Eagle\, Li
  /\n\nDetails: https://vidiotsfoundation.org/movies/programme-4/
 END:VEVENT
 BEGIN:VEVENT
-UID:4297605@vidiotsfoundation.org
-DTSTAMP:20260709T020000Z
-DTSTART;TZID=America/Los_Angeles:20260708T190000
-DTEND;TZID=America/Los_Angeles:20260708T205300
-SUMMARY:The Furious
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297605/
-DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R | Release year:
-  2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nMartial art
- s fans rejoice - there's a new masterpiece to add to your favorites list a
- nd it's hitting our microcinema with a vengeance!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4297605/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-furious/
+UID:4197656@vidiotsfoundation.org
+DTSTAMP:20260710T023000Z
+DTSTART;TZID=America/Los_Angeles:20260709T193000
+DTEND;TZID=America/Los_Angeles:20260709T220600
+SUMMARY:The Wailing
+LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+URL:https://vidiotsfoundation.org/purchase/4197656/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 156 min | 
+ Format: Digital | Release year: 2016\n\nSeries: Community Partners\, Doors
+  Open at 6\, Special Guests in Attendance\n\nCo-presented by GYOPO\, KALH\
+ , and Luaka Bop\, the record label founded by David Byrne. The screening w
+ ill be followed by a conversation with Jang Young-gyu\, the film’s compo
+ ser and founder of the award-winning Korean psych-pop band Leenalchi.\n\nT
+ ickets: https://vidiotsfoundation.org/purchase/4197656/\n\nDetails: https:
+ //vidiotsfoundation.org/movies/the-wailing/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
