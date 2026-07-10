@@ -8,93 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4268194@vidiotsfoundation.org
-DTSTAMP:20260710T234500Z
-DTSTART;TZID=America/Los_Angeles:20260710T164500
-DTEND;TZID=America/Los_Angeles:20260710T182500
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268194/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
-  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
- ate performances\, the film marks a bold new voice in contemporary cinema.
- \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4268194/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/maddies-secret/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4252699@vidiotsfoundation.org
-DTSTAMP:20260711T020000Z
-DTSTART;TZID=America/Los_Angeles:20260710T190000
-DTEND;TZID=America/Los_Angeles:20260710T211500
-SUMMARY:Waterworld
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252699/
-DESCRIPTION:Run time: 135 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\, TeenTix LA\n\nThe most expensive movie ever made at the tim
- e of its release\, Waterworld puts every dollar up on the screen with stun
- ning production design\, incredible practical effects\, and awe-inspiring 
- stunts that look even better today!\n\nTickets: https://vidiotsfoundation.
- org/purchase/4252699/\n\nDetails: https://vidiotsfoundation.org/movies/wat
- erworld/
-END:VEVENT
-BEGIN:VEVENT
-UID:4268192@vidiotsfoundation.org
-DTSTAMP:20260711T023000Z
-DTSTART;TZID=America/Los_Angeles:20260710T193000
-DTEND;TZID=America/Los_Angeles:20260710T211000
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268192/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
-  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
- ate performances\, the film marks a bold new voice in contemporary cinema.
- \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4268192/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/maddies-secret/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4252700@vidiotsfoundation.org
-DTSTAMP:20260711T045500Z
-DTSTART;TZID=America/Los_Angeles:20260710T215500
-DTEND;TZID=America/Los_Angeles:20260710T232500
-SUMMARY:Heavy Metal
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252700/
-DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\, TeenTix LA\, What the Friday?!?\n\nOne of the most bad ass anima
- ted films of all time\, this science fiction adventure will take you on on
- e hell of a trip - to the far reaches of the galaxy and beyond!\n\nTickets
- : https://vidiotsfoundation.org/purchase/4252700/\n\nDetails: https://vidi
- otsfoundation.org/movies/heavy-metal/
-END:VEVENT
-BEGIN:VEVENT
-UID:4268193@vidiotsfoundation.org
-DTSTAMP:20260711T051500Z
-DTSTART;TZID=America/Los_Angeles:20260710T221500
-DTEND;TZID=America/Los_Angeles:20260710T235500
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268193/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
-  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
- ate performances\, the film marks a bold new voice in contemporary cinema.
- \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4268193/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/maddies-secret/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4252701@vidiotsfoundation.org
 DTSTAMP:20260711T193000Z
 DTSTART;TZID=America/Los_Angeles:20260711T123000
@@ -162,42 +75,6 @@ DESCRIPTION:Run time: 142 min | Format: Digital | Rating: R\n\nSeries: In t
  rifying Bronx summer during the ongoing rampage of the Son of Sam.\n\nTick
  ets: https://vidiotsfoundation.org/purchase/4252707/\n\nDetails: https://v
  idiotsfoundation.org/movies/summer-of-sam/
-END:VEVENT
-BEGIN:VEVENT
-UID:4267751@vidiotsfoundation.org
-DTSTAMP:20260712T020000Z
-DTSTART;TZID=America/Los_Angeles:20260711T190000
-DTEND;TZID=America/Los_Angeles:20260711T204000
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4267751/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
-  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
- ate performances\, the film marks a bold new voice in contemporary cinema.
- \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4267751/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/maddies-secret/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4267752@vidiotsfoundation.org
-DTSTAMP:20260712T043000Z
-DTSTART;TZID=America/Los_Angeles:20260711T213000
-DTEND;TZID=America/Los_Angeles:20260711T231000
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4267752/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
-  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
- ate performances\, the film marks a bold new voice in contemporary cinema.
- \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4267752/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/maddies-secret/
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4252710@vidiotsfoundation.org
@@ -307,42 +184,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 108 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4268207@vidiotsfoundation.org
-DTSTAMP:20260713T023000Z
-DTSTART;TZID=America/Los_Angeles:20260712T193000
-DTEND;TZID=America/Los_Angeles:20260712T211000
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268207/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
-  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
- ate performances\, the film marks a bold new voice in contemporary cinema.
- \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4268207/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/maddies-secret/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4268209@vidiotsfoundation.org
-DTSTAMP:20260714T020000Z
-DTSTART;TZID=America/Los_Angeles:20260713T190000
-DTEND;TZID=America/Los_Angeles:20260713T204000
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268209/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
-  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
- ate performances\, the film marks a bold new voice in contemporary cinema.
- \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4268209/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/maddies-secret/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4252726@vidiotsfoundation.org
 DTSTAMP:20260714T023000Z
 DTSTART;TZID=America/Los_Angeles:20260713T193000
@@ -413,24 +254,6 @@ DESCRIPTION:Run time: 76 min | Format: Digital\n\nSeries: Doors Open at 6\,
  diotsfoundation.org/movies/harry-dean-stanton-partly-fiction/
 END:VEVENT
 BEGIN:VEVENT
-UID:4268213@vidiotsfoundation.org
-DTSTAMP:20260716T020000Z
-DTSTART;TZID=America/Los_Angeles:20260715T190000
-DTEND;TZID=America/Los_Angeles:20260715T204000
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268213/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
-  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
- ate performances\, the film marks a bold new voice in contemporary cinema.
- \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4268213/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/maddies-secret/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4252731@vidiotsfoundation.org
 DTSTAMP:20260716T023000Z
 DTSTART;TZID=America/Los_Angeles:20260715T193000
@@ -496,22 +319,6 @@ DESCRIPTION:Run time: 123 min | Format: Digital | Rating: R\n\nSeries: In t
  al like no other and a cinematic triumph on every level.\nEncore Screening
   Added July 17th!\n\nTickets: https://vidiotsfoundation.org/purchase/42528
  55/\n\nDetails: https://vidiotsfoundation.org/movies/all-that-jazz/
-END:VEVENT
-BEGIN:VEVENT
-UID:4307271@vidiotsfoundation.org
-DTSTAMP:20260717T233000Z
-DTSTART;TZID=America/Los_Angeles:20260717T163000
-DTEND;TZID=America/Los_Angeles:20260717T181000
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4307271/
-DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
- \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
- , daring tonal shifts and intimate performances\, the film marks a bold ne
- w voice in contemporary cinema.\nMore Screenings Added by Popular Demand!\
- n\nTickets: https://vidiotsfoundation.org/purchase/4307271/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/maddies-secret/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252861@vidiotsfoundation.org
@@ -644,22 +451,6 @@ DESCRIPTION:Run time: 116 min | Format: Digital | Rating: PG\n\nSeries: In
  in Hoffman as America's hottest new actress!\n\nTickets: https://vidiotsfo
  undation.org/purchase/4253110/\n\nDetails: https://vidiotsfoundation.org/m
  ovies/tootsie/
-END:VEVENT
-BEGIN:VEVENT
-UID:4298073@vidiotsfoundation.org
-DTSTAMP:20260719T043000Z
-DTSTART;TZID=America/Los_Angeles:20260718T213000
-DTEND;TZID=America/Los_Angeles:20260718T231000
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4298073/
-DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
- \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
- , daring tonal shifts and intimate performances\, the film marks a bold ne
- w voice in contemporary cinema.\nMore Screenings Added by Popular Demand!\
- n\nTickets: https://vidiotsfoundation.org/purchase/4298073/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/maddies-secret/
 END:VEVENT
 BEGIN:VEVENT
 UID:4253112@vidiotsfoundation.org
@@ -1562,21 +1353,90 @@ DESCRIPTION:Run time: 186 min | Format: Digital | Release year: 2022\n\nSer
  ls: https://vidiotsfoundation.org/movies/rrr/
 END:VEVENT
 BEGIN:VEVENT
-UID:4197656@vidiotsfoundation.org
-DTSTAMP:20260710T023000Z
-DTSTART;TZID=America/Los_Angeles:20260709T193000
-DTEND;TZID=America/Los_Angeles:20260709T220600
-SUMMARY:The Wailing
-LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
-URL:https://vidiotsfoundation.org/purchase/4197656/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 156 min | 
- Format: Digital | Release year: 2016\n\nSeries: Community Partners\, Doors
-  Open at 6\, Special Guests in Attendance\n\nCo-presented by GYOPO\, KALH\
- , and Luaka Bop\, the record label founded by David Byrne. The screening w
- ill be followed by a conversation with Jang Young-gyu\, the film’s compo
- ser and founder of the award-winning Korean psych-pop band Leenalchi.\n\nT
- ickets: https://vidiotsfoundation.org/purchase/4197656/\n\nDetails: https:
- //vidiotsfoundation.org/movies/the-wailing/
+UID:4268194@vidiotsfoundation.org
+DTSTAMP:20260710T234500Z
+DTSTART;TZID=America/Los_Angeles:20260710T164500
+DTEND;TZID=America/Los_Angeles:20260710T182500
+SUMMARY:Maddie’s Secret
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4268194/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
+  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
+ ate performances\, the film marks a bold new voice in contemporary cinema.
+ \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4268194/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/maddies-secret/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4252699@vidiotsfoundation.org
+DTSTAMP:20260711T020000Z
+DTSTART;TZID=America/Los_Angeles:20260710T190000
+DTEND;TZID=America/Los_Angeles:20260710T211500
+SUMMARY:Waterworld
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252699/
+DESCRIPTION:Run time: 135 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\, TeenTix LA\n\nThe most expensive movie ever made at the tim
+ e of its release\, Waterworld puts every dollar up on the screen with stun
+ ning production design\, incredible practical effects\, and awe-inspiring 
+ stunts that look even better today!\n\nTickets: https://vidiotsfoundation.
+ org/purchase/4252699/\n\nDetails: https://vidiotsfoundation.org/movies/wat
+ erworld/
+END:VEVENT
+BEGIN:VEVENT
+UID:4268192@vidiotsfoundation.org
+DTSTAMP:20260711T023000Z
+DTSTART;TZID=America/Los_Angeles:20260710T193000
+DTEND;TZID=America/Los_Angeles:20260710T211000
+SUMMARY:Maddie’s Secret
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4268192/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
+  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
+ ate performances\, the film marks a bold new voice in contemporary cinema.
+ \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4268192/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/maddies-secret/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4252700@vidiotsfoundation.org
+DTSTAMP:20260711T045500Z
+DTSTART;TZID=America/Los_Angeles:20260710T215500
+DTEND;TZID=America/Los_Angeles:20260710T232500
+SUMMARY:Heavy Metal
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252700/
+DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: In th
+ e Eagle\, TeenTix LA\, What the Friday?!?\n\nOne of the most bad ass anima
+ ted films of all time\, this science fiction adventure will take you on on
+ e hell of a trip - to the far reaches of the galaxy and beyond!\n\nTickets
+ : https://vidiotsfoundation.org/purchase/4252700/\n\nDetails: https://vidi
+ otsfoundation.org/movies/heavy-metal/
+END:VEVENT
+BEGIN:VEVENT
+UID:4268193@vidiotsfoundation.org
+DTSTAMP:20260711T051500Z
+DTSTART;TZID=America/Los_Angeles:20260710T221500
+DTEND;TZID=America/Los_Angeles:20260710T235500
+SUMMARY:Maddie’s Secret
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4268193/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
+  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
+ ate performances\, the film marks a bold new voice in contemporary cinema.
+ \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4268193/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/maddies-secret/
 STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
