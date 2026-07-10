@@ -1214,6 +1214,40 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 BEGIN:VEVENT
+UID:4364991@vidiotsfoundation.org
+DTSTAMP:20260801T020000Z
+DTSTART;TZID=America/Los_Angeles:20260731T190000
+DTEND;TZID=America/Los_Angeles:20260731T204900
+SUMMARY:Psycho
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4364991/
+DESCRIPTION:Run time: 109 min | Format: Digital\n\nSeries: Community Partne
+ rs\, In the Eagle\n\nAlfred Hitchcock's eternal classic has lived on in th
+ e cobwebbed attics of our deepest collective nightmares for nearly 65 year
+ s\, and shows no signs of loosening its grip.\nPart of a full day of kille
+ r films that inspired Jane Schoenbrun's Teenage Sex and Death at Camp Mias
+ ma presented by our friends at MUBI.\n\nTickets: https://vidiotsfoundation
+ .org/purchase/4364991/\n\nDetails: https://vidiotsfoundation.org/movies/ps
+ ycho/
+END:VEVENT
+BEGIN:VEVENT
+UID:4364992@vidiotsfoundation.org
+DTSTAMP:20260801T044500Z
+DTSTART;TZID=America/Los_Angeles:20260731T214500
+DTEND;TZID=America/Los_Angeles:20260731T233000
+SUMMARY:Dressed to Kill
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4364992/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Comm
+ unity Partners\, In the Eagle\, What the Friday?!?\n\nThe latest fashion i
+ n murder.\nPart of a full day of killer films that inspired Jane Schoenbru
+ n's "Teenage Sex and Death at Camp Miasma" presented by our friends at MUB
+ I.\n\nTickets: https://vidiotsfoundation.org/purchase/4364992/\n\nDetails:
+  https://vidiotsfoundation.org/movies/dressed-to-kill/
+END:VEVENT
+BEGIN:VEVENT
 UID:4338180@vidiotsfoundation.org
 DTSTAMP:20260801T191500Z
 DTSTART;TZID=America/Los_Angeles:20260801T121500
@@ -1227,6 +1261,21 @@ DESCRIPTION:Run time: 93 min | Format: Digital | Rating: All Ages\n\nSeries
  th the whole family!\n\nTickets: https://vidiotsfoundation.org/purchase/43
  38180/\n\nDetails: https://vidiotsfoundation.org/movies/honey-i-shrunk-the
  -kids/
+END:VEVENT
+BEGIN:VEVENT
+UID:4338181@vidiotsfoundation.org
+DTSTAMP:20260801T221500Z
+DTSTART;TZID=America/Los_Angeles:20260801T151500
+DTEND;TZID=America/Los_Angeles:20260801T175000
+SUMMARY:Funny Girl
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4338181/
+DESCRIPTION:Run time: 155 min | Format: Digital | Rating: G\n\nSeries: In t
+ he Eagle\n\nHello Gorgeous! There's no better time to revel in the glory o
+ f Barbra than in her Oscar-winning performance in William Wyler's masterfu
+ l musical biopic!\n\nTickets: https://vidiotsfoundation.org/purchase/43381
+ 81/\n\nDetails: https://vidiotsfoundation.org/movies/funny-girl/
 END:VEVENT
 BEGIN:VEVENT
 UID:4338229@vidiotsfoundation.org
@@ -1283,7 +1332,7 @@ UID:4338261@vidiotsfoundation.org
 DTSTAMP:20260805T023000Z
 DTSTART;TZID=America/Los_Angeles:20260804T193000
 DTEND;TZID=America/Los_Angeles:20260804T211400
-SUMMARY:The Third Man
+SUMMARY:The Third Man on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4338261/
@@ -1292,6 +1341,36 @@ DESCRIPTION:Run time: 104 min | Format: 35mm Film\n\nSeries: 35mm Film\, Do
   of thrilling double-crosses\, doomed love\, and startling philosophy.\n\n
  Tickets: https://vidiotsfoundation.org/purchase/4338261/\n\nDetails: https
  ://vidiotsfoundation.org/movies/the-third-man/
+END:VEVENT
+BEGIN:VEVENT
+UID:4369413@vidiotsfoundation.org
+DTSTAMP:20260808T020000Z
+DTSTART;TZID=America/Los_Angeles:20260807T190000
+DTEND;TZID=America/Los_Angeles:20260807T205000
+SUMMARY:Dirty Rotten Scoundrels
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4369413/
+DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: In 
+ the Eagle\n\nThe con is on with Frank Oz's masterful dark comedy classic w
+ ith absolute legends Steve Martin and Michael Caine!\n\nTickets: https://v
+ idiotsfoundation.org/purchase/4369413/\n\nDetails: https://vidiotsfoundati
+ on.org/movies/dirty-rotten-scoundrels/
+END:VEVENT
+BEGIN:VEVENT
+UID:4369416@vidiotsfoundation.org
+DTSTAMP:20260808T044500Z
+DTSTART;TZID=America/Los_Angeles:20260807T214500
+DTEND;TZID=America/Los_Angeles:20260807T231900
+SUMMARY:Breakin’ 2: Electric Boogaloo
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4369416/
+DESCRIPTION:Run time: 94 min | Format: Digital | Rating: PG\n\nSeries: In t
+ he Eagle\, What the Friday?!?\n\nTurbo\, Ozone and Kelly are back\, and th
+ ey're going to need to put on a show to save the community center!\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4369416/\n\nDetails: https://v
+ idiotsfoundation.org/movies/breakin-2-electric-boogaloo/
 END:VEVENT
 BEGIN:VEVENT
 UID:4360508@vidiotsfoundation.org
@@ -1373,6 +1452,22 @@ DESCRIPTION:Run time: 100 min | Format: Digital | Rating: PG-13\n\nSeries:
  otsfoundation.org/movies/cant-hardly-wait/
 END:VEVENT
 BEGIN:VEVENT
+UID:4368707@vidiotsfoundation.org
+DTSTAMP:20260812T023000Z
+DTSTART;TZID=America/Los_Angeles:20260811T193000
+DTEND;TZID=America/Los_Angeles:20260811T213200
+SUMMARY:Twilight
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4368707/
+DESCRIPTION:Run time: 122 min | Format: Digital\n\nSeries: Doors Open at 6\
+ , In the Eagle\, Special Guests in Attendance\n\nVidiots is dying to welco
+ me back director Catherine Hardwicke for the emo screening of your teen dr
+ eams - Twilight - followed by a conversation with Hardwicke on her undead 
+ phenomenon!\n\nTickets: https://vidiotsfoundation.org/purchase/4368707/\n\
+ nDetails: https://vidiotsfoundation.org/movies/twilight/
+END:VEVENT
+BEGIN:VEVENT
 UID:4364996@vidiotsfoundation.org
 DTSTAMP:20260813T023000Z
 DTSTART;TZID=America/Los_Angeles:20260812T193000
@@ -1386,6 +1481,20 @@ DESCRIPTION:Run time: 122 min | Format: 4K Digital | Rating: R\n\nSeries: D
   Anniversary! New 4K Restoration!\n\nTickets: https://vidiotsfoundation.or
  g/purchase/4364996/\n\nDetails: https://vidiotsfoundation.org/movies/manhu
  nter/
+END:VEVENT
+BEGIN:VEVENT
+UID:4368476@vidiotsfoundation.org
+DTSTAMP:20260815T020000Z
+DTSTART;TZID=America/Los_Angeles:20260814T190000
+DTEND;TZID=America/Los_Angeles:20260814T205000
+SUMMARY:Magic Mike
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4368476/
+DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nGet ready to go wild with Mike and the boys in the original th
+ irst trap throwdown!\n\nTickets: https://vidiotsfoundation.org/purchase/43
+ 68476/\n\nDetails: https://vidiotsfoundation.org/movies/magic-mike/
 END:VEVENT
 BEGIN:VEVENT
 UID:4368484@vidiotsfoundation.org
@@ -1437,6 +1546,20 @@ DESCRIPTION:Run time: 90 min\n\nSeries: Doors Open at 6\, In the Eagle\, Li
  me 4 creator Rachel Lichtman\, special guest stars\, complimentary matchbo
  oks\, and more!\n\nTickets: https://vidiotsfoundation.org/purchase/4360544
  /\n\nDetails: https://vidiotsfoundation.org/movies/programme-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:4368695@vidiotsfoundation.org
+DTSTAMP:20260824T010000Z
+DTSTART;TZID=America/Los_Angeles:20260823T180000
+DTEND;TZID=America/Los_Angeles:20260823T210600
+SUMMARY:RRR
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4368695/
+DESCRIPTION:Run time: 186 min | Format: Digital | Release year: 2022\n\nSer
+ ies: In the Eagle\n\nRise\, Roar\, Revolt.\nThe epic is back on the big sc
+ reen!\n\nTickets: https://vidiotsfoundation.org/purchase/4368695/\n\nDetai
+ ls: https://vidiotsfoundation.org/movies/rrr/
 END:VEVENT
 BEGIN:VEVENT
 UID:4197656@vidiotsfoundation.org
