@@ -8,129 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4268194@vidiotsfoundation.org
-DTSTAMP:20260710T234500Z
-DTSTART;TZID=America/Los_Angeles:20260710T164500
-DTEND;TZID=America/Los_Angeles:20260710T182500
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268194/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
-  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
- ate performances\, the film marks a bold new voice in contemporary cinema.
- \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4268194/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/maddies-secret/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4268192@vidiotsfoundation.org
-DTSTAMP:20260711T023000Z
-DTSTART;TZID=America/Los_Angeles:20260710T193000
-DTEND;TZID=America/Los_Angeles:20260710T211000
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268192/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
-  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
- ate performances\, the film marks a bold new voice in contemporary cinema.
- \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4268192/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/maddies-secret/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4268193@vidiotsfoundation.org
-DTSTAMP:20260711T051500Z
-DTSTART;TZID=America/Los_Angeles:20260710T221500
-DTEND;TZID=America/Los_Angeles:20260710T235500
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268193/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
-  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
- ate performances\, the film marks a bold new voice in contemporary cinema.
- \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4268193/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/maddies-secret/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4252701@vidiotsfoundation.org
-DTSTAMP:20260711T193000Z
-DTSTART;TZID=America/Los_Angeles:20260711T123000
-DTEND;TZID=America/Los_Angeles:20260711T141800
-SUMMARY:Night at the Museum
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252701/
-DESCRIPTION:Run time: 108 min | Format: Digital | Rating: PG\n\nSeries: Fil
- ms for Everyone\, In the Eagle\, TeenTix LA\n\nCo-starring a list of legen
- dary Hollywood veterans like Mickey Rooney and Dick Van Dyke\, and written
-  by the sheriff's department at Reno 911 (Tom Lennon and Ben Garant) you k
- now you're in for a historically hilarious and magical time at this museum
- !\n\nTickets: https://vidiotsfoundation.org/purchase/4252701/\n\nDetails: 
- https://vidiotsfoundation.org/movies/night-at-the-museum/
-END:VEVENT
-BEGIN:VEVENT
-UID:4252705@vidiotsfoundation.org
-DTSTAMP:20260711T224500Z
-DTSTART;TZID=America/Los_Angeles:20260711T154500
-DTEND;TZID=America/Los_Angeles:20260711T172600
-SUMMARY:Adam’s Rib
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252705/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: In the Eagle\, T
- eenTix LA\n\nScrewball comedy has never been so litigious and effervescent
-  than in George Cukor's madcap masterpiece starring the infectiously iconi
- c Katharine Hepburn and co-written by legend Ruth Gordon!\n\nTickets: http
- s://vidiotsfoundation.org/purchase/4252705/\n\nDetails: https://vidiotsfou
- ndation.org/movies/adams-rib/
-END:VEVENT
-BEGIN:VEVENT
-UID:4267744@vidiotsfoundation.org
-DTSTAMP:20260711T233000Z
-DTSTART;TZID=America/Los_Angeles:20260711T163000
-DTEND;TZID=America/Los_Angeles:20260711T175500
-SUMMARY:Coroner to the Stars
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4267744/
-DESCRIPTION:Run time: 85 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests in
-  Attendance\n\nJoin us in the microcinema for a fascinating documentary at
-  the intersection of Hollywood\, morbid curiosity\, and the American immig
- rant experience\, Coroner to the Stars - a chronicle of the extraordinary 
- journey of Dr. Thomas Noguchi\, the former Los Angeles County Chief Medica
- l Examiner-Coroner whose groundbreaking autopsies forever shaped American 
- culture.\nWith director Ben Hethcoat in conversation with Adrienne Hill on
-  Sunday\, July 12th!\n\nTickets: https://vidiotsfoundation.org/purchase/42
- 67744/\n\nDetails: https://vidiotsfoundation.org/movies/coroner-to-the-sta
- rs/
-END:VEVENT
-BEGIN:VEVENT
-UID:4252707@vidiotsfoundation.org
-DTSTAMP:20260712T013000Z
-DTSTART;TZID=America/Los_Angeles:20260711T183000
-DTEND;TZID=America/Los_Angeles:20260711T205200
-SUMMARY:Summer of Sam
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252707/
-DESCRIPTION:Run time: 142 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\, TeenTix LA\n\nSpike Lee turns up the heat by revisiting one ter
- rifying Bronx summer during the ongoing rampage of the Son of Sam.\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4252707/\n\nDetails: https://v
- idiotsfoundation.org/movies/summer-of-sam/
-END:VEVENT
-BEGIN:VEVENT
 UID:4267751@vidiotsfoundation.org
 DTSTAMP:20260712T020000Z
 DTSTART;TZID=America/Los_Angeles:20260711T190000
@@ -167,23 +44,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4252710@vidiotsfoundation.org
-DTSTAMP:20260712T044500Z
-DTSTART;TZID=America/Los_Angeles:20260711T214500
-DTEND;TZID=America/Los_Angeles:20260711T231700
-SUMMARY:Clerks
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252710/
-DESCRIPTION:Run time: 92 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\n\nAll the action is behind the counter in Kevin Smith's micro-bud
- get indie breakthrough with tons of glorious 90s video store footage!\nAnd
-  to spread the video store love - show us your "Clerks" movie ticket on Ju
- ly 11th for one free rental in the video store!\n\nTickets: https://vidiot
- sfoundation.org/purchase/4252710/\n\nDetails: https://vidiotsfoundation.or
- g/movies/clerks/
-END:VEVENT
-BEGIN:VEVENT
 UID:4252714@vidiotsfoundation.org
 DTSTAMP:20260712T200000Z
 DTSTART;TZID=America/Los_Angeles:20260712T130000
@@ -197,27 +57,6 @@ DESCRIPTION:Run time: 93 min | Format: Digital | Rating: All Ages\n\nSeries
  ghlands with this winner of the Academy Award\, Golden Globe and BAFTA Awa
  rd for Best Animated Film.\n\nTickets: https://vidiotsfoundation.org/purch
  ase/4252714/\n\nDetails: https://vidiotsfoundation.org/movies/brave/
-END:VEVENT
-BEGIN:VEVENT
-UID:4215458@vidiotsfoundation.org
-DTSTAMP:20260712T203000Z
-DTSTART;TZID=America/Los_Angeles:20260712T133000
-DTEND;TZID=America/Los_Angeles:20260712T145500
-SUMMARY:Coroner to the Stars
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4215458/
-DESCRIPTION:Run time: 85 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests in
-  Attendance\n\nJoin us in the microcinema for a fascinating documentary at
-  the intersection of Hollywood\, morbid curiosity\, and the American immig
- rant experience\, Coroner to the Stars - a chronicle of the extraordinary 
- journey of Dr. Thomas Noguchi\, the former Los Angeles County Chief Medica
- l Examiner-Coroner whose groundbreaking autopsies forever shaped American 
- culture.\nWith director Ben Hethcoat in conversation with Adrienne Hill on
-  Sunday\, July 12th!\n\nTickets: https://vidiotsfoundation.org/purchase/42
- 15458/\n\nDetails: https://vidiotsfoundation.org/movies/coroner-to-the-sta
- rs/
 END:VEVENT
 BEGIN:VEVENT
 UID:4252715@vidiotsfoundation.org
@@ -234,27 +73,6 @@ DESCRIPTION:Run time: 85 min | Format: Digital | Release year: 1971\n\nSeri
  ster made of toxic sludge!\n\nTickets: https://vidiotsfoundation.org/purch
  ase/4252715/\n\nDetails: https://vidiotsfoundation.org/movies/godzilla-vs-
  hedorah/
-END:VEVENT
-BEGIN:VEVENT
-UID:4215468@vidiotsfoundation.org
-DTSTAMP:20260712T231500Z
-DTSTART;TZID=America/Los_Angeles:20260712T161500
-DTEND;TZID=America/Los_Angeles:20260712T174000
-SUMMARY:Coroner to the Stars
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4215468/
-DESCRIPTION:Run time: 85 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests in
-  Attendance\n\nJoin us in the microcinema for a fascinating documentary at
-  the intersection of Hollywood\, morbid curiosity\, and the American immig
- rant experience\, Coroner to the Stars - a chronicle of the extraordinary 
- journey of Dr. Thomas Noguchi\, the former Los Angeles County Chief Medica
- l Examiner-Coroner whose groundbreaking autopsies forever shaped American 
- culture.\nWith director Ben Hethcoat in conversation with Adrienne Hill on
-  Sunday\, July 12th!\n\nTickets: https://vidiotsfoundation.org/purchase/42
- 15468/\n\nDetails: https://vidiotsfoundation.org/movies/coroner-to-the-sta
- rs/
 END:VEVENT
 BEGIN:VEVENT
 UID:4215461@vidiotsfoundation.org
@@ -1535,36 +1353,89 @@ DESCRIPTION:Run time: 186 min | Format: Digital | Release year: 2022\n\nSer
  ls: https://vidiotsfoundation.org/movies/rrr/
 END:VEVENT
 BEGIN:VEVENT
-UID:4252699@vidiotsfoundation.org
-DTSTAMP:20260711T020000Z
-DTSTART;TZID=America/Los_Angeles:20260710T190000
-DTEND;TZID=America/Los_Angeles:20260710T211500
-SUMMARY:Waterworld
+UID:4252701@vidiotsfoundation.org
+DTSTAMP:20260711T193000Z
+DTSTART;TZID=America/Los_Angeles:20260711T123000
+DTEND;TZID=America/Los_Angeles:20260711T141800
+SUMMARY:Night at the Museum
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252699/
-DESCRIPTION:Run time: 135 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\, TeenTix LA\n\nThe most expensive movie ever made at the tim
- e of its release\, Waterworld puts every dollar up on the screen with stun
- ning production design\, incredible practical effects\, and awe-inspiring 
- stunts that look even better today!\n\nTickets: https://vidiotsfoundation.
- org/purchase/4252699/\n\nDetails: https://vidiotsfoundation.org/movies/wat
- erworld/
+URL:https://vidiotsfoundation.org/purchase/4252701/
+DESCRIPTION:Run time: 108 min | Format: Digital | Rating: PG\n\nSeries: Fil
+ ms for Everyone\, In the Eagle\, TeenTix LA\n\nCo-starring a list of legen
+ dary Hollywood veterans like Mickey Rooney and Dick Van Dyke\, and written
+  by the sheriff's department at Reno 911 (Tom Lennon and Ben Garant) you k
+ now you're in for a historically hilarious and magical time at this museum
+ !\n\nTickets: https://vidiotsfoundation.org/purchase/4252701/\n\nDetails: 
+ https://vidiotsfoundation.org/movies/night-at-the-museum/
 END:VEVENT
 BEGIN:VEVENT
-UID:4252700@vidiotsfoundation.org
-DTSTAMP:20260711T045500Z
-DTSTART;TZID=America/Los_Angeles:20260710T215500
-DTEND;TZID=America/Los_Angeles:20260710T232500
-SUMMARY:Heavy Metal
+UID:4252705@vidiotsfoundation.org
+DTSTAMP:20260711T224500Z
+DTSTART;TZID=America/Los_Angeles:20260711T154500
+DTEND;TZID=America/Los_Angeles:20260711T172600
+SUMMARY:Adam’s Rib
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252700/
-DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\, TeenTix LA\, What the Friday?!?\n\nOne of the most bad ass anima
- ted films of all time\, this science fiction adventure will take you on on
- e hell of a trip - to the far reaches of the galaxy and beyond!\n\nTickets
- : https://vidiotsfoundation.org/purchase/4252700/\n\nDetails: https://vidi
- otsfoundation.org/movies/heavy-metal/
+URL:https://vidiotsfoundation.org/purchase/4252705/
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: In the Eagle\, T
+ eenTix LA\n\nScrewball comedy has never been so litigious and effervescent
+  than in George Cukor's madcap masterpiece starring the infectiously iconi
+ c Katharine Hepburn and co-written by legend Ruth Gordon!\n\nTickets: http
+ s://vidiotsfoundation.org/purchase/4252705/\n\nDetails: https://vidiotsfou
+ ndation.org/movies/adams-rib/
+END:VEVENT
+BEGIN:VEVENT
+UID:4267744@vidiotsfoundation.org
+DTSTAMP:20260711T233000Z
+DTSTART;TZID=America/Los_Angeles:20260711T163000
+DTEND;TZID=America/Los_Angeles:20260711T175500
+SUMMARY:Coroner to the Stars
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4267744/
+DESCRIPTION:Run time: 85 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests in
+  Attendance\n\nJoin us in the microcinema for a fascinating documentary at
+  the intersection of Hollywood\, morbid curiosity\, and the American immig
+ rant experience\, Coroner to the Stars - a chronicle of the extraordinary 
+ journey of Dr. Thomas Noguchi\, the former Los Angeles County Chief Medica
+ l Examiner-Coroner whose groundbreaking autopsies forever shaped American 
+ culture.\nWith director Ben Hethcoat in conversation with Adrienne Hill on
+  Sunday\, July 12th!\n\nTickets: https://vidiotsfoundation.org/purchase/42
+ 67744/\n\nDetails: https://vidiotsfoundation.org/movies/coroner-to-the-sta
+ rs/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252707@vidiotsfoundation.org
+DTSTAMP:20260712T013000Z
+DTSTART;TZID=America/Los_Angeles:20260711T183000
+DTEND;TZID=America/Los_Angeles:20260711T205200
+SUMMARY:Summer of Sam
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252707/
+DESCRIPTION:Run time: 142 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\, TeenTix LA\n\nSpike Lee turns up the heat by revisiting one ter
+ rifying Bronx summer during the ongoing rampage of the Son of Sam.\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4252707/\n\nDetails: https://v
+ idiotsfoundation.org/movies/summer-of-sam/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252710@vidiotsfoundation.org
+DTSTAMP:20260712T044500Z
+DTSTART;TZID=America/Los_Angeles:20260711T214500
+DTEND;TZID=America/Los_Angeles:20260711T231700
+SUMMARY:Clerks
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252710/
+DESCRIPTION:Run time: 92 min | Format: Digital | Rating: R\n\nSeries: In th
+ e Eagle\n\nAll the action is behind the counter in Kevin Smith's micro-bud
+ get indie breakthrough with tons of glorious 90s video store footage!\nAnd
+  to spread the video store love - show us your "Clerks" movie ticket on Ju
+ ly 11th for one free rental in the video store!\n\nTickets: https://vidiot
+ sfoundation.org/purchase/4252710/\n\nDetails: https://vidiotsfoundation.or
+ g/movies/clerks/
 END:VEVENT
 END:VCALENDAR
