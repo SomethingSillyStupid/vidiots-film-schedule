@@ -125,14 +125,16 @@ SUMMARY:ASCO: Without Permission
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4325701/
-DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nFrom executive p
- roducers Gael García Bernal and Diego Luna this inspiring triumph of crea
- tivity challenges the limits of documentary conventions to tell the story 
- of a revolutionary Chicano art group who turned 1970s LA into their defian
- t canvas.\nMore screenings added by Popular Demand!\n\nTickets: https://vi
- diotsfoundation.org/purchase/4325701/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/asco-without-permission/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\n\nFrom executive producers Gael García Bernal an
+ d Diego Luna this inspiring triumph of creativity challenges the limits of
+  documentary conventions to tell the story of a revolutionary Chicano art 
+ group who turned 1970s LA into their defiant canvas.\nMore screenings adde
+ d by Popular Demand!\n\nTickets: https://vidiotsfoundation.org/purchase/43
+ 25701/\n\nDetails: https://vidiotsfoundation.org/movies/asco-without-permi
+ ssion/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4301573@vidiotsfoundation.org
@@ -1219,6 +1221,83 @@ DESCRIPTION:Run time: 90 min\n\nSeries: Doors Open at 6\, In the Eagle\, Li
  me 4 creator Rachel Lichtman\, special guest stars\, complimentary matchbo
  oks\, and more!\n\nTickets: https://vidiotsfoundation.org/purchase/4360544
  /\n\nDetails: https://vidiotsfoundation.org/movies/programme-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:4388329@vidiotsfoundation.org
+DTSTAMP:20260822T020000Z
+DTSTART;TZID=America/Los_Angeles:20260821T190000
+DTEND;TZID=America/Los_Angeles:20260821T205900
+SUMMARY:Dangerous Liaisons
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4388329/
+DESCRIPTION:Run time: 119 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nLust. Seduction. Revenge. The game as you've never seen it pla
+ yed before.\n\nTickets: https://vidiotsfoundation.org/purchase/4388329/\n\
+ nDetails: https://vidiotsfoundation.org/movies/dangerous-liaisons/
+END:VEVENT
+BEGIN:VEVENT
+UID:4388256@vidiotsfoundation.org
+DTSTAMP:20260823T020000Z
+DTSTART;TZID=America/Los_Angeles:20260822T190000
+DTEND;TZID=America/Los_Angeles:20260822T204400
+SUMMARY:Mystic Pizza
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4388256/
+DESCRIPTION:Run time: 104 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nNearly 40 years later\, Mystic Pizza is still cinematic comfor
+ t food for your hungry soul!\n\nTickets: https://vidiotsfoundation.org/pur
+ chase/4388256/\n\nDetails: https://vidiotsfoundation.org/movies/mystic-piz
+ za/
+END:VEVENT
+BEGIN:VEVENT
+UID:4388245@vidiotsfoundation.org
+DTSTAMP:20260823T044500Z
+DTSTART;TZID=America/Los_Angeles:20260822T214500
+DTEND;TZID=America/Los_Angeles:20260822T232300
+SUMMARY:The Untamed
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4388245/
+DESCRIPTION:Run time: 98 min | Format: Digital | Release year: 2016\n\nSeri
+ es: In the Eagle\n\nJoin us for Amat Escalante's genre-bending tour-de-for
+ ce\, an unnerving\, erotic\, and chilling science fiction/ body horror/ ex
+ istential thriller\, you won't want to miss on the big screen!\n\nTickets:
+  https://vidiotsfoundation.org/purchase/4388245/\n\nDetails: https://vidio
+ tsfoundation.org/movies/the-untamed/
+END:VEVENT
+BEGIN:VEVENT
+UID:4368697@vidiotsfoundation.org
+DTSTAMP:20260823T190000Z
+DTSTART;TZID=America/Los_Angeles:20260823T120000
+DTEND;TZID=America/Los_Angeles:20260823T133500
+SUMMARY:The Great Muppet Caper
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4368697/
+DESCRIPTION:Run time: 95 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nJewel heists\, intrigue\, an all-st
+ ar cast\, and the eternal love story of a frog and a pig - this Muppetty i
+ nstallment has got it all!\n\nTickets: https://vidiotsfoundation.org/purch
+ ase/4368697/\n\nDetails: https://vidiotsfoundation.org/movies/the-great-mu
+ ppet-caper/
+END:VEVENT
+BEGIN:VEVENT
+UID:4368696@vidiotsfoundation.org
+DTSTAMP:20260823T220000Z
+DTSTART;TZID=America/Los_Angeles:20260823T150000
+DTEND;TZID=America/Los_Angeles:20260823T165500
+SUMMARY:La Strada
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4368696/
+DESCRIPTION:Run time: 115 min | Format: Digital | Release year: 1954\n\nSer
+ ies: In the Eagle\n\nThe circus is in town\, and with the legendary Federi
+ co Fellini helming the big top with the extraordinary Giulietta Masina at 
+ center stage\, you know you're in for a magnificent show!\n\nTickets: http
+ s://vidiotsfoundation.org/purchase/4368696/\n\nDetails: https://vidiotsfou
+ ndation.org/movies/la-strada/
 END:VEVENT
 BEGIN:VEVENT
 UID:4368695@vidiotsfoundation.org
