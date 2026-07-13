@@ -8,24 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4268207@vidiotsfoundation.org
-DTSTAMP:20260713T023000Z
-DTSTART;TZID=America/Los_Angeles:20260712T193000
-DTEND;TZID=America/Los_Angeles:20260712T211000
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268207/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
-  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
- ate performances\, the film marks a bold new voice in contemporary cinema.
- \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4268207/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/maddies-secret/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4268209@vidiotsfoundation.org
 DTSTAMP:20260714T020000Z
 DTSTART;TZID=America/Los_Angeles:20260713T190000
@@ -42,22 +24,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
  dation.org/purchase/4268209/\n\nDetails: https://vidiotsfoundation.org/mov
  ies/maddies-secret/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4252726@vidiotsfoundation.org
-DTSTAMP:20260714T023000Z
-DTSTART;TZID=America/Los_Angeles:20260713T193000
-DTEND;TZID=America/Los_Angeles:20260713T223300
-SUMMARY:The Deer Hunter
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252726/
-DESCRIPTION:Run time: 183 min | Format: Digital | Rating: R\n\nSeries: Door
- s Open at 6\, In the Eagle\, TeenTix LA\n\nOne of the first American movie
- s to directly depict the chaos and violence of the Vietnam War\, The Deer 
- Hunter is a triumph of visionary New Hollywood filmmaking from director Mi
- chael Cimino.\n\nTickets: https://vidiotsfoundation.org/purchase/4252726/\
- n\nDetails: https://vidiotsfoundation.org/movies/the-deer-hunter/
 END:VEVENT
 BEGIN:VEVENT
 UID:4325707@vidiotsfoundation.org
@@ -1269,51 +1235,19 @@ DESCRIPTION:Run time: 186 min | Format: Digital | Release year: 2022\n\nSer
  ls: https://vidiotsfoundation.org/movies/rrr/
 END:VEVENT
 BEGIN:VEVENT
-UID:4252714@vidiotsfoundation.org
-DTSTAMP:20260712T200000Z
-DTSTART;TZID=America/Los_Angeles:20260712T130000
-DTEND;TZID=America/Los_Angeles:20260712T143300
-SUMMARY:Brave
+UID:4252726@vidiotsfoundation.org
+DTSTAMP:20260714T023000Z
+DTSTART;TZID=America/Los_Angeles:20260713T193000
+DTEND;TZID=America/Los_Angeles:20260713T223300
+SUMMARY:The Deer Hunter
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252714/
-DESCRIPTION:Run time: 93 min | Format: Digital | Rating: All Ages\n\nSeries
- : Films for Everyone\, In the Eagle\n\nJourney to the mystical Scottish Hi
- ghlands with this winner of the Academy Award\, Golden Globe and BAFTA Awa
- rd for Best Animated Film.\n\nTickets: https://vidiotsfoundation.org/purch
- ase/4252714/\n\nDetails: https://vidiotsfoundation.org/movies/brave/
-END:VEVENT
-BEGIN:VEVENT
-UID:4252715@vidiotsfoundation.org
-DTSTAMP:20260712T230000Z
-DTSTART;TZID=America/Los_Angeles:20260712T160000
-DTEND;TZID=America/Los_Angeles:20260712T172500
-SUMMARY:Godzilla vs. Hedorah
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252715/
-DESCRIPTION:Run time: 85 min | Format: Digital | Release year: 1971\n\nSeri
- es: In the Eagle\, TeenTix LA\n\nGet ready for another monstrous rampage o
- f supersized Kaiju fun when the King of the Monsters goes up against a mon
- ster made of toxic sludge!\n\nTickets: https://vidiotsfoundation.org/purch
- ase/4252715/\n\nDetails: https://vidiotsfoundation.org/movies/godzilla-vs-
- hedorah/
-END:VEVENT
-BEGIN:VEVENT
-UID:4215461@vidiotsfoundation.org
-DTSTAMP:20260713T020000Z
-DTSTART;TZID=America/Los_Angeles:20260712T190000
-DTEND;TZID=America/Los_Angeles:20260712T204800
-SUMMARY:Eternal Sunshine of the Spotless Mind
-LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
-URL:https://vidiotsfoundation.org/purchase/4215461/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 108 min | 
- Format: Digital | Rating: R\n\nBlending the boundless creativity of Charli
- e Kaufman and Michel Gondry and featuring remarkable performances from Jim
-  Carrey and Kate Winslet\, you'll want to erase your memory so you can wat
- ch this masterpiece for the first time again.\n\nTickets: https://vidiotsf
- oundation.org/purchase/4215461/\n\nDetails: https://vidiotsfoundation.org/
- movies/eternal-sunshine-of-the-spotless-mind/
-STATUS:TENTATIVE
+URL:https://vidiotsfoundation.org/purchase/4252726/
+DESCRIPTION:Run time: 183 min | Format: Digital | Rating: R\n\nSeries: Door
+ s Open at 6\, In the Eagle\, TeenTix LA\n\nOne of the first American movie
+ s to directly depict the chaos and violence of the Vietnam War\, The Deer 
+ Hunter is a triumph of visionary New Hollywood filmmaking from director Mi
+ chael Cimino.\n\nTickets: https://vidiotsfoundation.org/purchase/4252726/\
+ n\nDetails: https://vidiotsfoundation.org/movies/the-deer-hunter/
 END:VEVENT
 END:VCALENDAR
