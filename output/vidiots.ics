@@ -226,13 +226,13 @@ SUMMARY:National Film Preservation Foundation’s Semiquincentennial Celebr
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4253111/
-DESCRIPTION:Run time: 81 min\n\nSeries: In the Eagle\, TeenTix LA\n\nFor ne
- arly 30 years the NFPF has been helping to preserve America’s film herit
- age. This collection of shorts from archives around the country reveals th
- e many ways—from amateur to avant-garde—that American filmmakers have 
- used movies to inform\, honor\, document\, and critique.\n\nTickets: https
- ://vidiotsfoundation.org/purchase/4253111/\n\nDetails: https://vidiotsfoun
- dation.org/movies/celebration-of-celluloid/
+DESCRIPTION:Run time: 81 min\n\nSeries: Community Partners\, Free Events\, 
+ In the Eagle\n\nFor nearly 30 years the NFPF has been helping to preserve 
+ America’s film heritage. This collection of shorts from archives around 
+ the country reveals the many ways—from amateur to avant-garde—that Ame
+ rican filmmakers have used movies to inform\, honor\, document\, and criti
+ que.\n\nTickets: https://vidiotsfoundation.org/purchase/4253111/\n\nDetail
+ s: https://vidiotsfoundation.org/movies/celebration-of-celluloid/
 END:VEVENT
 BEGIN:VEVENT
 UID:4298064@vidiotsfoundation.org
@@ -357,10 +357,10 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4215020/
 DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: In the MUBI Micro
- cinema\n\nScreenwriter: Jacy Mairs Producers: Karlee Boon\, Cameron Holly 
- Dexter\, Jacy Mairs Trash Baby is an indie drama that...\n\nTickets: https
- ://vidiotsfoundation.org/purchase/4215020/\n\nDetails: https://vidiotsfoun
- dation.org/movies/trash-baby/
+ cinema\n\nGritty\, lowkey\, and realistic\, "Trash Baby" is an indie drama
+  that celebrates the kids who grew up amidst white trash culture in the ea
+ rly 2000’s.\n\nTickets: https://vidiotsfoundation.org/purchase/4215020/\
+ n\nDetails: https://vidiotsfoundation.org/movies/trash-baby/
 END:VEVENT
 BEGIN:VEVENT
 UID:4253143@vidiotsfoundation.org
@@ -466,12 +466,12 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4270697/
 DESCRIPTION:Run time: 103 min | Format: Digital | Rating: R\n\nSeries: Door
- s Open at 6\, In the Eagle\, Special Guests in Attendance\n\nVidiots is th
- rilled to welcome the legendary Luis Valdez for a special screening of Zoo
- t Suit\, his memorable musical rendition of LA Chicano history starring Ed
- ward James Olmos. Plus! A Live DJ set from DJ Sleeepwalk!\n\nTickets: http
- s://vidiotsfoundation.org/purchase/4270697/\n\nDetails: https://vidiotsfou
- ndation.org/movies/zoot-suit/
+ s Open at 6\, In the Eagle\, Live DJ Set\, Special Guests in Attendance\n\
+ nVidiots is thrilled to welcome the legendary Luis Valdez for a special sc
+ reening of Zoot Suit\, his memorable musical rendition of LA Chicano histo
+ ry starring Edward James Olmos. Plus! A Live DJ set from DJ Sleeepwalk!\n\
+ nTickets: https://vidiotsfoundation.org/purchase/4270697/\n\nDetails: http
+ s://vidiotsfoundation.org/movies/zoot-suit/
 END:VEVENT
 BEGIN:VEVENT
 UID:4360418@vidiotsfoundation.org
@@ -639,18 +639,19 @@ DESCRIPTION:Run time: 117 min | Format: Digital\n\nSeries: In the Eagle\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:4297815@vidiotsfoundation.org
-DTSTAMP:20260726T051500Z
-DTSTART;TZID=America/Los_Angeles:20260725T221500
-DTEND;TZID=America/Los_Angeles:20260725T234300
-SUMMARY:Leviticus
+DTSTAMP:20260726T051000Z
+DTSTART;TZID=America/Los_Angeles:20260725T221000
+DTEND;TZID=America/Los_Angeles:20260725T235000
+SUMMARY:Maddie’s Secret
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4297815/
-DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nYoung love can be a monster in th
- is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
- foundation.org/purchase/4297815/\n\nDetails: https://vidiotsfoundation.org
- /movies/leviticus/
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: In the MUBI Micr
+ ocinema\, Additional Shows\n\nA pitch-perfect blend of satire\, melodrama\
+ , daring tonal shifts and intimate performances\, the film marks a bold ne
+ w voice in contemporary cinema.\nMore Screenings Added by Popular Demand!\
+ n\nTickets: https://vidiotsfoundation.org/purchase/4297815/\n\nDetails: ht
+ tps://vidiotsfoundation.org/movies/maddies-secret/
 END:VEVENT
 BEGIN:VEVENT
 UID:4253161@vidiotsfoundation.org
@@ -704,16 +705,17 @@ BEGIN:VEVENT
 UID:4297818@vidiotsfoundation.org
 DTSTAMP:20260726T233000Z
 DTSTART;TZID=America/Los_Angeles:20260726T163000
-DTEND;TZID=America/Los_Angeles:20260726T175800
-SUMMARY:Leviticus
+DTEND;TZID=America/Los_Angeles:20260726T181000
+SUMMARY:Maddie’s Secret
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4297818/
-DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nYoung love can be a monster in th
- is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
- foundation.org/purchase/4297818/\n\nDetails: https://vidiotsfoundation.org
- /movies/leviticus/
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: In the MUBI Micr
+ ocinema\, Additional Shows\n\nA pitch-perfect blend of satire\, melodrama\
+ , daring tonal shifts and intimate performances\, the film marks a bold ne
+ w voice in contemporary cinema.\nMore Screenings Added by Popular Demand!\
+ n\nTickets: https://vidiotsfoundation.org/purchase/4297818/\n\nDetails: ht
+ tps://vidiotsfoundation.org/movies/maddies-secret/
 END:VEVENT
 BEGIN:VEVENT
 UID:4253163@vidiotsfoundation.org
@@ -746,19 +748,6 @@ DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
  is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
  foundation.org/purchase/4297819/\n\nDetails: https://vidiotsfoundation.org
  /movies/leviticus/
-END:VEVENT
-BEGIN:VEVENT
-UID:4368679@vidiotsfoundation.org
-DTSTAMP:20260727T200000Z
-DTSTART;TZID=America/Los_Angeles:20260727T130000
-DTEND;TZID=America/Los_Angeles:20260727T152000
-SUMMARY:Everything Everywhere All at Once
-LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
-URL:https://vidiotsfoundation.org/purchase/4368679/
-DESCRIPTION:Run time: 140 min | Format: Digital | Rating: R\n\nSeries: Movi
- e Den\n\nThe universe is so much bigger than you realize.\n\nTickets: http
- s://vidiotsfoundation.org/purchase/4368679/\n\nDetails: https://vidiotsfou
- ndation.org/movies/everything-everywhere-all-at-once/
 END:VEVENT
 BEGIN:VEVENT
 UID:4297838@vidiotsfoundation.org
@@ -1500,6 +1489,60 @@ DESCRIPTION:Run time: 93 min | Format: Digital\n\nSeries: In the Eagle\, Sp
  vies/the-off-hours/
 END:VEVENT
 BEGIN:VEVENT
+UID:4392797@vidiotsfoundation.org
+DTSTAMP:20260818T023000Z
+DTSTART;TZID=America/Los_Angeles:20260817T193000
+DTEND;TZID=America/Los_Angeles:20260817T213100
+SUMMARY:Volver on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4392797/
+DESCRIPTION:Run time: 121 min | Format: 35mm Film | Release year: 2006\n\nS
+ eries: 35mm Film\, Doors Open at 6\, In the Eagle\n\nPenélope Cruz stars 
+ in Pedro Almodóvar's masterful dark comedy and compassionate tribute to w
+ omen and their resilience in the face of life's most outrageous tribulatio
+ ns.\n\nTickets: https://vidiotsfoundation.org/purchase/4392797/\n\nDetails
+ : https://vidiotsfoundation.org/movies/volver/
+END:VEVENT
+BEGIN:VEVENT
+UID:4389907@vidiotsfoundation.org
+DTSTAMP:20260819T023000Z
+DTSTART;TZID=America/Los_Angeles:20260818T193000
+DTEND;TZID=America/Los_Angeles:20260818T211100
+SUMMARY:Welcome Space Brothers
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4389907/
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
+ e but one-hundred percent true story of the Unarius Academy of Science —
+  \, an extraterrestrial-channeling spiritual school in Southern California
+  who in the 1980s became a prolific filmmaking collective and public acces
+ s TV phenomenon under the direction of their outlandish spiritual leader R
+ uth E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4389907/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/welcome-space-brothers/
+END:VEVENT
+BEGIN:VEVENT
+UID:4392570@vidiotsfoundation.org
+DTSTAMP:20260820T020000Z
+DTSTART;TZID=America/Los_Angeles:20260819T190000
+DTEND;TZID=America/Los_Angeles:20260819T204100
+SUMMARY:Welcome Space Brothers
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4392570/
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
+ e but one-hundred percent true story of the Unarius Academy of Science —
+  \, an extraterrestrial-channeling spiritual school in Southern California
+  who in the 1980s became a prolific filmmaking collective and public acces
+ s TV phenomenon under the direction of their outlandish spiritual leader R
+ uth E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4392570/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/welcome-space-brothers/
+END:VEVENT
+BEGIN:VEVENT
 UID:4360544@vidiotsfoundation.org
 DTSTAMP:20260820T023000Z
 DTSTART;TZID=America/Los_Angeles:20260819T193000
@@ -1542,9 +1585,42 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4388329/
 DESCRIPTION:Run time: 119 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nLust. Seduction. Revenge. The game as you've never seen it pla
- yed before.\n\nTickets: https://vidiotsfoundation.org/purchase/4388329/\n\
- nDetails: https://vidiotsfoundation.org/movies/dangerous-liaisons/
+ he Eagle\n\nGet ready for all the opulence\, the intrigue\, the seduction\
+ , and the betrayal of Stephen Frears' lush and salacious period piece.\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4388329/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/dangerous-liaisons/
+END:VEVENT
+BEGIN:VEVENT
+UID:4392538@vidiotsfoundation.org
+DTSTAMP:20260822T200000Z
+DTSTART;TZID=America/Los_Angeles:20260822T130000
+DTEND;TZID=America/Los_Angeles:20260822T142800
+SUMMARY:A Hard Day’s Night
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4392538/
+DESCRIPTION:Run time: 88 min | Format: Digital\n\nSeries: Community Partner
+ s\, Films for Everyone\, In the Eagle\n\nThe Beatles\, starring in their f
+ irst full-length\, hilarious\, action-packed film!\nCo-presented by the Ea
+ gle Rock School of Rock!\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4392538/\n\nDetails: https://vidiotsfoundation.org/movies/a-hard-days-ni
+ ght/
+END:VEVENT
+BEGIN:VEVENT
+UID:4392536@vidiotsfoundation.org
+DTSTAMP:20260822T230000Z
+DTSTART;TZID=America/Los_Angeles:20260822T160000
+DTEND;TZID=America/Los_Angeles:20260822T174100
+SUMMARY:Hunt for the Wilderpeople
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4392536/
+DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\n\nVidiots remembers the life and legacy of the incredible Sa
+ m Neill with an especially heartwarming screening of Taika Waititi's "Hunt
+  for the Wilderpeople."\n\nTickets: https://vidiotsfoundation.org/purchase
+ /4392536/\n\nDetails: https://vidiotsfoundation.org/movies/hunt-for-the-wi
+ lderpeople/
 END:VEVENT
 BEGIN:VEVENT
 UID:4388256@vidiotsfoundation.org
