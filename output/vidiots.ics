@@ -8,41 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4268209@vidiotsfoundation.org
-DTSTAMP:20260714T020000Z
-DTSTART;TZID=America/Los_Angeles:20260713T190000
-DTEND;TZID=America/Los_Angeles:20260713T204000
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4268209/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
-  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
- ate performances\, the film marks a bold new voice in contemporary cinema.
- \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4268209/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/maddies-secret/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4325707@vidiotsfoundation.org
-DTSTAMP:20260714T200000Z
-DTSTART;TZID=America/Los_Angeles:20260714T130000
-DTEND;TZID=America/Los_Angeles:20260714T143100
-SUMMARY:The Angry Black Girl and Her Monster
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4325707/
-DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: In the MUBI Micro
- cinema\, Movie Den\, Special Guests in Attendance\n\nBomani J. Story's aus
- picious debut film breathes fresh life into a classic horror trope by mode
- rnizing and recontextualizing Mary Shelley's ubiquitous story from an enti
- rely new and unique perspective.\n\nTickets: https://vidiotsfoundation.org
- /purchase/4325707/\n\nDetails: https://vidiotsfoundation.org/movies/the-an
- gry-black-girl-and-her-monster/
-END:VEVENT
-BEGIN:VEVENT
 UID:4325769@vidiotsfoundation.org
 DTSTAMP:20260715T020000Z
 DTSTART;TZID=America/Los_Angeles:20260714T190000
@@ -63,25 +28,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4252730@vidiotsfoundation.org
-DTSTAMP:20260715T023000Z
-DTSTART;TZID=America/Los_Angeles:20260714T193000
-DTEND;TZID=America/Los_Angeles:20260714T204600
-SUMMARY:Harry Dean Stanton: Partly Fiction
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252730/
-DESCRIPTION:Run time: 76 min | Format: Digital\n\nSeries: Doors Open at 6\,
-  Groundbreaking Non-Fiction\, In the Eagle\, Special Guests in Attendance\
- , TeenTix LA\n\nJoin Vidiots as we celebrate what would have been the 100t
- h birthday of the legendary Harry Dean Stanton with a special screening of
-  the critically acclaimed\, unusually poetic documentary Harry Dean Stanto
- n: Partly Fiction with director Sophie Huber in conversation with Logan Sp
- arks (Lucky) after the screening! Evening hosted by Cherry Jones.\n\nTicke
- ts: https://vidiotsfoundation.org/purchase/4252730/\n\nDetails: https://vi
- diotsfoundation.org/movies/harry-dean-stanton-partly-fiction/
-END:VEVENT
-BEGIN:VEVENT
 UID:4268213@vidiotsfoundation.org
 DTSTAMP:20260716T020000Z
 DTSTART;TZID=America/Los_Angeles:20260715T190000
@@ -91,7 +37,7 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4268213/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
+ Format: Digital\n\nSeries: In the MUBI Microcinema\, Additional Shows\n\nA
   pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
  ate performances\, the film marks a bold new voice in contemporary cinema.
  \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
@@ -180,7 +126,7 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4307271/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
+ Format: Digital\n\nSeries: In the MUBI Microcinema\, Additional Shows\n\nA
   pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
  ate performances\, the film marks a bold new voice in contemporary cinema.
  \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
@@ -329,12 +275,14 @@ SUMMARY:Maddie’s Secret
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4298073/
-DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
- \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
- , daring tonal shifts and intimate performances\, the film marks a bold ne
- w voice in contemporary cinema.\nMore Screenings Added by Popular Demand!\
- n\nTickets: https://vidiotsfoundation.org/purchase/4298073/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/maddies-secret/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital\n\nSeries: In the MUBI Microcinema\, Additional Shows\n\nA
+  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
+ ate performances\, the film marks a bold new voice in contemporary cinema.
+ \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4298073/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/maddies-secret/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4253112@vidiotsfoundation.org
@@ -1725,19 +1673,39 @@ DESCRIPTION:Run time: 127 min | Format: Digital | Rating: PG\n\nSeries: In
  e-and-prejudice/
 END:VEVENT
 BEGIN:VEVENT
-UID:4252726@vidiotsfoundation.org
-DTSTAMP:20260714T023000Z
-DTSTART;TZID=America/Los_Angeles:20260713T193000
-DTEND;TZID=America/Los_Angeles:20260713T223300
-SUMMARY:The Deer Hunter
+UID:4325707@vidiotsfoundation.org
+DTSTAMP:20260714T200000Z
+DTSTART;TZID=America/Los_Angeles:20260714T130000
+DTEND;TZID=America/Los_Angeles:20260714T143100
+SUMMARY:The Angry Black Girl and Her Monster
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4325707/
+DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: In the MUBI Micro
+ cinema\, Movie Den\, Special Guests in Attendance\n\nBomani J. Story's aus
+ picious debut film breathes fresh life into a classic horror trope by mode
+ rnizing and recontextualizing Mary Shelley's ubiquitous story from an enti
+ rely new and unique perspective.\n\nTickets: https://vidiotsfoundation.org
+ /purchase/4325707/\n\nDetails: https://vidiotsfoundation.org/movies/the-an
+ gry-black-girl-and-her-monster/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252730@vidiotsfoundation.org
+DTSTAMP:20260715T023000Z
+DTSTART;TZID=America/Los_Angeles:20260714T193000
+DTEND;TZID=America/Los_Angeles:20260714T204600
+SUMMARY:Harry Dean Stanton: Partly Fiction
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252726/
-DESCRIPTION:Run time: 183 min | Format: Digital | Rating: R\n\nSeries: Door
- s Open at 6\, In the Eagle\, TeenTix LA\n\nOne of the first American movie
- s to directly depict the chaos and violence of the Vietnam War\, The Deer 
- Hunter is a triumph of visionary New Hollywood filmmaking from director Mi
- chael Cimino.\n\nTickets: https://vidiotsfoundation.org/purchase/4252726/\
- n\nDetails: https://vidiotsfoundation.org/movies/the-deer-hunter/
+URL:https://vidiotsfoundation.org/purchase/4252730/
+DESCRIPTION:Run time: 76 min | Format: Digital\n\nSeries: Doors Open at 6\,
+  Groundbreaking Non-Fiction\, In the Eagle\, Special Guests in Attendance\
+ , TeenTix LA\n\nJoin Vidiots as we celebrate what would have been the 100t
+ h birthday of the legendary Harry Dean Stanton with a special screening of
+  the critically acclaimed\, unusually poetic documentary Harry Dean Stanto
+ n: Partly Fiction with director Sophie Huber in conversation with Logan Sp
+ arks (Lucky) after the screening! Evening hosted by Cherry Jones.\n\nTicke
+ ts: https://vidiotsfoundation.org/purchase/4252730/\n\nDetails: https://vi
+ diotsfoundation.org/movies/harry-dean-stanton-partly-fiction/
 END:VEVENT
 END:VCALENDAR
