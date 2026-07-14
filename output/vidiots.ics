@@ -1624,22 +1624,6 @@ DESCRIPTION:Run time: 186 min | Format: Digital | Release year: 2022\n\nSer
  ls: https://vidiotsfoundation.org/movies/rrr/
 END:VEVENT
 BEGIN:VEVENT
-UID:4388738@vidiotsfoundation.org
-DTSTAMP:20260828T023000Z
-DTSTART;TZID=America/Los_Angeles:20260827T193000
-DTEND;TZID=America/Los_Angeles:20260827T205200
-SUMMARY:Jazz on a Summer’s Day
-LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
-URL:https://vidiotsfoundation.org/purchase/4388738/
-DESCRIPTION:Run time: 82 min | Format: Digital\n\nSeries: Community Partner
- s\, Doors Open at 6\n\nJoin Vidiots and Jazz is Dead for the perfect summe
- r concert film with iconic performances from musical legends including Lou
- is Armstrong\, Thelonious Monk\, Gerry Mulligan\, Anita O'Day\, Dinah Wash
- ington and Mahalia Jackson!\n\nTickets: https://vidiotsfoundation.org/purc
- hase/4388738/\n\nDetails: https://vidiotsfoundation.org/movies/jazz-on-a-s
- ummers-day/
-END:VEVENT
-BEGIN:VEVENT
 UID:4365503@vidiotsfoundation.org
 DTSTAMP:20260829T200000Z
 DTSTART;TZID=America/Los_Angeles:20260829T130000
