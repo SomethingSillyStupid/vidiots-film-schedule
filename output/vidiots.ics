@@ -890,11 +890,12 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4364992/
 DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Comm
- unity Partners\, In the Eagle\, What the Friday?!?\n\nThe latest fashion i
- n murder.\nPart of a full day of killer films that inspired Jane Schoenbru
- n's "Teenage Sex and Death at Camp Miasma" presented by our friends at MUB
- I.\n\nTickets: https://vidiotsfoundation.org/purchase/4364992/\n\nDetails:
-  https://vidiotsfoundation.org/movies/dressed-to-kill/
+ unity Partners\, In the Eagle\, What the Friday?!?\n\nBrian De Palma turns
+  up the sleaze with Hitchocockian inspiration in this killer thriller.\nPa
+ rt of a full day of killer films that inspired Jane Schoenbrun's "Teenage 
+ Sex and Death at Camp Miasma" presented by our friends at MUBI.\n\nTickets
+ : https://vidiotsfoundation.org/purchase/4364992/\n\nDetails: https://vidi
+ otsfoundation.org/movies/dressed-to-kill/
 END:VEVENT
 BEGIN:VEVENT
 UID:4338180@vidiotsfoundation.org
@@ -1407,6 +1408,23 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: In t
  68476/\n\nDetails: https://vidiotsfoundation.org/movies/magic-mike/
 END:VEVENT
 BEGIN:VEVENT
+UID:4393031@vidiotsfoundation.org
+DTSTAMP:20260815T022000Z
+DTSTART;TZID=America/Los_Angeles:20260814T192000
+DTEND;TZID=America/Los_Angeles:20260814T210700
+SUMMARY:The Invite
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4393031/
+DESCRIPTION:Run time: 107 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nDoes your summer need a little s
+ pice? Have we got the dinner party for you! Join us in the microcinema for
+  Olivia Wilde's wildly entertaining and perversely hilarious comedy The In
+ vite for a fun and naughty night of indie cinema!\n\nTickets: https://vidi
+ otsfoundation.org/purchase/4393031/\n\nDetails: https://vidiotsfoundation.
+ org/movies/the-invite/
+END:VEVENT
+BEGIN:VEVENT
 UID:4368484@vidiotsfoundation.org
 DTSTAMP:20260815T044500Z
 DTSTART;TZID=America/Los_Angeles:20260814T214500
@@ -1423,6 +1441,23 @@ DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: In th
  /movies/commando/
 END:VEVENT
 BEGIN:VEVENT
+UID:4338298@vidiotsfoundation.org
+DTSTAMP:20260815T230000Z
+DTSTART;TZID=America/Los_Angeles:20260815T160000
+DTEND;TZID=America/Los_Angeles:20260815T174700
+SUMMARY:The Invite
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4338298/
+DESCRIPTION:Run time: 107 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nDoes your summer need a little s
+ pice? Have we got the dinner party for you! Join us in the microcinema for
+  Olivia Wilde's wildly entertaining and perversely hilarious comedy The In
+ vite for a fun and naughty night of indie cinema!\n\nTickets: https://vidi
+ otsfoundation.org/purchase/4338298/\n\nDetails: https://vidiotsfoundation.
+ org/movies/the-invite/
+END:VEVENT
+BEGIN:VEVENT
 UID:4388405@vidiotsfoundation.org
 DTSTAMP:20260816T013000Z
 DTSTART;TZID=America/Los_Angeles:20260815T183000
@@ -1437,6 +1472,23 @@ DESCRIPTION:Run time: 113 min | Format: Digital | Rating: PG-13\n\nSeries:
  screening of his beloved cult classic Scott Pilgrim vs. the World followed
   by a Q+A!\n\nTickets: https://vidiotsfoundation.org/purchase/4388405/\n\n
  Details: https://vidiotsfoundation.org/movies/scott-pilgrim-vs-the-world/
+END:VEVENT
+BEGIN:VEVENT
+UID:4338293@vidiotsfoundation.org
+DTSTAMP:20260816T043000Z
+DTSTART;TZID=America/Los_Angeles:20260815T213000
+DTEND;TZID=America/Los_Angeles:20260815T231700
+SUMMARY:The Invite
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4338293/
+DESCRIPTION:Run time: 107 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nDoes your summer need a little s
+ pice? Have we got the dinner party for you! Join us in the microcinema for
+  Olivia Wilde's wildly entertaining and perversely hilarious comedy The In
+ vite for a fun and naughty night of indie cinema!\n\nTickets: https://vidi
+ otsfoundation.org/purchase/4338293/\n\nDetails: https://vidiotsfoundation.
+ org/movies/the-invite/
 END:VEVENT
 BEGIN:VEVENT
 UID:4388406@vidiotsfoundation.org
@@ -1487,6 +1539,23 @@ DESCRIPTION:Run time: 93 min | Format: Digital\n\nSeries: In the Eagle\, Sp
  ed by Vidiots Founding Member Mark Duplass!\n\nTickets: https://vidiotsfou
  ndation.org/purchase/4364993/\n\nDetails: https://vidiotsfoundation.org/mo
  vies/the-off-hours/
+END:VEVENT
+BEGIN:VEVENT
+UID:4393087@vidiotsfoundation.org
+DTSTAMP:20260817T023000Z
+DTSTART;TZID=America/Los_Angeles:20260816T193000
+DTEND;TZID=America/Los_Angeles:20260816T211700
+SUMMARY:The Invite
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4393087/
+DESCRIPTION:Run time: 107 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nDoes your summer need a little s
+ pice? Have we got the dinner party for you! Join us in the microcinema for
+  Olivia Wilde's wildly entertaining and perversely hilarious comedy The In
+ vite for a fun and naughty night of indie cinema!\n\nTickets: https://vidi
+ otsfoundation.org/purchase/4393087/\n\nDetails: https://vidiotsfoundation.
+ org/movies/the-invite/
 END:VEVENT
 BEGIN:VEVENT
 UID:4392797@vidiotsfoundation.org
@@ -1591,6 +1660,23 @@ DESCRIPTION:Run time: 119 min | Format: Digital | Rating: R\n\nSeries: In t
  ://vidiotsfoundation.org/movies/dangerous-liaisons/
 END:VEVENT
 BEGIN:VEVENT
+UID:4388340@vidiotsfoundation.org
+DTSTAMP:20260822T044500Z
+DTSTART;TZID=America/Los_Angeles:20260821T214500
+DTEND;TZID=America/Los_Angeles:20260821T231000
+SUMMARY:The Evil Dead on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4388340/
+DESCRIPTION:Run time: 85 min | Format: 35mm Film | Rating: R\n\nSeries: 35m
+ m Film\, In the Eagle\, What the Friday?!?\n\nSam Raimi's all-time horror 
+ classic is a smorgasbord of gory violence\, guttural laughs\, wildly inven
+ tive demons\, and top-notch practical effects all helmed by the boundlessl
+ y charismatic Bruce Campbell.\n\nTickets: https://vidiotsfoundation.org/pu
+ rchase/4388340/\n\nDetails: https://vidiotsfoundation.org/movies/the-evil-
+ dead/
+END:VEVENT
+BEGIN:VEVENT
 UID:4392538@vidiotsfoundation.org
 DTSTAMP:20260822T200000Z
 DTSTART;TZID=America/Los_Angeles:20260822T130000
@@ -1632,10 +1718,10 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4388256/
 DESCRIPTION:Run time: 104 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nNearly 40 years later\, Mystic Pizza is still cinematic comfor
- t food for your hungry soul!\n\nTickets: https://vidiotsfoundation.org/pur
- chase/4388256/\n\nDetails: https://vidiotsfoundation.org/movies/mystic-piz
- za/
+ he Eagle\n\nA warm and genuine romantic comedy that never leaves you hungr
+ y\, Mystic Pizza is still cinematic comfort food for your soul!\n\nTickets
+ : https://vidiotsfoundation.org/purchase/4388256/\n\nDetails: https://vidi
+ otsfoundation.org/movies/mystic-pizza/
 END:VEVENT
 BEGIN:VEVENT
 UID:4388245@vidiotsfoundation.org
@@ -1700,6 +1786,38 @@ DESCRIPTION:Run time: 186 min | Format: Digital | Release year: 2022\n\nSer
  ls: https://vidiotsfoundation.org/movies/rrr/
 END:VEVENT
 BEGIN:VEVENT
+UID:4393377@vidiotsfoundation.org
+DTSTAMP:20260829T023000Z
+DTSTART;TZID=America/Los_Angeles:20260828T193000
+DTEND;TZID=America/Los_Angeles:20260828T210000
+SUMMARY:I Want Your Sex
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4393377/
+DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nLos Angeles indie legend Gregg Ar
+ aki's newest absurd comedy is a raunchy\, kinky delight and it's steaming 
+ up our microcinema in all its eye-popping\, kink-positive\, raucously funn
+ y glory!\n\nTickets: https://vidiotsfoundation.org/purchase/4393377/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/i-want-your-sex/
+END:VEVENT
+BEGIN:VEVENT
+UID:4393386@vidiotsfoundation.org
+DTSTAMP:20260829T050000Z
+DTSTART;TZID=America/Los_Angeles:20260828T220000
+DTEND;TZID=America/Los_Angeles:20260828T233000
+SUMMARY:I Want Your Sex
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4393386/
+DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nLos Angeles indie legend Gregg Ar
+ aki's newest absurd comedy is a raunchy\, kinky delight and it's steaming 
+ up our microcinema in all its eye-popping\, kink-positive\, raucously funn
+ y glory!\n\nTickets: https://vidiotsfoundation.org/purchase/4393386/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/i-want-your-sex/
+END:VEVENT
+BEGIN:VEVENT
 UID:4365503@vidiotsfoundation.org
 DTSTAMP:20260829T200000Z
 DTSTART;TZID=America/Los_Angeles:20260829T130000
@@ -1731,6 +1849,21 @@ DESCRIPTION:Run time: 127 min | Format: Digital | Rating: PG\n\nSeries: In
  his dreamy Jane Austen adaptation.\n\nTickets: https://vidiotsfoundation.o
  rg/purchase/4388667/\n\nDetails: https://vidiotsfoundation.org/movies/prid
  e-and-prejudice/
+END:VEVENT
+BEGIN:VEVENT
+UID:4393414@vidiotsfoundation.org
+DTSTAMP:20260901T023000Z
+DTSTART;TZID=America/Los_Angeles:20260831T193000
+DTEND;TZID=America/Los_Angeles:20260831T211100
+SUMMARY:sex\, lies\, and videotape
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4393414/
+DESCRIPTION:Run time: 101 min | Format: Digital | Rating: R\n\nSeries: Door
+ s Open at 6\, In the Eagle\n\nGet ready for Steven Soderbergh's Palme d'Or
+  Winning feature debut masterpiece of sexuality and neuroses to hit our bi
+ g screen!\n\nTickets: https://vidiotsfoundation.org/purchase/4393414/\n\nD
+ etails: https://vidiotsfoundation.org/movies/sex-lies-and-videotape/
 END:VEVENT
 BEGIN:VEVENT
 UID:4325707@vidiotsfoundation.org
