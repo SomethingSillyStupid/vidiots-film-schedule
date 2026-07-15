@@ -8,26 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4325769@vidiotsfoundation.org
-DTSTAMP:20260715T020000Z
-DTSTART;TZID=America/Los_Angeles:20260714T190000
-DTEND;TZID=America/Los_Angeles:20260714T203000
-SUMMARY:ASCO: Without Permission
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4325769/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nFrom executive producers Gael García Bernal an
- d Diego Luna this inspiring triumph of creativity challenges the limits of
-  documentary conventions to tell the story of a revolutionary Chicano art 
- group who turned 1970s LA into their defiant canvas.\nMore screenings adde
- d by Popular Demand!\n\nTickets: https://vidiotsfoundation.org/purchase/43
- 25769/\n\nDetails: https://vidiotsfoundation.org/movies/asco-without-permi
- ssion/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4268213@vidiotsfoundation.org
 DTSTAMP:20260716T020000Z
 DTSTART;TZID=America/Los_Angeles:20260715T190000
@@ -44,23 +24,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
  dation.org/purchase/4268213/\n\nDetails: https://vidiotsfoundation.org/mov
  ies/maddies-secret/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4252731@vidiotsfoundation.org
-DTSTAMP:20260716T023000Z
-DTSTART;TZID=America/Los_Angeles:20260715T193000
-DTEND;TZID=America/Los_Angeles:20260715T210300
-SUMMARY:Streets of Fire on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252731/
-DESCRIPTION:Run time: 93 min | Format: 35mm Film | Rating: PG\n\nSeries: 35
- mm Film\, Doors Open at 6\, In the Eagle\, Live DJ Set\n\nAn '80s Rock Ope
- ra for the Ages! Directed by Walter Hill and featuring music by Rock God J
- im Steinman\, this modern musical scorches!\nCome early for a special live
-  DJ set from DJ WADE881!\n\nTickets: https://vidiotsfoundation.org/purchas
- e/4252731/\n\nDetails: https://vidiotsfoundation.org/movies/streets-of-fir
- e/
 END:VEVENT
 BEGIN:VEVENT
 UID:4325701@vidiotsfoundation.org
@@ -143,11 +106,13 @@ SUMMARY:Speed
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4252861/
-DESCRIPTION:Run time: 116 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nYou know you can't resist this high-speed adventure\, so buckl
- e up for the fun!\nShow us your Metro Pass at the concession stand and get
-  a free small popcorn!\n\nTickets: https://vidiotsfoundation.org/purchase/
- 4252861/\n\nDetails: https://vidiotsfoundation.org/movies/speed/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 116 min | 
+ Format: Digital | Rating: R\n\nSeries: In the Eagle\n\nYou know you can't 
+ resist this high-speed adventure\, so buckle up for the fun!\nShow us your
+  Metro Pass at the concession stand and get a free small popcorn!\n\nTicke
+ ts: https://vidiotsfoundation.org/purchase/4252861/\n\nDetails: https://vi
+ diotsfoundation.org/movies/speed/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4297840@vidiotsfoundation.org
@@ -1121,9 +1086,9 @@ DESCRIPTION:Run time: 104 min | Format: 35mm Film\n\nSeries: 35mm Film\, Do
 END:VEVENT
 BEGIN:VEVENT
 UID:4388620@vidiotsfoundation.org
-DTSTAMP:20260806T023000Z
-DTSTART;TZID=America/Los_Angeles:20260805T193000
-DTEND;TZID=America/Los_Angeles:20260805T211500
+DTSTAMP:20260806T020000Z
+DTSTART;TZID=America/Los_Angeles:20260805T190000
+DTEND;TZID=America/Los_Angeles:20260805T204500
 SUMMARY:Mysterious Skin
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
@@ -1866,39 +1831,20 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: R\n\nSeries: Door
  etails: https://vidiotsfoundation.org/movies/sex-lies-and-videotape/
 END:VEVENT
 BEGIN:VEVENT
-UID:4325707@vidiotsfoundation.org
-DTSTAMP:20260714T200000Z
-DTSTART;TZID=America/Los_Angeles:20260714T130000
-DTEND;TZID=America/Los_Angeles:20260714T143100
-SUMMARY:The Angry Black Girl and Her Monster
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4325707/
-DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: In the MUBI Micro
- cinema\, Movie Den\, Special Guests in Attendance\n\nBomani J. Story's aus
- picious debut film breathes fresh life into a classic horror trope by mode
- rnizing and recontextualizing Mary Shelley's ubiquitous story from an enti
- rely new and unique perspective.\n\nTickets: https://vidiotsfoundation.org
- /purchase/4325707/\n\nDetails: https://vidiotsfoundation.org/movies/the-an
- gry-black-girl-and-her-monster/
-END:VEVENT
-BEGIN:VEVENT
-UID:4252730@vidiotsfoundation.org
-DTSTAMP:20260715T023000Z
-DTSTART;TZID=America/Los_Angeles:20260714T193000
-DTEND;TZID=America/Los_Angeles:20260714T204600
-SUMMARY:Harry Dean Stanton: Partly Fiction
+UID:4252731@vidiotsfoundation.org
+DTSTAMP:20260716T023000Z
+DTSTART;TZID=America/Los_Angeles:20260715T193000
+DTEND;TZID=America/Los_Angeles:20260715T210300
+SUMMARY:Streets of Fire on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252730/
-DESCRIPTION:Run time: 76 min | Format: Digital\n\nSeries: Doors Open at 6\,
-  Groundbreaking Non-Fiction\, In the Eagle\, Special Guests in Attendance\
- , TeenTix LA\n\nJoin Vidiots as we celebrate what would have been the 100t
- h birthday of the legendary Harry Dean Stanton with a special screening of
-  the critically acclaimed\, unusually poetic documentary Harry Dean Stanto
- n: Partly Fiction with director Sophie Huber in conversation with Logan Sp
- arks (Lucky) after the screening! Evening hosted by Cherry Jones.\n\nTicke
- ts: https://vidiotsfoundation.org/purchase/4252730/\n\nDetails: https://vi
- diotsfoundation.org/movies/harry-dean-stanton-partly-fiction/
+URL:https://vidiotsfoundation.org/purchase/4252731/
+DESCRIPTION:Run time: 93 min | Format: 35mm Film | Rating: PG\n\nSeries: 35
+ mm Film\, Doors Open at 6\, In the Eagle\, Live DJ Set\n\nAn '80s Rock Ope
+ ra for the Ages! Directed by Walter Hill and featuring music by Rock God J
+ im Steinman\, this modern musical scorches!\nCome early for a special live
+  DJ set from DJ WADE881!\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4252731/\n\nDetails: https://vidiotsfoundation.org/movies/streets-of-fir
+ e/
 END:VEVENT
 END:VCALENDAR
