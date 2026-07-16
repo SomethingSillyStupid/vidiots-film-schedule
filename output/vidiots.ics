@@ -673,6 +673,22 @@ DESCRIPTION:Run time: 171 min | Format: Digital | Rating: R\n\nSeries: Door
  /movies/the-unbearable-lightness-of-being/
 END:VEVENT
 BEGIN:VEVENT
+UID:4403294@vidiotsfoundation.org
+DTSTAMP:20260730T020000Z
+DTSTART;TZID=America/Los_Angeles:20260729T190000
+DTEND;TZID=America/Los_Angeles:20260729T203200
+SUMMARY:American Pachuco: The Legend of Luis Valdez
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4403294/
+DESCRIPTION:Run time: 92 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nAn auteur emerge
+ s from America’s underclass: from migrant farmworker to revolutionary ar
+ tist\, Luis Valdez changed American culture.\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4403294/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/american-pachuco-the-legend-of-luis-valdez/
+END:VEVENT
+BEGIN:VEVENT
 UID:4270660@vidiotsfoundation.org
 DTSTAMP:20260730T023000Z
 DTSTART;TZID=America/Los_Angeles:20260729T193000
@@ -772,6 +788,22 @@ DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Comm
  Sex and Death at Camp Miasma" presented by our friends at MUBI.\n\nTickets
  : https://vidiotsfoundation.org/purchase/4364992/\n\nDetails: https://vidi
  otsfoundation.org/movies/dressed-to-kill/
+END:VEVENT
+BEGIN:VEVENT
+UID:4338177@vidiotsfoundation.org
+DTSTAMP:20260801T051500Z
+DTSTART;TZID=America/Los_Angeles:20260731T221500
+DTEND;TZID=America/Los_Angeles:20260731T234700
+SUMMARY:American Pachuco: The Legend of Luis Valdez
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4338177/
+DESCRIPTION:Run time: 92 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nAn auteur emerge
+ s from America’s underclass: from migrant farmworker to revolutionary ar
+ tist\, Luis Valdez changed American culture.\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4338177/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/american-pachuco-the-legend-of-luis-valdez/
 END:VEVENT
 BEGIN:VEVENT
 UID:4338180@vidiotsfoundation.org
@@ -1117,6 +1149,24 @@ DESCRIPTION:Run time: 184 min | Format: 35mm Film\n\nSeries: 35mm Film\, Gr
  tps://vidiotsfoundation.org/movies/woodstock/
 END:VEVENT
 BEGIN:VEVENT
+UID:4389646@vidiotsfoundation.org
+DTSTAMP:20260808T233000Z
+DTSTART;TZID=America/Los_Angeles:20260808T163000
+DTEND;TZID=America/Los_Angeles:20260808T175300
+SUMMARY:Bouchra
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4389646/
+DESCRIPTION:Run time: 83 min | Format: Digital | Release year: 2026\n\nSeri
+ es: In the MUBI Microcinema\n\nJoin us in the microcinema for one of the m
+ ost unique animated feature films of recent history - Maeriem Bennani's in
+ tensely personal\, singular\, and genuine Bouchra. Juxtaposing decidedly a
+ bsurd animation choices with the realism of her characters and dialogue\, 
+ Bennani creates an asbolutely unique vision of artistry and queer identity
+ .\n\nTickets: https://vidiotsfoundation.org/purchase/4389646/\n\nDetails: 
+ https://vidiotsfoundation.org/movies/bouchra/
+END:VEVENT
+BEGIN:VEVENT
 UID:4368431@vidiotsfoundation.org
 DTSTAMP:20260809T020000Z
 DTSTART;TZID=America/Los_Angeles:20260808T190000
@@ -1207,6 +1257,24 @@ DESCRIPTION:Run time: 88 min | Format: Digital | Release year: 1950\n\nSeri
  widely considered one of the greatest films ever made.\n\nTickets: https:/
  /vidiotsfoundation.org/purchase/4365141/\n\nDetails: https://vidiotsfounda
  tion.org/movies/rashomon/
+END:VEVENT
+BEGIN:VEVENT
+UID:4389738@vidiotsfoundation.org
+DTSTAMP:20260809T234500Z
+DTSTART;TZID=America/Los_Angeles:20260809T164500
+DTEND;TZID=America/Los_Angeles:20260809T180800
+SUMMARY:Bouchra
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4389738/
+DESCRIPTION:Run time: 83 min | Format: Digital | Release year: 2026\n\nSeri
+ es: In the MUBI Microcinema\n\nJoin us in the microcinema for one of the m
+ ost unique animated feature films of recent history - Maeriem Bennani's in
+ tensely personal\, singular\, and genuine Bouchra. Juxtaposing decidedly a
+ bsurd animation choices with the realism of her characters and dialogue\, 
+ Bennani creates an asbolutely unique vision of artistry and queer identity
+ .\n\nTickets: https://vidiotsfoundation.org/purchase/4389738/\n\nDetails: 
+ https://vidiotsfoundation.org/movies/bouchra/
 END:VEVENT
 BEGIN:VEVENT
 UID:4365144@vidiotsfoundation.org
@@ -1320,6 +1388,22 @@ DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: In th
  ttps://vidiotsfoundation.org/movies/commando/
 END:VEVENT
 BEGIN:VEVENT
+UID:4393032@vidiotsfoundation.org
+DTSTAMP:20260815T051500Z
+DTSTART;TZID=America/Los_Angeles:20260814T221500
+DTEND;TZID=America/Los_Angeles:20260814T233200
+SUMMARY:Lockjaw
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4393032/
+DESCRIPTION:Run time: 77 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
+  microcinema for the cringiest party this summer with Sabrina Greco's absu
+ rd indie comedy Lockjaw!\nWith writer/director Sabrina Greco in person at 
+ both screenings!\n\nTickets: https://vidiotsfoundation.org/purchase/439303
+ 2/\n\nDetails: https://vidiotsfoundation.org/movies/lockjaw/
+END:VEVENT
+BEGIN:VEVENT
 UID:4393064@vidiotsfoundation.org
 DTSTAMP:20260815T193000Z
 DTSTART;TZID=America/Los_Angeles:20260815T123000
@@ -1368,6 +1452,22 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 113 min |
  vidiotsfoundation.org/purchase/4388405/\n\nDetails: https://vidiotsfoundat
  ion.org/movies/scott-pilgrim-vs-the-world/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4338292@vidiotsfoundation.org
+DTSTAMP:20260816T020000Z
+DTSTART;TZID=America/Los_Angeles:20260815T190000
+DTEND;TZID=America/Los_Angeles:20260815T201700
+SUMMARY:Lockjaw
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4338292/
+DESCRIPTION:Run time: 77 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
+  microcinema for the cringiest party this summer with Sabrina Greco's absu
+ rd indie comedy Lockjaw!\nWith writer/director Sabrina Greco in person at 
+ both screenings!\n\nTickets: https://vidiotsfoundation.org/purchase/433829
+ 2/\n\nDetails: https://vidiotsfoundation.org/movies/lockjaw/
 END:VEVENT
 BEGIN:VEVENT
 UID:4338293@vidiotsfoundation.org
