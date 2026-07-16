@@ -258,11 +258,13 @@ SUMMARY:The Thing
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4253112/
-DESCRIPTION:Run time: 109 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nAs the temperature rises\, join us in the air conditioning for
-  a chilling trip to Antarctica with one of the best horror/sci-fi films ev
- er made.\n\nTickets: https://vidiotsfoundation.org/purchase/4253112/\n\nDe
- tails: https://vidiotsfoundation.org/movies/the-thing/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 109 min | 
+ Format: Digital | Rating: R\n\nSeries: In the Eagle\n\nAs the temperature 
+ rises\, join us in the air conditioning for a chilling trip to Antarctica 
+ with one of the best horror/sci-fi films ever made.\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4253112/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/the-thing/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4253142@vidiotsfoundation.org
@@ -1337,12 +1339,14 @@ SUMMARY:Twilight
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4368707/
-DESCRIPTION:Run time: 122 min | Format: Digital\n\nSeries: Doors Open at 6\
- , In the Eagle\, Special Guests in Attendance\n\nVidiots is dying to welco
- me back director Catherine Hardwicke for the emo screening of your teen dr
- eams - Twilight - followed by a conversation with Hardwicke on her undead 
- phenomenon!\n\nTickets: https://vidiotsfoundation.org/purchase/4368707/\n\
- nDetails: https://vidiotsfoundation.org/movies/twilight/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 122 min | 
+ Format: Digital\n\nSeries: Doors Open at 6\, In the Eagle\, Special Guests
+  in Attendance\n\nVidiots is dying to welcome back director Catherine Hard
+ wicke for the emo screening of your teen dreams - Twilight - followed by a
+  conversation with Hardwicke on her undead phenomenon!\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4368707/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/twilight/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4364996@vidiotsfoundation.org
@@ -1400,11 +1404,27 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4368484/
 DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\, What the Friday?!?\n\nOne of the best popcorn blockbusters of th
- e 1980s\, Rae Dawn Chong and the Governator team up for action\, for fun\,
-  and for revenge in this bad-ass specatacular.\n\nTickets: https://vidiots
- foundation.org/purchase/4368484/\n\nDetails: https://vidiotsfoundation.org
- /movies/commando/
+ e Eagle\, Special Guests in Attendance\, What the Friday?!?\n\nOne of the 
+ best popcorn blockbusters of the 1980s\, Rae Dawn Chong and the Governator
+  team up for action\, for fun\, and for revenge in this bad-ass specatacul
+ ar.\nWith a special introduction from the big baddie himself Vernon Wells!
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4368484/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/commando/
+END:VEVENT
+BEGIN:VEVENT
+UID:4393064@vidiotsfoundation.org
+DTSTAMP:20260815T193000Z
+DTSTART;TZID=America/Los_Angeles:20260815T123000
+DTEND;TZID=America/Los_Angeles:20260815T134800
+SUMMARY:A Goofy Movie
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4393064/
+DESCRIPTION:Run time: 78 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nA movie for the goofball in all of 
+ us featuring one of the most epically 90s animated musical sequences ever!
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4393064/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/a-goofy-movie/
 END:VEVENT
 BEGIN:VEVENT
 UID:4338298@vidiotsfoundation.org
@@ -1432,12 +1452,14 @@ SUMMARY:An Evening with Edgar Wright: Scott Pilgrim vs. the World
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4388405/
-DESCRIPTION:Run time: 113 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\, Special Guests in Attendance\n\nVidiots is ecstatic to welc
- ome director Edgar Wright for an evening of epic epicness starting with a 
- screening of his beloved cult classic Scott Pilgrim vs. the World followed
-  by a Q+A!\n\nTickets: https://vidiotsfoundation.org/purchase/4388405/\n\n
- Details: https://vidiotsfoundation.org/movies/scott-pilgrim-vs-the-world/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 113 min | 
+ Format: Digital | Rating: PG-13\n\nSeries: In the Eagle\, Special Guests i
+ n Attendance\n\nVidiots is ecstatic to welcome director Edgar Wright for a
+ n evening of epic epicness starting with a screening of his beloved cult c
+ lassic Scott Pilgrim vs. the World followed by a Q+A!\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4388405/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/scott-pilgrim-vs-the-world/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4338293@vidiotsfoundation.org
@@ -1750,6 +1772,23 @@ DESCRIPTION:Run time: 186 min | Format: Digital | Release year: 2022\n\nSer
  ies: In the Eagle\n\nRise\, Roar\, Revolt.\nThe epic is back on the big sc
  reen!\n\nTickets: https://vidiotsfoundation.org/purchase/4368695/\n\nDetai
  ls: https://vidiotsfoundation.org/movies/rrr/
+END:VEVENT
+BEGIN:VEVENT
+UID:4398784@vidiotsfoundation.org
+DTSTAMP:20260826T023000Z
+DTSTART;TZID=America/Los_Angeles:20260825T193000
+DTEND;TZID=America/Los_Angeles:20260825T205200
+SUMMARY:Jazz on a Summer’s Day
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4398784/
+DESCRIPTION:Run time: 82 min | Format: Digital\n\nSeries: Community Partner
+ s\, Doors Open at 6\, In the Eagle\n\nJoin Vidiots and Jazz is Dead for th
+ e perfect summer concert film with iconic performances from musical legend
+ s including Louis Armstrong\, Thelonious Monk\, Gerry Mulligan\, Anita O'D
+ ay\, Dinah Washington and Mahalia Jackson!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4398784/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/jazz-on-a-summers-day/
 END:VEVENT
 BEGIN:VEVENT
 UID:4393377@vidiotsfoundation.org
