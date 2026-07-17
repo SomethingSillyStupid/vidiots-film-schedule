@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4252855@vidiotsfoundation.org
-DTSTAMP:20260717T230000Z
-DTSTART;TZID=America/Los_Angeles:20260717T160000
-DTEND;TZID=America/Los_Angeles:20260717T180300
-SUMMARY:All That Jazz
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252855/
-DESCRIPTION:Run time: 123 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nIt's Showtime Folks!\nWinner of the Palme d'Or at the Cannes F
- ilm Festival and nominated for 9 Academy Awards\, All That Jazz is a music
- al like no other and a cinematic triumph on every level.\nEncore Screening
-  Added July 17th!\n\nTickets: https://vidiotsfoundation.org/purchase/42528
- 55/\n\nDetails: https://vidiotsfoundation.org/movies/all-that-jazz/
-END:VEVENT
-BEGIN:VEVENT
 UID:4307271@vidiotsfoundation.org
 DTSTAMP:20260717T233000Z
 DTSTART;TZID=America/Los_Angeles:20260717T163000
@@ -42,54 +26,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4252861@vidiotsfoundation.org
-DTSTAMP:20260718T020000Z
-DTSTART;TZID=America/Los_Angeles:20260717T190000
-DTEND;TZID=America/Los_Angeles:20260717T205600
-SUMMARY:Speed
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252861/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 116 min | 
- Format: Digital | Rating: R\n\nSeries: In the Eagle\n\nYou know you can't 
- resist this high-speed adventure\, so buckle up for the fun!\nShow us your
-  Metro Pass at the concession stand and get a free small popcorn!\n\nTicke
- ts: https://vidiotsfoundation.org/purchase/4252861/\n\nDetails: https://vi
- diotsfoundation.org/movies/speed/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4297840@vidiotsfoundation.org
-DTSTAMP:20260718T023000Z
-DTSTART;TZID=America/Los_Angeles:20260717T193000
-DTEND;TZID=America/Los_Angeles:20260717T211000
-SUMMARY:Unidentified
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297840/
-DESCRIPTION:Run time: 100 min | Format: Digital | Rating: PG-13 | Release y
- ear: 2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nEvil hi
- des best in plain sight. Uncover the truth in Unidentified\, a gripping Sa
- udi murder mystery from acclaimed filmmaker Haifaa al-Mansour (Wadjda).\n\
- nTickets: https://vidiotsfoundation.org/purchase/4297840/\n\nDetails: http
- s://vidiotsfoundation.org/movies/unidentified/
-END:VEVENT
-BEGIN:VEVENT
-UID:4252862@vidiotsfoundation.org
-DTSTAMP:20260718T044500Z
-DTSTART;TZID=America/Los_Angeles:20260717T214500
-DTEND;TZID=America/Los_Angeles:20260717T230600
-SUMMARY:Perfect Blue
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252862/
-DESCRIPTION:Run time: 81 min | Format: Digital | Rating: R | Release year: 
- 1998\n\nSeries: In the Eagle\, What the Friday?!?\n\nVisionary director Sa
- toshi Kon brings us this intense animated psychological thriller for the s
- ocial media era.\n\nTickets: https://vidiotsfoundation.org/purchase/425286
- 2/\n\nDetails: https://vidiotsfoundation.org/movies/perfect-blue/
-END:VEVENT
-BEGIN:VEVENT
 UID:4253111@vidiotsfoundation.org
 DTSTAMP:20260718T230000Z
 DTSTART;TZID=America/Los_Angeles:20260718T160000
@@ -106,22 +42,6 @@ DESCRIPTION:Run time: 81 min\n\nSeries: Community Partners\, Free Events\,
  rican filmmakers have used movies to inform\, honor\, document\, and criti
  que.\n\nTickets: https://vidiotsfoundation.org/purchase/4253111/\n\nDetail
  s: https://vidiotsfoundation.org/movies/celebration-of-celluloid/
-END:VEVENT
-BEGIN:VEVENT
-UID:4298064@vidiotsfoundation.org
-DTSTAMP:20260719T013000Z
-DTSTART;TZID=America/Los_Angeles:20260718T183000
-DTEND;TZID=America/Los_Angeles:20260718T201000
-SUMMARY:Unidentified
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4298064/
-DESCRIPTION:Run time: 100 min | Format: Digital | Rating: PG-13 | Release y
- ear: 2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nEvil hi
- des best in plain sight. Uncover the truth in Unidentified\, a gripping Sa
- udi murder mystery from acclaimed filmmaker Haifaa al-Mansour (Wadjda).\n\
- nTickets: https://vidiotsfoundation.org/purchase/4298064/\n\nDetails: http
- s://vidiotsfoundation.org/movies/unidentified/
 END:VEVENT
 BEGIN:VEVENT
 UID:4253110@vidiotsfoundation.org
@@ -267,22 +187,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 106 min |
  r Tim Petryn in person!\n\nTickets: https://vidiotsfoundation.org/purchase
  /4215022/\n\nDetails: https://vidiotsfoundation.org/movies/fucktoys/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4301565@vidiotsfoundation.org
-DTSTAMP:20260721T020000Z
-DTSTART;TZID=America/Los_Angeles:20260720T190000
-DTEND;TZID=America/Los_Angeles:20260720T204000
-SUMMARY:Unidentified
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4301565/
-DESCRIPTION:Run time: 100 min | Format: Digital | Rating: PG-13 | Release y
- ear: 2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nEvil hi
- des best in plain sight. Uncover the truth in Unidentified\, a gripping Sa
- udi murder mystery from acclaimed filmmaker Haifaa al-Mansour (Wadjda).\n\
- nTickets: https://vidiotsfoundation.org/purchase/4301565/\n\nDetails: http
- s://vidiotsfoundation.org/movies/unidentified/
 END:VEVENT
 BEGIN:VEVENT
 UID:4253144@vidiotsfoundation.org
@@ -1879,41 +1783,67 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: R\n\nSeries: Door
  etails: https://vidiotsfoundation.org/movies/sex-lies-and-videotape/
 END:VEVENT
 BEGIN:VEVENT
-UID:4325701@vidiotsfoundation.org
-DTSTAMP:20260717T020000Z
-DTSTART;TZID=America/Los_Angeles:20260716T190000
-DTEND;TZID=America/Los_Angeles:20260716T203000
-SUMMARY:ASCO: Without Permission
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4325701/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nFrom executive producers Gael García Bernal an
- d Diego Luna this inspiring triumph of creativity challenges the limits of
-  documentary conventions to tell the story of a revolutionary Chicano art 
- group who turned 1970s LA into their defiant canvas.\nMore screenings adde
- d by Popular Demand!\n\nTickets: https://vidiotsfoundation.org/purchase/43
- 25701/\n\nDetails: https://vidiotsfoundation.org/movies/asco-without-permi
- ssion/
+UID:4252855@vidiotsfoundation.org
+DTSTAMP:20260717T230000Z
+DTSTART;TZID=America/Los_Angeles:20260717T160000
+DTEND;TZID=America/Los_Angeles:20260717T180300
+SUMMARY:All That Jazz
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252855/
+DESCRIPTION:Run time: 123 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nIt's Showtime Folks!\nWinner of the Palme d'Or at the Cannes F
+ ilm Festival and nominated for 9 Academy Awards\, All That Jazz is a music
+ al like no other and a cinematic triumph on every level.\nEncore Screening
+  Added July 17th!\n\nTickets: https://vidiotsfoundation.org/purchase/42528
+ 55/\n\nDetails: https://vidiotsfoundation.org/movies/all-that-jazz/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252861@vidiotsfoundation.org
+DTSTAMP:20260718T020000Z
+DTSTART;TZID=America/Los_Angeles:20260717T190000
+DTEND;TZID=America/Los_Angeles:20260717T205600
+SUMMARY:Speed
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4252861/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 116 min | 
+ Format: Digital | Rating: R\n\nSeries: In the Eagle\n\nYou know you can't 
+ resist this high-speed adventure\, so buckle up for the fun!\nShow us your
+  Metro Pass at the concession stand and get a free small popcorn!\n\nTicke
+ ts: https://vidiotsfoundation.org/purchase/4252861/\n\nDetails: https://vi
+ diotsfoundation.org/movies/speed/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4301573@vidiotsfoundation.org
-DTSTAMP:20260717T023000Z
-DTSTART;TZID=America/Los_Angeles:20260716T193000
-DTEND;TZID=America/Los_Angeles:20260716T220400
-SUMMARY:Amores Perros
+UID:4297840@vidiotsfoundation.org
+DTSTAMP:20260718T023000Z
+DTSTART;TZID=America/Los_Angeles:20260717T193000
+DTEND;TZID=America/Los_Angeles:20260717T211000
+SUMMARY:Unidentified
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297840/
+DESCRIPTION:Run time: 100 min | Format: Digital | Rating: PG-13 | Release y
+ ear: 2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nEvil hi
+ des best in plain sight. Uncover the truth in Unidentified\, a gripping Sa
+ udi murder mystery from acclaimed filmmaker Haifaa al-Mansour (Wadjda).\n\
+ nTickets: https://vidiotsfoundation.org/purchase/4297840/\n\nDetails: http
+ s://vidiotsfoundation.org/movies/unidentified/
+END:VEVENT
+BEGIN:VEVENT
+UID:4252862@vidiotsfoundation.org
+DTSTAMP:20260718T044500Z
+DTSTART;TZID=America/Los_Angeles:20260717T214500
+DTEND;TZID=America/Los_Angeles:20260717T230600
+SUMMARY:Perfect Blue
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4301573/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 154 min | 
- Format: Digital | Rating: R | Release year: 2000\n\nSeries: Community Part
- ners\, In the Eagle\n\n25th Anniversary and Brand-New Restoration!\nCo-Pre
- sented by the MUBI Podcast featuring an in-person introduction from MUBI P
- odcast host Rico Gagliano!\n\nTickets: https://vidiotsfoundation.org/purch
- ase/4301573/\n\nDetails: https://vidiotsfoundation.org/movies/amores-perro
- s/
-STATUS:TENTATIVE
+URL:https://vidiotsfoundation.org/purchase/4252862/
+DESCRIPTION:Run time: 81 min | Format: Digital | Rating: R | Release year: 
+ 1998\n\nSeries: In the Eagle\, What the Friday?!?\n\nVisionary director Sa
+ toshi Kon brings us this intense animated psychological thriller for the s
+ ocial media era.\n\nTickets: https://vidiotsfoundation.org/purchase/425286
+ 2/\n\nDetails: https://vidiotsfoundation.org/movies/perfect-blue/
 END:VEVENT
 END:VCALENDAR
