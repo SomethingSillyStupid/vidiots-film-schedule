@@ -8,93 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4307271@vidiotsfoundation.org
-DTSTAMP:20260717T233000Z
-DTSTART;TZID=America/Los_Angeles:20260717T163000
-DTEND;TZID=America/Los_Angeles:20260717T181000
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4307271/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
-  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
- ate performances\, the film marks a bold new voice in contemporary cinema.
- \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4307271/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/maddies-secret/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4253111@vidiotsfoundation.org
-DTSTAMP:20260718T230000Z
-DTSTART;TZID=America/Los_Angeles:20260718T160000
-DTEND;TZID=America/Los_Angeles:20260718T172100
-SUMMARY:National Film Preservation Foundation’s Semiquincentennial Celebr
- ation of Celluloid
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253111/
-DESCRIPTION:Run time: 81 min\n\nSeries: Community Partners\, Free Events\, 
- In the Eagle\n\nFor nearly 30 years the NFPF has been helping to preserve 
- America’s film heritage. This collection of shorts from archives around 
- the country reveals the many ways—from amateur to avant-garde—that Ame
- rican filmmakers have used movies to inform\, honor\, document\, and criti
- que.\n\nTickets: https://vidiotsfoundation.org/purchase/4253111/\n\nDetail
- s: https://vidiotsfoundation.org/movies/celebration-of-celluloid/
-END:VEVENT
-BEGIN:VEVENT
-UID:4253110@vidiotsfoundation.org
-DTSTAMP:20260719T020000Z
-DTSTART;TZID=America/Los_Angeles:20260718T190000
-DTEND;TZID=America/Los_Angeles:20260718T205600
-SUMMARY:Tootsie
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253110/
-DESCRIPTION:Run time: 116 min | Format: Digital | Rating: PG\n\nSeries: In 
- the Eagle\, TeenTix LA\n\nFor a smart\, dynamic comedy that never drags\, 
- grab your sequins for Sydney Pollack's iconic comedy classic starring Dust
- in Hoffman as America's hottest new actress!\n\nTickets: https://vidiotsfo
- undation.org/purchase/4253110/\n\nDetails: https://vidiotsfoundation.org/m
- ovies/tootsie/
-END:VEVENT
-BEGIN:VEVENT
-UID:4298073@vidiotsfoundation.org
-DTSTAMP:20260719T043000Z
-DTSTART;TZID=America/Los_Angeles:20260718T213000
-DTEND;TZID=America/Los_Angeles:20260718T231000
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4298073/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
-  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
- ate performances\, the film marks a bold new voice in contemporary cinema.
- \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4298073/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/maddies-secret/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4253112@vidiotsfoundation.org
-DTSTAMP:20260719T044500Z
-DTSTART;TZID=America/Los_Angeles:20260718T214500
-DTEND;TZID=America/Los_Angeles:20260718T233400
-SUMMARY:The Thing
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253112/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 109 min | 
- Format: Digital | Rating: R\n\nSeries: In the Eagle\n\nAs the temperature 
- rises\, join us in the air conditioning for a chilling trip to Antarctica 
- with one of the best horror/sci-fi films ever made.\n\nTickets: https://vi
- diotsfoundation.org/purchase/4253112/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/the-thing/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4253142@vidiotsfoundation.org
 DTSTAMP:20260719T200000Z
 DTSTART;TZID=America/Los_Angeles:20260719T130000
@@ -418,22 +331,6 @@ DESCRIPTION:Run time: 117 min | Format: Digital\n\nSeries: In the Eagle\n\n
  \nDetails: https://vidiotsfoundation.org/movies/alien/
 END:VEVENT
 BEGIN:VEVENT
-UID:4297815@vidiotsfoundation.org
-DTSTAMP:20260726T051000Z
-DTSTART;TZID=America/Los_Angeles:20260725T221000
-DTEND;TZID=America/Los_Angeles:20260725T235000
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297815/
-DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
- \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
- , daring tonal shifts and intimate performances\, the film marks a bold ne
- w voice in contemporary cinema.\nMore Screenings Added by Popular Demand!\
- n\nTickets: https://vidiotsfoundation.org/purchase/4297815/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
 UID:4253161@vidiotsfoundation.org
 DTSTAMP:20260726T193000Z
 DTSTART;TZID=America/Los_Angeles:20260726T123000
@@ -480,22 +377,6 @@ DESCRIPTION:Run time: 102 min | Format: Digital | Rating: R\n\nSeries: In t
   a costume contest/Little Miss Vidiots Pageant after the show to take home
   the crown!\n\nTickets: https://vidiotsfoundation.org/purchase/4253162/\n\
  nDetails: https://vidiotsfoundation.org/movies/little-miss-sunshine/
-END:VEVENT
-BEGIN:VEVENT
-UID:4297818@vidiotsfoundation.org
-DTSTAMP:20260726T233000Z
-DTSTART;TZID=America/Los_Angeles:20260726T163000
-DTEND;TZID=America/Los_Angeles:20260726T181000
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297818/
-DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
- \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
- , daring tonal shifts and intimate performances\, the film marks a bold ne
- w voice in contemporary cinema.\nMore Screenings Added by Popular Demand!\
- n\nTickets: https://vidiotsfoundation.org/purchase/4297818/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/maddies-secret/
 END:VEVENT
 BEGIN:VEVENT
 UID:4253163@vidiotsfoundation.org
@@ -1783,67 +1664,72 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: R\n\nSeries: Door
  etails: https://vidiotsfoundation.org/movies/sex-lies-and-videotape/
 END:VEVENT
 BEGIN:VEVENT
-UID:4252855@vidiotsfoundation.org
-DTSTAMP:20260717T230000Z
-DTSTART;TZID=America/Los_Angeles:20260717T160000
-DTEND;TZID=America/Los_Angeles:20260717T180300
-SUMMARY:All That Jazz
+UID:4253111@vidiotsfoundation.org
+DTSTAMP:20260718T230000Z
+DTSTART;TZID=America/Los_Angeles:20260718T160000
+DTEND;TZID=America/Los_Angeles:20260718T172100
+SUMMARY:National Film Preservation Foundation’s Semiquincentennial Celebr
+ ation of Celluloid
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252855/
-DESCRIPTION:Run time: 123 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nIt's Showtime Folks!\nWinner of the Palme d'Or at the Cannes F
- ilm Festival and nominated for 9 Academy Awards\, All That Jazz is a music
- al like no other and a cinematic triumph on every level.\nEncore Screening
-  Added July 17th!\n\nTickets: https://vidiotsfoundation.org/purchase/42528
- 55/\n\nDetails: https://vidiotsfoundation.org/movies/all-that-jazz/
+URL:https://vidiotsfoundation.org/purchase/4253111/
+DESCRIPTION:Run time: 81 min\n\nSeries: Community Partners\, Free Events\, 
+ In the Eagle\n\nFor nearly 30 years the NFPF has been helping to preserve 
+ America’s film heritage. This collection of shorts from archives around 
+ the country reveals the many ways—from amateur to avant-garde—that Ame
+ rican filmmakers have used movies to inform\, honor\, document\, and criti
+ que.\n\nTickets: https://vidiotsfoundation.org/purchase/4253111/\n\nDetail
+ s: https://vidiotsfoundation.org/movies/celebration-of-celluloid/
 END:VEVENT
 BEGIN:VEVENT
-UID:4252861@vidiotsfoundation.org
-DTSTAMP:20260718T020000Z
-DTSTART;TZID=America/Los_Angeles:20260717T190000
-DTEND;TZID=America/Los_Angeles:20260717T205600
-SUMMARY:Speed
+UID:4253110@vidiotsfoundation.org
+DTSTAMP:20260719T020000Z
+DTSTART;TZID=America/Los_Angeles:20260718T190000
+DTEND;TZID=America/Los_Angeles:20260718T205600
+SUMMARY:Tootsie
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252861/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 116 min | 
- Format: Digital | Rating: R\n\nSeries: In the Eagle\n\nYou know you can't 
- resist this high-speed adventure\, so buckle up for the fun!\nShow us your
-  Metro Pass at the concession stand and get a free small popcorn!\n\nTicke
- ts: https://vidiotsfoundation.org/purchase/4252861/\n\nDetails: https://vi
- diotsfoundation.org/movies/speed/
+URL:https://vidiotsfoundation.org/purchase/4253110/
+DESCRIPTION:Run time: 116 min | Format: Digital | Rating: PG\n\nSeries: In 
+ the Eagle\, TeenTix LA\n\nFor a smart\, dynamic comedy that never drags\, 
+ grab your sequins for Sydney Pollack's iconic comedy classic starring Dust
+ in Hoffman as America's hottest new actress!\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4253110/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/tootsie/
+END:VEVENT
+BEGIN:VEVENT
+UID:4298073@vidiotsfoundation.org
+DTSTAMP:20260719T043000Z
+DTSTART;TZID=America/Los_Angeles:20260718T213000
+DTEND;TZID=America/Los_Angeles:20260718T231000
+SUMMARY:Maddie’s Secret
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4298073/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
+  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
+ ate performances\, the film marks a bold new voice in contemporary cinema.
+ \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4298073/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/maddies-secret/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4297840@vidiotsfoundation.org
-DTSTAMP:20260718T023000Z
-DTSTART;TZID=America/Los_Angeles:20260717T193000
-DTEND;TZID=America/Los_Angeles:20260717T211000
-SUMMARY:Unidentified
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297840/
-DESCRIPTION:Run time: 100 min | Format: Digital | Rating: PG-13 | Release y
- ear: 2026\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nEvil hi
- des best in plain sight. Uncover the truth in Unidentified\, a gripping Sa
- udi murder mystery from acclaimed filmmaker Haifaa al-Mansour (Wadjda).\n\
- nTickets: https://vidiotsfoundation.org/purchase/4297840/\n\nDetails: http
- s://vidiotsfoundation.org/movies/unidentified/
-END:VEVENT
-BEGIN:VEVENT
-UID:4252862@vidiotsfoundation.org
-DTSTAMP:20260718T044500Z
-DTSTART;TZID=America/Los_Angeles:20260717T214500
-DTEND;TZID=America/Los_Angeles:20260717T230600
-SUMMARY:Perfect Blue
+UID:4253112@vidiotsfoundation.org
+DTSTAMP:20260719T044500Z
+DTSTART;TZID=America/Los_Angeles:20260718T214500
+DTEND;TZID=America/Los_Angeles:20260718T233400
+SUMMARY:The Thing
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4252862/
-DESCRIPTION:Run time: 81 min | Format: Digital | Rating: R | Release year: 
- 1998\n\nSeries: In the Eagle\, What the Friday?!?\n\nVisionary director Sa
- toshi Kon brings us this intense animated psychological thriller for the s
- ocial media era.\n\nTickets: https://vidiotsfoundation.org/purchase/425286
- 2/\n\nDetails: https://vidiotsfoundation.org/movies/perfect-blue/
+URL:https://vidiotsfoundation.org/purchase/4253112/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 109 min | 
+ Format: Digital | Rating: R\n\nSeries: In the Eagle\n\nAs the temperature 
+ rises\, join us in the air conditioning for a chilling trip to Antarctica 
+ with one of the best horror/sci-fi films ever made.\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4253112/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/the-thing/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
