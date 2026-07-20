@@ -8,36 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4301565@vidiotsfoundation.org
-DTSTAMP:20260721T020000Z
-DTSTART;TZID=America/Los_Angeles:20260720T190000
-DTEND;TZID=America/Los_Angeles:20260720T204000
-SUMMARY:Unidentified
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4301565/
-DESCRIPTION:Run time: 100 min | Format: Digital | Rating: PG-13 | Release y
- ear: 2026\n\nSeries: In the MUBI Microcinema\n\nEvil hides best in plain s
- ight. Uncover the truth in Unidentified\, a gripping Saudi murder mystery 
- from acclaimed filmmaker Haifaa al-Mansour (Wadjda).\n\nTickets: https://v
- idiotsfoundation.org/purchase/4301565/\n\nDetails: https://vidiotsfoundati
- on.org/movies/unidentified/
-END:VEVENT
-BEGIN:VEVENT
-UID:4253144@vidiotsfoundation.org
-DTSTAMP:20260721T023000Z
-DTSTART;TZID=America/Los_Angeles:20260720T193000
-DTEND;TZID=America/Los_Angeles:20260720T210400
-SUMMARY:Jamón Jamón
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253144/
-DESCRIPTION:Run time: 94 min | Format: Digital | Release year: 1992\n\nSeri
- es: Doors Open at 6\, In the Eagle\n\nA film where women eat men and men e
- at ham!\n\nTickets: https://vidiotsfoundation.org/purchase/4253144/\n\nDet
- ails: https://vidiotsfoundation.org/movies/jamon-jamon/
-END:VEVENT
-BEGIN:VEVENT
 UID:4337912@vidiotsfoundation.org
 DTSTAMP:20260722T020000Z
 DTSTART;TZID=America/Los_Angeles:20260721T190000
@@ -1588,99 +1558,33 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: R\n\nSeries: Door
  etails: https://vidiotsfoundation.org/movies/sex-lies-and-videotape/
 END:VEVENT
 BEGIN:VEVENT
-UID:4253142@vidiotsfoundation.org
-DTSTAMP:20260719T200000Z
-DTSTART;TZID=America/Los_Angeles:20260719T130000
-DTEND;TZID=America/Los_Angeles:20260719T141800
-SUMMARY:The Emperor’s New Groove
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253142/
-DESCRIPTION:Run time: 78 min | Format: Digital | Rating: All Ages\n\nSeries
- : Films for Everyone\, In the Eagle\n\nGet in the groove with this llama-r
- rific animated comedy with an all-star cast of voice talent!\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4253142/\n\nDetails: https://vidiots
- foundation.org/movies/the-emperors-new-groove/
-END:VEVENT
-BEGIN:VEVENT
-UID:4215011@vidiotsfoundation.org
-DTSTAMP:20260719T203000Z
-DTSTART;TZID=America/Los_Angeles:20260719T133000
-DTEND;TZID=America/Los_Angeles:20260719T145700
-SUMMARY:The Popcorn List: Remaining Native
+UID:4301565@vidiotsfoundation.org
+DTSTAMP:20260721T020000Z
+DTSTART;TZID=America/Los_Angeles:20260720T190000
+DTEND;TZID=America/Los_Angeles:20260720T204000
+SUMMARY:Unidentified
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
-URL:https://vidiotsfoundation.org/purchase/4215011/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 87 min | F
- ormat: Digital\n\nSeries: In the MUBI Microcinema\, Special Guests in Atte
- ndance\n\nA coming-of-age documentary told from the perspective of Kutoven
-  (Ku) Stevens\, a 17-year-old Native American runner\, struggling to navig
- ate his dream of becoming a collegiate athlete as the memory of his great-
- grandfather's escape from an Indian boarding school begins to connect past
- \, present\, and future.\nEditor Eric F. Martin in person!\n\nTickets: htt
- ps://vidiotsfoundation.org/purchase/4215011/\n\nDetails: https://vidiotsfo
- undation.org/movies/the-popcorn-list-remaining-native/
-STATUS:TENTATIVE
+URL:https://vidiotsfoundation.org/purchase/4301565/
+DESCRIPTION:Run time: 100 min | Format: Digital | Rating: PG-13 | Release y
+ ear: 2026\n\nSeries: In the MUBI Microcinema\n\nEvil hides best in plain s
+ ight. Uncover the truth in Unidentified\, a gripping Saudi murder mystery 
+ from acclaimed filmmaker Haifaa al-Mansour (Wadjda).\n\nTickets: https://v
+ idiotsfoundation.org/purchase/4301565/\n\nDetails: https://vidiotsfoundati
+ on.org/movies/unidentified/
 END:VEVENT
 BEGIN:VEVENT
-UID:4253132@vidiotsfoundation.org
-DTSTAMP:20260719T230000Z
-DTSTART;TZID=America/Los_Angeles:20260719T160000
-DTEND;TZID=America/Los_Angeles:20260719T175500
-SUMMARY:East of Eden
+UID:4253144@vidiotsfoundation.org
+DTSTAMP:20260721T023000Z
+DTSTART;TZID=America/Los_Angeles:20260720T193000
+DTEND;TZID=America/Los_Angeles:20260720T210400
+SUMMARY:Jamón Jamón
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253132/
-DESCRIPTION:Run time: 115 min | Format: Digital\n\nSeries: In the Eagle\n\n
- James Dean scorches the screen in this adaptation of John Steinbeck's dust
-  bowl-era classic.\n\nTickets: https://vidiotsfoundation.org/purchase/4253
- 132/\n\nDetails: https://vidiotsfoundation.org/movies/east-of-eden/
-END:VEVENT
-BEGIN:VEVENT
-UID:4215020@vidiotsfoundation.org
-DTSTAMP:20260719T233000Z
-DTSTART;TZID=America/Los_Angeles:20260719T163000
-DTEND;TZID=America/Los_Angeles:20260719T180500
-SUMMARY:The Popcorn List: Trash Baby
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4215020/
-DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: In the MUBI Micro
- cinema\n\nGritty\, lowkey\, and realistic\, "Trash Baby" is an indie drama
-  that celebrates the kids who grew up amidst white trash culture in the ea
- rly 2000’s.\n\nTickets: https://vidiotsfoundation.org/purchase/4215020/\
- n\nDetails: https://vidiotsfoundation.org/movies/trash-baby/
-END:VEVENT
-BEGIN:VEVENT
-UID:4253143@vidiotsfoundation.org
-DTSTAMP:20260720T020000Z
-DTSTART;TZID=America/Los_Angeles:20260719T190000
-DTEND;TZID=America/Los_Angeles:20260719T203900
-SUMMARY:Suspiria
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253143/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 99 min | F
- ormat: Digital\n\nSeries: In the Eagle\n\nA Technicolor fever dream of stu
- nning imagery on our big screen in its full nightmarish glory.\n\nTickets:
-  https://vidiotsfoundation.org/purchase/4253143/\n\nDetails: https://vidio
- tsfoundation.org/movies/suspiria/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4215022@vidiotsfoundation.org
-DTSTAMP:20260720T023000Z
-DTSTART;TZID=America/Los_Angeles:20260719T193000
-DTEND;TZID=America/Los_Angeles:20260719T211600
-SUMMARY:The Popcorn List: Fucktoys
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4215022/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 106 min | 
- Format: Digital\n\nSeries: In the MUBI Microcinema\, Special Guests in Att
- endance\n\nAbandon me harder daddy.\nDirector Annapurna Sriram and Produce
- r Tim Petryn in person!\n\nTickets: https://vidiotsfoundation.org/purchase
- /4215022/\n\nDetails: https://vidiotsfoundation.org/movies/fucktoys/
-STATUS:TENTATIVE
+URL:https://vidiotsfoundation.org/purchase/4253144/
+DESCRIPTION:Run time: 94 min | Format: Digital | Release year: 1992\n\nSeri
+ es: Doors Open at 6\, In the Eagle\n\nA film where women eat men and men e
+ at ham!\n\nTickets: https://vidiotsfoundation.org/purchase/4253144/\n\nDet
+ ails: https://vidiotsfoundation.org/movies/jamon-jamon/
 END:VEVENT
 END:VCALENDAR
