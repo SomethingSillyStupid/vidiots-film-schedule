@@ -400,6 +400,22 @@ DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 BEGIN:VEVENT
+UID:4428345@vidiotsfoundation.org
+DTSTAMP:20260731T230000Z
+DTSTART;TZID=America/Los_Angeles:20260731T160000
+DTEND;TZID=America/Los_Angeles:20260731T174900
+SUMMARY:The Thing
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4428345/
+DESCRIPTION:Run time: 109 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nAs the temperature rises\, join us in the air conditioning for
+  a chilling trip to Antarctica with one of the best horror/sci-fi films ev
+ er made.\nEncore Screening Added by Popular Demand!\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4428345/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/the-thing/
+END:VEVENT
+BEGIN:VEVENT
 UID:4389348@vidiotsfoundation.org
 DTSTAMP:20260731T234500Z
 DTSTART;TZID=America/Los_Angeles:20260731T164500
@@ -1098,6 +1114,22 @@ DESCRIPTION:Run time: 78 min | Format: Digital | Rating: All Ages\n\nSeries
  ttps://vidiotsfoundation.org/movies/a-goofy-movie/
 END:VEVENT
 BEGIN:VEVENT
+UID:4398743@vidiotsfoundation.org
+DTSTAMP:20260815T221500Z
+DTSTART;TZID=America/Los_Angeles:20260815T151500
+DTEND;TZID=America/Los_Angeles:20260815T165800
+SUMMARY:Scarlet Street
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4398743/
+DESCRIPTION:Run time: 103 min | Format: Digital\n\nSeries: In the Eagle\n\n
+ Watch out for the double cross in Fritz Lang's film noir classic starring 
+ crime cinema's crown prince Edward G. Robinson and the infectiously alluri
+ ng Joan Bennett as the feisty femme fatale.\n\nTickets: https://vidiotsfou
+ ndation.org/purchase/4398743/\n\nDetails: https://vidiotsfoundation.org/mo
+ vies/scarlet-street/
+END:VEVENT
+BEGIN:VEVENT
 UID:4338298@vidiotsfoundation.org
 DTSTAMP:20260815T230000Z
 DTSTART;TZID=America/Los_Angeles:20260815T160000
@@ -1260,12 +1292,12 @@ URL:https://vidiotsfoundation.org/purchase/4389907/
 DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
  \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
  e but one-hundred percent true story of the Unarius Academy of Science —
-  \, an extraterrestrial-channeling spiritual school in Southern California
-  who in the 1980s became a prolific filmmaking collective and public acces
- s TV phenomenon under the direction of their outlandish spiritual leader R
- uth E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4389907/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/welcome-space-brothers/
+  an extraterrestrial-channeling spiritual school in Southern California wh
+ o in the 1980s became a prolific filmmaking collective and public access T
+ V phenomenon under the direction of their outlandish spiritual leader Ruth
+  E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoundat
+ ion.org/purchase/4389907/\n\nDetails: https://vidiotsfoundation.org/movies
+ /welcome-space-brothers/
 END:VEVENT
 BEGIN:VEVENT
 UID:4392570@vidiotsfoundation.org
@@ -1279,12 +1311,12 @@ URL:https://vidiotsfoundation.org/purchase/4392570/
 DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
  \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
  e but one-hundred percent true story of the Unarius Academy of Science —
-  \, an extraterrestrial-channeling spiritual school in Southern California
-  who in the 1980s became a prolific filmmaking collective and public acces
- s TV phenomenon under the direction of their outlandish spiritual leader R
- uth E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4392570/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/welcome-space-brothers/
+  an extraterrestrial-channeling spiritual school in Southern California wh
+ o in the 1980s became a prolific filmmaking collective and public access T
+ V phenomenon under the direction of their outlandish spiritual leader Ruth
+  E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoundat
+ ion.org/purchase/4392570/\n\nDetails: https://vidiotsfoundation.org/movies
+ /welcome-space-brothers/
 END:VEVENT
 BEGIN:VEVENT
 UID:4360544@vidiotsfoundation.org
@@ -1461,6 +1493,22 @@ DESCRIPTION:Run time: 186 min | Format: Digital | Release year: 2022\n\nSer
  ls: https://vidiotsfoundation.org/movies/rrr/
 END:VEVENT
 BEGIN:VEVENT
+UID:4428379@vidiotsfoundation.org
+DTSTAMP:20260825T023000Z
+DTSTART;TZID=America/Los_Angeles:20260824T193000
+DTEND;TZID=America/Los_Angeles:20260824T211500
+SUMMARY:Bob & Carol & Ted & Alice
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4428379/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Door
+ s Open at 6\, In the Eagle\, Special Guests in Attendance\n\nVidiots is th
+ rilled to welcome screen icons Elliott Gould and Dyan Cannon for a special
+  screening of Paul Mazursky's Bob & Carol & Ted & Alice!\n\nTickets: https
+ ://vidiotsfoundation.org/purchase/4428379/\n\nDetails: https://vidiotsfoun
+ dation.org/movies/bob-carol-ted-alice/
+END:VEVENT
+BEGIN:VEVENT
 UID:4398784@vidiotsfoundation.org
 DTSTAMP:20260826T023000Z
 DTSTART;TZID=America/Los_Angeles:20260825T193000
@@ -1526,6 +1574,22 @@ DESCRIPTION:Run time: 90 min | Format: 16mm Film\n\nSeries: Films for Every
   big screen!\n\nTickets: https://vidiotsfoundation.org/purchase/4365503/\n
  \nDetails: https://vidiotsfoundation.org/movies/stop-motion-explosion-on-1
  6mm/
+END:VEVENT
+BEGIN:VEVENT
+UID:4388709@vidiotsfoundation.org
+DTSTAMP:20260830T193000Z
+DTSTART;TZID=America/Los_Angeles:20260830T123000
+DTEND;TZID=America/Los_Angeles:20260830T135300
+SUMMARY:Spirit: Stallion of the Cimarron
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4388709/
+DESCRIPTION:Run time: 83 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nFeaturing a riveting score by Hans 
+ Zimmer and songs by Bryan Adams\, Spirit: Stallion of The Cimarron is sure
+  to stir the hearts both young and old alike.\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4388709/\n\nDetails: https://vidiotsfoundation.org/
+ movies/spirit-stallion-of-the-cimarron/
 END:VEVENT
 BEGIN:VEVENT
 UID:4388667@vidiotsfoundation.org
