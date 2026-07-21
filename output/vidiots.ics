@@ -700,11 +700,30 @@ URL:https://vidiotsfoundation.org/purchase/4388620/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
  Format: Digital\n\nSeries: Doors Open at 6\, In the Eagle\, Special Guests
   in Attendance\n\nVidiots is thrilled to welcome back legendary indie film
- maker Gregg Araki for a special screening of Mysterious Skin followed by a
-  conversation with Araki and actor Joseph Gordon-Levitt.\n\nTickets: https
- ://vidiotsfoundation.org/purchase/4388620/\n\nDetails: https://vidiotsfoun
- dation.org/movies/mysterious-skin/
+ maker Gregg Araki for a special screening of Mysterious Skin including a c
+ onversation with Araki and actor Joseph Gordon-Levitt!\nSecond screening a
+ dded by popular demand with a special introduction from Gregg Araki and Jo
+ seph Gordon-Levitt!\n\nTickets: https://vidiotsfoundation.org/purchase/438
+ 8620/\n\nDetails: https://vidiotsfoundation.org/movies/mysterious-skin/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4428842@vidiotsfoundation.org
+DTSTAMP:20260806T044500Z
+DTSTART;TZID=America/Los_Angeles:20260805T214500
+DTEND;TZID=America/Los_Angeles:20260805T233000
+SUMMARY:Mysterious Skin
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4428842/
+DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: Doors Open at 6\
+ , In the Eagle\, Special Guests in Attendance\n\nVidiots is thrilled to we
+ lcome back legendary indie filmmaker Gregg Araki for a special screening o
+ f Mysterious Skin including a conversation with Araki and actor Joseph Gor
+ don-Levitt!\nSecond screening added by popular demand with a special intro
+ duction from Gregg Araki and Joseph Gordon-Levitt!\n\nTickets: https://vid
+ iotsfoundation.org/purchase/4428842/\n\nDetails: https://vidiotsfoundation
+ .org/movies/mysterious-skin/
 END:VEVENT
 BEGIN:VEVENT
 UID:4389539@vidiotsfoundation.org
@@ -759,10 +778,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4369416/
 DESCRIPTION:Run time: 94 min | Format: Digital | Rating: PG\n\nSeries: In t
- he Eagle\, What the Friday?!?\n\nTurbo\, Ozone and Kelly are back\, and th
- ey're going to need to put on a show to save the community center!\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4369416/\n\nDetails: https://v
- idiotsfoundation.org/movies/breakin-2-electric-boogaloo/
+ he Eagle\, What the Friday?!?\n\nThe fashion\, the dance moves\, the 80s c
+ heese\, the Cannon Films moxie\, it's all in such abundance\, you'll be do
+ ing head-spins on the way back to your car!\n\nTickets: https://vidiotsfou
+ ndation.org/purchase/4369416/\n\nDetails: https://vidiotsfoundation.org/mo
+ vies/breakin-2-electric-boogaloo/
 END:VEVENT
 BEGIN:VEVENT
 UID:4389644@vidiotsfoundation.org
@@ -978,14 +998,12 @@ SUMMARY:Twilight
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4368707/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 122 min | 
- Format: Digital\n\nSeries: Doors Open at 6\, In the Eagle\, Special Guests
-  in Attendance\n\nVidiots is dying to welcome back director Catherine Hard
- wicke for the emo screening of your teen dreams - Twilight - followed by a
-  conversation with Hardwicke on her undead phenomenon!\n\nTickets: https:/
- /vidiotsfoundation.org/purchase/4368707/\n\nDetails: https://vidiotsfounda
- tion.org/movies/twilight/
-STATUS:TENTATIVE
+DESCRIPTION:Run time: 122 min | Format: Digital\n\nSeries: Doors Open at 6\
+ , In the Eagle\, Special Guests in Attendance\n\nVidiots is dying to welco
+ me back director Catherine Hardwicke for the emo screening of your teen dr
+ eams - Twilight - followed by a conversation with Hardwicke on her undead 
+ phenomenon!\n\nTickets: https://vidiotsfoundation.org/purchase/4368707/\n\
+ nDetails: https://vidiotsfoundation.org/movies/twilight/
 END:VEVENT
 BEGIN:VEVENT
 UID:4364996@vidiotsfoundation.org
