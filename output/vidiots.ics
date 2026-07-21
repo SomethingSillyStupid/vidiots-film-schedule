@@ -8,40 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4337912@vidiotsfoundation.org
-DTSTAMP:20260722T020000Z
-DTSTART;TZID=America/Los_Angeles:20260721T190000
-DTEND;TZID=America/Los_Angeles:20260721T203000
-SUMMARY:Sweet 16mm – Rare Notes
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4337912/
-DESCRIPTION:Run time: 90 min\n\nSeries: In the MUBI Microcinema\n\nGet your
-  eyes and ears ready for our latest 16mm installment of celluloid obscurit
- ies Rare Notes\, a program ranging from the 1920s - 1970s of offbeat music
- al masterpieces\, curiosities\, and cartoons. From blues and jazz to funk 
- and prog rock\, this smorgasbord of sounds will move you and get you movin
- g!\n\nTickets: https://vidiotsfoundation.org/purchase/4337912/\n\nDetails:
-  https://vidiotsfoundation.org/movies/sweet-16mm-rare-notes/
-END:VEVENT
-BEGIN:VEVENT
-UID:4270604@vidiotsfoundation.org
-DTSTAMP:20260722T023000Z
-DTSTART;TZID=America/Los_Angeles:20260721T193000
-DTEND;TZID=America/Los_Angeles:20260721T210500
-SUMMARY:Cries and Whispers
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4270604/
-DESCRIPTION:Run time: 95 min | Format: Digital | Release year: 1972\n\nSeri
- es: Doors Open at 6\, In the Eagle\n\nAn intensely felt film that is one o
- f Bergman’s most striking formal experiments\, Cries and Whispers is a p
- owerful depiction of human behavior in the face of death\, positioned on t
- he borders between reality and nightmare\, tranquillity and terror.\n\nTic
- kets: https://vidiotsfoundation.org/purchase/4270604/\n\nDetails: https://
- vidiotsfoundation.org/movies/cries-and-whispers/
-END:VEVENT
-BEGIN:VEVENT
 UID:4270697@vidiotsfoundation.org
 DTSTAMP:20260724T023000Z
 DTSTART;TZID=America/Los_Angeles:20260723T193000
@@ -1624,33 +1590,37 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: R\n\nSeries: Door
  etails: https://vidiotsfoundation.org/movies/sex-lies-and-videotape/
 END:VEVENT
 BEGIN:VEVENT
-UID:4301565@vidiotsfoundation.org
-DTSTAMP:20260721T020000Z
-DTSTART;TZID=America/Los_Angeles:20260720T190000
-DTEND;TZID=America/Los_Angeles:20260720T204000
-SUMMARY:Unidentified
+UID:4337912@vidiotsfoundation.org
+DTSTAMP:20260722T020000Z
+DTSTART;TZID=America/Los_Angeles:20260721T190000
+DTEND;TZID=America/Los_Angeles:20260721T203000
+SUMMARY:Sweet 16mm – Rare Notes
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
-URL:https://vidiotsfoundation.org/purchase/4301565/
-DESCRIPTION:Run time: 100 min | Format: Digital | Rating: PG-13 | Release y
- ear: 2026\n\nSeries: In the MUBI Microcinema\n\nEvil hides best in plain s
- ight. Uncover the truth in Unidentified\, a gripping Saudi murder mystery 
- from acclaimed filmmaker Haifaa al-Mansour (Wadjda).\n\nTickets: https://v
- idiotsfoundation.org/purchase/4301565/\n\nDetails: https://vidiotsfoundati
- on.org/movies/unidentified/
+URL:https://vidiotsfoundation.org/purchase/4337912/
+DESCRIPTION:Run time: 90 min\n\nSeries: In the MUBI Microcinema\n\nGet your
+  eyes and ears ready for our latest 16mm installment of celluloid obscurit
+ ies Rare Notes\, a program ranging from the 1920s - 1970s of offbeat music
+ al masterpieces\, curiosities\, and cartoons. From blues and jazz to funk 
+ and prog rock\, this smorgasbord of sounds will move you and get you movin
+ g!\n\nTickets: https://vidiotsfoundation.org/purchase/4337912/\n\nDetails:
+  https://vidiotsfoundation.org/movies/sweet-16mm-rare-notes/
 END:VEVENT
 BEGIN:VEVENT
-UID:4253144@vidiotsfoundation.org
-DTSTAMP:20260721T023000Z
-DTSTART;TZID=America/Los_Angeles:20260720T193000
-DTEND;TZID=America/Los_Angeles:20260720T210400
-SUMMARY:Jamón Jamón
+UID:4270604@vidiotsfoundation.org
+DTSTAMP:20260722T023000Z
+DTSTART;TZID=America/Los_Angeles:20260721T193000
+DTEND;TZID=America/Los_Angeles:20260721T210500
+SUMMARY:Cries and Whispers
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253144/
-DESCRIPTION:Run time: 94 min | Format: Digital | Release year: 1992\n\nSeri
- es: Doors Open at 6\, In the Eagle\n\nA film where women eat men and men e
- at ham!\n\nTickets: https://vidiotsfoundation.org/purchase/4253144/\n\nDet
- ails: https://vidiotsfoundation.org/movies/jamon-jamon/
+URL:https://vidiotsfoundation.org/purchase/4270604/
+DESCRIPTION:Run time: 95 min | Format: Digital | Release year: 1972\n\nSeri
+ es: Doors Open at 6\, In the Eagle\n\nAn intensely felt film that is one o
+ f Bergman’s most striking formal experiments\, Cries and Whispers is a p
+ owerful depiction of human behavior in the face of death\, positioned on t
+ he borders between reality and nightmare\, tranquillity and terror.\n\nTic
+ kets: https://vidiotsfoundation.org/purchase/4270604/\n\nDetails: https://
+ vidiotsfoundation.org/movies/cries-and-whispers/
 END:VEVENT
 END:VCALENDAR
