@@ -193,6 +193,22 @@ DESCRIPTION:Run time: 117 min | Format: Digital\n\nSeries: In the Eagle\n\n
  \nDetails: https://vidiotsfoundation.org/movies/alien/
 END:VEVENT
 BEGIN:VEVENT
+UID:4297815@vidiotsfoundation.org
+DTSTAMP:20260726T051000Z
+DTSTART;TZID=America/Los_Angeles:20260725T221000
+DTEND;TZID=America/Los_Angeles:20260725T235000
+SUMMARY:Maddie’s Secret
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297815/
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
+ , daring tonal shifts and intimate performances\, the film marks a bold ne
+ w voice in contemporary cinema.\nMore Screenings Added by Popular Demand!\
+ n\nTickets: https://vidiotsfoundation.org/purchase/4297815/\n\nDetails: ht
+ tps://vidiotsfoundation.org/movies/maddies-secret/
+END:VEVENT
+BEGIN:VEVENT
 UID:4253161@vidiotsfoundation.org
 DTSTAMP:20260726T193000Z
 DTSTART;TZID=America/Los_Angeles:20260726T123000
@@ -241,6 +257,24 @@ DESCRIPTION:Run time: 102 min | Format: Digital | Rating: R\n\nSeries: In t
   a costume contest/Little Miss Vidiots Pageant after the show to take home
   the crown!\n\nTickets: https://vidiotsfoundation.org/purchase/4253162/\n\
  nDetails: https://vidiotsfoundation.org/movies/little-miss-sunshine/
+END:VEVENT
+BEGIN:VEVENT
+UID:4297818@vidiotsfoundation.org
+DTSTAMP:20260726T233000Z
+DTSTART;TZID=America/Los_Angeles:20260726T163000
+DTEND;TZID=America/Los_Angeles:20260726T181000
+SUMMARY:Maddie’s Secret
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297818/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
+  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
+ ate performances\, the film marks a bold new voice in contemporary cinema.
+ \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4297818/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/maddies-secret/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4253163@vidiotsfoundation.org
