@@ -62,10 +62,11 @@ SUMMARY:Young Frankenstein
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4271083/
-DESCRIPTION:Run time: 106 min | Format: Digital\n\nSeries: In the Eagle\n\n
- The scariest comedy of all time!\n\nTickets: https://vidiotsfoundation.org
- /purchase/4271083/\n\nDetails: https://vidiotsfoundation.org/movies/young-
- frankenstein/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 106 min | 
+ Format: Digital\n\nSeries: In the Eagle\n\nThe scariest comedy of all time
+ !\n\nTickets: https://vidiotsfoundation.org/purchase/4271083/\n\nDetails: 
+ https://vidiotsfoundation.org/movies/young-frankenstein/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4297789@vidiotsfoundation.org
@@ -215,12 +216,14 @@ SUMMARY:American Pachuco: The Legend of Luis Valdez
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4305101/
-DESCRIPTION:Run time: 92 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nAn auteur emerge
- s from America’s underclass: from migrant farmworker to revolutionary ar
- tist\, Luis Valdez changed American culture.\n\nTickets: https://vidiotsfo
- undation.org/purchase/4305101/\n\nDetails: https://vidiotsfoundation.org/m
- ovies/american-pachuco-the-legend-of-luis-valdez/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\n\nAn auteur emerges from America’s underclass: 
+ from migrant farmworker to revolutionary artist\, Luis Valdez changed Amer
+ ican culture.\n\nTickets: https://vidiotsfoundation.org/purchase/4305101/\
+ n\nDetails: https://vidiotsfoundation.org/movies/american-pachuco-the-lege
+ nd-of-luis-valdez/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4253162@vidiotsfoundation.org
@@ -999,12 +1002,14 @@ SUMMARY:Twilight
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4368707/
-DESCRIPTION:Run time: 122 min | Format: Digital\n\nSeries: Doors Open at 6\
- , In the Eagle\, Special Guests in Attendance\n\nVidiots is dying to welco
- me back director Catherine Hardwicke for the emo screening of your teen dr
- eams - Twilight - followed by a conversation with Hardwicke on her undead 
- phenomenon!\n\nTickets: https://vidiotsfoundation.org/purchase/4368707/\n\
- nDetails: https://vidiotsfoundation.org/movies/twilight/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 122 min | 
+ Format: Digital\n\nSeries: Doors Open at 6\, In the Eagle\, Special Guests
+  in Attendance\n\nVidiots is dying to welcome back director Catherine Hard
+ wicke for the emo screening of your teen dreams - Twilight - followed by a
+  conversation with Hardwicke on her undead phenomenon!\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4368707/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/twilight/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4364996@vidiotsfoundation.org
@@ -1607,39 +1612,5 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: R\n\nSeries: Door
   Winning feature debut masterpiece of sexuality and neuroses to hit our bi
  g screen!\n\nTickets: https://vidiotsfoundation.org/purchase/4393414/\n\nD
  etails: https://vidiotsfoundation.org/movies/sex-lies-and-videotape/
-END:VEVENT
-BEGIN:VEVENT
-UID:4337912@vidiotsfoundation.org
-DTSTAMP:20260722T020000Z
-DTSTART;TZID=America/Los_Angeles:20260721T190000
-DTEND;TZID=America/Los_Angeles:20260721T203000
-SUMMARY:Sweet 16mm – Rare Notes
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4337912/
-DESCRIPTION:Run time: 90 min\n\nSeries: In the MUBI Microcinema\n\nGet your
-  eyes and ears ready for our latest 16mm installment of celluloid obscurit
- ies Rare Notes\, a program ranging from the 1920s - 1970s of offbeat music
- al masterpieces\, curiosities\, and cartoons. From blues and jazz to funk 
- and prog rock\, this smorgasbord of sounds will move you and get you movin
- g!\n\nTickets: https://vidiotsfoundation.org/purchase/4337912/\n\nDetails:
-  https://vidiotsfoundation.org/movies/sweet-16mm-rare-notes/
-END:VEVENT
-BEGIN:VEVENT
-UID:4270604@vidiotsfoundation.org
-DTSTAMP:20260722T023000Z
-DTSTART;TZID=America/Los_Angeles:20260721T193000
-DTEND;TZID=America/Los_Angeles:20260721T210500
-SUMMARY:Cries and Whispers
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4270604/
-DESCRIPTION:Run time: 95 min | Format: Digital | Release year: 1972\n\nSeri
- es: Doors Open at 6\, In the Eagle\n\nAn intensely felt film that is one o
- f Bergman’s most striking formal experiments\, Cries and Whispers is a p
- owerful depiction of human behavior in the face of death\, positioned on t
- he borders between reality and nightmare\, tranquillity and terror.\n\nTic
- kets: https://vidiotsfoundation.org/purchase/4270604/\n\nDetails: https://
- vidiotsfoundation.org/movies/cries-and-whispers/
 END:VEVENT
 END:VCALENDAR
