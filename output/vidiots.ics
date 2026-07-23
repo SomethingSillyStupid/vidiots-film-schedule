@@ -8,23 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4270697@vidiotsfoundation.org
-DTSTAMP:20260724T023000Z
-DTSTART;TZID=America/Los_Angeles:20260723T193000
-DTEND;TZID=America/Los_Angeles:20260723T211300
-SUMMARY:Zoot Suit
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4270697/
-DESCRIPTION:Run time: 103 min | Format: Digital | Rating: R\n\nSeries: Door
- s Open at 6\, In the Eagle\, Live DJ Set\, Special Guests in Attendance\n\
- nVidiots is thrilled to welcome the legendary Luis Valdez for a special sc
- reening of Zoot Suit\, his memorable musical rendition of LA Chicano histo
- ry starring Edward James Olmos. Plus! A Live DJ set from DJ Sleeepwalk!\n\
- nTickets: https://vidiotsfoundation.org/purchase/4270697/\n\nDetails: http
- s://vidiotsfoundation.org/movies/zoot-suit/
-END:VEVENT
-BEGIN:VEVENT
 UID:4360418@vidiotsfoundation.org
 DTSTAMP:20260724T231500Z
 DTSTART;TZID=America/Los_Angeles:20260724T161500
@@ -1750,5 +1733,22 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: R\n\nSeries: Door
   Winning feature debut masterpiece of sexuality and neuroses to hit our bi
  g screen!\n\nTickets: https://vidiotsfoundation.org/purchase/4393414/\n\nD
  etails: https://vidiotsfoundation.org/movies/sex-lies-and-videotape/
+END:VEVENT
+BEGIN:VEVENT
+UID:4270697@vidiotsfoundation.org
+DTSTAMP:20260724T023000Z
+DTSTART;TZID=America/Los_Angeles:20260723T193000
+DTEND;TZID=America/Los_Angeles:20260723T211300
+SUMMARY:Zoot Suit
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4270697/
+DESCRIPTION:Run time: 103 min | Format: Digital | Rating: R\n\nSeries: Door
+ s Open at 6\, In the Eagle\, Live DJ Set\, Special Guests in Attendance\n\
+ nVidiots is thrilled to welcome the legendary Luis Valdez for a special sc
+ reening of Zoot Suit\, his memorable musical rendition of LA Chicano histo
+ ry starring Edward James Olmos. Plus! A Live DJ set from DJ Sleeepwalk!\n\
+ nTickets: https://vidiotsfoundation.org/purchase/4270697/\n\nDetails: http
+ s://vidiotsfoundation.org/movies/zoot-suit/
 END:VEVENT
 END:VCALENDAR
