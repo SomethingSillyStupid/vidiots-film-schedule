@@ -8,6 +8,54 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
+UID:4297787@vidiotsfoundation.org
+DTSTAMP:20260724T234500Z
+DTSTART;TZID=America/Los_Angeles:20260724T164500
+DTEND;TZID=America/Los_Angeles:20260724T181300
+SUMMARY:Leviticus
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297787/
+DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nYoung love can be a monster in th
+ is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
+ foundation.org/purchase/4297787/\n\nDetails: https://vidiotsfoundation.org
+ /movies/leviticus/
+END:VEVENT
+BEGIN:VEVENT
+UID:4297789@vidiotsfoundation.org
+DTSTAMP:20260725T023000Z
+DTSTART;TZID=America/Los_Angeles:20260724T193000
+DTEND;TZID=America/Los_Angeles:20260724T205800
+SUMMARY:Leviticus
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297789/
+DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nYoung love can be a monster in th
+ is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
+ foundation.org/purchase/4297789/\n\nDetails: https://vidiotsfoundation.org
+ /movies/leviticus/
+END:VEVENT
+BEGIN:VEVENT
+UID:4297791@vidiotsfoundation.org
+DTSTAMP:20260725T050000Z
+DTSTART;TZID=America/Los_Angeles:20260724T220000
+DTEND;TZID=America/Los_Angeles:20260724T233200
+SUMMARY:American Pachuco: The Legend of Luis Valdez
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297791/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\n\nAn auteur emerges from America’s underclass: 
+ from migrant farmworker to revolutionary artist\, Luis Valdez changed Amer
+ ican culture.\n\nTickets: https://vidiotsfoundation.org/purchase/4297791/\
+ n\nDetails: https://vidiotsfoundation.org/movies/american-pachuco-the-lege
+ nd-of-luis-valdez/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:4253153@vidiotsfoundation.org
 DTSTAMP:20260725T230000Z
 DTSTART;TZID=America/Los_Angeles:20260725T160000
@@ -21,6 +69,24 @@ DESCRIPTION:Run time: 102 min\n\nSeries: In the Eagle\, Staff Picks\, TeenT
   and star of this wonderfully wry dark comedy of greed\, love\, plants\, a
  nd plotting murder.\n\nTickets: https://vidiotsfoundation.org/purchase/425
  3153/\n\nDetails: https://vidiotsfoundation.org/movies/a-new-leaf/
+END:VEVENT
+BEGIN:VEVENT
+UID:4297813@vidiotsfoundation.org
+DTSTAMP:20260726T000000Z
+DTSTART;TZID=America/Los_Angeles:20260725T170000
+DTEND;TZID=America/Los_Angeles:20260725T183200
+SUMMARY:American Pachuco: The Legend of Luis Valdez
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297813/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\n\nAn auteur emerges from America’s underclass: 
+ from migrant farmworker to revolutionary artist\, Luis Valdez changed Amer
+ ican culture.\n\nTickets: https://vidiotsfoundation.org/purchase/4297813/\
+ n\nDetails: https://vidiotsfoundation.org/movies/american-pachuco-the-lege
+ nd-of-luis-valdez/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4253157@vidiotsfoundation.org
@@ -37,6 +103,21 @@ DESCRIPTION:Run time: 114 min | Format: 35mm Film | Rating: R\n\nSeries: 35
  ns even more relevant today!\n\nTickets: https://vidiotsfoundation.org/pur
  chase/4253157/\n\nDetails: https://vidiotsfoundation.org/movies/three-king
  s/
+END:VEVENT
+BEGIN:VEVENT
+UID:4297814@vidiotsfoundation.org
+DTSTAMP:20260726T024500Z
+DTSTART;TZID=America/Los_Angeles:20260725T194500
+DTEND;TZID=America/Los_Angeles:20260725T211300
+SUMMARY:Leviticus
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297814/
+DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nYoung love can be a monster in th
+ is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
+ foundation.org/purchase/4297814/\n\nDetails: https://vidiotsfoundation.org
+ /movies/leviticus/
 END:VEVENT
 BEGIN:VEVENT
 UID:4271084@vidiotsfoundation.org
@@ -86,6 +167,24 @@ DESCRIPTION:Run time: 97 min | Format: Digital\n\nSeries: Films for Everyon
  e about to get a little freaky.\n\nTickets: https://vidiotsfoundation.org/
  purchase/4253161/\n\nDetails: https://vidiotsfoundation.org/movies/freaky-
  friday/
+END:VEVENT
+BEGIN:VEVENT
+UID:4305101@vidiotsfoundation.org
+DTSTAMP:20260726T200000Z
+DTSTART;TZID=America/Los_Angeles:20260726T130000
+DTEND;TZID=America/Los_Angeles:20260726T143200
+SUMMARY:American Pachuco: The Legend of Luis Valdez
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4305101/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\n\nAn auteur emerges from America’s underclass: 
+ from migrant farmworker to revolutionary artist\, Luis Valdez changed Amer
+ ican culture.\n\nTickets: https://vidiotsfoundation.org/purchase/4305101/\
+ n\nDetails: https://vidiotsfoundation.org/movies/american-pachuco-the-lege
+ nd-of-luis-valdez/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4253162@vidiotsfoundation.org
@@ -143,6 +242,36 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 140 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:4297819@vidiotsfoundation.org
+DTSTAMP:20260727T023000Z
+DTSTART;TZID=America/Los_Angeles:20260726T193000
+DTEND;TZID=America/Los_Angeles:20260726T205800
+SUMMARY:Leviticus
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297819/
+DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nYoung love can be a monster in th
+ is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
+ foundation.org/purchase/4297819/\n\nDetails: https://vidiotsfoundation.org
+ /movies/leviticus/
+END:VEVENT
+BEGIN:VEVENT
+UID:4297838@vidiotsfoundation.org
+DTSTAMP:20260728T020000Z
+DTSTART;TZID=America/Los_Angeles:20260727T190000
+DTEND;TZID=America/Los_Angeles:20260727T202800
+SUMMARY:Leviticus
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297838/
+DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nYoung love can be a monster in th
+ is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
+ foundation.org/purchase/4297838/\n\nDetails: https://vidiotsfoundation.org
+ /movies/leviticus/
+END:VEVENT
+BEGIN:VEVENT
 UID:4254358@vidiotsfoundation.org
 DTSTAMP:20260728T023000Z
 DTSTART;TZID=America/Los_Angeles:20260727T193000
@@ -173,6 +302,22 @@ DESCRIPTION:Run time: 171 min | Format: Digital | Rating: R\n\nSeries: Door
   Day-Lewis\, Lena Olin\, and Juliette Binoche.\n\nTickets: https://vidiots
  foundation.org/purchase/4254360/\n\nDetails: https://vidiotsfoundation.org
  /movies/the-unbearable-lightness-of-being/
+END:VEVENT
+BEGIN:VEVENT
+UID:4403294@vidiotsfoundation.org
+DTSTAMP:20260730T020000Z
+DTSTART;TZID=America/Los_Angeles:20260729T190000
+DTEND;TZID=America/Los_Angeles:20260729T203200
+SUMMARY:American Pachuco: The Legend of Luis Valdez
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4403294/
+DESCRIPTION:Run time: 92 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nAn auteur emerge
+ s from America’s underclass: from migrant farmworker to revolutionary ar
+ tist\, Luis Valdez changed American culture.\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4403294/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/american-pachuco-the-legend-of-luis-valdez/
 END:VEVENT
 BEGIN:VEVENT
 UID:4270660@vidiotsfoundation.org
@@ -290,6 +435,22 @@ DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Comm
  Sex and Death at Camp Miasma" presented by our friends at MUBI.\n\nTickets
  : https://vidiotsfoundation.org/purchase/4364992/\n\nDetails: https://vidi
  otsfoundation.org/movies/dressed-to-kill/
+END:VEVENT
+BEGIN:VEVENT
+UID:4338177@vidiotsfoundation.org
+DTSTAMP:20260801T051500Z
+DTSTART;TZID=America/Los_Angeles:20260731T221500
+DTEND;TZID=America/Los_Angeles:20260731T234700
+SUMMARY:American Pachuco: The Legend of Luis Valdez
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4338177/
+DESCRIPTION:Run time: 92 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nAn auteur emerge
+ s from America’s underclass: from migrant farmworker to revolutionary ar
+ tist\, Luis Valdez changed American culture.\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4338177/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/american-pachuco-the-legend-of-luis-valdez/
 END:VEVENT
 BEGIN:VEVENT
 UID:4338180@vidiotsfoundation.org
@@ -1503,6 +1664,21 @@ DESCRIPTION:Run time: 82 min | Format: Digital\n\nSeries: Community Partner
  ies/jazz-on-a-summers-day/
 END:VEVENT
 BEGIN:VEVENT
+UID:4444820@vidiotsfoundation.org
+DTSTAMP:20260829T020000Z
+DTSTART;TZID=America/Los_Angeles:20260828T190000
+DTEND;TZID=America/Los_Angeles:20260828T204000
+SUMMARY:Dirty Dancing
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4444820/
+DESCRIPTION:Run time: 100 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\n\nDon your dancing shoes and come prepared for a movie-going
+  experience you'll only find at Vidiots\, you know you can’t resist thes
+ e hungry eyes!\n\nTickets: https://vidiotsfoundation.org/purchase/4444820/
+ \n\nDetails: https://vidiotsfoundation.org/movies/dirty-dancing/
+END:VEVENT
+BEGIN:VEVENT
 UID:4393377@vidiotsfoundation.org
 DTSTAMP:20260829T023000Z
 DTSTART;TZID=America/Los_Angeles:20260828T193000
@@ -1517,6 +1693,22 @@ DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: Addit
  up our microcinema in all its eye-popping\, kink-positive\, raucously funn
  y glory!\n\nTickets: https://vidiotsfoundation.org/purchase/4393377/\n\nDe
  tails: https://vidiotsfoundation.org/movies/i-want-your-sex/
+END:VEVENT
+BEGIN:VEVENT
+UID:4444822@vidiotsfoundation.org
+DTSTAMP:20260829T044500Z
+DTSTART;TZID=America/Los_Angeles:20260828T214500
+DTEND;TZID=America/Los_Angeles:20260828T234900
+SUMMARY:Possession
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4444822/
+DESCRIPTION:Run time: 124 min | Format: Digital | Rating: R | Release year:
+  1981\n\nSeries: In the Eagle\, What the Friday?!?\n\nLose yourself in thi
+ s disturbing tale of obsession\, sexuality\, and transformation from the f
+ ecund mind of Polish provocateur Andrzej Żuławski.\nRemembering Sam Neil
+ l\n\nTickets: https://vidiotsfoundation.org/purchase/4444822/\n\nDetails: 
+ https://vidiotsfoundation.org/movies/possession/
 END:VEVENT
 BEGIN:VEVENT
 UID:4393386@vidiotsfoundation.org
@@ -1661,21 +1853,6 @@ DESCRIPTION:Run time: 94 min | Format: 4K Digital | Rating: R\n\nSeries: In
  ls: https://vidiotsfoundation.org/movies/trainspotting/
 END:VEVENT
 BEGIN:VEVENT
-UID:4297787@vidiotsfoundation.org
-DTSTAMP:20260724T234500Z
-DTSTART;TZID=America/Los_Angeles:20260724T164500
-DTEND;TZID=America/Los_Angeles:20260724T181300
-SUMMARY:Leviticus
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297787/
-DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nYoung love can be a monster in th
- is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
- foundation.org/purchase/4297787/\n\nDetails: https://vidiotsfoundation.org
- /movies/leviticus/
-END:VEVENT
-BEGIN:VEVENT
 UID:4271083@vidiotsfoundation.org
 DTSTAMP:20260725T020000Z
 DTSTART;TZID=America/Los_Angeles:20260724T190000
@@ -1691,22 +1868,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 106 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4297789@vidiotsfoundation.org
-DTSTAMP:20260725T023000Z
-DTSTART;TZID=America/Los_Angeles:20260724T193000
-DTEND;TZID=America/Los_Angeles:20260724T205800
-SUMMARY:Leviticus
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297789/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
- ormat: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micro
- cinema\n\nYoung love can be a monster in this sizzling queer Australian sl
- ow-burn horror.\n\nTickets: https://vidiotsfoundation.org/purchase/4297789
- /\n\nDetails: https://vidiotsfoundation.org/movies/leviticus/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4253152@vidiotsfoundation.org
 DTSTAMP:20260725T044500Z
 DTSTART;TZID=America/Los_Angeles:20260724T214500
@@ -1719,23 +1880,5 @@ DESCRIPTION:Run time: 107 min | Format: Digital | Rating: R\n\nSeries: In t
  he Eagle\, What the Friday?!?\n\nThis is Her... In the Mind Of A Killer\n\
  nTickets: https://vidiotsfoundation.org/purchase/4253152/\n\nDetails: http
  s://vidiotsfoundation.org/movies/the-cell/
-END:VEVENT
-BEGIN:VEVENT
-UID:4297791@vidiotsfoundation.org
-DTSTAMP:20260725T050000Z
-DTSTART;TZID=America/Los_Angeles:20260724T220000
-DTEND;TZID=America/Los_Angeles:20260724T233200
-SUMMARY:American Pachuco: The Legend of Luis Valdez
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297791/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nAn auteur emerges from America’s underclass: 
- from migrant farmworker to revolutionary artist\, Luis Valdez changed Amer
- ican culture.\n\nTickets: https://vidiotsfoundation.org/purchase/4297791/\
- n\nDetails: https://vidiotsfoundation.org/movies/american-pachuco-the-lege
- nd-of-luis-valdez/
-STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
