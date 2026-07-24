@@ -170,10 +170,12 @@ SUMMARY:Alien
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4271084/
-DESCRIPTION:Run time: 117 min | Format: Digital\n\nSeries: In the Eagle\n\n
- If you're like us\, you could definitely use some Ellen Ripley in your lif
- e right now!\n\nTickets: https://vidiotsfoundation.org/purchase/4271084/\n
- \nDetails: https://vidiotsfoundation.org/movies/alien/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 117 min | 
+ Format: Digital\n\nSeries: In the Eagle\n\nIf you're like us\, you could d
+ efinitely use some Ellen Ripley in your life right now!\n\nTickets: https:
+ //vidiotsfoundation.org/purchase/4271084/\n\nDetails: https://vidiotsfound
+ ation.org/movies/alien/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4297815@vidiotsfoundation.org
@@ -184,12 +186,14 @@ SUMMARY:Maddie’s Secret
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4297815/
-DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
- \, In the MUBI Microcinema\n\nA pitch-perfect blend of satire\, melodrama\
- , daring tonal shifts and intimate performances\, the film marks a bold ne
- w voice in contemporary cinema.\nMore Screenings Added by Popular Demand!\
- n\nTickets: https://vidiotsfoundation.org/purchase/4297815/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/maddies-secret/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
+  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
+ ate performances\, the film marks a bold new voice in contemporary cinema.
+ \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4297815/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/maddies-secret/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4253161@vidiotsfoundation.org
@@ -1310,6 +1314,21 @@ DESCRIPTION:Run time: 100 min | Format: Digital | Rating: All Ages | Releas
  \, and Academy Award-winning director Hayao Miyazaki.\n\nTickets: https://
  vidiotsfoundation.org/purchase/4388367/\n\nDetails: https://vidiotsfoundat
  ion.org/movies/ponyo/
+END:VEVENT
+BEGIN:VEVENT
+UID:4388358@vidiotsfoundation.org
+DTSTAMP:20260816T223000Z
+DTSTART;TZID=America/Los_Angeles:20260816T153000
+DTEND;TZID=America/Los_Angeles:20260816T174100
+SUMMARY:A View to a Kill
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4388358/
+DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG\n\nSeries: In 
+ the Eagle\n\nBond is back\, and this time he's up against Christopher Walk
+ en and the iconic Grace Jones in this Roger Moore-era 007 installment.\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4388358/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/a-view-to-a-kill/
 END:VEVENT
 BEGIN:VEVENT
 UID:4393075@vidiotsfoundation.org
