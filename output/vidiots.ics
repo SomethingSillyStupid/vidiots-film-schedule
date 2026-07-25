@@ -8,71 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4297787@vidiotsfoundation.org
-DTSTAMP:20260724T234500Z
-DTSTART;TZID=America/Los_Angeles:20260724T164500
-DTEND;TZID=America/Los_Angeles:20260724T181300
-SUMMARY:Leviticus
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297787/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
- ormat: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micro
- cinema\n\nYoung love can be a monster in this sizzling queer Australian sl
- ow-burn horror.\n\nTickets: https://vidiotsfoundation.org/purchase/4297787
- /\n\nDetails: https://vidiotsfoundation.org/movies/leviticus/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4297789@vidiotsfoundation.org
-DTSTAMP:20260725T023000Z
-DTSTART;TZID=America/Los_Angeles:20260724T193000
-DTEND;TZID=America/Los_Angeles:20260724T205800
-SUMMARY:Leviticus
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297789/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
- ormat: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micro
- cinema\n\nYoung love can be a monster in this sizzling queer Australian sl
- ow-burn horror.\n\nTickets: https://vidiotsfoundation.org/purchase/4297789
- /\n\nDetails: https://vidiotsfoundation.org/movies/leviticus/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4297791@vidiotsfoundation.org
-DTSTAMP:20260725T050000Z
-DTSTART;TZID=America/Los_Angeles:20260724T220000
-DTEND;TZID=America/Los_Angeles:20260724T233200
-SUMMARY:American Pachuco: The Legend of Luis Valdez
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297791/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nAn auteur emerges from America’s underclass: 
- from migrant farmworker to revolutionary artist\, Luis Valdez changed Amer
- ican culture.\n\nTickets: https://vidiotsfoundation.org/purchase/4297791/\
- n\nDetails: https://vidiotsfoundation.org/movies/american-pachuco-the-lege
- nd-of-luis-valdez/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4253153@vidiotsfoundation.org
-DTSTAMP:20260725T230000Z
-DTSTART;TZID=America/Los_Angeles:20260725T160000
-DTEND;TZID=America/Los_Angeles:20260725T174200
-SUMMARY:A New Leaf
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253153/
-DESCRIPTION:Run time: 102 min\n\nSeries: In the Eagle\, Staff Picks\, TeenT
- ix LA\n\nThe legendary Elaine May pulls triple duty as writer\, director\,
-  and star of this wonderfully wry dark comedy of greed\, love\, plants\, a
- nd plotting murder.\n\nTickets: https://vidiotsfoundation.org/purchase/425
- 3153/\n\nDetails: https://vidiotsfoundation.org/movies/a-new-leaf/
-END:VEVENT
-BEGIN:VEVENT
 UID:4297813@vidiotsfoundation.org
 DTSTAMP:20260726T000000Z
 DTSTART;TZID=America/Los_Angeles:20260725T170000
@@ -91,22 +26,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4253157@vidiotsfoundation.org
-DTSTAMP:20260726T020000Z
-DTSTART;TZID=America/Los_Angeles:20260725T190000
-DTEND;TZID=America/Los_Angeles:20260725T205400
-SUMMARY:Three Kings on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253157/
-DESCRIPTION:Run time: 114 min | Format: 35mm Film | Rating: R\n\nSeries: 35
- mm Film\, In the Eagle\n\nGeorge Clooney\, Mark Wahlberg and Ice Cube star
-  in David O. Russell's biting satire on American foreign policy that remai
- ns even more relevant today!\n\nTickets: https://vidiotsfoundation.org/pur
- chase/4253157/\n\nDetails: https://vidiotsfoundation.org/movies/three-king
- s/
-END:VEVENT
-BEGIN:VEVENT
 UID:4297814@vidiotsfoundation.org
 DTSTAMP:20260726T024500Z
 DTSTART;TZID=America/Los_Angeles:20260725T194500
@@ -120,40 +39,6 @@ DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
  is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
  foundation.org/purchase/4297814/\n\nDetails: https://vidiotsfoundation.org
  /movies/leviticus/
-END:VEVENT
-BEGIN:VEVENT
-UID:4271084@vidiotsfoundation.org
-DTSTAMP:20260726T044500Z
-DTSTART;TZID=America/Los_Angeles:20260725T214500
-DTEND;TZID=America/Los_Angeles:20260725T234200
-SUMMARY:Alien
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4271084/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 117 min | 
- Format: Digital\n\nSeries: In the Eagle\n\nIf you're like us\, you could d
- efinitely use some Ellen Ripley in your life right now!\n\nTickets: https:
- //vidiotsfoundation.org/purchase/4271084/\n\nDetails: https://vidiotsfound
- ation.org/movies/alien/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4297815@vidiotsfoundation.org
-DTSTAMP:20260726T051000Z
-DTSTART;TZID=America/Los_Angeles:20260725T221000
-DTEND;TZID=America/Los_Angeles:20260725T235000
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297815/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
-  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
- ate performances\, the film marks a bold new voice in contemporary cinema.
- \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4297815/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/maddies-secret/
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4253161@vidiotsfoundation.org
@@ -205,24 +90,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 102 min |
  Vidiots Pageant after the show to take home the crown!\n\nTickets: https:/
  /vidiotsfoundation.org/purchase/4253162/\n\nDetails: https://vidiotsfounda
  tion.org/movies/little-miss-sunshine/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4297818@vidiotsfoundation.org
-DTSTAMP:20260726T233000Z
-DTSTART;TZID=America/Los_Angeles:20260726T163000
-DTEND;TZID=America/Los_Angeles:20260726T181000
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297818/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
-  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
- ate performances\, the film marks a bold new voice in contemporary cinema.
- \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4297818/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/maddies-secret/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -1843,46 +1710,68 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: R\n\nSeries: Door
  etails: https://vidiotsfoundation.org/movies/sex-lies-and-videotape/
 END:VEVENT
 BEGIN:VEVENT
-UID:4360418@vidiotsfoundation.org
-DTSTAMP:20260724T231500Z
-DTSTART;TZID=America/Los_Angeles:20260724T161500
-DTEND;TZID=America/Los_Angeles:20260724T174900
-SUMMARY:Trainspotting
+UID:4253153@vidiotsfoundation.org
+DTSTAMP:20260725T230000Z
+DTSTART;TZID=America/Los_Angeles:20260725T160000
+DTEND;TZID=America/Los_Angeles:20260725T174200
+SUMMARY:A New Leaf
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4360418/
-DESCRIPTION:Run time: 94 min | Format: 4K Digital | Rating: R\n\nSeries: In
-  the Eagle\n\nEncore Screening Added!\n30 Year Anniversary! New 4K Restora
- tion!\n\nTickets: https://vidiotsfoundation.org/purchase/4360418/\n\nDetai
- ls: https://vidiotsfoundation.org/movies/trainspotting/
+URL:https://vidiotsfoundation.org/purchase/4253153/
+DESCRIPTION:Run time: 102 min\n\nSeries: In the Eagle\, Staff Picks\, TeenT
+ ix LA\n\nThe legendary Elaine May pulls triple duty as writer\, director\,
+  and star of this wonderfully wry dark comedy of greed\, love\, plants\, a
+ nd plotting murder.\n\nTickets: https://vidiotsfoundation.org/purchase/425
+ 3153/\n\nDetails: https://vidiotsfoundation.org/movies/a-new-leaf/
 END:VEVENT
 BEGIN:VEVENT
-UID:4271083@vidiotsfoundation.org
-DTSTAMP:20260725T020000Z
-DTSTART;TZID=America/Los_Angeles:20260724T190000
-DTEND;TZID=America/Los_Angeles:20260724T204600
-SUMMARY:Young Frankenstein
+UID:4253157@vidiotsfoundation.org
+DTSTAMP:20260726T020000Z
+DTSTART;TZID=America/Los_Angeles:20260725T190000
+DTEND;TZID=America/Los_Angeles:20260725T205400
+SUMMARY:Three Kings on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4271083/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 106 min | 
- Format: Digital\n\nSeries: In the Eagle\n\nThe scariest comedy of all time
- !\n\nTickets: https://vidiotsfoundation.org/purchase/4271083/\n\nDetails: 
- https://vidiotsfoundation.org/movies/young-frankenstein/
+URL:https://vidiotsfoundation.org/purchase/4253157/
+DESCRIPTION:Run time: 114 min | Format: 35mm Film | Rating: R\n\nSeries: 35
+ mm Film\, In the Eagle\n\nGeorge Clooney\, Mark Wahlberg and Ice Cube star
+  in David O. Russell's biting satire on American foreign policy that remai
+ ns even more relevant today!\n\nTickets: https://vidiotsfoundation.org/pur
+ chase/4253157/\n\nDetails: https://vidiotsfoundation.org/movies/three-king
+ s/
+END:VEVENT
+BEGIN:VEVENT
+UID:4271084@vidiotsfoundation.org
+DTSTAMP:20260726T044500Z
+DTSTART;TZID=America/Los_Angeles:20260725T214500
+DTEND;TZID=America/Los_Angeles:20260725T234200
+SUMMARY:Alien
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4271084/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 117 min | 
+ Format: Digital\n\nSeries: In the Eagle\n\nIf you're like us\, you could d
+ efinitely use some Ellen Ripley in your life right now!\n\nTickets: https:
+ //vidiotsfoundation.org/purchase/4271084/\n\nDetails: https://vidiotsfound
+ ation.org/movies/alien/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4253152@vidiotsfoundation.org
-DTSTAMP:20260725T044500Z
-DTSTART;TZID=America/Los_Angeles:20260724T214500
-DTEND;TZID=America/Los_Angeles:20260724T233200
-SUMMARY:The Cell
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253152/
-DESCRIPTION:Run time: 107 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\, What the Friday?!?\n\nThis is Her... In the Mind Of A Killer\n\
- nTickets: https://vidiotsfoundation.org/purchase/4253152/\n\nDetails: http
- s://vidiotsfoundation.org/movies/the-cell/
+UID:4297815@vidiotsfoundation.org
+DTSTAMP:20260726T051000Z
+DTSTART;TZID=America/Los_Angeles:20260725T221000
+DTEND;TZID=America/Los_Angeles:20260725T235000
+SUMMARY:Maddie’s Secret
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4297815/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
+  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
+ ate performances\, the film marks a bold new voice in contemporary cinema.
+ \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4297815/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/maddies-secret/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
