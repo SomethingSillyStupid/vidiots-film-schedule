@@ -8,55 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4297813@vidiotsfoundation.org
-DTSTAMP:20260726T000000Z
-DTSTART;TZID=America/Los_Angeles:20260725T170000
-DTEND;TZID=America/Los_Angeles:20260725T183200
-SUMMARY:American Pachuco: The Legend of Luis Valdez
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297813/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nAn auteur emerges from America’s underclass: 
- from migrant farmworker to revolutionary artist\, Luis Valdez changed Amer
- ican culture.\n\nTickets: https://vidiotsfoundation.org/purchase/4297813/\
- n\nDetails: https://vidiotsfoundation.org/movies/american-pachuco-the-lege
- nd-of-luis-valdez/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4297814@vidiotsfoundation.org
-DTSTAMP:20260726T024500Z
-DTSTART;TZID=America/Los_Angeles:20260725T194500
-DTEND;TZID=America/Los_Angeles:20260725T211300
-SUMMARY:Leviticus
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297814/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
- ormat: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micro
- cinema\n\nYoung love can be a monster in this sizzling queer Australian sl
- ow-burn horror.\n\nTickets: https://vidiotsfoundation.org/purchase/4297814
- /\n\nDetails: https://vidiotsfoundation.org/movies/leviticus/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4253161@vidiotsfoundation.org
-DTSTAMP:20260726T193000Z
-DTSTART;TZID=America/Los_Angeles:20260726T123000
-DTEND;TZID=America/Los_Angeles:20260726T140700
-SUMMARY:Freaky Friday
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253161/
-DESCRIPTION:Run time: 97 min | Format: Digital\n\nSeries: Films for Everyon
- e\, In the Eagle\n\nMondays are manic. Wednesdays are wild. And Fridays ar
- e about to get a little freaky.\n\nTickets: https://vidiotsfoundation.org/
- purchase/4253161/\n\nDetails: https://vidiotsfoundation.org/movies/freaky-
- friday/
-END:VEVENT
-BEGIN:VEVENT
 UID:4305101@vidiotsfoundation.org
 DTSTAMP:20260726T200000Z
 DTSTART;TZID=America/Los_Angeles:20260726T130000
@@ -66,49 +17,12 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4305101/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nAn auteur emerges from America’s underclass: 
+ ormat: Digital\n\nSeries: Groundbreaking Non-Fiction\, In the MUBI Microci
+ nema\, Additional Shows\n\nAn auteur emerges from America’s underclass: 
  from migrant farmworker to revolutionary artist\, Luis Valdez changed Amer
  ican culture.\n\nTickets: https://vidiotsfoundation.org/purchase/4305101/\
  n\nDetails: https://vidiotsfoundation.org/movies/american-pachuco-the-lege
  nd-of-luis-valdez/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4253162@vidiotsfoundation.org
-DTSTAMP:20260726T223000Z
-DTSTART;TZID=America/Los_Angeles:20260726T153000
-DTEND;TZID=America/Los_Angeles:20260726T171200
-SUMMARY:Little Miss Sunshine
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253162/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 102 min | 
- Format: Digital | Rating: R\n\nSeries: In the Eagle\n\nJoin Vidiots and ou
- r friends at Searchlight Pictures for a very special 20th Anniversary scre
- ening of the indie darling Little Miss Sunshine! Come through for themed b
- evies\, photo-ops\, and dress your best for a costume contest/Little Miss 
- Vidiots Pageant after the show to take home the crown!\n\nTickets: https:/
- /vidiotsfoundation.org/purchase/4253162/\n\nDetails: https://vidiotsfounda
- tion.org/movies/little-miss-sunshine/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4253163@vidiotsfoundation.org
-DTSTAMP:20260727T020000Z
-DTSTART;TZID=America/Los_Angeles:20260726T190000
-DTEND;TZID=America/Los_Angeles:20260726T212000
-SUMMARY:Twin Peaks: The Original Mystery –  Episodes 1 + 2
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253163/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 140 min | 
- Format: Digital\n\nSeries: In the Eagle\, The Lynchian Legacy\n\nGo back t
- o the beginning of David Lynch and Mark Frost's game-changing television p
- henomenon with a special theatrical screening of the first two episodes of
-  this landmark series on our beautiful big screen.\n\nTickets: https://vid
- iotsfoundation.org/purchase/4253163/\n\nDetails: https://vidiotsfoundation
- .org/movies/twin-peaks-the-original-mystery-episodes-1-2/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -183,8 +97,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4403294/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nAn auteur emerges from America’s underclass: 
+ ormat: Digital\n\nSeries: Groundbreaking Non-Fiction\, In the MUBI Microci
+ nema\, Additional Shows\n\nAn auteur emerges from America’s underclass: 
  from migrant farmworker to revolutionary artist\, Luis Valdez changed Amer
  ican culture.\n\nTickets: https://vidiotsfoundation.org/purchase/4403294/\
  n\nDetails: https://vidiotsfoundation.org/movies/american-pachuco-the-lege
@@ -317,8 +231,8 @@ SUMMARY:American Pachuco: The Legend of Luis Valdez
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4338177/
-DESCRIPTION:Run time: 92 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nAn auteur emerge
+DESCRIPTION:Run time: 92 min | Format: Digital\n\nSeries: Groundbreaking No
+ n-Fiction\, In the MUBI Microcinema\, Additional Shows\n\nAn auteur emerge
  s from America’s underclass: from migrant farmworker to revolutionary ar
  tist\, Luis Valdez changed American culture.\n\nTickets: https://vidiotsfo
  undation.org/purchase/4338177/\n\nDetails: https://vidiotsfoundation.org/m
@@ -1711,68 +1625,55 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: R\n\nSeries: Door
  etails: https://vidiotsfoundation.org/movies/sex-lies-and-videotape/
 END:VEVENT
 BEGIN:VEVENT
-UID:4253153@vidiotsfoundation.org
-DTSTAMP:20260725T230000Z
-DTSTART;TZID=America/Los_Angeles:20260725T160000
-DTEND;TZID=America/Los_Angeles:20260725T174200
-SUMMARY:A New Leaf
+UID:4253161@vidiotsfoundation.org
+DTSTAMP:20260726T193000Z
+DTSTART;TZID=America/Los_Angeles:20260726T123000
+DTEND;TZID=America/Los_Angeles:20260726T140700
+SUMMARY:Freaky Friday
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253153/
-DESCRIPTION:Run time: 102 min\n\nSeries: In the Eagle\, Staff Picks\, TeenT
- ix LA\n\nThe legendary Elaine May pulls triple duty as writer\, director\,
-  and star of this wonderfully wry dark comedy of greed\, love\, plants\, a
- nd plotting murder.\n\nTickets: https://vidiotsfoundation.org/purchase/425
- 3153/\n\nDetails: https://vidiotsfoundation.org/movies/a-new-leaf/
+URL:https://vidiotsfoundation.org/purchase/4253161/
+DESCRIPTION:Run time: 97 min | Format: Digital\n\nSeries: Films for Everyon
+ e\, In the Eagle\n\nMondays are manic. Wednesdays are wild. And Fridays ar
+ e about to get a little freaky.\n\nTickets: https://vidiotsfoundation.org/
+ purchase/4253161/\n\nDetails: https://vidiotsfoundation.org/movies/freaky-
+ friday/
 END:VEVENT
 BEGIN:VEVENT
-UID:4253157@vidiotsfoundation.org
-DTSTAMP:20260726T020000Z
-DTSTART;TZID=America/Los_Angeles:20260725T190000
-DTEND;TZID=America/Los_Angeles:20260725T205400
-SUMMARY:Three Kings on 35mm
+UID:4253162@vidiotsfoundation.org
+DTSTAMP:20260726T223000Z
+DTSTART;TZID=America/Los_Angeles:20260726T153000
+DTEND;TZID=America/Los_Angeles:20260726T171200
+SUMMARY:Little Miss Sunshine
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4253157/
-DESCRIPTION:Run time: 114 min | Format: 35mm Film | Rating: R\n\nSeries: 35
- mm Film\, In the Eagle\n\nGeorge Clooney\, Mark Wahlberg and Ice Cube star
-  in David O. Russell's biting satire on American foreign policy that remai
- ns even more relevant today!\n\nTickets: https://vidiotsfoundation.org/pur
- chase/4253157/\n\nDetails: https://vidiotsfoundation.org/movies/three-king
- s/
-END:VEVENT
-BEGIN:VEVENT
-UID:4271084@vidiotsfoundation.org
-DTSTAMP:20260726T044500Z
-DTSTART;TZID=America/Los_Angeles:20260725T214500
-DTEND;TZID=America/Los_Angeles:20260725T234200
-SUMMARY:Alien
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4271084/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 117 min | 
- Format: Digital\n\nSeries: In the Eagle\n\nIf you're like us\, you could d
- efinitely use some Ellen Ripley in your life right now!\n\nTickets: https:
- //vidiotsfoundation.org/purchase/4271084/\n\nDetails: https://vidiotsfound
- ation.org/movies/alien/
+URL:https://vidiotsfoundation.org/purchase/4253162/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 102 min | 
+ Format: Digital | Rating: R\n\nSeries: In the Eagle\n\nJoin Vidiots and ou
+ r friends at Searchlight Pictures for a very special 20th Anniversary scre
+ ening of the indie darling Little Miss Sunshine! Come through for themed b
+ evies\, photo-ops\, and dress your best for a costume contest/Little Miss 
+ Vidiots Pageant after the show to take home the crown!\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4253162/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/little-miss-sunshine/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4297815@vidiotsfoundation.org
-DTSTAMP:20260726T051000Z
-DTSTART;TZID=America/Los_Angeles:20260725T221000
-DTEND;TZID=America/Los_Angeles:20260725T235000
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297815/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA
-  pitch-perfect blend of satire\, melodrama\, daring tonal shifts and intim
- ate performances\, the film marks a bold new voice in contemporary cinema.
- \nMore Screenings Added by Popular Demand!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4297815/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/maddies-secret/
+UID:4253163@vidiotsfoundation.org
+DTSTAMP:20260727T020000Z
+DTSTART;TZID=America/Los_Angeles:20260726T190000
+DTEND;TZID=America/Los_Angeles:20260726T212000
+SUMMARY:Twin Peaks: The Original Mystery –  Episodes 1 + 2
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4253163/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 140 min | 
+ Format: Digital\n\nSeries: In the Eagle\, The Lynchian Legacy\n\nGo back t
+ o the beginning of David Lynch and Mark Frost's game-changing television p
+ henomenon with a special theatrical screening of the first two episodes of
+  this landmark series on our beautiful big screen.\n\nTickets: https://vid
+ iotsfoundation.org/purchase/4253163/\n\nDetails: https://vidiotsfoundation
+ .org/movies/twin-peaks-the-original-mystery-episodes-1-2/
 STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
