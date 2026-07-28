@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4254360@vidiotsfoundation.org
-DTSTAMP:20260729T023000Z
-DTSTART;TZID=America/Los_Angeles:20260728T193000
-DTEND;TZID=America/Los_Angeles:20260728T222100
-SUMMARY:The Unbearable Lightness of Being
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4254360/
-DESCRIPTION:Run time: 171 min | Format: Digital | Rating: R\n\nSeries: Door
- s Open at 6\, In the Eagle\n\nWith all this heat\, we thought you might be
-  thirsty for Philip Kaufman's poetically polyamorous drama starring Daniel
-  Day-Lewis\, Lena Olin\, and Juliette Binoche.\n\nTickets: https://vidiots
- foundation.org/purchase/4254360/\n\nDetails: https://vidiotsfoundation.org
- /movies/the-unbearable-lightness-of-being/
-END:VEVENT
-BEGIN:VEVENT
 UID:4403294@vidiotsfoundation.org
 DTSTAMP:20260730T020000Z
 DTSTART;TZID=America/Los_Angeles:20260729T190000
@@ -1554,34 +1538,19 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: R\n\nSeries: Door
  etails: https://vidiotsfoundation.org/movies/sex-lies-and-videotape/
 END:VEVENT
 BEGIN:VEVENT
-UID:4297838@vidiotsfoundation.org
-DTSTAMP:20260728T020000Z
-DTSTART;TZID=America/Los_Angeles:20260727T190000
-DTEND;TZID=America/Los_Angeles:20260727T202800
-SUMMARY:Leviticus
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4297838/
-DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nYoung love can be a monster in th
- is sizzling queer Australian slow-burn horror.\n\nTickets: https://vidiots
- foundation.org/purchase/4297838/\n\nDetails: https://vidiotsfoundation.org
- /movies/leviticus/
-END:VEVENT
-BEGIN:VEVENT
-UID:4254358@vidiotsfoundation.org
-DTSTAMP:20260728T023000Z
-DTSTART;TZID=America/Los_Angeles:20260727T193000
-DTEND;TZID=America/Los_Angeles:20260727T213200
-SUMMARY:The Face of Another
+UID:4254360@vidiotsfoundation.org
+DTSTAMP:20260729T023000Z
+DTSTART;TZID=America/Los_Angeles:20260728T193000
+DTEND;TZID=America/Los_Angeles:20260728T222100
+SUMMARY:The Unbearable Lightness of Being
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4254358/
-DESCRIPTION:Run time: 122 min | Format: Digital | Release year: 1966\n\nSer
- ies: Doors Open at 6\, In the Eagle\n\nWith unforgettable imagery\, Teshig
- ahara's film explores both the limits and freedom in acquiring a new perso
- na\, and questions the notion of individuality itself.\n\nTickets: https:/
- /vidiotsfoundation.org/purchase/4254358/\n\nDetails: https://vidiotsfounda
- tion.org/movies/the-face-of-another/
+URL:https://vidiotsfoundation.org/purchase/4254360/
+DESCRIPTION:Run time: 171 min | Format: Digital | Rating: R\n\nSeries: Door
+ s Open at 6\, In the Eagle\n\nWith all this heat\, we thought you might be
+  thirsty for Philip Kaufman's poetically polyamorous drama starring Daniel
+  Day-Lewis\, Lena Olin\, and Juliette Binoche.\n\nTickets: https://vidiots
+ foundation.org/purchase/4254360/\n\nDetails: https://vidiotsfoundation.org
+ /movies/the-unbearable-lightness-of-being/
 END:VEVENT
 END:VCALENDAR
