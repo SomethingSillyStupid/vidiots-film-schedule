@@ -26,25 +26,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4270660@vidiotsfoundation.org
-DTSTAMP:20260730T023000Z
-DTSTART;TZID=America/Los_Angeles:20260729T193000
-DTEND;TZID=America/Los_Angeles:20260729T213300
-SUMMARY:Interview with the Vampire on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4270660/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 123 min | 
- Format: 35mm Film | Rating: R\n\nSeries: 35mm Film\, Doors Open at 6\, In 
- the Eagle\n\nWith stunning costume and art direction\, a jaw-dropping perf
- ormance from an 11 year-old Kirsten Dunst\, a healthy dose of homoeroticis
- m\, and so many sexy\, brooding vampires\, we can't wait to sink our teeth
-  into this lush bloodthirsty classic on glorious celluloid!\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4270660/\n\nDetails: https://vidiotsf
- oundation.org/movies/interview-with-the-vampire/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4270663@vidiotsfoundation.org
 DTSTAMP:20260730T210000Z
 DTSTART;TZID=America/Los_Angeles:20260730T140000
@@ -1537,19 +1518,22 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: R\n\nSeries: Door
  etails: https://vidiotsfoundation.org/movies/sex-lies-and-videotape/
 END:VEVENT
 BEGIN:VEVENT
-UID:4254360@vidiotsfoundation.org
-DTSTAMP:20260729T023000Z
-DTSTART;TZID=America/Los_Angeles:20260728T193000
-DTEND;TZID=America/Los_Angeles:20260728T222100
-SUMMARY:The Unbearable Lightness of Being
+UID:4270660@vidiotsfoundation.org
+DTSTAMP:20260730T023000Z
+DTSTART;TZID=America/Los_Angeles:20260729T193000
+DTEND;TZID=America/Los_Angeles:20260729T213300
+SUMMARY:Interview with the Vampire on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4254360/
-DESCRIPTION:Run time: 171 min | Format: Digital | Rating: R\n\nSeries: Door
- s Open at 6\, In the Eagle\n\nWith all this heat\, we thought you might be
-  thirsty for Philip Kaufman's poetically polyamorous drama starring Daniel
-  Day-Lewis\, Lena Olin\, and Juliette Binoche.\n\nTickets: https://vidiots
- foundation.org/purchase/4254360/\n\nDetails: https://vidiotsfoundation.org
- /movies/the-unbearable-lightness-of-being/
+URL:https://vidiotsfoundation.org/purchase/4270660/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 123 min | 
+ Format: 35mm Film | Rating: R\n\nSeries: 35mm Film\, Doors Open at 6\, In 
+ the Eagle\n\nWith stunning costume and art direction\, a jaw-dropping perf
+ ormance from an 11 year-old Kirsten Dunst\, a healthy dose of homoeroticis
+ m\, and so many sexy\, brooding vampires\, we can't wait to sink our teeth
+  into this lush bloodthirsty classic on glorious celluloid!\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4270660/\n\nDetails: https://vidiotsf
+ oundation.org/movies/interview-with-the-vampire/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
