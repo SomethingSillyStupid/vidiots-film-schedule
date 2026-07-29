@@ -152,12 +152,14 @@ SUMMARY:American Pachuco: The Legend of Luis Valdez
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4338177/
-DESCRIPTION:Run time: 92 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nAn auteur emerge
- s from America’s underclass: from migrant farmworker to revolutionary ar
- tist\, Luis Valdez changed American culture.\n\nTickets: https://vidiotsfo
- undation.org/purchase/4338177/\n\nDetails: https://vidiotsfoundation.org/m
- ovies/american-pachuco-the-legend-of-luis-valdez/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\n\nAn auteur emerges from America’s underclass: 
+ from migrant farmworker to revolutionary artist\, Luis Valdez changed Amer
+ ican culture.\n\nTickets: https://vidiotsfoundation.org/purchase/4338177/\
+ n\nDetails: https://vidiotsfoundation.org/movies/american-pachuco-the-lege
+ nd-of-luis-valdez/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4338180@vidiotsfoundation.org
@@ -709,17 +711,18 @@ SUMMARY:Mary Oliver: Saved by the Beauty of the World
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4437173/
-DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests in
-  Attendance\n\nCelebrated best-selling poet\, Pulitzer Prize-winner\, love
- r of dogs and long walks in the woods\, openly queer but intensely private
- \, Oliver was America’s unlikely contemporary mystic\, stalking the pond
- s and forests of Cape Cod for nearly fifty years in order to open herself 
- – and her readers – to the known and unknowable world.\nFeaturing a co
- nversation with filmmaker Sasha Waters after the August 12th screening!\n\
- nTickets: https://vidiotsfoundation.org/purchase/4437173/\n\nDetails: http
- s://vidiotsfoundation.org/movies/mary-oliver-saved-by-the-beauty-of-the-wo
- rld/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\, Special Guests in Attendance\n\nCelebrated best-
+ selling poet\, Pulitzer Prize-winner\, lover of dogs and long walks in the
+  woods\, openly queer but intensely private\, Oliver was America’s unlik
+ ely contemporary mystic\, stalking the ponds and forests of Cape Cod for n
+ early fifty years in order to open herself – and her readers – to the 
+ known and unknowable world.\nFeaturing a conversation with filmmaker Sasha
+  Waters after the August 12th screening!\n\nTickets: https://vidiotsfounda
+ tion.org/purchase/4437173/\n\nDetails: https://vidiotsfoundation.org/movie
+ s/mary-oliver-saved-by-the-beauty-of-the-world/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4364996@vidiotsfoundation.org
@@ -1041,43 +1044,6 @@ DESCRIPTION:Run time: 107 min | Format: Digital | Rating: R\n\nSeries: Addi
  org/movies/the-invite/
 END:VEVENT
 BEGIN:VEVENT
-UID:4437271@vidiotsfoundation.org
-DTSTAMP:20260818T020000Z
-DTSTART;TZID=America/Los_Angeles:20260817T190000
-DTEND;TZID=America/Los_Angeles:20260817T203100
-SUMMARY:Mary Oliver: Saved by the Beauty of the World
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4437271/
-DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests in
-  Attendance\n\nCelebrated best-selling poet\, Pulitzer Prize-winner\, love
- r of dogs and long walks in the woods\, openly queer but intensely private
- \, Oliver was America’s unlikely contemporary mystic\, stalking the pond
- s and forests of Cape Cod for nearly fifty years in order to open herself 
- – and her readers – to the known and unknowable world.\nFeaturing a co
- nversation with filmmaker Sasha Waters after the August 12th screening!\n\
- nTickets: https://vidiotsfoundation.org/purchase/4437271/\n\nDetails: http
- s://vidiotsfoundation.org/movies/mary-oliver-saved-by-the-beauty-of-the-wo
- rld/
-END:VEVENT
-BEGIN:VEVENT
-UID:4392797@vidiotsfoundation.org
-DTSTAMP:20260818T023000Z
-DTSTART;TZID=America/Los_Angeles:20260817T193000
-DTEND;TZID=America/Los_Angeles:20260817T213100
-SUMMARY:Volver on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4392797/
-DESCRIPTION:Run time: 121 min | Format: 35mm Film | Release year: 2006\n\nS
- eries: 35mm Film\, Doors Open at 6\, In the Eagle\n\nPenélope Cruz stars 
- in Pedro Almodóvar's masterful dark comedy and compassionate tribute to w
- omen and their resilience in the face of life's most outrageous tribulatio
- ns.\n\nTickets: https://vidiotsfoundation.org/purchase/4392797/\n\nDetails
- : https://vidiotsfoundation.org/movies/volver/
-END:VEVENT
-BEGIN:VEVENT
 UID:4389907@vidiotsfoundation.org
 DTSTAMP:20260819T023000Z
 DTSTART;TZID=America/Los_Angeles:20260818T193000
@@ -1131,6 +1097,39 @@ DESCRIPTION:Run time: 90 min\n\nSeries: Doors Open at 6\, In the Eagle\, Li
  me 4 creator Rachel Lichtman\, special guest stars\, complimentary matchbo
  oks\, and more!\n\nTickets: https://vidiotsfoundation.org/purchase/4360544
  /\n\nDetails: https://vidiotsfoundation.org/movies/programme-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:4466487@vidiotsfoundation.org
+DTSTAMP:20260821T020000Z
+DTSTART;TZID=America/Los_Angeles:20260820T190000
+DTEND;TZID=America/Los_Angeles:20260820T204000
+SUMMARY:Sweet 16mm – Those Awkward Years
+LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+URL:https://vidiotsfoundation.org/purchase/4466487/
+DESCRIPTION:Run time: 100 min\n\nSeries: Sweet 16mm\n\nWe're firing up our 
+ 16mm projector for a night of the best of puberty's pitfalls and adolescen
+ ce at its most awkward with a program of long-forgotten and laughably outd
+ ated short films from the 1940s through the 1980s about humanity's cringie
+ st life stage with menstrucation's finest\, endearing Mormon comedy shorts
+ \, mid-century slut-shaming primers\, and more!\n\nTickets: https://vidiot
+ sfoundation.org/purchase/4466487/\n\nDetails: https://vidiotsfoundation.or
+ g/movies/sweet-16mm-those-awkward-years/
+END:VEVENT
+BEGIN:VEVENT
+UID:4392797@vidiotsfoundation.org
+DTSTAMP:20260821T023000Z
+DTSTART;TZID=America/Los_Angeles:20260820T193000
+DTEND;TZID=America/Los_Angeles:20260820T213100
+SUMMARY:Volver on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4392797/
+DESCRIPTION:Run time: 121 min | Format: 35mm Film | Release year: 2006\n\nS
+ eries: 35mm Film\, Doors Open at 6\, In the Eagle\n\nPenélope Cruz stars 
+ in Pedro Almodóvar's masterful dark comedy and compassionate tribute to w
+ omen and their resilience in the face of life's most outrageous tribulatio
+ ns.\n\nTickets: https://vidiotsfoundation.org/purchase/4392797/\n\nDetails
+ : https://vidiotsfoundation.org/movies/volver/
 END:VEVENT
 BEGIN:VEVENT
 UID:4388341@vidiotsfoundation.org
