@@ -8,38 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4403294@vidiotsfoundation.org
-DTSTAMP:20260730T020000Z
-DTSTART;TZID=America/Los_Angeles:20260729T190000
-DTEND;TZID=America/Los_Angeles:20260729T203200
-SUMMARY:American Pachuco: The Legend of Luis Valdez
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4403294/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nAn auteur emerges from America’s underclass: 
- from migrant farmworker to revolutionary artist\, Luis Valdez changed Amer
- ican culture.\n\nTickets: https://vidiotsfoundation.org/purchase/4403294/\
- n\nDetails: https://vidiotsfoundation.org/movies/american-pachuco-the-lege
- nd-of-luis-valdez/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4270663@vidiotsfoundation.org
-DTSTAMP:20260730T210000Z
-DTSTART;TZID=America/Los_Angeles:20260730T140000
-DTEND;TZID=America/Los_Angeles:20260730T160200
-SUMMARY:Network
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4270663/
-DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nI'm mad as Hell and I'm not going to take it anymore!\nArthous
- e Theater Day!\n\nTickets: https://vidiotsfoundation.org/purchase/4270663/
- \n\nDetails: https://vidiotsfoundation.org/movies/network/
-END:VEVENT
-BEGIN:VEVENT
 UID:4428345@vidiotsfoundation.org
 DTSTAMP:20260731T230000Z
 DTSTART;TZID=America/Los_Angeles:20260731T160000
@@ -134,12 +102,11 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4338177/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nAn auteur emerges from America’s underclass: 
- from migrant farmworker to revolutionary artist\, Luis Valdez changed Amer
- ican culture.\n\nTickets: https://vidiotsfoundation.org/purchase/4338177/\
- n\nDetails: https://vidiotsfoundation.org/movies/american-pachuco-the-lege
- nd-of-luis-valdez/
+ ormat: Digital\n\nSeries: Groundbreaking Non-Fiction\, In the MUBI Microci
+ nema\n\nAn auteur emerges from America’s underclass: from migrant farmwo
+ rker to revolutionary artist\, Luis Valdez changed American culture.\n\nTi
+ ckets: https://vidiotsfoundation.org/purchase/4338177/\n\nDetails: https:/
+ /vidiotsfoundation.org/movies/american-pachuco-the-legend-of-luis-valdez/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -1604,22 +1571,17 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: R\n\nSeries: Door
  etails: https://vidiotsfoundation.org/movies/sex-lies-and-videotape/
 END:VEVENT
 BEGIN:VEVENT
-UID:4270660@vidiotsfoundation.org
-DTSTAMP:20260730T023000Z
-DTSTART;TZID=America/Los_Angeles:20260729T193000
-DTEND;TZID=America/Los_Angeles:20260729T213300
-SUMMARY:Interview with the Vampire on 35mm
+UID:4270663@vidiotsfoundation.org
+DTSTAMP:20260730T210000Z
+DTSTART;TZID=America/Los_Angeles:20260730T140000
+DTEND;TZID=America/Los_Angeles:20260730T160200
+SUMMARY:Network
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4270660/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 123 min | 
- Format: 35mm Film | Rating: R\n\nSeries: 35mm Film\, Doors Open at 6\, In 
- the Eagle\n\nWith stunning costume and art direction\, a jaw-dropping perf
- ormance from an 11 year-old Kirsten Dunst\, a healthy dose of homoeroticis
- m\, and so many sexy\, brooding vampires\, we can't wait to sink our teeth
-  into this lush bloodthirsty classic on glorious celluloid!\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4270660/\n\nDetails: https://vidiotsf
- oundation.org/movies/interview-with-the-vampire/
-STATUS:TENTATIVE
+URL:https://vidiotsfoundation.org/purchase/4270663/
+DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nI'm mad as Hell and I'm not going to take it anymore!\nArthous
+ e Theater Day!\n\nTickets: https://vidiotsfoundation.org/purchase/4270663/
+ \n\nDetails: https://vidiotsfoundation.org/movies/network/
 END:VEVENT
 END:VCALENDAR
