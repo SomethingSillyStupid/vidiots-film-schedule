@@ -8,108 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4428345@vidiotsfoundation.org
-DTSTAMP:20260731T230000Z
-DTSTART;TZID=America/Los_Angeles:20260731T160000
-DTEND;TZID=America/Los_Angeles:20260731T174900
-SUMMARY:The Thing
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4428345/
-DESCRIPTION:Run time: 109 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nAs the temperature rises\, join us in the air conditioning for
-  a chilling trip to Antarctica with one of the best horror/sci-fi films ev
- er made.\nEncore Screening Added by Popular Demand!\n\nTickets: https://vi
- diotsfoundation.org/purchase/4428345/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/the-thing/
-END:VEVENT
-BEGIN:VEVENT
-UID:4389348@vidiotsfoundation.org
-DTSTAMP:20260731T234500Z
-DTSTART;TZID=America/Los_Angeles:20260731T164500
-DTEND;TZID=America/Los_Angeles:20260731T182200
-SUMMARY:Forastera
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4389348/
-DESCRIPTION:Run time: 97 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nWith absolutely stunning
-  cinematography (including an astonishing use of framing)\, the exquisite 
- backdrop of the Catalonian coastline\, and a breathy and ethereal vibe\, t
- his is one of the loveliest ghost stories you may ever see.\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4389348/\n\nDetails: https://vidiotsf
- oundation.org/movies/forastera/
-END:VEVENT
-BEGIN:VEVENT
-UID:4364991@vidiotsfoundation.org
-DTSTAMP:20260801T020000Z
-DTSTART;TZID=America/Los_Angeles:20260731T190000
-DTEND;TZID=America/Los_Angeles:20260731T204900
-SUMMARY:Psycho
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4364991/
-DESCRIPTION:Run time: 109 min | Format: Digital\n\nSeries: Community Partne
- rs\, In the Eagle\n\nAlfred Hitchcock's eternal classic has lived on in th
- e cobwebbed attics of our deepest collective nightmares for nearly 65 year
- s\, and shows no signs of loosening its grip.\nPart of a full day of kille
- r films that inspired Jane Schoenbrun's Teenage Sex and Death at Camp Mias
- ma presented by our friends at MUBI.\n\nTickets: https://vidiotsfoundation
- .org/purchase/4364991/\n\nDetails: https://vidiotsfoundation.org/movies/ps
- ycho/
-END:VEVENT
-BEGIN:VEVENT
-UID:4338176@vidiotsfoundation.org
-DTSTAMP:20260801T023000Z
-DTSTART;TZID=America/Los_Angeles:20260731T193000
-DTEND;TZID=America/Los_Angeles:20260731T210700
-SUMMARY:Forastera
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338176/
-DESCRIPTION:Run time: 97 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nWith absolutely stunning
-  cinematography (including an astonishing use of framing)\, the exquisite 
- backdrop of the Catalonian coastline\, and a breathy and ethereal vibe\, t
- his is one of the loveliest ghost stories you may ever see.\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4338176/\n\nDetails: https://vidiotsf
- oundation.org/movies/forastera/
-END:VEVENT
-BEGIN:VEVENT
-UID:4364992@vidiotsfoundation.org
-DTSTAMP:20260801T044500Z
-DTSTART;TZID=America/Los_Angeles:20260731T214500
-DTEND;TZID=America/Los_Angeles:20260731T233000
-SUMMARY:Dressed to Kill
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4364992/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Comm
- unity Partners\, In the Eagle\, What the Friday?!?\n\nBrian De Palma turns
-  up the sleaze with Hitchocockian inspiration in this killer thriller.\nPa
- rt of a full day of killer films that inspired Jane Schoenbrun's "Teenage 
- Sex and Death at Camp Miasma" presented by our friends at MUBI.\n\nTickets
- : https://vidiotsfoundation.org/purchase/4364992/\n\nDetails: https://vidi
- otsfoundation.org/movies/dressed-to-kill/
-END:VEVENT
-BEGIN:VEVENT
-UID:4338177@vidiotsfoundation.org
-DTSTAMP:20260801T051500Z
-DTSTART;TZID=America/Los_Angeles:20260731T221500
-DTEND;TZID=America/Los_Angeles:20260731T234700
-SUMMARY:American Pachuco: The Legend of Luis Valdez
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338177/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
- ormat: Digital\n\nSeries: Groundbreaking Non-Fiction\, In the MUBI Microci
- nema\n\nAn auteur emerges from America’s underclass: from migrant farmwo
- rker to revolutionary artist\, Luis Valdez changed American culture.\n\nTi
- ckets: https://vidiotsfoundation.org/purchase/4338177/\n\nDetails: https:/
- /vidiotsfoundation.org/movies/american-pachuco-the-legend-of-luis-valdez/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4338180@vidiotsfoundation.org
 DTSTAMP:20260801T191500Z
 DTSTART;TZID=America/Los_Angeles:20260801T121500
@@ -138,23 +36,6 @@ DESCRIPTION:Run time: 155 min | Format: Digital | Rating: G\n\nSeries: In t
  f Barbra than in her Oscar-winning performance in William Wyler's masterfu
  l musical biopic!\n\nTickets: https://vidiotsfoundation.org/purchase/43381
  81/\n\nDetails: https://vidiotsfoundation.org/movies/funny-girl/
-END:VEVENT
-BEGIN:VEVENT
-UID:4338202@vidiotsfoundation.org
-DTSTAMP:20260801T233000Z
-DTSTART;TZID=America/Los_Angeles:20260801T163000
-DTEND;TZID=America/Los_Angeles:20260801T180700
-SUMMARY:Forastera
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338202/
-DESCRIPTION:Run time: 97 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nWith absolutely stunning
-  cinematography (including an astonishing use of framing)\, the exquisite 
- backdrop of the Catalonian coastline\, and a breathy and ethereal vibe\, t
- his is one of the loveliest ghost stories you may ever see.\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4338202/\n\nDetails: https://vidiotsf
- oundation.org/movies/forastera/
 END:VEVENT
 BEGIN:VEVENT
 UID:4338196@vidiotsfoundation.org
@@ -250,23 +131,6 @@ DESCRIPTION:Run time: 95 min | Format: Digital | Rating: PG-13 | Release ye
  ng of the animated masterpiece Persepolis!\n\nTickets: https://vidiotsfoun
  dation.org/purchase/4338228/\n\nDetails: https://vidiotsfoundation.org/mov
  ies/persepolis/
-END:VEVENT
-BEGIN:VEVENT
-UID:4338231@vidiotsfoundation.org
-DTSTAMP:20260802T233000Z
-DTSTART;TZID=America/Los_Angeles:20260802T163000
-DTEND;TZID=America/Los_Angeles:20260802T180700
-SUMMARY:Forastera
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338231/
-DESCRIPTION:Run time: 97 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nWith absolutely stunning
-  cinematography (including an astonishing use of framing)\, the exquisite 
- backdrop of the Catalonian coastline\, and a breathy and ethereal vibe\, t
- his is one of the loveliest ghost stories you may ever see.\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4338231/\n\nDetails: https://vidiotsf
- oundation.org/movies/forastera/
 END:VEVENT
 BEGIN:VEVENT
 UID:4338227@vidiotsfoundation.org
@@ -1610,17 +1474,105 @@ DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Addi
  026/
 END:VEVENT
 BEGIN:VEVENT
-UID:4270663@vidiotsfoundation.org
-DTSTAMP:20260730T210000Z
-DTSTART;TZID=America/Los_Angeles:20260730T140000
-DTEND;TZID=America/Los_Angeles:20260730T160200
-SUMMARY:Network
+UID:4428345@vidiotsfoundation.org
+DTSTAMP:20260731T230000Z
+DTSTART;TZID=America/Los_Angeles:20260731T160000
+DTEND;TZID=America/Los_Angeles:20260731T174900
+SUMMARY:The Thing
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4270663/
-DESCRIPTION:Run time: 122 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nI'm mad as Hell and I'm not going to take it anymore!\nArthous
- e Theater Day!\n\nTickets: https://vidiotsfoundation.org/purchase/4270663/
- \n\nDetails: https://vidiotsfoundation.org/movies/network/
+URL:https://vidiotsfoundation.org/purchase/4428345/
+DESCRIPTION:Run time: 109 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nAs the temperature rises\, join us in the air conditioning for
+  a chilling trip to Antarctica with one of the best horror/sci-fi films ev
+ er made.\nEncore Screening Added by Popular Demand!\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4428345/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/the-thing/
+END:VEVENT
+BEGIN:VEVENT
+UID:4389348@vidiotsfoundation.org
+DTSTAMP:20260731T234500Z
+DTSTART;TZID=America/Los_Angeles:20260731T164500
+DTEND;TZID=America/Los_Angeles:20260731T182200
+SUMMARY:Forastera
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4389348/
+DESCRIPTION:Run time: 97 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, In the MUBI Microcinema\n\nWith absolutely stunning
+  cinematography (including an astonishing use of framing)\, the exquisite 
+ backdrop of the Catalonian coastline\, and a breathy and ethereal vibe\, t
+ his is one of the loveliest ghost stories you may ever see.\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4389348/\n\nDetails: https://vidiotsf
+ oundation.org/movies/forastera/
+END:VEVENT
+BEGIN:VEVENT
+UID:4364991@vidiotsfoundation.org
+DTSTAMP:20260801T020000Z
+DTSTART;TZID=America/Los_Angeles:20260731T190000
+DTEND;TZID=America/Los_Angeles:20260731T204900
+SUMMARY:Psycho
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4364991/
+DESCRIPTION:Run time: 109 min | Format: Digital\n\nSeries: Community Partne
+ rs\, In the Eagle\n\nAlfred Hitchcock's eternal classic has lived on in th
+ e cobwebbed attics of our deepest collective nightmares for nearly 65 year
+ s\, and shows no signs of loosening its grip.\nPart of a full day of kille
+ r films that inspired Jane Schoenbrun's Teenage Sex and Death at Camp Mias
+ ma presented by our friends at MUBI.\n\nTickets: https://vidiotsfoundation
+ .org/purchase/4364991/\n\nDetails: https://vidiotsfoundation.org/movies/ps
+ ycho/
+END:VEVENT
+BEGIN:VEVENT
+UID:4338176@vidiotsfoundation.org
+DTSTAMP:20260801T023000Z
+DTSTART;TZID=America/Los_Angeles:20260731T193000
+DTEND;TZID=America/Los_Angeles:20260731T210700
+SUMMARY:Forastera
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4338176/
+DESCRIPTION:Run time: 97 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, In the MUBI Microcinema\n\nWith absolutely stunning
+  cinematography (including an astonishing use of framing)\, the exquisite 
+ backdrop of the Catalonian coastline\, and a breathy and ethereal vibe\, t
+ his is one of the loveliest ghost stories you may ever see.\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4338176/\n\nDetails: https://vidiotsf
+ oundation.org/movies/forastera/
+END:VEVENT
+BEGIN:VEVENT
+UID:4364992@vidiotsfoundation.org
+DTSTAMP:20260801T044500Z
+DTSTART;TZID=America/Los_Angeles:20260731T214500
+DTEND;TZID=America/Los_Angeles:20260731T233000
+SUMMARY:Dressed to Kill
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4364992/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Comm
+ unity Partners\, In the Eagle\, What the Friday?!?\n\nBrian De Palma turns
+  up the sleaze with Hitchocockian inspiration in this killer thriller.\nPa
+ rt of a full day of killer films that inspired Jane Schoenbrun's "Teenage 
+ Sex and Death at Camp Miasma" presented by our friends at MUBI.\n\nTickets
+ : https://vidiotsfoundation.org/purchase/4364992/\n\nDetails: https://vidi
+ otsfoundation.org/movies/dressed-to-kill/
+END:VEVENT
+BEGIN:VEVENT
+UID:4338177@vidiotsfoundation.org
+DTSTAMP:20260801T051500Z
+DTSTART;TZID=America/Los_Angeles:20260731T221500
+DTEND;TZID=America/Los_Angeles:20260731T234700
+SUMMARY:American Pachuco: The Legend of Luis Valdez
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4338177/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
+ ormat: Digital\n\nSeries: Groundbreaking Non-Fiction\, In the MUBI Microci
+ nema\n\nAn auteur emerges from America’s underclass: from migrant farmwo
+ rker to revolutionary artist\, Luis Valdez changed American culture.\n\nTi
+ ckets: https://vidiotsfoundation.org/purchase/4338177/\n\nDetails: https:/
+ /vidiotsfoundation.org/movies/american-pachuco-the-legend-of-luis-valdez/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
