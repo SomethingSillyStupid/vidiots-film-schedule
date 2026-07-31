@@ -277,15 +277,16 @@ SUMMARY:Miller’s Crossing
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4338227/
-DESCRIPTION:Run time: 115 min | Format: Digital | Rating: R\n\nSeries: Comm
- unity Partners\, In the Eagle\, Special Guests in Attendance\n\nThe Coen B
- rothers head back to the neo-noir in this effortless\, quotable\, and beau
- tifully shot gangster drama.\nCo-presented by our friends at American Cine
- ma Editors and featuring a conversation with editor Michael Miller moderat
- ed by John Venzon. Also featuring a book signing of Miller's book "Develop
- ing the Editor’s Eye".\n\nTickets: https://vidiotsfoundation.org/purchas
- e/4338227/\n\nDetails: https://vidiotsfoundation.org/movies/millers-crossi
- ng/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 115 min | 
+ Format: Digital | Rating: R\n\nSeries: Community Partners\, In the Eagle\,
+  Special Guests in Attendance\n\nThe Coen Brothers head back to the neo-no
+ ir in this effortless\, quotable\, and beautifully shot gangster drama.\nC
+ o-presented by our friends at American Cinema Editors and featuring a conv
+ ersation with editor Michael Miller moderated by John Venzon. Also featuri
+ ng a book signing of Miller's book "Developing the Editor’s Eye".\n\nTic
+ kets: https://vidiotsfoundation.org/purchase/4338227/\n\nDetails: https://
+ vidiotsfoundation.org/movies/millers-crossing/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4338232@vidiotsfoundation.org
@@ -369,6 +370,25 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min |
  seph Gordon-Levitt!\n\nTickets: https://vidiotsfoundation.org/purchase/442
  8842/\n\nDetails: https://vidiotsfoundation.org/movies/mysterious-skin/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4441168@vidiotsfoundation.org
+DTSTAMP:20260807T023000Z
+DTSTART;TZID=America/Los_Angeles:20260806T193000
+DTEND;TZID=America/Los_Angeles:20260806T202500
+SUMMARY:Monsters of God
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://events.humanitix.com/kcrw-partner-screening-monsters-of-god
+DESCRIPTION:Run time: 55 min | Format: Digital\n\nSeries: Community Partner
+ s\, Free Events\, In the Eagle\, Special Guests in Attendance\n\nKCRW\, Vi
+ diots\, and HBO Documentary Films invite you to a special advance screenin
+ g of Monsters of God followed by a conversation with director and executiv
+ e producer\, Eric Goode\, executive producer\, Jeremy McBride\, producer\,
+  Tom Petersen\, and subjects Mike Van Nostrand and Tom Crutchfield moderat
+ ed by Jason Segel.\n\nTickets: https://events.humanitix.com/kcrw-partner-s
+ creening-monsters-of-god\n\nDetails: https://vidiotsfoundation.org/movies/
+ monsters-of-god/
 END:VEVENT
 BEGIN:VEVENT
 UID:4389539@vidiotsfoundation.org
@@ -1457,10 +1477,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4388710/
 DESCRIPTION:Run time: 97 min | Format: Digital | Release year: 1964\n\nSeri
- es: In the Eagle\n\nLuis Buñuel's biting social satire starring the lumin
- ous Jeanne Moreau!\n\nTickets: https://vidiotsfoundation.org/purchase/4388
- 710/\n\nDetails: https://vidiotsfoundation.org/movies/diary-of-a-chamberma
- id/
+ es: In the Eagle\n\nSpanish provocateur Luis Buñuel once again explores t
+ he perversity and hypocrisy of human nature with this biting social satire
+  set in the French countryside of the 1930s.\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4388710/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/diary-of-a-chambermaid/
 END:VEVENT
 BEGIN:VEVENT
 UID:4388713@vidiotsfoundation.org
@@ -1569,6 +1590,24 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: R\n\nSeries: Door
   Winning feature debut masterpiece of sexuality and neuroses to hit our bi
  g screen!\n\nTickets: https://vidiotsfoundation.org/purchase/4393414/\n\nD
  etails: https://vidiotsfoundation.org/movies/sex-lies-and-videotape/
+END:VEVENT
+BEGIN:VEVENT
+UID:4471015@vidiotsfoundation.org
+DTSTAMP:20260905T022000Z
+DTSTART;TZID=America/Los_Angeles:20260904T192000
+DTEND;TZID=America/Los_Angeles:20260904T211200
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4471015/
+DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nVisionary director Jane Schoenbr
+ un (I Saw the TV Glow) presents a new kind of horror remake! Bursting with
+  imagination and surreal wit\, their latest genre-bending wonder affirms t
+ here’s no such thing as a guilty pleasure.\nMore Showtimes on sale soon!
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4471015/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/teenage-sex-and-death-at-camp-miasma-2
+ 026/
 END:VEVENT
 BEGIN:VEVENT
 UID:4270663@vidiotsfoundation.org
