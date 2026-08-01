@@ -8,88 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4389348@vidiotsfoundation.org
-DTSTAMP:20260731T234500Z
-DTSTART;TZID=America/Los_Angeles:20260731T164500
-DTEND;TZID=America/Los_Angeles:20260731T182200
-SUMMARY:Forastera
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4389348/
-DESCRIPTION:Run time: 97 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nWith absolutely stunning
-  cinematography (including an astonishing use of framing)\, the exquisite 
- backdrop of the Catalonian coastline\, and a breathy and ethereal vibe\, t
- his is one of the loveliest ghost stories you may ever see.\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4389348/\n\nDetails: https://vidiotsf
- oundation.org/movies/forastera/
-END:VEVENT
-BEGIN:VEVENT
-UID:4338176@vidiotsfoundation.org
-DTSTAMP:20260801T023000Z
-DTSTART;TZID=America/Los_Angeles:20260731T193000
-DTEND;TZID=America/Los_Angeles:20260731T210700
-SUMMARY:Forastera
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338176/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 97 min | F
- ormat: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the M
- UBI Microcinema\n\nWith absolutely stunning cinematography (including an a
- stonishing use of framing)\, the exquisite backdrop of the Catalonian coas
- tline\, and a breathy and ethereal vibe\, this is one of the loveliest gho
- st stories you may ever see.\n\nTickets: https://vidiotsfoundation.org/pur
- chase/4338176/\n\nDetails: https://vidiotsfoundation.org/movies/forastera/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4338177@vidiotsfoundation.org
-DTSTAMP:20260801T051500Z
-DTSTART;TZID=America/Los_Angeles:20260731T221500
-DTEND;TZID=America/Los_Angeles:20260731T234700
-SUMMARY:American Pachuco: The Legend of Luis Valdez
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338177/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
- ormat: Digital\n\nSeries: Groundbreaking Non-Fiction\, In the MUBI Microci
- nema\n\nAn auteur emerges from America’s underclass: from migrant farmwo
- rker to revolutionary artist\, Luis Valdez changed American culture.\n\nTi
- ckets: https://vidiotsfoundation.org/purchase/4338177/\n\nDetails: https:/
- /vidiotsfoundation.org/movies/american-pachuco-the-legend-of-luis-valdez/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4338180@vidiotsfoundation.org
-DTSTAMP:20260801T191500Z
-DTSTART;TZID=America/Los_Angeles:20260801T121500
-DTEND;TZID=America/Los_Angeles:20260801T134800
-SUMMARY:Honey\, I Shrunk the Kids
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338180/
-DESCRIPTION:Run time: 93 min | Format: Digital | Rating: All Ages\n\nSeries
- : Films for Everyone\, In the Eagle\n\nA microscopic adventure to share wi
- th the whole family!\n\nTickets: https://vidiotsfoundation.org/purchase/43
- 38180/\n\nDetails: https://vidiotsfoundation.org/movies/honey-i-shrunk-the
- -kids/
-END:VEVENT
-BEGIN:VEVENT
-UID:4338181@vidiotsfoundation.org
-DTSTAMP:20260801T221500Z
-DTSTART;TZID=America/Los_Angeles:20260801T151500
-DTEND;TZID=America/Los_Angeles:20260801T175000
-SUMMARY:Funny Girl
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338181/
-DESCRIPTION:Run time: 155 min | Format: Digital | Rating: G\n\nSeries: In t
- he Eagle\n\nHello Gorgeous! There's no better time to revel in the glory o
- f Barbra than in her Oscar-winning performance in William Wyler's masterfu
- l musical biopic!\n\nTickets: https://vidiotsfoundation.org/purchase/43381
- 81/\n\nDetails: https://vidiotsfoundation.org/movies/funny-girl/
-END:VEVENT
-BEGIN:VEVENT
 UID:4338202@vidiotsfoundation.org
 DTSTAMP:20260801T233000Z
 DTSTART;TZID=America/Los_Angeles:20260801T163000
@@ -105,70 +23,6 @@ DESCRIPTION:Run time: 97 min | Format: Digital | Release year: 2026\n\nSeri
  his is one of the loveliest ghost stories you may ever see.\n\nTickets: ht
  tps://vidiotsfoundation.org/purchase/4338202/\n\nDetails: https://vidiotsf
  oundation.org/movies/forastera/
-END:VEVENT
-BEGIN:VEVENT
-UID:4338196@vidiotsfoundation.org
-DTSTAMP:20260802T020000Z
-DTSTART;TZID=America/Los_Angeles:20260801T190000
-DTEND;TZID=America/Los_Angeles:20260801T204300
-SUMMARY:The Truman Show
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338196/
-DESCRIPTION:Run time: 103 min | Format: Digital | Rating: PG\n\nSeries: In 
- the Eagle\n\nA smart\, funny\, and endearing satire of celebrity culture a
- nd reality television with a killer cast and a soundtrack that includes to
- ns of Phillip Glass\, Peter Weir's modern classic remains perennially rele
- vant and rewatch-worthy.\n\nTickets: https://vidiotsfoundation.org/purchas
- e/4338196/\n\nDetails: https://vidiotsfoundation.org/movies/the-truman-sho
- w/
-END:VEVENT
-BEGIN:VEVENT
-UID:4338203@vidiotsfoundation.org
-DTSTAMP:20260802T023000Z
-DTSTART;TZID=America/Los_Angeles:20260801T193000
-DTEND;TZID=America/Los_Angeles:20260801T210000
-SUMMARY:Twin Peaks: The Original Mystery – Episodes 3 + 4
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338203/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
- ormat: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, The
-  Lynchian Legacy\n\nOur summer vacation to Twin Peaks continues!\n\nTicket
- s: https://vidiotsfoundation.org/purchase/4338203/\n\nDetails: https://vid
- iotsfoundation.org/movies/twin-peaks-the-original-mystery-episodes-3-4/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4338200@vidiotsfoundation.org
-DTSTAMP:20260802T044500Z
-DTSTART;TZID=America/Los_Angeles:20260801T214500
-DTEND;TZID=America/Los_Angeles:20260801T231800
-SUMMARY:Yes\, Madam!
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338200/
-DESCRIPTION:Run time: 93 min | Format: Digital | Release year: 1985\n\nSeri
- es: In the Eagle\n\nThe iconic Michelle Yeoh teams up with the incredibly 
- bad ass Cynthia Rothrock for one riotously fun martial arts action spectac
- ular from Hong Kong legend Corey Yuen!\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4338200/\n\nDetails: https://vidiotsfoundation.org/movies/
- yes-madam/
-END:VEVENT
-BEGIN:VEVENT
-UID:4338204@vidiotsfoundation.org
-DTSTAMP:20260802T050000Z
-DTSTART;TZID=America/Los_Angeles:20260801T220000
-DTEND;TZID=America/Los_Angeles:20260801T233000
-SUMMARY:Twin Peaks: The Original Mystery – Episodes 5 + 6
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338204/
-DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, The Lynchian Legacy\n\nThe mystery deepens in 
- Twin Peaks...\n\nTickets: https://vidiotsfoundation.org/purchase/4338204/\
- n\nDetails: https://vidiotsfoundation.org/movies/twin-peaks-the-original-m
- ystery-episodes-5-6/
 END:VEVENT
 BEGIN:VEVENT
 UID:4338229@vidiotsfoundation.org
@@ -237,36 +91,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 115 min |
  kets: https://vidiotsfoundation.org/purchase/4338227/\n\nDetails: https://
  vidiotsfoundation.org/movies/millers-crossing/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4338232@vidiotsfoundation.org
-DTSTAMP:20260803T023000Z
-DTSTART;TZID=America/Los_Angeles:20260802T193000
-DTEND;TZID=America/Los_Angeles:20260802T210000
-SUMMARY:Twin Peaks: The Original Mystery – Episodes 3 + 4
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338232/
-DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, The Lynchian Legacy\n\nOur summer vacation to 
- Twin Peaks continues!\n\nTickets: https://vidiotsfoundation.org/purchase/4
- 338232/\n\nDetails: https://vidiotsfoundation.org/movies/twin-peaks-the-or
- iginal-mystery-episodes-3-4/
-END:VEVENT
-BEGIN:VEVENT
-UID:4338234@vidiotsfoundation.org
-DTSTAMP:20260804T023000Z
-DTSTART;TZID=America/Los_Angeles:20260803T193000
-DTEND;TZID=America/Los_Angeles:20260803T210000
-SUMMARY:Twin Peaks: The Original Mystery – Episodes 5 + 6
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338234/
-DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, The Lynchian Legacy\n\nThe mystery deepens in 
- Twin Peaks...\n\nTickets: https://vidiotsfoundation.org/purchase/4338234/\
- n\nDetails: https://vidiotsfoundation.org/movies/twin-peaks-the-original-m
- ystery-episodes-5-6/
 END:VEVENT
 BEGIN:VEVENT
 UID:4338261@vidiotsfoundation.org
@@ -1592,54 +1416,97 @@ DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Addi
  026/
 END:VEVENT
 BEGIN:VEVENT
-UID:4428345@vidiotsfoundation.org
-DTSTAMP:20260731T230000Z
-DTSTART;TZID=America/Los_Angeles:20260731T160000
-DTEND;TZID=America/Los_Angeles:20260731T174900
-SUMMARY:The Thing
+UID:4338180@vidiotsfoundation.org
+DTSTAMP:20260801T191500Z
+DTSTART;TZID=America/Los_Angeles:20260801T121500
+DTEND;TZID=America/Los_Angeles:20260801T134800
+SUMMARY:Honey\, I Shrunk the Kids
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4428345/
-DESCRIPTION:Run time: 109 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nAs the temperature rises\, join us in the air conditioning for
-  a chilling trip to Antarctica with one of the best horror/sci-fi films ev
- er made.\nEncore Screening Added by Popular Demand!\n\nTickets: https://vi
- diotsfoundation.org/purchase/4428345/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/the-thing/
+URL:https://vidiotsfoundation.org/purchase/4338180/
+DESCRIPTION:Run time: 93 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nA microscopic adventure to share wi
+ th the whole family!\n\nTickets: https://vidiotsfoundation.org/purchase/43
+ 38180/\n\nDetails: https://vidiotsfoundation.org/movies/honey-i-shrunk-the
+ -kids/
 END:VEVENT
 BEGIN:VEVENT
-UID:4364991@vidiotsfoundation.org
-DTSTAMP:20260801T020000Z
-DTSTART;TZID=America/Los_Angeles:20260731T190000
-DTEND;TZID=America/Los_Angeles:20260731T204900
-SUMMARY:Psycho
+UID:4338181@vidiotsfoundation.org
+DTSTAMP:20260801T221500Z
+DTSTART;TZID=America/Los_Angeles:20260801T151500
+DTEND;TZID=America/Los_Angeles:20260801T175000
+SUMMARY:Funny Girl
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4364991/
-DESCRIPTION:Run time: 109 min | Format: Digital\n\nSeries: Community Partne
- rs\, In the Eagle\n\nAlfred Hitchcock's eternal classic has lived on in th
- e cobwebbed attics of our deepest collective nightmares for nearly 65 year
- s\, and shows no signs of loosening its grip.\nPart of a full day of kille
- r films that inspired Jane Schoenbrun's Teenage Sex and Death at Camp Mias
- ma presented by our friends at MUBI.\n\nTickets: https://vidiotsfoundation
- .org/purchase/4364991/\n\nDetails: https://vidiotsfoundation.org/movies/ps
- ycho/
+URL:https://vidiotsfoundation.org/purchase/4338181/
+DESCRIPTION:Run time: 155 min | Format: Digital | Rating: G\n\nSeries: In t
+ he Eagle\n\nHello Gorgeous! There's no better time to revel in the glory o
+ f Barbra than in her Oscar-winning performance in William Wyler's masterfu
+ l musical biopic!\n\nTickets: https://vidiotsfoundation.org/purchase/43381
+ 81/\n\nDetails: https://vidiotsfoundation.org/movies/funny-girl/
 END:VEVENT
 BEGIN:VEVENT
-UID:4364992@vidiotsfoundation.org
-DTSTAMP:20260801T044500Z
-DTSTART;TZID=America/Los_Angeles:20260731T214500
-DTEND;TZID=America/Los_Angeles:20260731T233000
-SUMMARY:Dressed to Kill
+UID:4338196@vidiotsfoundation.org
+DTSTAMP:20260802T020000Z
+DTSTART;TZID=America/Los_Angeles:20260801T190000
+DTEND;TZID=America/Los_Angeles:20260801T204300
+SUMMARY:The Truman Show
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4364992/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Comm
- unity Partners\, In the Eagle\, What the Friday?!?\n\nBrian De Palma turns
-  up the sleaze with Hitchocockian inspiration in this killer thriller.\nPa
- rt of a full day of killer films that inspired Jane Schoenbrun's "Teenage 
- Sex and Death at Camp Miasma" presented by our friends at MUBI.\n\nTickets
- : https://vidiotsfoundation.org/purchase/4364992/\n\nDetails: https://vidi
- otsfoundation.org/movies/dressed-to-kill/
+URL:https://vidiotsfoundation.org/purchase/4338196/
+DESCRIPTION:Run time: 103 min | Format: Digital | Rating: PG\n\nSeries: In 
+ the Eagle\n\nA smart\, funny\, and endearing satire of celebrity culture a
+ nd reality television with a killer cast and a soundtrack that includes to
+ ns of Phillip Glass\, Peter Weir's modern classic remains perennially rele
+ vant and rewatch-worthy.\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4338196/\n\nDetails: https://vidiotsfoundation.org/movies/the-truman-sho
+ w/
+END:VEVENT
+BEGIN:VEVENT
+UID:4338203@vidiotsfoundation.org
+DTSTAMP:20260802T023000Z
+DTSTART;TZID=America/Los_Angeles:20260801T193000
+DTEND;TZID=America/Los_Angeles:20260801T210000
+SUMMARY:Twin Peaks: The Original Mystery – Episodes 3 + 4
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4338203/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, The
+  Lynchian Legacy\n\nOur summer vacation to Twin Peaks continues!\n\nTicket
+ s: https://vidiotsfoundation.org/purchase/4338203/\n\nDetails: https://vid
+ iotsfoundation.org/movies/twin-peaks-the-original-mystery-episodes-3-4/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4338200@vidiotsfoundation.org
+DTSTAMP:20260802T044500Z
+DTSTART;TZID=America/Los_Angeles:20260801T214500
+DTEND;TZID=America/Los_Angeles:20260801T231800
+SUMMARY:Yes\, Madam!
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4338200/
+DESCRIPTION:Run time: 93 min | Format: Digital | Release year: 1985\n\nSeri
+ es: In the Eagle\n\nThe iconic Michelle Yeoh teams up with the incredibly 
+ bad ass Cynthia Rothrock for one riotously fun martial arts action spectac
+ ular from Hong Kong legend Corey Yuen!\n\nTickets: https://vidiotsfoundati
+ on.org/purchase/4338200/\n\nDetails: https://vidiotsfoundation.org/movies/
+ yes-madam/
+END:VEVENT
+BEGIN:VEVENT
+UID:4338204@vidiotsfoundation.org
+DTSTAMP:20260802T050000Z
+DTSTART;TZID=America/Los_Angeles:20260801T220000
+DTEND;TZID=America/Los_Angeles:20260801T233000
+SUMMARY:Twin Peaks: The Original Mystery – Episodes 5 + 6
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4338204/
+DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, The Lynchian Legacy\n\nThe mystery deepens in 
+ Twin Peaks...\n\nTickets: https://vidiotsfoundation.org/purchase/4338204/\
+ n\nDetails: https://vidiotsfoundation.org/movies/twin-peaks-the-original-m
+ ystery-episodes-5-6/
 END:VEVENT
 END:VCALENDAR
