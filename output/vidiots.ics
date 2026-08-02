@@ -8,92 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4338202@vidiotsfoundation.org
-DTSTAMP:20260801T233000Z
-DTSTART;TZID=America/Los_Angeles:20260801T163000
-DTEND;TZID=America/Los_Angeles:20260801T180700
-SUMMARY:Forastera
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338202/
-DESCRIPTION:Run time: 97 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nWith absolutely stunning
-  cinematography (including an astonishing use of framing)\, the exquisite 
- backdrop of the Catalonian coastline\, and a breathy and ethereal vibe\, t
- his is one of the loveliest ghost stories you may ever see.\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4338202/\n\nDetails: https://vidiotsf
- oundation.org/movies/forastera/
-END:VEVENT
-BEGIN:VEVENT
-UID:4338229@vidiotsfoundation.org
-DTSTAMP:20260802T200000Z
-DTSTART;TZID=America/Los_Angeles:20260802T130000
-DTEND;TZID=America/Los_Angeles:20260802T141900
-SUMMARY:One Hundred and One Dalmatians
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338229/
-DESCRIPTION:Run time: 79 min | Format: Digital | Rating: All Ages\n\nSeries
- : Films for Everyone\, In the Eagle\n\nWhat's better than one puppy? Over 
- one hundred puppies of course!\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4338229/\n\nDetails: https://vidiotsfoundation.org/movies/one-hund
- red-and-one-dalmatians/
-END:VEVENT
-BEGIN:VEVENT
-UID:4338228@vidiotsfoundation.org
-DTSTAMP:20260802T230000Z
-DTSTART;TZID=America/Los_Angeles:20260802T160000
-DTEND;TZID=America/Los_Angeles:20260802T173500
-SUMMARY:Persepolis
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338228/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 95 min | F
- ormat: Digital | Rating: PG-13 | Release year: 2007\n\nSeries: In the Eagl
- e\n\nVidiots remembers the life\, legacy\, and creativity of the extraordi
- nary Marjane Satrapi with a special screening of the animated masterpiece 
- Persepolis!\n\nTickets: https://vidiotsfoundation.org/purchase/4338228/\n\
- nDetails: https://vidiotsfoundation.org/movies/persepolis/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4338231@vidiotsfoundation.org
-DTSTAMP:20260802T233000Z
-DTSTART;TZID=America/Los_Angeles:20260802T163000
-DTEND;TZID=America/Los_Angeles:20260802T180700
-SUMMARY:Forastera
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338231/
-DESCRIPTION:Run time: 97 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nWith absolutely stunning
-  cinematography (including an astonishing use of framing)\, the exquisite 
- backdrop of the Catalonian coastline\, and a breathy and ethereal vibe\, t
- his is one of the loveliest ghost stories you may ever see.\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4338231/\n\nDetails: https://vidiotsf
- oundation.org/movies/forastera/
-END:VEVENT
-BEGIN:VEVENT
-UID:4338227@vidiotsfoundation.org
-DTSTAMP:20260803T020000Z
-DTSTART;TZID=America/Los_Angeles:20260802T190000
-DTEND;TZID=America/Los_Angeles:20260802T205500
-SUMMARY:Miller’s Crossing
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338227/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 115 min | 
- Format: Digital | Rating: R\n\nSeries: Community Partners\, In the Eagle\,
-  Special Guests in Attendance\n\nThe Coen Brothers head back to the neo-no
- ir in this effortless\, quotable\, and beautifully shot gangster drama.\nC
- o-presented by our friends at American Cinema Editors and featuring a conv
- ersation with editor Michael Miller moderated by John Venzon. Also featuri
- ng a book signing of Miller's book "Developing the Editor’s Eye".\n\nTic
- kets: https://vidiotsfoundation.org/purchase/4338227/\n\nDetails: https://
- vidiotsfoundation.org/movies/millers-crossing/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4338261@vidiotsfoundation.org
 DTSTAMP:20260805T023000Z
 DTSTART;TZID=America/Los_Angeles:20260804T193000
@@ -1417,97 +1331,72 @@ DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Addi
  026/
 END:VEVENT
 BEGIN:VEVENT
-UID:4338180@vidiotsfoundation.org
-DTSTAMP:20260801T191500Z
-DTSTART;TZID=America/Los_Angeles:20260801T121500
-DTEND;TZID=America/Los_Angeles:20260801T134800
-SUMMARY:Honey\, I Shrunk the Kids
+UID:4338229@vidiotsfoundation.org
+DTSTAMP:20260802T200000Z
+DTSTART;TZID=America/Los_Angeles:20260802T130000
+DTEND;TZID=America/Los_Angeles:20260802T141900
+SUMMARY:One Hundred and One Dalmatians
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338180/
-DESCRIPTION:Run time: 93 min | Format: Digital | Rating: All Ages\n\nSeries
- : Films for Everyone\, In the Eagle\n\nA microscopic adventure to share wi
- th the whole family!\n\nTickets: https://vidiotsfoundation.org/purchase/43
- 38180/\n\nDetails: https://vidiotsfoundation.org/movies/honey-i-shrunk-the
- -kids/
+URL:https://vidiotsfoundation.org/purchase/4338229/
+DESCRIPTION:Run time: 79 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nWhat's better than one puppy? Over 
+ one hundred puppies of course!\n\nTickets: https://vidiotsfoundation.org/p
+ urchase/4338229/\n\nDetails: https://vidiotsfoundation.org/movies/one-hund
+ red-and-one-dalmatians/
 END:VEVENT
 BEGIN:VEVENT
-UID:4338181@vidiotsfoundation.org
-DTSTAMP:20260801T221500Z
-DTSTART;TZID=America/Los_Angeles:20260801T151500
-DTEND;TZID=America/Los_Angeles:20260801T175000
-SUMMARY:Funny Girl
+UID:4338228@vidiotsfoundation.org
+DTSTAMP:20260802T230000Z
+DTSTART;TZID=America/Los_Angeles:20260802T160000
+DTEND;TZID=America/Los_Angeles:20260802T173500
+SUMMARY:Persepolis
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338181/
-DESCRIPTION:Run time: 155 min | Format: Digital | Rating: G\n\nSeries: In t
- he Eagle\n\nHello Gorgeous! There's no better time to revel in the glory o
- f Barbra than in her Oscar-winning performance in William Wyler's masterfu
- l musical biopic!\n\nTickets: https://vidiotsfoundation.org/purchase/43381
- 81/\n\nDetails: https://vidiotsfoundation.org/movies/funny-girl/
-END:VEVENT
-BEGIN:VEVENT
-UID:4338196@vidiotsfoundation.org
-DTSTAMP:20260802T020000Z
-DTSTART;TZID=America/Los_Angeles:20260801T190000
-DTEND;TZID=America/Los_Angeles:20260801T204300
-SUMMARY:The Truman Show
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338196/
-DESCRIPTION:Run time: 103 min | Format: Digital | Rating: PG\n\nSeries: In 
- the Eagle\n\nA smart\, funny\, and endearing satire of celebrity culture a
- nd reality television with a killer cast and a soundtrack that includes to
- ns of Phillip Glass\, Peter Weir's modern classic remains perennially rele
- vant and rewatch-worthy.\n\nTickets: https://vidiotsfoundation.org/purchas
- e/4338196/\n\nDetails: https://vidiotsfoundation.org/movies/the-truman-sho
- w/
-END:VEVENT
-BEGIN:VEVENT
-UID:4338203@vidiotsfoundation.org
-DTSTAMP:20260802T023000Z
-DTSTART;TZID=America/Los_Angeles:20260801T193000
-DTEND;TZID=America/Los_Angeles:20260801T210000
-SUMMARY:Twin Peaks: The Original Mystery – Episodes 3 + 4
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338203/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
- ormat: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, The
-  Lynchian Legacy\n\nOur summer vacation to Twin Peaks continues!\n\nTicket
- s: https://vidiotsfoundation.org/purchase/4338203/\n\nDetails: https://vid
- iotsfoundation.org/movies/twin-peaks-the-original-mystery-episodes-3-4/
+URL:https://vidiotsfoundation.org/purchase/4338228/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 95 min | F
+ ormat: Digital | Rating: PG-13 | Release year: 2007\n\nSeries: In the Eagl
+ e\n\nVidiots remembers the life\, legacy\, and creativity of the extraordi
+ nary Marjane Satrapi with a special screening of the animated masterpiece 
+ Persepolis!\n\nTickets: https://vidiotsfoundation.org/purchase/4338228/\n\
+ nDetails: https://vidiotsfoundation.org/movies/persepolis/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4338200@vidiotsfoundation.org
-DTSTAMP:20260802T044500Z
-DTSTART;TZID=America/Los_Angeles:20260801T214500
-DTEND;TZID=America/Los_Angeles:20260801T231800
-SUMMARY:Yes\, Madam!
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338200/
-DESCRIPTION:Run time: 93 min | Format: Digital | Release year: 1985\n\nSeri
- es: In the Eagle\n\nThe iconic Michelle Yeoh teams up with the incredibly 
- bad ass Cynthia Rothrock for one riotously fun martial arts action spectac
- ular from Hong Kong legend Corey Yuen!\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4338200/\n\nDetails: https://vidiotsfoundation.org/movies/
- yes-madam/
-END:VEVENT
-BEGIN:VEVENT
-UID:4338204@vidiotsfoundation.org
-DTSTAMP:20260802T050000Z
-DTSTART;TZID=America/Los_Angeles:20260801T220000
-DTEND;TZID=America/Los_Angeles:20260801T233000
-SUMMARY:Twin Peaks: The Original Mystery – Episodes 5 + 6
+UID:4338231@vidiotsfoundation.org
+DTSTAMP:20260802T233000Z
+DTSTART;TZID=America/Los_Angeles:20260802T163000
+DTEND;TZID=America/Los_Angeles:20260802T180700
+SUMMARY:Forastera
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338204/
-DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, The Lynchian Legacy\n\nThe mystery deepens in 
- Twin Peaks...\n\nTickets: https://vidiotsfoundation.org/purchase/4338204/\
- n\nDetails: https://vidiotsfoundation.org/movies/twin-peaks-the-original-m
- ystery-episodes-5-6/
+URL:https://vidiotsfoundation.org/purchase/4338231/
+DESCRIPTION:Run time: 97 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, In the MUBI Microcinema\n\nWith absolutely stunning
+  cinematography (including an astonishing use of framing)\, the exquisite 
+ backdrop of the Catalonian coastline\, and a breathy and ethereal vibe\, t
+ his is one of the loveliest ghost stories you may ever see.\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4338231/\n\nDetails: https://vidiotsf
+ oundation.org/movies/forastera/
+END:VEVENT
+BEGIN:VEVENT
+UID:4338227@vidiotsfoundation.org
+DTSTAMP:20260803T020000Z
+DTSTART;TZID=America/Los_Angeles:20260802T190000
+DTEND;TZID=America/Los_Angeles:20260802T205500
+SUMMARY:Miller’s Crossing
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4338227/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 115 min | 
+ Format: Digital | Rating: R\n\nSeries: Community Partners\, In the Eagle\,
+  Special Guests in Attendance\n\nThe Coen Brothers head back to the neo-no
+ ir in this effortless\, quotable\, and beautifully shot gangster drama.\nC
+ o-presented by our friends at American Cinema Editors and featuring a conv
+ ersation with editor Michael Miller moderated by John Venzon. Also featuri
+ ng a book signing of Miller's book "Developing the Editor’s Eye".\n\nTic
+ kets: https://vidiotsfoundation.org/purchase/4338227/\n\nDetails: https://
+ vidiotsfoundation.org/movies/millers-crossing/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
