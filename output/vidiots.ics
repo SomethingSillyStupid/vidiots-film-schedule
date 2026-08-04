@@ -102,10 +102,12 @@ SUMMARY:Jackass: Best and Last
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4389549/
-DESCRIPTION:Run time: 92 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nOne. Last. Ride.\n\nTickets: http
- s://vidiotsfoundation.org/purchase/4389549/\n\nDetails: https://vidiotsfou
- ndation.org/movies/jackass-best-and-last/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
+ ormat: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micro
+ cinema\n\nOne. Last. Ride.\n\nTickets: https://vidiotsfoundation.org/purch
+ ase/4389549/\n\nDetails: https://vidiotsfoundation.org/movies/jackass-best
+ -and-last/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4369416@vidiotsfoundation.org
@@ -181,12 +183,12 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
 URL:https://vidiotsfoundation.org/purchase/4389646/
 DESCRIPTION:Run time: 83 min | Format: Digital | Release year: 2026\n\nSeri
  es: In the MUBI Microcinema\n\nJoin us in the microcinema for one of the m
- ost unique animated feature films of recent history - Maeriem Bennani's in
- tensely personal\, singular\, and genuine Bouchra. Juxtaposing decidedly a
- bsurd animation choices with the realism of her characters and dialogue\, 
- Bennani creates an asbolutely unique vision of artistry and queer identity
- .\n\nTickets: https://vidiotsfoundation.org/purchase/4389646/\n\nDetails: 
- https://vidiotsfoundation.org/movies/bouchra/
+ ost unique animated feature films of recent history - Orian Barki and Meri
+ em Bennani's intensely personal\, singular\, and genuine Bouchra. Juxtapos
+ ing decidedly absurd animation choices with the realism of her characters 
+ and dialogue\, Bennani creates an asbolutely unique vision of artistry and
+  queer identity.\n\nTickets: https://vidiotsfoundation.org/purchase/438964
+ 6/\n\nDetails: https://vidiotsfoundation.org/movies/bouchra/
 END:VEVENT
 BEGIN:VEVENT
 UID:4368431@vidiotsfoundation.org
@@ -292,12 +294,12 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
 URL:https://vidiotsfoundation.org/purchase/4389738/
 DESCRIPTION:Run time: 83 min | Format: Digital | Release year: 2026\n\nSeri
  es: In the MUBI Microcinema\n\nJoin us in the microcinema for one of the m
- ost unique animated feature films of recent history - Maeriem Bennani's in
- tensely personal\, singular\, and genuine Bouchra. Juxtaposing decidedly a
- bsurd animation choices with the realism of her characters and dialogue\, 
- Bennani creates an asbolutely unique vision of artistry and queer identity
- .\n\nTickets: https://vidiotsfoundation.org/purchase/4389738/\n\nDetails: 
- https://vidiotsfoundation.org/movies/bouchra/
+ ost unique animated feature films of recent history - Orian Barki and Meri
+ em Bennani's intensely personal\, singular\, and genuine Bouchra. Juxtapos
+ ing decidedly absurd animation choices with the realism of her characters 
+ and dialogue\, Bennani creates an asbolutely unique vision of artistry and
+  queer identity.\n\nTickets: https://vidiotsfoundation.org/purchase/438973
+ 8/\n\nDetails: https://vidiotsfoundation.org/movies/bouchra/
 END:VEVENT
 BEGIN:VEVENT
 UID:4365144@vidiotsfoundation.org
@@ -328,6 +330,22 @@ DESCRIPTION:Run time: 92 min | Format: Digital | Rating: R\n\nSeries: Addit
  ional Shows\, In the MUBI Microcinema\n\nOne. Last. Ride.\n\nTickets: http
  s://vidiotsfoundation.org/purchase/4389740/\n\nDetails: https://vidiotsfou
  ndation.org/movies/jackass-best-and-last/
+END:VEVENT
+BEGIN:VEVENT
+UID:4437143@vidiotsfoundation.org
+DTSTAMP:20260812T020000Z
+DTSTART;TZID=America/Los_Angeles:20260811T190000
+DTEND;TZID=America/Los_Angeles:20260811T204000
+SUMMARY:Maddie’s Secret
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4437143/
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: In the MUBI Micr
+ ocinema\n\nA pitch-perfect blend of satire\, melodrama\, daring tonal shif
+ ts and intimate performances\, the film marks a bold new voice in contempo
+ rary cinema.\nOne Final Encore!\n\nTickets: https://vidiotsfoundation.org/
+ purchase/4437143/\n\nDetails: https://vidiotsfoundation.org/movies/maddies
+ -secret/
 END:VEVENT
 BEGIN:VEVENT
 UID:4368707@vidiotsfoundation.org
