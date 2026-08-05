@@ -8,44 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4388620@vidiotsfoundation.org
-DTSTAMP:20260806T020000Z
-DTSTART;TZID=America/Los_Angeles:20260805T190000
-DTEND;TZID=America/Los_Angeles:20260805T204500
-SUMMARY:Mysterious Skin
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4388620/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital\n\nSeries: Doors Open at 6\, In the Eagle\, Special Guests
-  in Attendance\, Additional Shows\, In the MUBI Microcinema\n\nVidiots is 
- thrilled to welcome legendary indie filmmaker Gregg Araki and Joseph Gordo
- n-Levitt on Wednesday August 5!\nEncore screenings added in the microcinem
- a August 21-23 - no special guests.\n\nTickets: https://vidiotsfoundation.
- org/purchase/4388620/\n\nDetails: https://vidiotsfoundation.org/movies/mys
- terious-skin/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4428842@vidiotsfoundation.org
-DTSTAMP:20260806T044500Z
-DTSTART;TZID=America/Los_Angeles:20260805T214500
-DTEND;TZID=America/Los_Angeles:20260805T233000
-SUMMARY:Mysterious Skin
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4428842/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital\n\nSeries: Doors Open at 6\, In the Eagle\, Special Guests
-  in Attendance\, Additional Shows\, In the MUBI Microcinema\n\nVidiots is 
- thrilled to welcome legendary indie filmmaker Gregg Araki and Joseph Gordo
- n-Levitt on Wednesday August 5!\nEncore screenings added in the microcinem
- a August 21-23 - no special guests.\n\nTickets: https://vidiotsfoundation.
- org/purchase/4428842/\n\nDetails: https://vidiotsfoundation.org/movies/mys
- terious-skin/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4441168@vidiotsfoundation.org
 DTSTAMP:20260807T023000Z
 DTSTART;TZID=America/Los_Angeles:20260806T193000
@@ -149,12 +111,13 @@ SUMMARY:CatVideoFest 2026
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4360508/
-DESCRIPTION:Run time: 70 min | Format: Digital | Rating: All Ages\n\nSeries
- : Community Partners\, Films for Everyone\, In the Eagle\n\nOur fuzzy over
- lords return to the big screen! Vidiots is purrfectly enthralled to bring 
- back the cutest kitty compilation ever!\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4360508/\n\nDetails: https://vidiotsfoundation.org/movies
- /catvideofest-2026/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 70 min | F
+ ormat: Digital | Rating: All Ages\n\nSeries: Community Partners\, Films fo
+ r Everyone\, In the Eagle\n\nOur fuzzy overlords return to the big screen!
+  Vidiots is purrfectly enthralled to bring back the cutest kitty compilati
+ on ever!\n\nTickets: https://vidiotsfoundation.org/purchase/4360508/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/catvideofest-2026/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4368412@vidiotsfoundation.org
@@ -260,12 +223,13 @@ SUMMARY:CatVideoFest 2026
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4360511/
-DESCRIPTION:Run time: 70 min | Format: Digital | Rating: All Ages\n\nSeries
- : Community Partners\, Films for Everyone\, In the Eagle\n\nOur fuzzy over
- lords return to the big screen! Vidiots is purrfectly enthralled to bring 
- back the cutest kitty compilation ever!\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4360511/\n\nDetails: https://vidiotsfoundation.org/movies
- /catvideofest-2026/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 70 min | F
+ ormat: Digital | Rating: All Ages\n\nSeries: Community Partners\, Films fo
+ r Everyone\, In the Eagle\n\nOur fuzzy overlords return to the big screen!
+  Vidiots is purrfectly enthralled to bring back the cutest kitty compilati
+ on ever!\n\nTickets: https://vidiotsfoundation.org/purchase/4360511/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/catvideofest-2026/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4365141@vidiotsfoundation.org
@@ -811,23 +775,6 @@ DESCRIPTION:Run time: 100 min | Format: Digital | Rating: All Ages | Releas
  ion.org/movies/ponyo-japanese-with-english-subtitles/
 END:VEVENT
 BEGIN:VEVENT
-UID:4392584@vidiotsfoundation.org
-DTSTAMP:20260821T233000Z
-DTSTART;TZID=America/Los_Angeles:20260821T163000
-DTEND;TZID=America/Los_Angeles:20260821T181500
-SUMMARY:Mysterious Skin
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4392584/
-DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: Doors Open at 6\
- , In the Eagle\, Special Guests in Attendance\, Additional Shows\, In the 
- MUBI Microcinema\n\nVidiots is thrilled to welcome legendary indie filmmak
- er Gregg Araki and Joseph Gordon-Levitt on Wednesday August 5!\nEncore scr
- eenings added in the microcinema August 21-23 - no special guests.\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4392584/\n\nDetails: https://v
- idiotsfoundation.org/movies/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
 UID:4388329@vidiotsfoundation.org
 DTSTAMP:20260822T020000Z
 DTSTART;TZID=America/Los_Angeles:20260821T190000
@@ -985,23 +932,6 @@ DESCRIPTION:Run time: 104 min | Format: Digital | Rating: R\n\nSeries: In t
   https://vidiotsfoundation.org/movies/mystic-pizza/
 END:VEVENT
 BEGIN:VEVENT
-UID:4437290@vidiotsfoundation.org
-DTSTAMP:20260823T022000Z
-DTSTART;TZID=America/Los_Angeles:20260822T192000
-DTEND;TZID=America/Los_Angeles:20260822T210500
-SUMMARY:Mysterious Skin
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4437290/
-DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: Doors Open at 6\
- , In the Eagle\, Special Guests in Attendance\, Additional Shows\, In the 
- MUBI Microcinema\n\nVidiots is thrilled to welcome legendary indie filmmak
- er Gregg Araki and Joseph Gordon-Levitt on Wednesday August 5!\nEncore scr
- eenings added in the microcinema August 21-23 - no special guests.\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4437290/\n\nDetails: https://v
- idiotsfoundation.org/movies/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
 UID:4388245@vidiotsfoundation.org
 DTSTAMP:20260823T044500Z
 DTSTART;TZID=America/Los_Angeles:20260822T214500
@@ -1097,23 +1027,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 186 min |
  tsfoundation.org/purchase/4368695/\n\nDetails: https://vidiotsfoundation.o
  rg/movies/rrr/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4470937@vidiotsfoundation.org
-DTSTAMP:20260824T020000Z
-DTSTART;TZID=America/Los_Angeles:20260823T190000
-DTEND;TZID=America/Los_Angeles:20260823T204500
-SUMMARY:Mysterious Skin
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4470937/
-DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: Doors Open at 6\
- , In the Eagle\, Special Guests in Attendance\, Additional Shows\, In the 
- MUBI Microcinema\n\nVidiots is thrilled to welcome legendary indie filmmak
- er Gregg Araki and Joseph Gordon-Levitt on Wednesday August 5!\nEncore scr
- eenings added in the microcinema August 21-23 - no special guests.\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4470937/\n\nDetails: https://v
- idiotsfoundation.org/movies/mysterious-skin/
 END:VEVENT
 BEGIN:VEVENT
 UID:4428379@vidiotsfoundation.org
@@ -1405,20 +1318,41 @@ DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Addi
  026/
 END:VEVENT
 BEGIN:VEVENT
-UID:4338261@vidiotsfoundation.org
-DTSTAMP:20260805T023000Z
-DTSTART;TZID=America/Los_Angeles:20260804T193000
-DTEND;TZID=America/Los_Angeles:20260804T211400
-SUMMARY:The Third Man on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338261/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 104 min | 
- Format: 35mm Film\n\nSeries: 35mm Film\, Doors Open at 6\, In the Eagle\n\
- nJoin us for Carol Reed's slick masterpiece of thrilling double-crosses\, 
- doomed love\, and startling philosophy.\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4338261/\n\nDetails: https://vidiotsfoundation.org/movies
- /the-third-man/
+UID:4388620@vidiotsfoundation.org
+DTSTAMP:20260806T020000Z
+DTSTART;TZID=America/Los_Angeles:20260805T190000
+DTEND;TZID=America/Los_Angeles:20260805T204500
+SUMMARY:Mysterious Skin
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4388620/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
+ Format: Digital\n\nSeries: Doors Open at 6\, In the Eagle\, Special Guests
+  in Attendance\, Additional Shows\, In the MUBI Microcinema\n\nVidiots is 
+ thrilled to welcome legendary indie filmmaker Gregg Araki and Joseph Gordo
+ n-Levitt on Wednesday August 5!\nEncore screenings added in the microcinem
+ a August 21-23 - no special guests.\n\nTickets: https://vidiotsfoundation.
+ org/purchase/4388620/\n\nDetails: https://vidiotsfoundation.org/movies/mys
+ terious-skin/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4428842@vidiotsfoundation.org
+DTSTAMP:20260806T044500Z
+DTSTART;TZID=America/Los_Angeles:20260805T214500
+DTEND;TZID=America/Los_Angeles:20260805T233000
+SUMMARY:Mysterious Skin
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4428842/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
+ Format: Digital\n\nSeries: Doors Open at 6\, In the Eagle\, Special Guests
+  in Attendance\, Additional Shows\, In the MUBI Microcinema\n\nVidiots is 
+ thrilled to welcome legendary indie filmmaker Gregg Araki and Joseph Gordo
+ n-Levitt on Wednesday August 5!\nEncore screenings added in the microcinem
+ a August 21-23 - no special guests.\n\nTickets: https://vidiotsfoundation.
+ org/purchase/4428842/\n\nDetails: https://vidiotsfoundation.org/movies/mys
+ terious-skin/
 STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
