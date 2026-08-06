@@ -8,25 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4441168@vidiotsfoundation.org
-DTSTAMP:20260807T023000Z
-DTSTART;TZID=America/Los_Angeles:20260806T193000
-DTEND;TZID=America/Los_Angeles:20260806T202500
-SUMMARY:Monsters of God
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://events.humanitix.com/kcrw-partner-screening-monsters-of-god
-DESCRIPTION:Run time: 55 min | Format: Digital\n\nSeries: Community Partner
- s\, Free Events\, In the Eagle\, Special Guests in Attendance\n\nKCRW\, Vi
- diots\, and HBO Documentary Films invite you to a special advance screenin
- g of Monsters of God followed by a conversation with director and executiv
- e producer\, Eric Goode\, executive producer\, Jeremy McBride\, producer\,
-  Tom Petersen\, and subjects Mike Van Nostrand and Tom Crutchfield moderat
- ed by Jason Segel.\n\nTickets: https://events.humanitix.com/kcrw-partner-s
- creening-monsters-of-god\n\nDetails: https://vidiotsfoundation.org/movies/
- monsters-of-god/
-END:VEVENT
-BEGIN:VEVENT
 UID:4389539@vidiotsfoundation.org
 DTSTAMP:20260807T233000Z
 DTSTART;TZID=America/Los_Angeles:20260807T163000
@@ -1357,41 +1338,22 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4388620@vidiotsfoundation.org
-DTSTAMP:20260806T020000Z
-DTSTART;TZID=America/Los_Angeles:20260805T190000
-DTEND;TZID=America/Los_Angeles:20260805T204500
-SUMMARY:Mysterious Skin
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4388620/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital\n\nSeries: Doors Open at 6\, In the Eagle\, Special Guests
-  in Attendance\, Additional Shows\, In the MUBI Microcinema\n\nVidiots is 
- thrilled to welcome legendary indie filmmaker Gregg Araki and Joseph Gordo
- n-Levitt on Wednesday August 5!\nEncore screenings added in the microcinem
- a August 21-23 - no special guests.\n\nTickets: https://vidiotsfoundation.
- org/purchase/4388620/\n\nDetails: https://vidiotsfoundation.org/movies/mys
- terious-skin/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4428842@vidiotsfoundation.org
-DTSTAMP:20260806T044500Z
-DTSTART;TZID=America/Los_Angeles:20260805T214500
-DTEND;TZID=America/Los_Angeles:20260805T233000
-SUMMARY:Mysterious Skin
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4428842/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital\n\nSeries: Doors Open at 6\, In the Eagle\, Special Guests
-  in Attendance\, Additional Shows\, In the MUBI Microcinema\n\nVidiots is 
- thrilled to welcome legendary indie filmmaker Gregg Araki and Joseph Gordo
- n-Levitt on Wednesday August 5!\nEncore screenings added in the microcinem
- a August 21-23 - no special guests.\n\nTickets: https://vidiotsfoundation.
- org/purchase/4428842/\n\nDetails: https://vidiotsfoundation.org/movies/mys
- terious-skin/
-STATUS:TENTATIVE
+UID:4441168@vidiotsfoundation.org
+DTSTAMP:20260807T023000Z
+DTSTART;TZID=America/Los_Angeles:20260806T193000
+DTEND;TZID=America/Los_Angeles:20260806T202500
+SUMMARY:Monsters of God
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://events.humanitix.com/kcrw-partner-screening-monsters-of-god
+DESCRIPTION:Run time: 55 min | Format: Digital\n\nSeries: Community Partner
+ s\, Free Events\, In the Eagle\, Special Guests in Attendance\n\nKCRW\, Vi
+ diots\, and HBO Documentary Films invite you to a special advance screenin
+ g of Monsters of God followed by a conversation with director and executiv
+ e producer\, Eric Goode\, executive producer\, Jeremy McBride\, producer\,
+  Tom Petersen\, and subjects Mike Van Nostrand and Tom Crutchfield moderat
+ ed by Jason Segel.\n\nTickets: https://events.humanitix.com/kcrw-partner-s
+ creening-monsters-of-god\n\nDetails: https://vidiotsfoundation.org/movies/
+ monsters-of-god/
 END:VEVENT
 END:VCALENDAR
