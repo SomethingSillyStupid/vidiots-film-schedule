@@ -360,11 +360,12 @@ SUMMARY:Manhunter: The Final Cut
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4364996/
-DESCRIPTION:Run time: 122 min | Format: 4K Digital | Rating: R\n\nSeries: D
- oors Open at 6\, In the Eagle\n\nIt's just you and me now\, sport…\n40th
-  Anniversary! New 4K Restoration!\n\nTickets: https://vidiotsfoundation.or
- g/purchase/4364996/\n\nDetails: https://vidiotsfoundation.org/movies/manhu
- nter/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 122 min | 
+ Format: 4K Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\n
+ \nIt's just you and me now\, sport…\n40th Anniversary! New 4K Restoratio
+ n!\n\nTickets: https://vidiotsfoundation.org/purchase/4364996/\n\nDetails:
+  https://vidiotsfoundation.org/movies/manhunter/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4393028@vidiotsfoundation.org
@@ -669,6 +670,27 @@ DESCRIPTION:Run time: 107 min | Format: Digital | Rating: R\n\nSeries: Addi
  vite for a fun and naughty night of indie cinema!\n\nTickets: https://vidi
  otsfoundation.org/purchase/4393087/\n\nDetails: https://vidiotsfoundation.
  org/movies/the-invite/
+END:VEVENT
+BEGIN:VEVENT
+UID:4500857@vidiotsfoundation.org
+DTSTAMP:20260818T023000Z
+DTSTART;TZID=America/Los_Angeles:20260817T193000
+DTEND;TZID=America/Los_Angeles:20260817T211200
+SUMMARY:Be Kind Rewind
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4500857/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 102 min | 
+ Format: Digital | Rating: PG-13\n\nSeries: Doors Open at 6\, In the Eagle\
+ , Special Guests in Attendance\n\nVidiots and Partizan are thrilled to wel
+ come legendary filmmaker Michel Gondry and more special guests for a speci
+ al screening of this imagination-heavy video store fantasy!\nA joyous and 
+ soul-stirring tribute to community\, imagination\, and ingenuity and a lov
+ e story to video stores and cinema\, there's no better place to watch this
+  charmer than on the big screen at one of the country's last remaining vid
+ eo stores!\n\nTickets: https://vidiotsfoundation.org/purchase/4500857/\n\n
+ Details: https://vidiotsfoundation.org/movies/be-kind-rewind/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4389907@vidiotsfoundation.org
@@ -1285,6 +1307,22 @@ DESCRIPTION:Run time: 127 min | Format: Digital | Rating: PG\n\nSeries: In
  e-and-prejudice/
 END:VEVENT
 BEGIN:VEVENT
+UID:4438451@vidiotsfoundation.org
+DTSTAMP:20260831T023000Z
+DTSTART;TZID=America/Los_Angeles:20260830T193000
+DTEND;TZID=America/Los_Angeles:20260830T210000
+SUMMARY:I Want Your Sex
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4438451/
+DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nLos Angeles indie legend Gregg Ar
+ aki's newest absurd comedy is a raunchy\, kinky delight and it's steaming 
+ up our microcinema in all its eye-popping\, kink-positive\, raucously funn
+ y glory!\n\nTickets: https://vidiotsfoundation.org/purchase/4438451/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/i-want-your-sex/
+END:VEVENT
+BEGIN:VEVENT
 UID:4393414@vidiotsfoundation.org
 DTSTAMP:20260901T023000Z
 DTSTART;TZID=America/Los_Angeles:20260831T193000
@@ -1308,14 +1346,15 @@ SUMMARY:Teenage Sex and Death at Camp Miasma
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4471015/
-DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nVisionary director Jane Schoenbr
- un (I Saw the TV Glow) presents a new kind of horror remake! Bursting with
-  imagination and surreal wit\, their latest genre-bending wonder affirms t
- here’s no such thing as a guilty pleasure.\nMore Showtimes on sale soon!
- \n\nTickets: https://vidiotsfoundation.org/purchase/4471015/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/teenage-sex-and-death-at-camp-miasma-2
- 026/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min | 
+ Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
+ ocinema\n\nVisionary director Jane Schoenbrun (I Saw the TV Glow) presents
+  a new kind of horror remake! Bursting with imagination and surreal wit\, 
+ their latest genre-bending wonder affirms there’s no such thing as a gui
+ lty pleasure.\nMore Showtimes on sale soon!\n\nTickets: https://vidiotsfou
+ ndation.org/purchase/4471015/\n\nDetails: https://vidiotsfoundation.org/mo
+ vies/teenage-sex-and-death-at-camp-miasma-2026/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4388620@vidiotsfoundation.org
