@@ -778,6 +778,23 @@ DESCRIPTION:Run time: 100 min | Format: Digital | Rating: All Ages | Releas
  ion.org/movies/ponyo-japanese-with-english-subtitles/
 END:VEVENT
 BEGIN:VEVENT
+UID:4392584@vidiotsfoundation.org
+DTSTAMP:20260821T233000Z
+DTSTART;TZID=America/Los_Angeles:20260821T163000
+DTEND;TZID=America/Los_Angeles:20260821T181500
+SUMMARY:Mysterious Skin
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4392584/
+DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\n\nIndie legend Gregg Araki's most sensitive an
+ d thoughtful film to date\,and a profound and compassionate view into the 
+ lasting effects of childhood trauma.\nEncore screenings added in the micro
+ cinema August 21-23 - no special guests.\n\nTickets: https://vidiotsfounda
+ tion.org/purchase/4392584/\n\nDetails: https://vidiotsfoundation.org/movie
+ s/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
 UID:4388329@vidiotsfoundation.org
 DTSTAMP:20260822T020000Z
 DTSTART;TZID=America/Los_Angeles:20260821T190000
@@ -935,6 +952,23 @@ DESCRIPTION:Run time: 104 min | Format: Digital | Rating: R\n\nSeries: In t
   https://vidiotsfoundation.org/movies/mystic-pizza/
 END:VEVENT
 BEGIN:VEVENT
+UID:4437290@vidiotsfoundation.org
+DTSTAMP:20260823T022000Z
+DTSTART;TZID=America/Los_Angeles:20260822T192000
+DTEND;TZID=America/Los_Angeles:20260822T210500
+SUMMARY:Mysterious Skin
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4437290/
+DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\n\nIndie legend Gregg Araki's most sensitive an
+ d thoughtful film to date\,and a profound and compassionate view into the 
+ lasting effects of childhood trauma.\nEncore screenings added in the micro
+ cinema August 21-23 - no special guests.\n\nTickets: https://vidiotsfounda
+ tion.org/purchase/4437290/\n\nDetails: https://vidiotsfoundation.org/movie
+ s/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
 UID:4388245@vidiotsfoundation.org
 DTSTAMP:20260823T044500Z
 DTSTART;TZID=America/Los_Angeles:20260822T214500
@@ -1030,6 +1064,23 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 186 min |
  tsfoundation.org/purchase/4368695/\n\nDetails: https://vidiotsfoundation.o
  rg/movies/rrr/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4470937@vidiotsfoundation.org
+DTSTAMP:20260824T020000Z
+DTSTART;TZID=America/Los_Angeles:20260823T190000
+DTEND;TZID=America/Los_Angeles:20260823T204500
+SUMMARY:Mysterious Skin
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4470937/
+DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\n\nIndie legend Gregg Araki's most sensitive an
+ d thoughtful film to date\,and a profound and compassionate view into the 
+ lasting effects of childhood trauma.\nEncore screenings added in the micro
+ cinema August 21-23 - no special guests.\n\nTickets: https://vidiotsfounda
+ tion.org/purchase/4470937/\n\nDetails: https://vidiotsfoundation.org/movie
+ s/mysterious-skin/
 END:VEVENT
 BEGIN:VEVENT
 UID:4428379@vidiotsfoundation.org
