@@ -8,82 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4389539@vidiotsfoundation.org
-DTSTAMP:20260807T233000Z
-DTSTART;TZID=America/Los_Angeles:20260807T163000
-DTEND;TZID=America/Los_Angeles:20260807T180200
-SUMMARY:Jackass: Best and Last
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4389539/
-DESCRIPTION:Run time: 92 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nOne. Last. Ride.\n\nTickets: http
- s://vidiotsfoundation.org/purchase/4389539/\n\nDetails: https://vidiotsfou
- ndation.org/movies/jackass-best-and-last/
-END:VEVENT
-BEGIN:VEVENT
-UID:4369413@vidiotsfoundation.org
-DTSTAMP:20260808T020000Z
-DTSTART;TZID=America/Los_Angeles:20260807T190000
-DTEND;TZID=America/Los_Angeles:20260807T205000
-SUMMARY:Dirty Rotten Scoundrels
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4369413/
-DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: In 
- the Eagle\, TeenTix LA\n\nThe con is on with Frank Oz's masterful dark com
- edy classic with absolute legends Steve Martin and Michael Caine!\n\nTicke
- ts: https://vidiotsfoundation.org/purchase/4369413/\n\nDetails: https://vi
- diotsfoundation.org/movies/dirty-rotten-scoundrels/
-END:VEVENT
-BEGIN:VEVENT
-UID:4389549@vidiotsfoundation.org
-DTSTAMP:20260808T023000Z
-DTSTART;TZID=America/Los_Angeles:20260807T193000
-DTEND;TZID=America/Los_Angeles:20260807T210200
-SUMMARY:Jackass: Best and Last
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4389549/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
- ormat: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micro
- cinema\n\nOne. Last. Ride.\n\nTickets: https://vidiotsfoundation.org/purch
- ase/4389549/\n\nDetails: https://vidiotsfoundation.org/movies/jackass-best
- -and-last/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4369416@vidiotsfoundation.org
-DTSTAMP:20260808T044500Z
-DTSTART;TZID=America/Los_Angeles:20260807T214500
-DTEND;TZID=America/Los_Angeles:20260807T231900
-SUMMARY:Breakin’ 2: Electric Boogaloo
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4369416/
-DESCRIPTION:Run time: 94 min | Format: Digital | Rating: PG\n\nSeries: In t
- he Eagle\, TeenTix LA\, What the Friday?!?\n\nThe fashion\, the dance move
- s\, the 80s cheese\, the Cannon Films moxie\, it's all in such abundance\,
-  you'll be doing head-spins on the way back to your car!\n\nTickets: https
- ://vidiotsfoundation.org/purchase/4369416/\n\nDetails: https://vidiotsfoun
- dation.org/movies/breakin-2-electric-boogaloo/
-END:VEVENT
-BEGIN:VEVENT
-UID:4389644@vidiotsfoundation.org
-DTSTAMP:20260808T050000Z
-DTSTART;TZID=America/Los_Angeles:20260807T220000
-DTEND;TZID=America/Los_Angeles:20260807T233000
-SUMMARY:Twin Peaks: The Original Mystery – Episodes 7 + 8
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4389644/
-DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, The Lynchian Legacy\n\nThe first season's stun
- ning conclusion!\n\nTickets: https://vidiotsfoundation.org/purchase/438964
- 4/\n\nDetails: https://vidiotsfoundation.org/movies/twin-peaks-the-origina
- l-mystery-episodes-7-8/
-END:VEVENT
-BEGIN:VEVENT
 UID:4360508@vidiotsfoundation.org
 DTSTAMP:20260808T190000Z
 DTSTART;TZID=America/Los_Angeles:20260808T120000
@@ -151,21 +75,6 @@ DESCRIPTION:Run time: 104 min | Format: Digital | Rating: PG-13\n\nSeries:
  /
 END:VEVENT
 BEGIN:VEVENT
-UID:4389663@vidiotsfoundation.org
-DTSTAMP:20260809T023000Z
-DTSTART;TZID=America/Los_Angeles:20260808T193000
-DTEND;TZID=America/Los_Angeles:20260808T210000
-SUMMARY:Twin Peaks: The Original Mystery – Episodes 7 + 8
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4389663/
-DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, The Lynchian Legacy\n\nThe first season's stun
- ning conclusion!\n\nTickets: https://vidiotsfoundation.org/purchase/438966
- 3/\n\nDetails: https://vidiotsfoundation.org/movies/twin-peaks-the-origina
- l-mystery-episodes-7-8/
-END:VEVENT
-BEGIN:VEVENT
 UID:4368451@vidiotsfoundation.org
 DTSTAMP:20260809T044500Z
 DTSTART;TZID=America/Los_Angeles:20260808T214500
@@ -180,20 +89,6 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: In t
  ing with the uneasy vibes of John Carpenter for an 80s horror classic in h
  igh gear.\n\nTickets: https://vidiotsfoundation.org/purchase/4368451/\n\nD
  etails: https://vidiotsfoundation.org/movies/christine/
-END:VEVENT
-BEGIN:VEVENT
-UID:4389673@vidiotsfoundation.org
-DTSTAMP:20260809T050000Z
-DTSTART;TZID=America/Los_Angeles:20260808T220000
-DTEND;TZID=America/Los_Angeles:20260808T233200
-SUMMARY:Jackass: Best and Last
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4389673/
-DESCRIPTION:Run time: 92 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nOne. Last. Ride.\n\nTickets: http
- s://vidiotsfoundation.org/purchase/4389673/\n\nDetails: https://vidiotsfou
- ndation.org/movies/jackass-best-and-last/
 END:VEVENT
 BEGIN:VEVENT
 UID:4360511@vidiotsfoundation.org
@@ -255,26 +150,14 @@ SUMMARY:Can’t Hardly Wait
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4365144/
-DESCRIPTION:Run time: 100 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\, Special Guests in Attendance\n\nVidiots can't wait to party
-  with Writer/Directors Deborah Kaplan and Harry Elfont at a special screen
- ing of their quintessential 90s teen classic Can't Hardly Wait!\n\nTickets
- : https://vidiotsfoundation.org/purchase/4365144/\n\nDetails: https://vidi
- otsfoundation.org/movies/cant-hardly-wait/
-END:VEVENT
-BEGIN:VEVENT
-UID:4389740@vidiotsfoundation.org
-DTSTAMP:20260810T023000Z
-DTSTART;TZID=America/Los_Angeles:20260809T193000
-DTEND;TZID=America/Los_Angeles:20260809T210200
-SUMMARY:Jackass: Best and Last
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4389740/
-DESCRIPTION:Run time: 92 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nOne. Last. Ride.\n\nTickets: http
- s://vidiotsfoundation.org/purchase/4389740/\n\nDetails: https://vidiotsfou
- ndation.org/movies/jackass-best-and-last/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital | Rating: PG-13\n\nSeries: In the Eagle\, Special Guests i
+ n Attendance\n\nVidiots can't wait to party with Writer/Directors Deborah 
+ Kaplan and Harry Elfont at a special screening of their quintessential 90s
+  teen classic Can't Hardly Wait!\n\nTickets: https://vidiotsfoundation.org
+ /purchase/4365144/\n\nDetails: https://vidiotsfoundation.org/movies/cant-h
+ ardly-wait/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4437143@vidiotsfoundation.org
@@ -1387,5 +1270,81 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min |
  ndation.org/purchase/4471015/\n\nDetails: https://vidiotsfoundation.org/mo
  vies/teenage-sex-and-death-at-camp-miasma-2026/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4389539@vidiotsfoundation.org
+DTSTAMP:20260807T233000Z
+DTSTART;TZID=America/Los_Angeles:20260807T163000
+DTEND;TZID=America/Los_Angeles:20260807T180200
+SUMMARY:Jackass: Best and Last
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4389539/
+DESCRIPTION:Run time: 92 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nOne. Last. Ride.\n\nTickets: http
+ s://vidiotsfoundation.org/purchase/4389539/\n\nDetails: https://vidiotsfou
+ ndation.org/movies/jackass-best-and-last/
+END:VEVENT
+BEGIN:VEVENT
+UID:4369413@vidiotsfoundation.org
+DTSTAMP:20260808T020000Z
+DTSTART;TZID=America/Los_Angeles:20260807T190000
+DTEND;TZID=America/Los_Angeles:20260807T205000
+SUMMARY:Dirty Rotten Scoundrels
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4369413/
+DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: In 
+ the Eagle\, TeenTix LA\n\nThe con is on with Frank Oz's masterful dark com
+ edy classic with absolute legends Steve Martin and Michael Caine!\n\nTicke
+ ts: https://vidiotsfoundation.org/purchase/4369413/\n\nDetails: https://vi
+ diotsfoundation.org/movies/dirty-rotten-scoundrels/
+END:VEVENT
+BEGIN:VEVENT
+UID:4389549@vidiotsfoundation.org
+DTSTAMP:20260808T023000Z
+DTSTART;TZID=America/Los_Angeles:20260807T193000
+DTEND;TZID=America/Los_Angeles:20260807T210200
+SUMMARY:Jackass: Best and Last
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4389549/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
+ ormat: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micro
+ cinema\n\nOne. Last. Ride.\n\nTickets: https://vidiotsfoundation.org/purch
+ ase/4389549/\n\nDetails: https://vidiotsfoundation.org/movies/jackass-best
+ -and-last/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4369416@vidiotsfoundation.org
+DTSTAMP:20260808T044500Z
+DTSTART;TZID=America/Los_Angeles:20260807T214500
+DTEND;TZID=America/Los_Angeles:20260807T231900
+SUMMARY:Breakin’ 2: Electric Boogaloo
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4369416/
+DESCRIPTION:Run time: 94 min | Format: Digital | Rating: PG\n\nSeries: In t
+ he Eagle\, TeenTix LA\, What the Friday?!?\n\nThe fashion\, the dance move
+ s\, the 80s cheese\, the Cannon Films moxie\, it's all in such abundance\,
+  you'll be doing head-spins on the way back to your car!\n\nTickets: https
+ ://vidiotsfoundation.org/purchase/4369416/\n\nDetails: https://vidiotsfoun
+ dation.org/movies/breakin-2-electric-boogaloo/
+END:VEVENT
+BEGIN:VEVENT
+UID:4389644@vidiotsfoundation.org
+DTSTAMP:20260808T050000Z
+DTSTART;TZID=America/Los_Angeles:20260807T220000
+DTEND;TZID=America/Los_Angeles:20260807T233000
+SUMMARY:Twin Peaks: The Original Mystery – Episodes 7 + 8
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4389644/
+DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, The Lynchian Legacy\n\nThe first season's stun
+ ning conclusion!\n\nTickets: https://vidiotsfoundation.org/purchase/438964
+ 4/\n\nDetails: https://vidiotsfoundation.org/movies/twin-peaks-the-origina
+ l-mystery-episodes-7-8/
 END:VEVENT
 END:VCALENDAR
