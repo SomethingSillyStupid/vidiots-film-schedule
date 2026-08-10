@@ -1123,38 +1123,4 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min |
  vies/teenage-sex-and-death-at-camp-miasma-2026/
 STATUS:TENTATIVE
 END:VEVENT
-BEGIN:VEVENT
-UID:4365141@vidiotsfoundation.org
-DTSTAMP:20260809T231500Z
-DTSTART;TZID=America/Los_Angeles:20260809T161500
-DTEND;TZID=America/Los_Angeles:20260809T174300
-SUMMARY:Rashomon
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4365141/
-DESCRIPTION:Run time: 88 min | Format: Digital | Release year: 1950\n\nSeri
- es: In the Eagle\, TeenTix LA\n\nAkira Kurosawa's riveting psychological t
- hriller that investigates the nature of truth and the meaning of justice\,
-  Rashomon is widely considered one of the greatest films ever made.\n\nTic
- kets: https://vidiotsfoundation.org/purchase/4365141/\n\nDetails: https://
- vidiotsfoundation.org/movies/rashomon/
-END:VEVENT
-BEGIN:VEVENT
-UID:4365144@vidiotsfoundation.org
-DTSTAMP:20260810T020000Z
-DTSTART;TZID=America/Los_Angeles:20260809T190000
-DTEND;TZID=America/Los_Angeles:20260809T204000
-SUMMARY:Can’t Hardly Wait
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4365144/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Rating: PG-13\n\nSeries: In the Eagle\, Special Guests i
- n Attendance\n\nVidiots can't wait to party with Writer/Directors Deborah 
- Kaplan and Harry Elfont at a special screening of their quintessential 90s
-  teen classic Can't Hardly Wait!\n\nTickets: https://vidiotsfoundation.org
- /purchase/4365144/\n\nDetails: https://vidiotsfoundation.org/movies/cant-h
- ardly-wait/
-STATUS:TENTATIVE
-END:VEVENT
 END:VCALENDAR
