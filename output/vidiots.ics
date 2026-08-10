@@ -81,6 +81,21 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 122 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:4528098@vidiotsfoundation.org
+DTSTAMP:20260814T230000Z
+DTSTART;TZID=America/Los_Angeles:20260814T160000
+DTEND;TZID=America/Los_Angeles:20260814T174600
+SUMMARY:Young Frankenstein
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4528098/
+DESCRIPTION:Run time: 106 min | Format: Digital\n\nSeries: In the Eagle\n\n
+ The scariest comedy of all time!\nCelebrating 100 Years of Mel Brooks! Enc
+ ore Screening Added!\n\nTickets: https://vidiotsfoundation.org/purchase/45
+ 28098/\n\nDetails: https://vidiotsfoundation.org/movies/young-frankenstein
+ /
+END:VEVENT
+BEGIN:VEVENT
 UID:4393028@vidiotsfoundation.org
 DTSTAMP:20260814T234500Z
 DTSTART;TZID=America/Los_Angeles:20260814T164500
@@ -139,12 +154,12 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4368484/
 DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\, Special Guests in Attendance\, What the Friday?!?\n\nOne of the 
- best popcorn blockbusters of the 1980s\, Rae Dawn Chong and the Governator
-  team up for action\, for fun\, and for revenge in this bad-ass specatacul
- ar.\nWith a special introduction from the big baddie himself Vernon Wells!
- \n\nTickets: https://vidiotsfoundation.org/purchase/4368484/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/commando/
+ e Eagle\, What the Friday?!?\n\nOne of the best popcorn blockbusters of th
+ e 1980s\, Rae Dawn Chong and the Governator team up for action\, for fun\,
+  and for revenge in this bad-ass specatacular.\nWith a special video intro
+ duction from the big baddie himself Vernon Wells!\n\nTickets: https://vidi
+ otsfoundation.org/purchase/4368484/\n\nDetails: https://vidiotsfoundation.
+ org/movies/commando/
 END:VEVENT
 BEGIN:VEVENT
 UID:4393032@vidiotsfoundation.org
@@ -1103,6 +1118,36 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: R\n\nSeries: Door
   Winning feature debut masterpiece of sexuality and neuroses to hit our bi
  g screen!\n\nTickets: https://vidiotsfoundation.org/purchase/4393414/\n\nD
  etails: https://vidiotsfoundation.org/movies/sex-lies-and-videotape/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509709@vidiotsfoundation.org
+DTSTAMP:20260903T023000Z
+DTSTART;TZID=America/Los_Angeles:20260902T193000
+DTEND;TZID=America/Los_Angeles:20260902T205500
+SUMMARY:Once
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509709/
+DESCRIPTION:Run time: 85 min | Format: Digital | Rating: R\n\nSeries: Doors
+  Open at 6\, In the Eagle\n\nVidiots remembers the life and talent of the 
+ great musician and actor Glen Hansard with a special screening of the swoo
+ nworthy musical romance Once.\n\nTickets: https://vidiotsfoundation.org/pu
+ rchase/4509709/\n\nDetails: https://vidiotsfoundation.org/movies/once/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509712@vidiotsfoundation.org
+DTSTAMP:20260904T023000Z
+DTSTART;TZID=America/Los_Angeles:20260903T193000
+DTEND;TZID=America/Los_Angeles:20260903T212000
+SUMMARY:Yojimbo
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509712/
+DESCRIPTION:Run time: 110 min | Format: Digital | Release year: 1961\n\nSer
+ ies: Doors Open at 6\, In the Eagle\n\nEternal icon Toshirō Mifune stars 
+ in this darkly comic and visually arresting masterpiece from the inimitabl
+ e Akira Kurosawa.\n\nTickets: https://vidiotsfoundation.org/purchase/45097
+ 12/\n\nDetails: https://vidiotsfoundation.org/movies/yojimbo/
 END:VEVENT
 BEGIN:VEVENT
 UID:4471015@vidiotsfoundation.org
