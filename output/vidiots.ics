@@ -37,9 +37,10 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 122 min |
  Format: Digital\n\nSeries: Doors Open at 6\, In the Eagle\, Special Guests
   in Attendance\n\nVidiots is dying to welcome back director Catherine Hard
  wicke for the emo screening of your teen dreams - Twilight - followed by a
-  conversation with Hardwicke on her undead phenomenon!\n\nTickets: https:/
- /vidiotsfoundation.org/purchase/4368707/\n\nDetails: https://vidiotsfounda
- tion.org/movies/twilight/
+  conversation with Hardwicke on her undead phenomenon!\nEncore screening a
+ dded August 28th - no special guests\, screening only\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4368707/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/twilight/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -430,15 +431,16 @@ SUMMARY:Welcome Space Brothers
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4389907/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
- e but one-hundred percent true story of the Unarius Academy of Science —
-  an extraterrestrial-channeling spiritual school in Southern California wh
- o in the 1980s became a prolific filmmaking collective and public access T
- V phenomenon under the direction of their outlandish spiritual leader Ruth
-  E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4389907/\n\nDetails: https://vidiotsfoundation.org/movies
- /welcome-space-brothers/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nThe unbelievable but one-hundred percent true 
+ story of the Unarius Academy of Science — an extraterrestrial-channeling
+  spiritual school in Southern California who in the 1980s became a prolifi
+ c filmmaking collective and public access TV phenomenon under the directio
+ n of their outlandish spiritual leader Ruth E. Norman\, AKA “Archangel U
+ riel.”\n\nTickets: https://vidiotsfoundation.org/purchase/4389907/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/welcome-space-brothers/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4392570@vidiotsfoundation.org
@@ -881,6 +883,23 @@ DESCRIPTION:Run time: 130 min | Format: 35mm Film | Rating: PG-13 | Release
  ils: https://vidiotsfoundation.org/movies/the-grandmaster/
 END:VEVENT
 BEGIN:VEVENT
+UID:4528303@vidiotsfoundation.org
+DTSTAMP:20260828T230000Z
+DTSTART;TZID=America/Los_Angeles:20260828T160000
+DTEND;TZID=America/Los_Angeles:20260828T180200
+SUMMARY:Twilight
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4528303/
+DESCRIPTION:Run time: 122 min | Format: Digital\n\nSeries: Doors Open at 6\
+ , In the Eagle\, Special Guests in Attendance\n\nVidiots is dying to welco
+ me back director Catherine Hardwicke for the emo screening of your teen dr
+ eams - Twilight - followed by a conversation with Hardwicke on her undead 
+ phenomenon!\nEncore screening added August 28th - no special guests\, scre
+ ening only\n\nTickets: https://vidiotsfoundation.org/purchase/4528303/\n\n
+ Details: https://vidiotsfoundation.org/movies/twilight/
+END:VEVENT
+BEGIN:VEVENT
 UID:4444820@vidiotsfoundation.org
 DTSTAMP:20260829T020000Z
 DTSTART;TZID=America/Los_Angeles:20260828T190000
@@ -1105,6 +1124,22 @@ DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: Addit
  tails: https://vidiotsfoundation.org/movies/i-want-your-sex/
 END:VEVENT
 BEGIN:VEVENT
+UID:4528682@vidiotsfoundation.org
+DTSTAMP:20260901T020000Z
+DTSTART;TZID=America/Los_Angeles:20260831T190000
+DTEND;TZID=America/Los_Angeles:20260831T203000
+SUMMARY:I Want Your Sex
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4528682/
+DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nLos Angeles indie legend Gregg Ar
+ aki's newest absurd comedy is a raunchy\, kinky delight and it's steaming 
+ up our microcinema in all its eye-popping\, kink-positive\, raucously funn
+ y glory!\n\nTickets: https://vidiotsfoundation.org/purchase/4528682/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/i-want-your-sex/
+END:VEVENT
+BEGIN:VEVENT
 UID:4393414@vidiotsfoundation.org
 DTSTAMP:20260901T023000Z
 DTSTART;TZID=America/Los_Angeles:20260831T193000
@@ -1118,6 +1153,22 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: R\n\nSeries: Door
   Winning feature debut masterpiece of sexuality and neuroses to hit our bi
  g screen!\n\nTickets: https://vidiotsfoundation.org/purchase/4393414/\n\nD
  etails: https://vidiotsfoundation.org/movies/sex-lies-and-videotape/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509708@vidiotsfoundation.org
+DTSTAMP:20260902T023000Z
+DTSTART;TZID=America/Los_Angeles:20260901T193000
+DTEND;TZID=America/Los_Angeles:20260901T210000
+SUMMARY:I Want Your Sex
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509708/
+DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nLos Angeles indie legend Gregg Ar
+ aki's newest absurd comedy is a raunchy\, kinky delight and it's steaming 
+ up our microcinema in all its eye-popping\, kink-positive\, raucously funn
+ y glory!\n\nTickets: https://vidiotsfoundation.org/purchase/4509708/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/i-want-your-sex/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509709@vidiotsfoundation.org
@@ -1167,5 +1218,184 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min |
  ndation.org/purchase/4471015/\n\nDetails: https://vidiotsfoundation.org/mo
  vies/teenage-sex-and-death-at-camp-miasma-2026/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4504835@vidiotsfoundation.org
+DTSTAMP:20260905T051500Z
+DTSTART;TZID=America/Los_Angeles:20260904T221500
+DTEND;TZID=America/Los_Angeles:20260904T232500
+SUMMARY:CatVideoFest 2026
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4504835/
+DESCRIPTION:Run time: 70 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Additional Shows\, In the MUBI Microcinema\, Films for Everyone\n\nOur f
+ uzzy overlords return to the big screen! Vidiots is purrfectly enthralled 
+ to bring back the cutest kitty compilation ever!\nEncore Screenings added 
+ in the microcinema!\n\nTickets: https://vidiotsfoundation.org/purchase/450
+ 4835/\n\nDetails: https://vidiotsfoundation.org/movies/catvideofest-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509722@vidiotsfoundation.org
+DTSTAMP:20260905T183000Z
+DTSTART;TZID=America/Los_Angeles:20260905T113000
+DTEND;TZID=America/Los_Angeles:20260905T131700
+SUMMARY:Moana Sing-Along
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509722/
+DESCRIPTION:Run time: 107 min | Format: Digital | Rating: All Ages\n\nSerie
+ s: Films for Everyone\, In the Eagle\, Interactive\n\nThe ocean is calling
+ .\nWith a fun and inspiring soundtrack that includes tracks by Lin-Manuel 
+ Miranda\, here's your chance to belt out your favorite tunes with folks wh
+ o love it as much as you do!\n\nTickets: https://vidiotsfoundation.org/pur
+ chase/4509722/\n\nDetails: https://vidiotsfoundation.org/movies/moana/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509873@vidiotsfoundation.org
+DTSTAMP:20260905T193000Z
+DTSTART;TZID=America/Los_Angeles:20260905T123000
+DTEND;TZID=America/Los_Angeles:20260905T134000
+SUMMARY:CatVideoFest 2026
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509873/
+DESCRIPTION:Run time: 70 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Additional Shows\, In the MUBI Microcinema\, Films for Everyone\n\nOur f
+ uzzy overlords return to the big screen! Vidiots is purrfectly enthralled 
+ to bring back the cutest kitty compilation ever!\nEncore Screenings added 
+ in the microcinema!\n\nTickets: https://vidiotsfoundation.org/purchase/450
+ 9873/\n\nDetails: https://vidiotsfoundation.org/movies/catvideofest-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509893@vidiotsfoundation.org
+DTSTAMP:20260906T013000Z
+DTSTART;TZID=America/Los_Angeles:20260905T183000
+DTEND;TZID=America/Los_Angeles:20260905T202200
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509893/
+DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nVisionary director Jane Schoenbr
+ un (I Saw the TV Glow) presents a new kind of horror remake! Bursting with
+  imagination and surreal wit\, their latest genre-bending wonder affirms t
+ here’s no such thing as a guilty pleasure.\nMore Showtimes on sale soon!
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4509893/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/teenage-sex-and-death-at-camp-miasma-2
+ 026/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509730@vidiotsfoundation.org
+DTSTAMP:20260906T020000Z
+DTSTART;TZID=America/Los_Angeles:20260905T190000
+DTEND;TZID=America/Los_Angeles:20260905T203600
+SUMMARY:Tremors
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509730/
+DESCRIPTION:Run time: 96 min | Format: Digital | Rating: PG-13\n\nSeries: I
+ n the Eagle\n\nWith some of the best monster effects of the entire 1990s o
+ n full display in the desert sun\, this cult-classic delivers the scares\,
+  thrills\, and laughs of a creature feature that is truly Perfection.\n\nT
+ ickets: https://vidiotsfoundation.org/purchase/4509730/\n\nDetails: https:
+ //vidiotsfoundation.org/movies/tremors/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509894@vidiotsfoundation.org
+DTSTAMP:20260906T043000Z
+DTSTART;TZID=America/Los_Angeles:20260905T213000
+DTEND;TZID=America/Los_Angeles:20260905T232200
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509894/
+DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nVisionary director Jane Schoenbr
+ un (I Saw the TV Glow) presents a new kind of horror remake! Bursting with
+  imagination and surreal wit\, their latest genre-bending wonder affirms t
+ here’s no such thing as a guilty pleasure.\nMore Showtimes on sale soon!
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4509894/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/teenage-sex-and-death-at-camp-miasma-2
+ 026/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509744@vidiotsfoundation.org
+DTSTAMP:20260906T044500Z
+DTSTART;TZID=America/Los_Angeles:20260905T214500
+DTEND;TZID=America/Los_Angeles:20260905T233600
+SUMMARY:Kill Bill: Vol. 1 on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509744/
+DESCRIPTION:Run time: 111 min | Format: 35mm Film | Rating: R\n\nSeries: 35
+ mm Film\, In the Eagle\n\nYour Saturday night just got a whole lot more ki
+ ck ass as Quentin Tarantino's Kill Bill ignites our big screen with an ons
+ laught of celluloid action!\n\nTickets: https://vidiotsfoundation.org/purc
+ hase/4509744/\n\nDetails: https://vidiotsfoundation.org/movies/kill-bill-v
+ ol-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509866@vidiotsfoundation.org
+DTSTAMP:20260906T193000Z
+DTSTART;TZID=America/Los_Angeles:20260906T123000
+DTEND;TZID=America/Los_Angeles:20260906T143500
+SUMMARY:Spirited Away (English Dubbed)
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509866/
+DESCRIPTION:Run time: 125 min | Format: Digital | Rating: All Ages | Releas
+ e year: 2001\n\nSeries: Films for Everyone\, In the Eagle\n\nTake a journe
+ y to the land of the spirits\n\nTickets: https://vidiotsfoundation.org/pur
+ chase/4509866/\n\nDetails: https://vidiotsfoundation.org/movies/spirited-a
+ way-english-dubbed/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509868@vidiotsfoundation.org
+DTSTAMP:20260906T230000Z
+DTSTART;TZID=America/Los_Angeles:20260906T160000
+DTEND;TZID=America/Los_Angeles:20260906T174500
+SUMMARY:The Seven Year Itch
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509868/
+DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: In the Eagle\n\n
+ It TICKLES and TANTALIZES! - The funniest comedy since laughter began!\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4509868/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/the-seven-year-itch/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509910@vidiotsfoundation.org
+DTSTAMP:20260906T234500Z
+DTSTART;TZID=America/Los_Angeles:20260906T164500
+DTEND;TZID=America/Los_Angeles:20260906T175500
+SUMMARY:CatVideoFest 2026
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509910/
+DESCRIPTION:Run time: 70 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Additional Shows\, In the MUBI Microcinema\, Films for Everyone\n\nOur f
+ uzzy overlords return to the big screen! Vidiots is purrfectly enthralled 
+ to bring back the cutest kitty compilation ever!\nEncore Screenings added 
+ in the microcinema!\n\nTickets: https://vidiotsfoundation.org/purchase/450
+ 9910/\n\nDetails: https://vidiotsfoundation.org/movies/catvideofest-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509908@vidiotsfoundation.org
+DTSTAMP:20260907T023000Z
+DTSTART;TZID=America/Los_Angeles:20260906T193000
+DTEND;TZID=America/Los_Angeles:20260906T212200
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509908/
+DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nVisionary director Jane Schoenbr
+ un (I Saw the TV Glow) presents a new kind of horror remake! Bursting with
+  imagination and surreal wit\, their latest genre-bending wonder affirms t
+ here’s no such thing as a guilty pleasure.\nMore Showtimes on sale soon!
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4509908/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/teenage-sex-and-death-at-camp-miasma-2
+ 026/
 END:VEVENT
 END:VCALENDAR
