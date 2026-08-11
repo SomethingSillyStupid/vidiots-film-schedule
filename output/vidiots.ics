@@ -8,42 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4437143@vidiotsfoundation.org
-DTSTAMP:20260812T020000Z
-DTSTART;TZID=America/Los_Angeles:20260811T190000
-DTEND;TZID=America/Los_Angeles:20260811T204000
-SUMMARY:Maddie’s Secret
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4437143/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: In the MUBI Microcinema\n\nA pitch-perfect blen
- d of satire\, melodrama\, daring tonal shifts and intimate performances\, 
- the film marks a bold new voice in contemporary cinema.\nOne Final Encore!
- \n\nTickets: https://vidiotsfoundation.org/purchase/4437143/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/maddies-secret/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4368707@vidiotsfoundation.org
-DTSTAMP:20260812T023000Z
-DTSTART;TZID=America/Los_Angeles:20260811T193000
-DTEND;TZID=America/Los_Angeles:20260811T213200
-SUMMARY:Twilight
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4368707/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 122 min | 
- Format: Digital\n\nSeries: Doors Open at 6\, In the Eagle\, Special Guests
-  in Attendance\n\nVidiots is dying to welcome back director Catherine Hard
- wicke for the emo screening of your teen dreams - Twilight - followed by a
-  conversation with Hardwicke on her undead phenomenon!\nEncore screening a
- dded August 28th - no special guests\, screening only\n\nTickets: https://
- vidiotsfoundation.org/purchase/4368707/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/twilight/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4437173@vidiotsfoundation.org
 DTSTAMP:20260813T020000Z
 DTSTART;TZID=America/Los_Angeles:20260812T190000
@@ -883,23 +847,6 @@ DESCRIPTION:Run time: 130 min | Format: 35mm Film | Rating: PG-13 | Release
  ils: https://vidiotsfoundation.org/movies/the-grandmaster/
 END:VEVENT
 BEGIN:VEVENT
-UID:4528303@vidiotsfoundation.org
-DTSTAMP:20260828T230000Z
-DTSTART;TZID=America/Los_Angeles:20260828T160000
-DTEND;TZID=America/Los_Angeles:20260828T180200
-SUMMARY:Twilight
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4528303/
-DESCRIPTION:Run time: 122 min | Format: Digital\n\nSeries: Doors Open at 6\
- , In the Eagle\, Special Guests in Attendance\n\nVidiots is dying to welco
- me back director Catherine Hardwicke for the emo screening of your teen dr
- eams - Twilight - followed by a conversation with Hardwicke on her undead 
- phenomenon!\nEncore screening added August 28th - no special guests\, scre
- ening only\n\nTickets: https://vidiotsfoundation.org/purchase/4528303/\n\n
- Details: https://vidiotsfoundation.org/movies/twilight/
-END:VEVENT
-BEGIN:VEVENT
 UID:4444820@vidiotsfoundation.org
 DTSTAMP:20260829T020000Z
 DTSTART;TZID=America/Los_Angeles:20260828T190000
@@ -1397,5 +1344,41 @@ DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Addi
  \n\nTickets: https://vidiotsfoundation.org/purchase/4509908/\n\nDetails: h
  ttps://vidiotsfoundation.org/movies/teenage-sex-and-death-at-camp-miasma-2
  026/
+END:VEVENT
+BEGIN:VEVENT
+UID:4437143@vidiotsfoundation.org
+DTSTAMP:20260812T020000Z
+DTSTART;TZID=America/Los_Angeles:20260811T190000
+DTEND;TZID=America/Los_Angeles:20260811T204000
+SUMMARY:Maddie’s Secret
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4437143/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital\n\nSeries: In the MUBI Microcinema\n\nA pitch-perfect blen
+ d of satire\, melodrama\, daring tonal shifts and intimate performances\, 
+ the film marks a bold new voice in contemporary cinema.\nOne Final Encore!
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4437143/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/maddies-secret/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4368707@vidiotsfoundation.org
+DTSTAMP:20260812T023000Z
+DTSTART;TZID=America/Los_Angeles:20260811T193000
+DTEND;TZID=America/Los_Angeles:20260811T213200
+SUMMARY:Twilight
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4368707/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 122 min | 
+ Format: Digital\n\nSeries: Doors Open at 6\, In the Eagle\, Special Guests
+  in Attendance\n\nVidiots is dying to welcome back director Catherine Hard
+ wicke for the emo screening of your teen dreams - Twilight - followed by a
+  conversation with Hardwicke on her undead phenomenon!\nEncore screening a
+ dded August 28th - no special guests\, screening only\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4368707/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/twilight/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
