@@ -69,13 +69,14 @@ SUMMARY:The Invite
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4393028/
-DESCRIPTION:Run time: 107 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nDoes your summer need a little s
- pice? Have we got the dinner party for you! Join us in the microcinema for
-  Olivia Wilde's wildly entertaining and perversely hilarious comedy The In
- vite for a fun and naughty night of indie cinema!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4393028/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-invite/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 107 min | 
+ Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
+ ocinema\n\nDoes your summer need a little spice? Have we got the dinner pa
+ rty for you! Join us in the microcinema for Olivia Wilde's wildly entertai
+ ning and perversely hilarious comedy The Invite for a fun and naughty nigh
+ t of indie cinema!\n\nTickets: https://vidiotsfoundation.org/purchase/4393
+ 028/\n\nDetails: https://vidiotsfoundation.org/movies/the-invite/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4368476@vidiotsfoundation.org
@@ -625,11 +626,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4392536/
 DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\, TeenTix LA\n\nVidiots remembers the life and legacy of the 
- incredible Sam Neill with an especially heartwarming screening of Taika Wa
- ititi's "Hunt for the Wilderpeople."\n\nTickets: https://vidiotsfoundation
- .org/purchase/4392536/\n\nDetails: https://vidiotsfoundation.org/movies/hu
- nt-for-the-wilderpeople/
+ In the Eagle\, Remembering Sam Neill\, TeenTix LA\n\nVidiots remembers the
+  life and legacy of the incredible Sam Neill with an especially heartwarmi
+ ng screening of Taika Waititi's "Hunt for the Wilderpeople."\n\nTickets: h
+ ttps://vidiotsfoundation.org/purchase/4392536/\n\nDetails: https://vidiots
+ foundation.org/movies/hunt-for-the-wilderpeople/
 END:VEVENT
 BEGIN:VEVENT
 UID:4437289@vidiotsfoundation.org
@@ -889,11 +890,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4444822/
 DESCRIPTION:Run time: 124 min | Format: Digital | Rating: R | Release year:
-  1981\n\nSeries: In the Eagle\, What the Friday?!?\n\nLose yourself in thi
- s disturbing tale of obsession\, sexuality\, and transformation from the f
- ecund mind of Polish provocateur Andrzej Żuławski.\nRemembering Sam Neil
- l\n\nTickets: https://vidiotsfoundation.org/purchase/4444822/\n\nDetails: 
- https://vidiotsfoundation.org/movies/possession/
+  1981\n\nSeries: In the Eagle\, Remembering Sam Neill\, What the Friday?!?
+ \n\nLose yourself in this disturbing tale of obsession\, sexuality\, and t
+ ransformation from the fecund mind of Polish provocateur Andrzej Żuławsk
+ i.\nRemembering Sam Neill\n\nTickets: https://vidiotsfoundation.org/purcha
+ se/4444822/\n\nDetails: https://vidiotsfoundation.org/movies/possession/
 END:VEVENT
 BEGIN:VEVENT
 UID:4393386@vidiotsfoundation.org
@@ -1118,6 +1119,22 @@ DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: Addit
  tails: https://vidiotsfoundation.org/movies/i-want-your-sex/
 END:VEVENT
 BEGIN:VEVENT
+UID:4509710@vidiotsfoundation.org
+DTSTAMP:20260903T020000Z
+DTSTART;TZID=America/Los_Angeles:20260902T190000
+DTEND;TZID=America/Los_Angeles:20260902T212700
+SUMMARY:The Samurai and the Prisoner
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509710/
+DESCRIPTION:Run time: 147 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ema for Kiyoshi Kurosawa's ponderous and philosophical samurai epic The Sa
+ murai and the Prisoner.\n\nTickets: https://vidiotsfoundation.org/purchase
+ /4509710/\n\nDetails: https://vidiotsfoundation.org/movies/the-samurai-and
+ -the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
 UID:4509709@vidiotsfoundation.org
 DTSTAMP:20260903T023000Z
 DTSTART;TZID=America/Los_Angeles:20260902T193000
@@ -1148,6 +1165,22 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Release year: 1961\n\nSer
  12/\n\nDetails: https://vidiotsfoundation.org/movies/yojimbo/
 END:VEVENT
 BEGIN:VEVENT
+UID:4471022@vidiotsfoundation.org
+DTSTAMP:20260904T223000Z
+DTSTART;TZID=America/Los_Angeles:20260904T153000
+DTEND;TZID=America/Los_Angeles:20260904T175700
+SUMMARY:The Samurai and the Prisoner
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4471022/
+DESCRIPTION:Run time: 147 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ema for Kiyoshi Kurosawa's ponderous and philosophical samurai epic The Sa
+ murai and the Prisoner.\n\nTickets: https://vidiotsfoundation.org/purchase
+ /4471022/\n\nDetails: https://vidiotsfoundation.org/movies/the-samurai-and
+ -the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
 UID:4471015@vidiotsfoundation.org
 DTSTAMP:20260905T022000Z
 DTSTART;TZID=America/Los_Angeles:20260904T192000
@@ -1158,12 +1191,12 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
 URL:https://vidiotsfoundation.org/purchase/4471015/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min | 
  Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nVisionary director Jane Schoenbrun (I Saw the TV Glow) presents
-  a new kind of horror remake! Bursting with imagination and surreal wit\, 
- their latest genre-bending wonder affirms there’s no such thing as a gui
- lty pleasure.\nMore Showtimes on sale soon!\n\nTickets: https://vidiotsfou
- ndation.org/purchase/4471015/\n\nDetails: https://vidiotsfoundation.org/mo
- vies/teenage-sex-and-death-at-camp-miasma-2026/
+ ocinema\, Doors Open at 6\n\nVisionary director Jane Schoenbrun (I Saw the
+  TV Glow) presents a new kind of horror remake! Bursting with imagination 
+ and surreal wit\, their latest genre-bending wonder affirms there’s no s
+ uch thing as a guilty pleasure.\nMore Showtimes added!\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4471015/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/teenage-sex-and-death-at-camp-miasma-2026/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -1184,9 +1217,9 @@ DESCRIPTION:Run time: 70 min | Format: Digital | Rating: All Ages\n\nSeries
 END:VEVENT
 BEGIN:VEVENT
 UID:4509722@vidiotsfoundation.org
-DTSTAMP:20260905T183000Z
-DTSTART;TZID=America/Los_Angeles:20260905T113000
-DTEND;TZID=America/Los_Angeles:20260905T131700
+DTSTAMP:20260905T190000Z
+DTSTART;TZID=America/Los_Angeles:20260905T120000
+DTEND;TZID=America/Los_Angeles:20260905T134700
 SUMMARY:Moana Sing-Along
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
@@ -1215,6 +1248,40 @@ DESCRIPTION:Run time: 70 min | Format: Digital | Rating: All Ages\n\nSeries
  9873/\n\nDetails: https://vidiotsfoundation.org/movies/catvideofest-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:4509882@vidiotsfoundation.org
+DTSTAMP:20260905T214500Z
+DTSTART;TZID=America/Los_Angeles:20260905T144500
+DTEND;TZID=America/Los_Angeles:20260905T171200
+SUMMARY:The Samurai and the Prisoner
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509882/
+DESCRIPTION:Run time: 147 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ema for Kiyoshi Kurosawa's ponderous and philosophical samurai epic The Sa
+ murai and the Prisoner.\n\nTickets: https://vidiotsfoundation.org/purchase
+ /4509882/\n\nDetails: https://vidiotsfoundation.org/movies/the-samurai-and
+ -the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509727@vidiotsfoundation.org
+DTSTAMP:20260905T220000Z
+DTSTART;TZID=America/Los_Angeles:20260905T150000
+DTEND;TZID=America/Los_Angeles:20260905T174200
+SUMMARY:Star Trek II: The Wrath of Khan + Bonus Episode – Space Seed
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509727/
+DESCRIPTION:Run time: 162 min | Format: Digital | Rating: PG\n\nSeries: In 
+ the Eagle\n\nBeam yourself up to the Starship Enterprise for a double shot
+  of intergalactic fun and twice the Ricardo Montalban with one of the best
+  films in the franchise\, and an all-time classic of Science Fiction cinem
+ a Star Trek II: The Wrath of Khan plus a bonus episode of the original ser
+ ies that inspired the film: Space Seed.\n\nTickets: https://vidiotsfoundat
+ ion.org/purchase/4509727/\n\nDetails: https://vidiotsfoundation.org/movies
+ /star-trek-ii-the-wrath-of-khan/
+END:VEVENT
+BEGIN:VEVENT
 UID:4509893@vidiotsfoundation.org
 DTSTAMP:20260906T013000Z
 DTSTART;TZID=America/Los_Angeles:20260905T183000
@@ -1224,13 +1291,13 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4509893/
 DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nVisionary director Jane Schoenbr
- un (I Saw the TV Glow) presents a new kind of horror remake! Bursting with
-  imagination and surreal wit\, their latest genre-bending wonder affirms t
- here’s no such thing as a guilty pleasure.\nMore Showtimes on sale soon!
- \n\nTickets: https://vidiotsfoundation.org/purchase/4509893/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/teenage-sex-and-death-at-camp-miasma-2
- 026/
+ tional Shows\, In the MUBI Microcinema\, Doors Open at 6\n\nVisionary dire
+ ctor Jane Schoenbrun (I Saw the TV Glow) presents a new kind of horror rem
+ ake! Bursting with imagination and surreal wit\, their latest genre-bendin
+ g wonder affirms there’s no such thing as a guilty pleasure.\nMore Showt
+ imes added!\n\nTickets: https://vidiotsfoundation.org/purchase/4509893/\n\
+ nDetails: https://vidiotsfoundation.org/movies/teenage-sex-and-death-at-ca
+ mp-miasma-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509730@vidiotsfoundation.org
@@ -1258,13 +1325,13 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4509894/
 DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nVisionary director Jane Schoenbr
- un (I Saw the TV Glow) presents a new kind of horror remake! Bursting with
-  imagination and surreal wit\, their latest genre-bending wonder affirms t
- here’s no such thing as a guilty pleasure.\nMore Showtimes on sale soon!
- \n\nTickets: https://vidiotsfoundation.org/purchase/4509894/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/teenage-sex-and-death-at-camp-miasma-2
- 026/
+ tional Shows\, In the MUBI Microcinema\, Doors Open at 6\n\nVisionary dire
+ ctor Jane Schoenbrun (I Saw the TV Glow) presents a new kind of horror rem
+ ake! Bursting with imagination and surreal wit\, their latest genre-bendin
+ g wonder affirms there’s no such thing as a guilty pleasure.\nMore Showt
+ imes added!\n\nTickets: https://vidiotsfoundation.org/purchase/4509894/\n\
+ nDetails: https://vidiotsfoundation.org/movies/teenage-sex-and-death-at-ca
+ mp-miasma-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509744@vidiotsfoundation.org
@@ -1298,6 +1365,22 @@ DESCRIPTION:Run time: 125 min | Format: Digital | Rating: All Ages | Releas
  way-english-dubbed/
 END:VEVENT
 BEGIN:VEVENT
+UID:4509906@vidiotsfoundation.org
+DTSTAMP:20260906T200000Z
+DTSTART;TZID=America/Los_Angeles:20260906T130000
+DTEND;TZID=America/Los_Angeles:20260906T152700
+SUMMARY:The Samurai and the Prisoner
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509906/
+DESCRIPTION:Run time: 147 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ema for Kiyoshi Kurosawa's ponderous and philosophical samurai epic The Sa
+ murai and the Prisoner.\n\nTickets: https://vidiotsfoundation.org/purchase
+ /4509906/\n\nDetails: https://vidiotsfoundation.org/movies/the-samurai-and
+ -the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
 UID:4509868@vidiotsfoundation.org
 DTSTAMP:20260906T230000Z
 DTSTART;TZID=America/Los_Angeles:20260906T160000
@@ -1307,9 +1390,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4509868/
 DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: In the Eagle\n\n
- It TICKLES and TANTALIZES! - The funniest comedy since laughter began!\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4509868/\n\nDetails: https
- ://vidiotsfoundation.org/movies/the-seven-year-itch/
+ We're celebrating 100 years of one of the biggest icons of the silver scre
+ en - Marilyn Monroe - with a special screening of Billy Wilder's hilarious
+  classic comedy The Seven Year Itch.\n\nTickets: https://vidiotsfoundation
+ .org/purchase/4509868/\n\nDetails: https://vidiotsfoundation.org/movies/th
+ e-seven-year-itch/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509910@vidiotsfoundation.org
@@ -1328,6 +1413,21 @@ DESCRIPTION:Run time: 70 min | Format: Digital | Rating: All Ages\n\nSeries
  9910/\n\nDetails: https://vidiotsfoundation.org/movies/catvideofest-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:4509869@vidiotsfoundation.org
+DTSTAMP:20260907T020000Z
+DTSTART;TZID=America/Los_Angeles:20260906T190000
+DTEND;TZID=America/Los_Angeles:20260906T204700
+SUMMARY:O Brother\, Where Art Thou?
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509869/
+DESCRIPTION:Run time: 107 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\n\nWe've got your Odyssey right here with Ethan and Joel Coen
+ 's endlessly entertaining reimagining of the ancient myth in the 1930s Dee
+ p South.\n\nTickets: https://vidiotsfoundation.org/purchase/4509869/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/o-brother-where-art-thou/
+END:VEVENT
+BEGIN:VEVENT
 UID:4509908@vidiotsfoundation.org
 DTSTAMP:20260907T023000Z
 DTSTART;TZID=America/Los_Angeles:20260906T193000
@@ -1337,13 +1437,174 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4509908/
 DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nVisionary director Jane Schoenbr
- un (I Saw the TV Glow) presents a new kind of horror remake! Bursting with
-  imagination and surreal wit\, their latest genre-bending wonder affirms t
- here’s no such thing as a guilty pleasure.\nMore Showtimes on sale soon!
- \n\nTickets: https://vidiotsfoundation.org/purchase/4509908/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/teenage-sex-and-death-at-camp-miasma-2
- 026/
+ tional Shows\, In the MUBI Microcinema\, Doors Open at 6\n\nVisionary dire
+ ctor Jane Schoenbrun (I Saw the TV Glow) presents a new kind of horror rem
+ ake! Bursting with imagination and surreal wit\, their latest genre-bendin
+ g wonder affirms there’s no such thing as a guilty pleasure.\nMore Showt
+ imes added!\n\nTickets: https://vidiotsfoundation.org/purchase/4509908/\n\
+ nDetails: https://vidiotsfoundation.org/movies/teenage-sex-and-death-at-ca
+ mp-miasma-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509926@vidiotsfoundation.org
+DTSTAMP:20260907T223000Z
+DTSTART;TZID=America/Los_Angeles:20260907T153000
+DTEND;TZID=America/Los_Angeles:20260907T172200
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509926/
+DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\, Doors Open at 6\n\nVisionary dire
+ ctor Jane Schoenbrun (I Saw the TV Glow) presents a new kind of horror rem
+ ake! Bursting with imagination and surreal wit\, their latest genre-bendin
+ g wonder affirms there’s no such thing as a guilty pleasure.\nMore Showt
+ imes added!\n\nTickets: https://vidiotsfoundation.org/purchase/4509926/\n\
+ nDetails: https://vidiotsfoundation.org/movies/teenage-sex-and-death-at-ca
+ mp-miasma-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509870@vidiotsfoundation.org
+DTSTAMP:20260907T230000Z
+DTSTART;TZID=America/Los_Angeles:20260907T160000
+DTEND;TZID=America/Los_Angeles:20260907T180700
+SUMMARY:Jurassic Park on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509870/
+DESCRIPTION:Run time: 127 min | Format: 35mm Film | Rating: PG-13\n\nSeries
+ : 35mm Film\, In the Eagle\, Remembering Sam Neill\n\nHop in scientists an
+ d dino-philes\, we're heading on a prehistoric thrill ride to the world's 
+ hottest new amusement park!\nRemembering Sam Neill\n\nTickets: https://vid
+ iotsfoundation.org/purchase/4509870/\n\nDetails: https://vidiotsfoundation
+ .org/movies/jurassic-park/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509925@vidiotsfoundation.org
+DTSTAMP:20260908T020000Z
+DTSTART;TZID=America/Los_Angeles:20260907T190000
+DTEND;TZID=America/Los_Angeles:20260907T212700
+SUMMARY:The Samurai and the Prisoner
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509925/
+DESCRIPTION:Run time: 147 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ema for Kiyoshi Kurosawa's ponderous and philosophical samurai epic The Sa
+ murai and the Prisoner.\n\nTickets: https://vidiotsfoundation.org/purchase
+ /4509925/\n\nDetails: https://vidiotsfoundation.org/movies/the-samurai-and
+ -the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509936@vidiotsfoundation.org
+DTSTAMP:20260909T020000Z
+DTSTART;TZID=America/Los_Angeles:20260908T190000
+DTEND;TZID=America/Los_Angeles:20260908T205200
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509936/
+DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\, Doors Open at 6\n\nVisionary dire
+ ctor Jane Schoenbrun (I Saw the TV Glow) presents a new kind of horror rem
+ ake! Bursting with imagination and surreal wit\, their latest genre-bendin
+ g wonder affirms there’s no such thing as a guilty pleasure.\nMore Showt
+ imes added!\n\nTickets: https://vidiotsfoundation.org/purchase/4509936/\n\
+ nDetails: https://vidiotsfoundation.org/movies/teenage-sex-and-death-at-ca
+ mp-miasma-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509935@vidiotsfoundation.org
+DTSTAMP:20260909T023000Z
+DTSTART;TZID=America/Los_Angeles:20260908T193000
+DTEND;TZID=America/Los_Angeles:20260908T222100
+SUMMARY:Farewell My Concubine
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509935/
+DESCRIPTION:Run time: 171 min | Format: 4K Digital | Rating: R | Release ye
+ ar: 1993\n\nSeries: Community Partners\, Doors Open at 6\, In the Eagle\n\
+ nJoin Vidiots and our friends at CAPE for the new 4K Restoration of Chen K
+ aige's ravishing Palme d'Or winning masterpiece Farewell My Concubine.\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4509935/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/farewell-my-concubine/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509938@vidiotsfoundation.org
+DTSTAMP:20260912T020000Z
+DTSTART;TZID=America/Los_Angeles:20260911T190000
+DTEND;TZID=America/Los_Angeles:20260911T204600
+SUMMARY:Unbreakable
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509938/
+DESCRIPTION:Run time: 106 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\n\nM. Night Shyamalan twists the superhero genre into an intr
+ ospective thriller in this genre-shattering slow burn.\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4509938/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/unbreakable/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509961@vidiotsfoundation.org
+DTSTAMP:20260914T020000Z
+DTSTART;TZID=America/Los_Angeles:20260913T190000
+DTEND;TZID=America/Los_Angeles:20260913T203700
+SUMMARY:The Virgin Suicides
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509961/
+DESCRIPTION:Run time: 97 min | Format: Digital | Rating: R\n\nSeries: In th
+ e Eagle\n\nSlip into the dark and dreamy world of Sofia Coppola's director
+ ial debut - a hypnotic and ethereal work supported by the sublime soundtra
+ ck from Air.\n\nTickets: https://vidiotsfoundation.org/purchase/4509961/\n
+ \nDetails: https://vidiotsfoundation.org/movies/the-virgin-suicides/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509962@vidiotsfoundation.org
+DTSTAMP:20260915T023000Z
+DTSTART;TZID=America/Los_Angeles:20260914T193000
+DTEND;TZID=America/Los_Angeles:20260914T210000
+SUMMARY:Welcome II the Terrordome
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509962/
+DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: Doors
+  Open at 6\, In the Eagle\, Special Guests in Attendance\n\nVidiots is thr
+ illed to welcome writer/director Ngozi Onwurah for a special 30th Annivers
+ ary screening of her visionary Afrofuturist gem Welcome II the Terrordome!
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4509962/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/welcome-ii-the-terrordome/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509964@vidiotsfoundation.org
+DTSTAMP:20260918T224500Z
+DTSTART;TZID=America/Los_Angeles:20260918T154500
+DTEND;TZID=America/Los_Angeles:20260918T175000
+SUMMARY:Spirited Away (Japanese with English Subtitles)
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509964/
+DESCRIPTION:Run time: 125 min | Format: Digital | Rating: All Ages | Releas
+ e year: 2001\n\nSeries: In the Eagle\n\nTake a journey to the land of the 
+ spirits\n\nTickets: https://vidiotsfoundation.org/purchase/4509964/\n\nDet
+ ails: https://vidiotsfoundation.org/movies/spirited-away-japanese-with-eng
+ lish-subtitles/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509966@vidiotsfoundation.org
+DTSTAMP:20260919T020000Z
+DTSTART;TZID=America/Los_Angeles:20260918T190000
+DTEND;TZID=America/Los_Angeles:20260918T204200
+SUMMARY:Pump Up the Volume
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509966/
+DESCRIPTION:Run time: 102 min | Format: Digital | Rating: R\n\nSeries: Comm
+ unity Partners\, In the Eagle\n\nLong live Pirate Radio and long live this
+  bangin' early 90s cult classic starring Christian Slater as a teenage air
+ wave bandit!\nCo-presented by our friends on the airwaves at KPBJ!\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4509966/\n\nDetails: https://v
+ idiotsfoundation.org/movies/pump-up-the-volume/
 END:VEVENT
 BEGIN:VEVENT
 UID:4437143@vidiotsfoundation.org
