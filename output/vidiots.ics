@@ -166,9 +166,10 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 113 min |
  Format: Digital | Rating: PG-13\n\nSeries: In the Eagle\, Special Guests i
  n Attendance\n\nVidiots is ecstatic to welcome director Edgar Wright for a
  n evening of epic epicness starting with a screening of his beloved cult c
- lassic Scott Pilgrim vs. the World followed by a Q+A!\n\nTickets: https://
- vidiotsfoundation.org/purchase/4388405/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/scott-pilgrim-vs-the-world/
+ lassic Scott Pilgrim vs. the World followed by a conversation with Wright 
+ and Bryan Lee O’Malley creator of Scott Pilgrim.\n\nTickets: https://vid
+ iotsfoundation.org/purchase/4388405/\n\nDetails: https://vidiotsfoundation
+ .org/movies/scott-pilgrim-vs-the-world/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -216,10 +217,11 @@ URL:https://vidiotsfoundation.org/purchase/4388406/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 109 min | 
  Format: Digital | Rating: X\n\nSeries: In the Eagle\, Special Guests in At
  tendance\n\nOur evening of epic epicness continues with a special screenin
- g of Russ Meyer's sexy psychedelic cinematic freakout "Beyond the Valley o
- f the Dolls" introduced by Edgar Wright!\n\nTickets: https://vidiotsfounda
- tion.org/purchase/4388406/\n\nDetails: https://vidiotsfoundation.org/movie
- s/beyond-the-valley-of-the-dolls/
+ g of Russ Meyer's sexy psychedelic cinematic freakout Beyond the Valley of
+  the Dolls introduced by Edgar Wright with special guest Russ Meyer Vixen 
+ Erica Gavin!\n\nTickets: https://vidiotsfoundation.org/purchase/4388406/\n
+ \nDetails: https://vidiotsfoundation.org/movies/beyond-the-valley-of-the-d
+ olls/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -371,16 +373,17 @@ DTSTAMP:20260821T020000Z
 DTSTART;TZID=America/Los_Angeles:20260820T190000
 DTEND;TZID=America/Los_Angeles:20260820T204000
 SUMMARY:Sweet 16mm – Those Awkward Years
-LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
 URL:https://vidiotsfoundation.org/purchase/4466487/
-DESCRIPTION:Run time: 100 min\n\nSeries: Sweet 16mm\n\nWe're firing up our 
- 16mm projector for a night of the best of puberty's pitfalls and adolescen
- ce at its most awkward with a program of long-forgotten and laughably outd
- ated short films from the 1940s through the 1980s about humanity's cringie
- st life stage with menstrucation's finest\, endearing Mormon comedy shorts
- \, mid-century slut-shaming primers\, and more!\n\nTickets: https://vidiot
- sfoundation.org/purchase/4466487/\n\nDetails: https://vidiotsfoundation.or
- g/movies/sweet-16mm-those-awkward-years/
+DESCRIPTION:Run time: 100 min\n\nSeries: In the MUBI Microcinema\, Sweet 16
+ mm\n\nWe're firing up our 16mm projector for a night of the best of pubert
+ y's pitfalls and adolescence at its most awkward with a program of long-fo
+ rgotten and laughably outdated short films from the 1940s through the 1980
+ s about humanity's cringiest life stage with menstrucation's finest\, ende
+ aring Mormon comedy shorts\, mid-century slut-shaming primers\, and more!\
+ n\nTickets: https://vidiotsfoundation.org/purchase/4466487/\n\nDetails: ht
+ tps://vidiotsfoundation.org/movies/sweet-16mm-those-awkward-years/
 END:VEVENT
 BEGIN:VEVENT
 UID:4392797@vidiotsfoundation.org
@@ -709,11 +712,10 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
 URL:https://vidiotsfoundation.org/purchase/4428379/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
  Format: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\, Sp
- ecial Guests in Attendance\n\nVidiots is thrilled to welcome screen icons 
- Elliott Gould and Dyan Cannon for a special screening of Paul Mazursky's B
- ob & Carol & Ted & Alice!\n\nTickets: https://vidiotsfoundation.org/purcha
- se/4428379/\n\nDetails: https://vidiotsfoundation.org/movies/bob-carol-ted
- -alice/
+ ecial Guests in Attendance\n\nVidiots is thrilled to welcome screen icon D
+ yan Cannon for a special screening of Paul Mazursky's Bob & Carol & Ted & 
+ Alice!\n\nTickets: https://vidiotsfoundation.org/purchase/4428379/\n\nDeta
+ ils: https://vidiotsfoundation.org/movies/bob-carol-ted-alice/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -737,12 +739,12 @@ BEGIN:VEVENT
 UID:4388738@vidiotsfoundation.org
 DTSTAMP:20260828T023000Z
 DTSTART;TZID=America/Los_Angeles:20260827T193000
-DTEND;TZID=America/Los_Angeles:20260827T214000
+DTEND;TZID=America/Los_Angeles:20260827T211800
 SUMMARY:The Grandmaster on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4388738/
-DESCRIPTION:Run time: 130 min | Format: 35mm Film | Rating: PG-13 | Release
+DESCRIPTION:Run time: 108 min | Format: 35mm Film | Rating: PG-13 | Release
   year: 2013\n\nSeries: 35mm Film\, Doors Open at 6\, In the Eagle\n\nJoin 
  us for Wong Kar-wai's breathtaking martial arts spectacle in glorious cell
  uloid!\n\nTickets: https://vidiotsfoundation.org/purchase/4388738/\n\nDeta
@@ -758,12 +760,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4528303/
 DESCRIPTION:Run time: 122 min | Format: Digital\n\nSeries: In the Eagle\n\n
- Vidiots is dying to welcome back director Catherine Hardwicke for the emo 
- screening of your teen dreams - Twilight - followed by a conversation with
-  Hardwicke on her undead phenomenon!\nEncore screening added August 28th -
-  no special guests\, screening only\n\nTickets: https://vidiotsfoundation.
- org/purchase/4528303/\n\nDetails: https://vidiotsfoundation.org/movies/twi
- light/
+ Are you ready to live your Y2K gothic teen fantasy to the max with this te
+ en goth essential as it sparkles on our big screen!?!\nEncore screening ad
+ ded August 28th - no special guests\, screening only\n\nTickets: https://v
+ idiotsfoundation.org/purchase/4528303/\n\nDetails: https://vidiotsfoundati
+ on.org/movies/twilight/
 END:VEVENT
 BEGIN:VEVENT
 UID:4444820@vidiotsfoundation.org
@@ -1524,6 +1525,23 @@ DESCRIPTION:Run time: 102 min | Format: Digital | Rating: R\n\nSeries: Comm
  wave bandit!\nCo-presented by our friends on the airwaves at KPBJ!\n\nTick
  ets: https://vidiotsfoundation.org/purchase/4509966/\n\nDetails: https://v
  idiotsfoundation.org/movies/pump-up-the-volume/
+END:VEVENT
+BEGIN:VEVENT
+UID:4510040@vidiotsfoundation.org
+DTSTAMP:20260919T022000Z
+DTSTART;TZID=America/Los_Angeles:20260918T192000
+DTEND;TZID=America/Los_Angeles:20260918T210000
+SUMMARY:Filipiñana
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510040/
+DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ema for one of the best films of the year and a masterwork of internationa
+ l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
+ ipiñana.\nMore showtimes added soon!\n\nTickets: https://vidiotsfoundatio
+ n.org/purchase/4510040/\n\nDetails: https://vidiotsfoundation.org/movies/f
+ ilipinana/
 END:VEVENT
 BEGIN:VEVENT
 UID:4510024@vidiotsfoundation.org
