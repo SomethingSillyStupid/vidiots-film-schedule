@@ -31,14 +31,13 @@ SUMMARY:The Invite
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4393028/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 107 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nDoes your summer need a little spice? Have we got the dinner pa
- rty for you! Join us in the microcinema for Olivia Wilde's wildly entertai
- ning and perversely hilarious comedy The Invite for a fun and naughty nigh
- t of indie cinema!\n\nTickets: https://vidiotsfoundation.org/purchase/4393
- 028/\n\nDetails: https://vidiotsfoundation.org/movies/the-invite/
-STATUS:TENTATIVE
+DESCRIPTION:Run time: 107 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nDoes your summer need a little s
+ pice? Have we got the dinner party for you! Join us in the microcinema for
+  Olivia Wilde's wildly entertaining and perversely hilarious comedy The In
+ vite for a fun and naughty night of indie cinema!\n\nTickets: https://vidi
+ otsfoundation.org/purchase/4393028/\n\nDetails: https://vidiotsfoundation.
+ org/movies/the-invite/
 END:VEVENT
 BEGIN:VEVENT
 UID:4368476@vidiotsfoundation.org
@@ -285,15 +284,17 @@ SUMMARY:Mary Oliver: Saved by the Beauty of the World
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4393075/
-DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nCelebrated best-
- selling poet\, Pulitzer Prize-winner\, lover of dogs and long walks in the
-  woods\, openly queer but intensely private\, Oliver was America’s unlik
- ely contemporary mystic\, stalking the ponds and forests of Cape Cod for n
- early fifty years in order to open herself – and her readers – to the 
- known and unknowable world.\n\nTickets: https://vidiotsfoundation.org/purc
- hase/4393075/\n\nDetails: https://vidiotsfoundation.org/movies/mary-oliver
- -saved-by-the-beauty-of-the-world/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\n\nCelebrated best-selling poet\, Pulitzer Prize-w
+ inner\, lover of dogs and long walks in the woods\, openly queer but inten
+ sely private\, Oliver was America’s unlikely contemporary mystic\, stalk
+ ing the ponds and forests of Cape Cod for nearly fifty years in order to o
+ pen herself – and her readers – to the known and unknowable world.\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4393075/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/mary-oliver-saved-by-the-beauty-of-the-wor
+ ld/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4364993@vidiotsfoundation.org
@@ -1680,6 +1681,20 @@ DESCRIPTION:Run time: 106 min | Format: Digital | Rating: PG-13\n\nSeries:
  tion.org/movies/unbreakable/
 END:VEVENT
 BEGIN:VEVENT
+UID:4509944@vidiotsfoundation.org
+DTSTAMP:20260913T044500Z
+DTSTART;TZID=America/Los_Angeles:20260912T214500
+DTEND;TZID=America/Los_Angeles:20260912T231800
+SUMMARY:Death Wish
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509944/
+DESCRIPTION:Run time: 93 min | Format: Digital | Rating: R\n\nSeries: In th
+ e Eagle\n\nBronson's gonna get you\, punk!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4509944/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/death-wish/
+END:VEVENT
+BEGIN:VEVENT
 UID:4509962@vidiotsfoundation.org
 DTSTAMP:20260915T023000Z
 DTSTART;TZID=America/Los_Angeles:20260914T193000
@@ -1746,6 +1761,22 @@ DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
  ilipinana/
 END:VEVENT
 BEGIN:VEVENT
+UID:4509972@vidiotsfoundation.org
+DTSTAMP:20260919T224500Z
+DTSTART;TZID=America/Los_Angeles:20260919T154500
+DTEND;TZID=America/Los_Angeles:20260919T171500
+SUMMARY:Salesman
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509972/
+DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Groundbreaking No
+ n-Fiction\, In the Eagle\n\nOne of the most important and illuminating doc
+ umentaries of the mid-20th-century\, Salesman showed the world a realism i
+ t had never seen and a pair of brothers who would change the documentary l
+ andscape forever.\n\nTickets: https://vidiotsfoundation.org/purchase/45099
+ 72/\n\nDetails: https://vidiotsfoundation.org/movies/salesman/
+END:VEVENT
+BEGIN:VEVENT
 UID:4510024@vidiotsfoundation.org
 DTSTAMP:20260920T203000Z
 DTSTART;TZID=America/Los_Angeles:20260920T133000
@@ -1774,6 +1805,52 @@ DESCRIPTION:Run time: 96 min | Format: 35mm Film | Rating: R\n\nSeries: 35m
  fe and legacy of Sam Neill continues with this unnerving slow burn Aussie 
  thriller.\n\nTickets: https://vidiotsfoundation.org/purchase/4510122/\n\nD
  etails: https://vidiotsfoundation.org/movies/dead-calm/
+END:VEVENT
+BEGIN:VEVENT
+UID:4510129@vidiotsfoundation.org
+DTSTAMP:20260927T190000Z
+DTSTART;TZID=America/Los_Angeles:20260927T120000
+DTEND;TZID=America/Los_Angeles:20260927T132400
+SUMMARY:Beauty and the Beast Sing-Along
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510129/
+DESCRIPTION:Run time: 84 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nBe our guest and sing-along with th
+ is magical fairytale!\n\nTickets: https://vidiotsfoundation.org/purchase/4
+ 510129/\n\nDetails: https://vidiotsfoundation.org/movies/beauty-and-the-be
+ ast/
+END:VEVENT
+BEGIN:VEVENT
+UID:4510130@vidiotsfoundation.org
+DTSTAMP:20260927T214500Z
+DTSTART;TZID=America/Los_Angeles:20260927T144500
+DTEND;TZID=America/Los_Angeles:20260927T175700
+SUMMARY:It’s a Mad\, Mad\, Mad\, Mad World
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510130/
+DESCRIPTION:Run time: 192 min | Format: Digital | Rating: G\n\nSeries: In t
+ he Eagle\n\nBuckle up for a carload of belly laughs with Stanley Kramer's 
+ madcap comedy of treasure hunting starring a cavalcade of some of the best
+  comedians of the day.\n\nTickets: https://vidiotsfoundation.org/purchase/
+ 4510130/\n\nDetails: https://vidiotsfoundation.org/movies/its-a-mad-mad-ma
+ d-mad-world/
+END:VEVENT
+BEGIN:VEVENT
+UID:4510133@vidiotsfoundation.org
+DTSTAMP:20260928T023000Z
+DTSTART;TZID=America/Los_Angeles:20260927T193000
+DTEND;TZID=America/Los_Angeles:20260927T211100
+SUMMARY:Monster-in-Law
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510133/
+DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\n\nIt's a battle of the icons when J. Lo faces off against Ja
+ ne Fonda in this guiltless pleasure of cinematic bitchery!\n\nTickets: htt
+ ps://vidiotsfoundation.org/purchase/4510133/\n\nDetails: https://vidiotsfo
+ undation.org/movies/monster-in-law/
 END:VEVENT
 BEGIN:VEVENT
 UID:4510150@vidiotsfoundation.org
