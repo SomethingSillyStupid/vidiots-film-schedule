@@ -8,104 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4528098@vidiotsfoundation.org
-DTSTAMP:20260814T230000Z
-DTSTART;TZID=America/Los_Angeles:20260814T160000
-DTEND;TZID=America/Los_Angeles:20260814T174600
-SUMMARY:Young Frankenstein
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4528098/
-DESCRIPTION:Run time: 106 min | Format: Digital\n\nSeries: In the Eagle\n\n
- The scariest comedy of all time!\nCelebrating 100 Years of Mel Brooks! Enc
- ore Screening Added!\n\nTickets: https://vidiotsfoundation.org/purchase/45
- 28098/\n\nDetails: https://vidiotsfoundation.org/movies/young-frankenstein
- /
-END:VEVENT
-BEGIN:VEVENT
-UID:4393028@vidiotsfoundation.org
-DTSTAMP:20260814T234500Z
-DTSTART;TZID=America/Los_Angeles:20260814T164500
-DTEND;TZID=America/Los_Angeles:20260814T183200
-SUMMARY:The Invite
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4393028/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 107 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nDoes your summer need a little spice? Have we got the dinner pa
- rty for you! Join us in the microcinema for Olivia Wilde's wildly entertai
- ning and perversely hilarious comedy The Invite for a fun and naughty nigh
- t of indie cinema!\n\nTickets: https://vidiotsfoundation.org/purchase/4393
- 028/\n\nDetails: https://vidiotsfoundation.org/movies/the-invite/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4368476@vidiotsfoundation.org
-DTSTAMP:20260815T020000Z
-DTSTART;TZID=America/Los_Angeles:20260814T190000
-DTEND;TZID=America/Los_Angeles:20260814T205000
-SUMMARY:Magic Mike
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4368476/
-DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nGet ready to go wild with Mike and the boys in the original th
- irst trap throwdown!\n\nTickets: https://vidiotsfoundation.org/purchase/43
- 68476/\n\nDetails: https://vidiotsfoundation.org/movies/magic-mike/
-END:VEVENT
-BEGIN:VEVENT
-UID:4393031@vidiotsfoundation.org
-DTSTAMP:20260815T022000Z
-DTSTART;TZID=America/Los_Angeles:20260814T192000
-DTEND;TZID=America/Los_Angeles:20260814T210700
-SUMMARY:The Invite
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4393031/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 107 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nDoes your summer need a little spice? Have we got the dinner pa
- rty for you! Join us in the microcinema for Olivia Wilde's wildly entertai
- ning and perversely hilarious comedy The Invite for a fun and naughty nigh
- t of indie cinema!\n\nTickets: https://vidiotsfoundation.org/purchase/4393
- 031/\n\nDetails: https://vidiotsfoundation.org/movies/the-invite/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4368484@vidiotsfoundation.org
-DTSTAMP:20260815T044500Z
-DTSTART;TZID=America/Los_Angeles:20260814T214500
-DTEND;TZID=America/Los_Angeles:20260814T231500
-SUMMARY:Commando
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4368484/
-DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\, What the Friday?!?\n\nOne of the best popcorn blockbusters of th
- e 1980s\, Rae Dawn Chong and the Governator team up for action\, for fun\,
-  and for revenge in this bad-ass specatacular.\nWith a special video intro
- duction from the big baddie himself Vernon Wells!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4368484/\n\nDetails: https://vidiotsfoundation.
- org/movies/commando/
-END:VEVENT
-BEGIN:VEVENT
-UID:4393032@vidiotsfoundation.org
-DTSTAMP:20260815T051500Z
-DTSTART;TZID=America/Los_Angeles:20260814T221500
-DTEND;TZID=America/Los_Angeles:20260814T233200
-SUMMARY:Lockjaw
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4393032/
-DESCRIPTION:Run time: 77 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
-  microcinema for the cringiest party this summer with Sabrina Greco's absu
- rd indie comedy Lockjaw!\nWith writer/director Sabrina Greco in person at 
- both screenings!\n\nTickets: https://vidiotsfoundation.org/purchase/439303
- 2/\n\nDetails: https://vidiotsfoundation.org/movies/lockjaw/
-END:VEVENT
-BEGIN:VEVENT
 UID:4393064@vidiotsfoundation.org
 DTSTAMP:20260815T193000Z
 DTSTART;TZID=America/Los_Angeles:20260815T123000
@@ -156,23 +58,6 @@ DESCRIPTION:Run time: 103 min | Format: Digital\n\nSeries: In the Eagle\, T
  dation.org/movies/scarlet-street/
 END:VEVENT
 BEGIN:VEVENT
-UID:4338298@vidiotsfoundation.org
-DTSTAMP:20260815T230000Z
-DTSTART;TZID=America/Los_Angeles:20260815T160000
-DTEND;TZID=America/Los_Angeles:20260815T174700
-SUMMARY:The Invite
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338298/
-DESCRIPTION:Run time: 107 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nDoes your summer need a little s
- pice? Have we got the dinner party for you! Join us in the microcinema for
-  Olivia Wilde's wildly entertaining and perversely hilarious comedy The In
- vite for a fun and naughty night of indie cinema!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4338298/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-invite/
-END:VEVENT
-BEGIN:VEVENT
 UID:4388405@vidiotsfoundation.org
 DTSTAMP:20260816T013000Z
 DTSTART;TZID=America/Los_Angeles:20260815T183000
@@ -190,41 +75,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 113 min |
  iotsfoundation.org/purchase/4388405/\n\nDetails: https://vidiotsfoundation
  .org/movies/scott-pilgrim-vs-the-world/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4338292@vidiotsfoundation.org
-DTSTAMP:20260816T020000Z
-DTSTART;TZID=America/Los_Angeles:20260815T190000
-DTEND;TZID=America/Los_Angeles:20260815T201700
-SUMMARY:Lockjaw
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338292/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 77 min | F
- ormat: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Spe
- cial Guests in Attendance\n\nJoin us in the microcinema for the cringiest 
- party this summer with Sabrina Greco's absurd indie comedy Lockjaw!\nWith 
- writer/director Sabrina Greco in person at both screenings!\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4338292/\n\nDetails: https://vidiotsf
- oundation.org/movies/lockjaw/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4338293@vidiotsfoundation.org
-DTSTAMP:20260816T043000Z
-DTSTART;TZID=America/Los_Angeles:20260815T213000
-DTEND;TZID=America/Los_Angeles:20260815T231700
-SUMMARY:The Invite
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338293/
-DESCRIPTION:Run time: 107 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nDoes your summer need a little s
- pice? Have we got the dinner party for you! Join us in the microcinema for
-  Olivia Wilde's wildly entertaining and perversely hilarious comedy The In
- vite for a fun and naughty night of indie cinema!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4338293/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-invite/
 END:VEVENT
 BEGIN:VEVENT
 UID:4388406@vidiotsfoundation.org
@@ -312,23 +162,6 @@ DESCRIPTION:Run time: 93 min | Format: Digital\n\nSeries: In the Eagle\, Sp
  ed by Vidiots Founding Member Mark Duplass!\n\nTickets: https://vidiotsfou
  ndation.org/purchase/4364993/\n\nDetails: https://vidiotsfoundation.org/mo
  vies/the-off-hours/
-END:VEVENT
-BEGIN:VEVENT
-UID:4393087@vidiotsfoundation.org
-DTSTAMP:20260817T023000Z
-DTSTART;TZID=America/Los_Angeles:20260816T193000
-DTEND;TZID=America/Los_Angeles:20260816T211700
-SUMMARY:The Invite
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4393087/
-DESCRIPTION:Run time: 107 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nDoes your summer need a little s
- pice? Have we got the dinner party for you! Join us in the microcinema for
-  Olivia Wilde's wildly entertaining and perversely hilarious comedy The In
- vite for a fun and naughty night of indie cinema!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4393087/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-invite/
 END:VEVENT
 BEGIN:VEVENT
 UID:4500857@vidiotsfoundation.org
@@ -1899,5 +1732,103 @@ DESCRIPTION:Run time: 137 min | Format: Digital | Rating: R\n\nSeries: 35mm
  n35th Anniversary screening on 35mm Film!\n\nTickets: https://vidiotsfound
  ation.org/purchase/4510150/\n\nDetails: https://vidiotsfoundation.org/movi
  es/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:4528098@vidiotsfoundation.org
+DTSTAMP:20260814T230000Z
+DTSTART;TZID=America/Los_Angeles:20260814T160000
+DTEND;TZID=America/Los_Angeles:20260814T174600
+SUMMARY:Young Frankenstein
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4528098/
+DESCRIPTION:Run time: 106 min | Format: Digital\n\nSeries: In the Eagle\n\n
+ The scariest comedy of all time!\nCelebrating 100 Years of Mel Brooks! Enc
+ ore Screening Added!\n\nTickets: https://vidiotsfoundation.org/purchase/45
+ 28098/\n\nDetails: https://vidiotsfoundation.org/movies/young-frankenstein
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:4393028@vidiotsfoundation.org
+DTSTAMP:20260814T234500Z
+DTSTART;TZID=America/Los_Angeles:20260814T164500
+DTEND;TZID=America/Los_Angeles:20260814T183200
+SUMMARY:The Invite
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4393028/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 107 min | 
+ Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
+ ocinema\n\nDoes your summer need a little spice? Have we got the dinner pa
+ rty for you! Join us in the microcinema for Olivia Wilde's wildly entertai
+ ning and perversely hilarious comedy The Invite for a fun and naughty nigh
+ t of indie cinema!\n\nTickets: https://vidiotsfoundation.org/purchase/4393
+ 028/\n\nDetails: https://vidiotsfoundation.org/movies/the-invite/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4368476@vidiotsfoundation.org
+DTSTAMP:20260815T020000Z
+DTSTART;TZID=America/Los_Angeles:20260814T190000
+DTEND;TZID=America/Los_Angeles:20260814T205000
+SUMMARY:Magic Mike
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4368476/
+DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nGet ready to go wild with Mike and the boys in the original th
+ irst trap throwdown!\n\nTickets: https://vidiotsfoundation.org/purchase/43
+ 68476/\n\nDetails: https://vidiotsfoundation.org/movies/magic-mike/
+END:VEVENT
+BEGIN:VEVENT
+UID:4393031@vidiotsfoundation.org
+DTSTAMP:20260815T022000Z
+DTSTART;TZID=America/Los_Angeles:20260814T192000
+DTEND;TZID=America/Los_Angeles:20260814T210700
+SUMMARY:The Invite
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4393031/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 107 min | 
+ Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
+ ocinema\n\nDoes your summer need a little spice? Have we got the dinner pa
+ rty for you! Join us in the microcinema for Olivia Wilde's wildly entertai
+ ning and perversely hilarious comedy The Invite for a fun and naughty nigh
+ t of indie cinema!\n\nTickets: https://vidiotsfoundation.org/purchase/4393
+ 031/\n\nDetails: https://vidiotsfoundation.org/movies/the-invite/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4368484@vidiotsfoundation.org
+DTSTAMP:20260815T044500Z
+DTSTART;TZID=America/Los_Angeles:20260814T214500
+DTEND;TZID=America/Los_Angeles:20260814T231500
+SUMMARY:Commando
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4368484/
+DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: In th
+ e Eagle\, What the Friday?!?\n\nOne of the best popcorn blockbusters of th
+ e 1980s\, Rae Dawn Chong and the Governator team up for action\, for fun\,
+  and for revenge in this bad-ass specatacular.\nWith a special video intro
+ duction from the big baddie himself Vernon Wells!\n\nTickets: https://vidi
+ otsfoundation.org/purchase/4368484/\n\nDetails: https://vidiotsfoundation.
+ org/movies/commando/
+END:VEVENT
+BEGIN:VEVENT
+UID:4393032@vidiotsfoundation.org
+DTSTAMP:20260815T051500Z
+DTSTART;TZID=America/Los_Angeles:20260814T221500
+DTEND;TZID=America/Los_Angeles:20260814T233200
+SUMMARY:Lockjaw
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4393032/
+DESCRIPTION:Run time: 77 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
+  microcinema for the cringiest party this summer with Sabrina Greco's absu
+ rd indie comedy Lockjaw!\nWith writer/director Sabrina Greco in person at 
+ both screenings!\n\nTickets: https://vidiotsfoundation.org/purchase/439303
+ 2/\n\nDetails: https://vidiotsfoundation.org/movies/lockjaw/
 END:VEVENT
 END:VCALENDAR
