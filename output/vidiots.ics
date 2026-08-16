@@ -8,95 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4393063@vidiotsfoundation.org
-DTSTAMP:20260815T200000Z
-DTSTART;TZID=America/Los_Angeles:20260815T130000
-DTEND;TZID=America/Los_Angeles:20260815T143100
-SUMMARY:Mary Oliver: Saved by the Beauty of the World
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4393063/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nCelebrated best-selling poet\, Pulitzer Prize-w
- inner\, lover of dogs and long walks in the woods\, openly queer but inten
- sely private\, Oliver was America’s unlikely contemporary mystic\, stalk
- ing the ponds and forests of Cape Cod for nearly fifty years in order to o
- pen herself – and her readers – to the known and unknowable world.\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4393063/\n\nDetails: https
- ://vidiotsfoundation.org/movies/mary-oliver-saved-by-the-beauty-of-the-wor
- ld/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4338298@vidiotsfoundation.org
-DTSTAMP:20260815T230000Z
-DTSTART;TZID=America/Los_Angeles:20260815T160000
-DTEND;TZID=America/Los_Angeles:20260815T174700
-SUMMARY:The Invite
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338298/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 107 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nDoes your summer need a little spice? Have we got the dinner pa
- rty for you! Join us in the microcinema for Olivia Wilde's wildly entertai
- ning and perversely hilarious comedy The Invite for a fun and naughty nigh
- t of indie cinema!\n\nTickets: https://vidiotsfoundation.org/purchase/4338
- 298/\n\nDetails: https://vidiotsfoundation.org/movies/the-invite/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4338293@vidiotsfoundation.org
-DTSTAMP:20260816T043000Z
-DTSTART;TZID=America/Los_Angeles:20260815T213000
-DTEND;TZID=America/Los_Angeles:20260815T231700
-SUMMARY:The Invite
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4338293/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 107 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nDoes your summer need a little spice? Have we got the dinner pa
- rty for you! Join us in the microcinema for Olivia Wilde's wildly entertai
- ning and perversely hilarious comedy The Invite for a fun and naughty nigh
- t of indie cinema!\n\nTickets: https://vidiotsfoundation.org/purchase/4338
- 293/\n\nDetails: https://vidiotsfoundation.org/movies/the-invite/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4388367@vidiotsfoundation.org
-DTSTAMP:20260816T193000Z
-DTSTART;TZID=America/Los_Angeles:20260816T123000
-DTEND;TZID=America/Los_Angeles:20260816T141000
-SUMMARY:Ponyo (English Dubbed)
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4388367/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Rating: All Ages | Release year: 2008\n\nSeries: Films f
- or Everyone\, In the Eagle\n\nDive into this breathtaking and heartwarming
-  adventure from the legendary Studio Ghibli\, and Academy Award-winning di
- rector Hayao Miyazaki.\n\nTickets: https://vidiotsfoundation.org/purchase/
- 4388367/\n\nDetails: https://vidiotsfoundation.org/movies/ponyo/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4388358@vidiotsfoundation.org
-DTSTAMP:20260816T223000Z
-DTSTART;TZID=America/Los_Angeles:20260816T153000
-DTEND;TZID=America/Los_Angeles:20260816T174100
-SUMMARY:A View to a Kill
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4388358/
-DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG\n\nSeries: In 
- the Eagle\n\nBond is back\, and this time he's up against Christopher Walk
- en and the iconic Grace Jones in this Roger Moore-era 007 installment.\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4388358/\n\nDetails: https
- ://vidiotsfoundation.org/movies/a-view-to-a-kill/
-END:VEVENT
-BEGIN:VEVENT
 UID:4393075@vidiotsfoundation.org
 DTSTAMP:20260816T233000Z
 DTSTART;TZID=America/Los_Angeles:20260816T163000
@@ -115,42 +26,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
  Tickets: https://vidiotsfoundation.org/purchase/4393075/\n\nDetails: https
  ://vidiotsfoundation.org/movies/mary-oliver-saved-by-the-beauty-of-the-wor
  ld/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4364993@vidiotsfoundation.org
-DTSTAMP:20260817T020000Z
-DTSTART;TZID=America/Los_Angeles:20260816T190000
-DTEND;TZID=America/Los_Angeles:20260816T203300
-SUMMARY:The Off Hours
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4364993/
-DESCRIPTION:Run time: 93 min | Format: Digital\n\nSeries: In the Eagle\, Sp
- ecial Guests in Attendance\n\nVidiots is excited to welcome writer/directo
- r Megan Griffiths for a special 15th Anniversary screening of her engaging
-  character study The Off Hours followed by a conversation with Griffiths a
- nd cast members Amy Seimetz\, Scoot McNairy\, and Ross Partridge\, moderat
- ed by Vidiots Founding Member Mark Duplass!\n\nTickets: https://vidiotsfou
- ndation.org/purchase/4364993/\n\nDetails: https://vidiotsfoundation.org/mo
- vies/the-off-hours/
-END:VEVENT
-BEGIN:VEVENT
-UID:4393087@vidiotsfoundation.org
-DTSTAMP:20260817T023000Z
-DTSTART;TZID=America/Los_Angeles:20260816T193000
-DTEND;TZID=America/Los_Angeles:20260816T211700
-SUMMARY:The Invite
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4393087/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 107 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nDoes your summer need a little spice? Have we got the dinner pa
- rty for you! Join us in the microcinema for Olivia Wilde's wildly entertai
- ning and perversely hilarious comedy The Invite for a fun and naughty nigh
- t of indie cinema!\n\nTickets: https://vidiotsfoundation.org/purchase/4393
- 087/\n\nDetails: https://vidiotsfoundation.org/movies/the-invite/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -1725,5 +1600,73 @@ DESCRIPTION:Run time: 137 min | Format: Digital | Rating: R\n\nSeries: 35mm
  n35th Anniversary screening on 35mm Film!\n\nTickets: https://vidiotsfound
  ation.org/purchase/4510150/\n\nDetails: https://vidiotsfoundation.org/movi
  es/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:4388367@vidiotsfoundation.org
+DTSTAMP:20260816T193000Z
+DTSTART;TZID=America/Los_Angeles:20260816T123000
+DTEND;TZID=America/Los_Angeles:20260816T141000
+SUMMARY:Ponyo (English Dubbed)
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4388367/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital | Rating: All Ages | Release year: 2008\n\nSeries: Films f
+ or Everyone\, In the Eagle\n\nDive into this breathtaking and heartwarming
+  adventure from the legendary Studio Ghibli\, and Academy Award-winning di
+ rector Hayao Miyazaki.\n\nTickets: https://vidiotsfoundation.org/purchase/
+ 4388367/\n\nDetails: https://vidiotsfoundation.org/movies/ponyo/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4388358@vidiotsfoundation.org
+DTSTAMP:20260816T223000Z
+DTSTART;TZID=America/Los_Angeles:20260816T153000
+DTEND;TZID=America/Los_Angeles:20260816T174100
+SUMMARY:A View to a Kill
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4388358/
+DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG\n\nSeries: In 
+ the Eagle\n\nBond is back\, and this time he's up against Christopher Walk
+ en and the iconic Grace Jones in this Roger Moore-era 007 installment.\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4388358/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/a-view-to-a-kill/
+END:VEVENT
+BEGIN:VEVENT
+UID:4364993@vidiotsfoundation.org
+DTSTAMP:20260817T020000Z
+DTSTART;TZID=America/Los_Angeles:20260816T190000
+DTEND;TZID=America/Los_Angeles:20260816T203300
+SUMMARY:The Off Hours
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4364993/
+DESCRIPTION:Run time: 93 min | Format: Digital\n\nSeries: In the Eagle\, Sp
+ ecial Guests in Attendance\n\nVidiots is excited to welcome writer/directo
+ r Megan Griffiths for a special 15th Anniversary screening of her engaging
+  character study The Off Hours followed by a conversation with Griffiths a
+ nd cast members Amy Seimetz\, Scoot McNairy\, and Ross Partridge\, moderat
+ ed by Vidiots Founding Member Mark Duplass!\n\nTickets: https://vidiotsfou
+ ndation.org/purchase/4364993/\n\nDetails: https://vidiotsfoundation.org/mo
+ vies/the-off-hours/
+END:VEVENT
+BEGIN:VEVENT
+UID:4393087@vidiotsfoundation.org
+DTSTAMP:20260817T023000Z
+DTSTART;TZID=America/Los_Angeles:20260816T193000
+DTEND;TZID=America/Los_Angeles:20260816T211700
+SUMMARY:The Invite
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4393087/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 107 min | 
+ Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
+ ocinema\n\nDoes your summer need a little spice? Have we got the dinner pa
+ rty for you! Join us in the microcinema for Olivia Wilde's wildly entertai
+ ning and perversely hilarious comedy The Invite for a fun and naughty nigh
+ t of indie cinema!\n\nTickets: https://vidiotsfoundation.org/purchase/4393
+ 087/\n\nDetails: https://vidiotsfoundation.org/movies/the-invite/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
