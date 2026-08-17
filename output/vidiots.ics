@@ -1341,6 +1341,23 @@ DESCRIPTION:Run time: 171 min | Format: 4K Digital | Rating: R | Release ye
  ://vidiotsfoundation.org/movies/farewell-my-concubine/
 END:VEVENT
 BEGIN:VEVENT
+UID:4510005@vidiotsfoundation.org
+DTSTAMP:20260911T231500Z
+DTSTART;TZID=America/Los_Angeles:20260911T161500
+DTEND;TZID=America/Los_Angeles:20260911T180700
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510005/
+DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\, Doors Open at 6\n\nVisionary dire
+ ctor Jane Schoenbrun presents a new kind of horror remake! Bursting with i
+ magination and surreal wit\, their latest genre-bending wonder affirms the
+ re’s no such thing as a guilty pleasure.\nMore Showtimes added!\n\nTicke
+ ts: https://vidiotsfoundation.org/purchase/4510005/\n\nDetails: https://vi
+ diotsfoundation.org/movies/teenage-sex-and-death-at-camp-miasma-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:4509938@vidiotsfoundation.org
 DTSTAMP:20260912T020000Z
 DTSTART;TZID=America/Los_Angeles:20260911T190000
@@ -1356,6 +1373,38 @@ DESCRIPTION:Run time: 106 min | Format: Digital | Rating: PG-13\n\nSeries:
  tion.org/movies/unbreakable/
 END:VEVENT
 BEGIN:VEVENT
+UID:4510006@vidiotsfoundation.org
+DTSTAMP:20260912T022000Z
+DTSTART;TZID=America/Los_Angeles:20260911T192000
+DTEND;TZID=America/Los_Angeles:20260911T205500
+SUMMARY:Wild Inside
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510006/
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOur microcinema 
+ is going to the birds with Penny Lane's rapturous documentary about everyo
+ ne's favorite escaped zoo owl Flaco - Wild Inside.\n\nTickets: https://vid
+ iotsfoundation.org/purchase/4510006/\n\nDetails: https://vidiotsfoundation
+ .org/movies/wild-inside/
+END:VEVENT
+BEGIN:VEVENT
+UID:4561750@vidiotsfoundation.org
+DTSTAMP:20260912T231500Z
+DTSTART;TZID=America/Los_Angeles:20260912T161500
+DTEND;TZID=America/Los_Angeles:20260912T175000
+SUMMARY:Wild Inside
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4561750/
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOur microcinema 
+ is going to the birds with Penny Lane's rapturous documentary about everyo
+ ne's favorite escaped zoo owl Flaco - Wild Inside.\n\nTickets: https://vid
+ iotsfoundation.org/purchase/4561750/\n\nDetails: https://vidiotsfoundation
+ .org/movies/wild-inside/
+END:VEVENT
+BEGIN:VEVENT
 UID:4509944@vidiotsfoundation.org
 DTSTAMP:20260913T044500Z
 DTSTART;TZID=America/Los_Angeles:20260912T214500
@@ -1368,6 +1417,72 @@ DESCRIPTION:Run time: 93 min | Format: Digital | Rating: R\n\nSeries: In th
  e Eagle\n\nBronson's gonna get you\, punk!\n\nTickets: https://vidiotsfoun
  dation.org/purchase/4509944/\n\nDetails: https://vidiotsfoundation.org/mov
  ies/death-wish/
+END:VEVENT
+BEGIN:VEVENT
+UID:4561753@vidiotsfoundation.org
+DTSTAMP:20260913T050000Z
+DTSTART;TZID=America/Los_Angeles:20260912T220000
+DTEND;TZID=America/Los_Angeles:20260912T235200
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4561753/
+DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\, Doors Open at 6\n\nVisionary dire
+ ctor Jane Schoenbrun presents a new kind of horror remake! Bursting with i
+ magination and surreal wit\, their latest genre-bending wonder affirms the
+ re’s no such thing as a guilty pleasure.\nMore Showtimes added!\n\nTicke
+ ts: https://vidiotsfoundation.org/purchase/4561753/\n\nDetails: https://vi
+ diotsfoundation.org/movies/teenage-sex-and-death-at-camp-miasma-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509960@vidiotsfoundation.org
+DTSTAMP:20260913T190000Z
+DTSTART;TZID=America/Los_Angeles:20260913T120000
+DTEND;TZID=America/Los_Angeles:20260913T135800
+SUMMARY:Clash of the Titans
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509960/
+DESCRIPTION:Run time: 118 min | Format: Digital | Rating: PG\n\nSeries: Fil
+ ms for Everyone\, In the Eagle\n\nIf you love Greek mythology\, stop-motio
+ n animation\, or an all-star adventure\, ride your pegasus over to Vidiots
+  for a mythical quest like no other!\n\nTickets: https://vidiotsfoundation
+ .org/purchase/4509960/\n\nDetails: https://vidiotsfoundation.org/movies/cl
+ ash-of-the-titans/
+END:VEVENT
+BEGIN:VEVENT
+UID:4561783@vidiotsfoundation.org
+DTSTAMP:20260913T200000Z
+DTSTART;TZID=America/Los_Angeles:20260913T130000
+DTEND;TZID=America/Los_Angeles:20260913T143500
+SUMMARY:Wild Inside
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4561783/
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOur microcinema 
+ is going to the birds with Penny Lane's rapturous documentary about everyo
+ ne's favorite escaped zoo owl Flaco - Wild Inside.\n\nTickets: https://vid
+ iotsfoundation.org/purchase/4561783/\n\nDetails: https://vidiotsfoundation
+ .org/movies/wild-inside/
+END:VEVENT
+BEGIN:VEVENT
+UID:4561784@vidiotsfoundation.org
+DTSTAMP:20260913T231500Z
+DTSTART;TZID=America/Los_Angeles:20260913T161500
+DTEND;TZID=America/Los_Angeles:20260913T180700
+SUMMARY:Teenage Sex and Death at Camp Miasma
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4561784/
+DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\, Doors Open at 6\n\nVisionary dire
+ ctor Jane Schoenbrun presents a new kind of horror remake! Bursting with i
+ magination and surreal wit\, their latest genre-bending wonder affirms the
+ re’s no such thing as a guilty pleasure.\nMore Showtimes added!\n\nTicke
+ ts: https://vidiotsfoundation.org/purchase/4561784/\n\nDetails: https://vi
+ diotsfoundation.org/movies/teenage-sex-and-death-at-camp-miasma-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509962@vidiotsfoundation.org
@@ -1452,6 +1567,39 @@ DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Groundbreaking No
  72/\n\nDetails: https://vidiotsfoundation.org/movies/salesman/
 END:VEVENT
 BEGIN:VEVENT
+UID:4509984@vidiotsfoundation.org
+DTSTAMP:20260919T233000Z
+DTSTART;TZID=America/Los_Angeles:20260919T163000
+DTEND;TZID=America/Los_Angeles:20260919T181000
+SUMMARY:Filipiñana
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509984/
+DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ema for one of the best films of the year and a masterwork of internationa
+ l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
+ ipiñana.\nMore showtimes added soon!\n\nTickets: https://vidiotsfoundatio
+ n.org/purchase/4509984/\n\nDetails: https://vidiotsfoundation.org/movies/f
+ ilipinana/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509979@vidiotsfoundation.org
+DTSTAMP:20260920T021500Z
+DTSTART;TZID=America/Los_Angeles:20260919T191500
+DTEND;TZID=America/Los_Angeles:20260919T205500
+SUMMARY:Outerlands
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509979/
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: In the MUBI Micr
+ ocinema\, Special Guests in Attendance\n\nJoin us in the microcinema for E
+ lena Oxman's festival darling\, the beautifully touching triumph Outerland
+ s starring Asia Kate Dillon in a stirring performance.\nFilmmaker Elena Ox
+ man in person\n\nTickets: https://vidiotsfoundation.org/purchase/4509979/\
+ n\nDetails: https://vidiotsfoundation.org/movies/outerlands/
+END:VEVENT
+BEGIN:VEVENT
 UID:4510024@vidiotsfoundation.org
 DTSTAMP:20260920T203000Z
 DTSTART;TZID=America/Los_Angeles:20260920T133000
@@ -1465,6 +1613,40 @@ DESCRIPTION:Run time: 102 min | Format: Digital | Rating: PG\n\nSeries: Fil
  nted musical with your little ones\, or your Pixar-loving adult besties!\n
  \nTickets: https://vidiotsfoundation.org/purchase/4510024/\n\nDetails: htt
  ps://vidiotsfoundation.org/movies/encanto/
+END:VEVENT
+BEGIN:VEVENT
+UID:4510092@vidiotsfoundation.org
+DTSTAMP:20260921T031500Z
+DTSTART;TZID=America/Los_Angeles:20260920T201500
+DTEND;TZID=America/Los_Angeles:20260920T215500
+SUMMARY:Filipiñana
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510092/
+DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ema for one of the best films of the year and a masterwork of internationa
+ l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
+ ipiñana.\nMore showtimes added soon!\n\nTickets: https://vidiotsfoundatio
+ n.org/purchase/4510092/\n\nDetails: https://vidiotsfoundation.org/movies/f
+ ilipinana/
+END:VEVENT
+BEGIN:VEVENT
+UID:4510096@vidiotsfoundation.org
+DTSTAMP:20260923T023000Z
+DTSTART;TZID=America/Los_Angeles:20260922T193000
+DTEND;TZID=America/Los_Angeles:20260922T211000
+SUMMARY:Filipiñana
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510096/
+DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ema for one of the best films of the year and a masterwork of internationa
+ l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
+ ipiñana.\nMore showtimes added soon!\n\nTickets: https://vidiotsfoundatio
+ n.org/purchase/4510096/\n\nDetails: https://vidiotsfoundation.org/movies/f
+ ilipinana/
 END:VEVENT
 BEGIN:VEVENT
 UID:4510104@vidiotsfoundation.org
