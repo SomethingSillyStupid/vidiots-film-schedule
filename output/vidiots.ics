@@ -1389,6 +1389,21 @@ DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
  .org/movies/wild-inside/
 END:VEVENT
 BEGIN:VEVENT
+UID:4509941@vidiotsfoundation.org
+DTSTAMP:20260912T200000Z
+DTSTART;TZID=America/Los_Angeles:20260912T130000
+DTEND;TZID=America/Los_Angeles:20260912T144800
+SUMMARY:Happy Feet
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509941/
+DESCRIPTION:Run time: 108 min | Format: Digital | Rating: PG\n\nSeries: Fil
+ ms for Everyone\, In the Eagle\n\nGet ready to shake a tail feather with G
+ eorge Miller's joyously animated treasure of putting your best foot (and w
+ ing) forward.\n\nTickets: https://vidiotsfoundation.org/purchase/4509941/\
+ n\nDetails: https://vidiotsfoundation.org/movies/happy-feet/
+END:VEVENT
+BEGIN:VEVENT
 UID:4561750@vidiotsfoundation.org
 DTSTAMP:20260912T231500Z
 DTSTART;TZID=America/Los_Angeles:20260912T161500
@@ -1403,6 +1418,21 @@ DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
  ne's favorite escaped zoo owl Flaco - Wild Inside.\n\nTickets: https://vid
  iotsfoundation.org/purchase/4561750/\n\nDetails: https://vidiotsfoundation
  .org/movies/wild-inside/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509948@vidiotsfoundation.org
+DTSTAMP:20260913T020000Z
+DTSTART;TZID=America/Los_Angeles:20260912T190000
+DTEND;TZID=America/Los_Angeles:20260912T205000
+SUMMARY:Splash
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509948/
+DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: In 
+ the Eagle\n\nShe was the woman of Allen's dreams. She had large dark eyes\
+ , a beautiful smile and a great pair of fins.\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4509948/\n\nDetails: https://vidiotsfoundation.org/
+ movies/splash/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509944@vidiotsfoundation.org
@@ -1483,6 +1513,21 @@ DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Addi
  re’s no such thing as a guilty pleasure.\nMore Showtimes added!\n\nTicke
  ts: https://vidiotsfoundation.org/purchase/4561784/\n\nDetails: https://vi
  diotsfoundation.org/movies/teenage-sex-and-death-at-camp-miasma-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509961@vidiotsfoundation.org
+DTSTAMP:20260914T020000Z
+DTSTART;TZID=America/Los_Angeles:20260913T190000
+DTEND;TZID=America/Los_Angeles:20260913T203700
+SUMMARY:The Virgin Suicides
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509961/
+DESCRIPTION:Run time: 97 min | Format: Digital | Rating: R\n\nSeries: In th
+ e Eagle\n\nSlip into the dark and dreamy world of Sofia Coppola's director
+ ial debut - a hypnotic and ethereal work supported by the sublime soundtra
+ ck from Air.\n\nTickets: https://vidiotsfoundation.org/purchase/4509961/\n
+ \nDetails: https://vidiotsfoundation.org/movies/the-virgin-suicides/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509962@vidiotsfoundation.org
@@ -1659,12 +1704,13 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
 URL:https://vidiotsfoundation.org/purchase/4510104/
 DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Doors
   Open at 6\, In the Eagle\, Special Guests in Attendance\n\nVidiots is exc
- ited to welcome Melonie Díaz for a special screening of the coming-of-age
-  classic Raising Victor Vargas!\nA warm\, funny\, and intimate look at gro
- wing up and getting down on the Lower East Side\, this coming-of-age class
- ic is an undeniable treasure of indie cinema.\n\nTickets: https://vidiotsf
- oundation.org/purchase/4510104/\n\nDetails: https://vidiotsfoundation.org/
- movies/raising-victor-vargas/
+ ited to welcome writer/director Peter Sollett and cast member Melonie Día
+ z for a special screening of the coming-of-age classic Raising Victor Varg
+ as!\nA warm\, funny\, and intimate look at growing up and getting down on 
+ the Lower East Side\, this coming-of-age classic is an undeniable treasure
+  of indie cinema.\n\nTickets: https://vidiotsfoundation.org/purchase/45101
+ 04/\n\nDetails: https://vidiotsfoundation.org/movies/raising-victor-vargas
+ /
 END:VEVENT
 BEGIN:VEVENT
 UID:4510122@vidiotsfoundation.org
