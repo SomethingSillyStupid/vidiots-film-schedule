@@ -8,46 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4389907@vidiotsfoundation.org
-DTSTAMP:20260819T023000Z
-DTSTART;TZID=America/Los_Angeles:20260818T193000
-DTEND;TZID=America/Los_Angeles:20260818T211100
-SUMMARY:Welcome Space Brothers
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4389907/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
-  In the MUBI Microcinema\n\nThe unbelievable but one-hundred percent true 
- story of the Unarius Academy of Science — an extraterrestrial-channeling
-  spiritual school in Southern California who in the 1980s became a prolifi
- c filmmaking collective and public access TV phenomenon under the directio
- n of their outlandish spiritual leader Ruth E. Norman\, AKA “Archangel U
- riel.”\n\nTickets: https://vidiotsfoundation.org/purchase/4389907/\n\nDe
- tails: https://vidiotsfoundation.org/movies/welcome-space-brothers/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4392570@vidiotsfoundation.org
-DTSTAMP:20260820T020000Z
-DTSTART;TZID=America/Los_Angeles:20260819T190000
-DTEND;TZID=America/Los_Angeles:20260819T204100
-SUMMARY:Welcome Space Brothers
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4392570/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
-  In the MUBI Microcinema\n\nThe unbelievable but one-hundred percent true 
- story of the Unarius Academy of Science — an extraterrestrial-channeling
-  spiritual school in Southern California who in the 1980s became a prolifi
- c filmmaking collective and public access TV phenomenon under the directio
- n of their outlandish spiritual leader Ruth E. Norman\, AKA “Archangel U
- riel.”\n\nTickets: https://vidiotsfoundation.org/purchase/4392570/\n\nDe
- tails: https://vidiotsfoundation.org/movies/welcome-space-brothers/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4360544@vidiotsfoundation.org
 DTSTAMP:20260820T023000Z
 DTSTART;TZID=America/Los_Angeles:20260819T193000
@@ -150,25 +110,6 @@ DESCRIPTION:Run time: 119 min | Format: Digital | Rating: R\n\nSeries: In t
  etails: https://vidiotsfoundation.org/movies/dangerous-liaisons/
 END:VEVENT
 BEGIN:VEVENT
-UID:4392572@vidiotsfoundation.org
-DTSTAMP:20260822T022000Z
-DTSTART;TZID=America/Los_Angeles:20260821T192000
-DTEND;TZID=America/Los_Angeles:20260821T210100
-SUMMARY:Welcome Space Brothers
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4392572/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
- e but one-hundred percent true story of the Unarius Academy of Science —
-  an extraterrestrial-channeling spiritual school in Southern California wh
- o in the 1980s became a prolific filmmaking collective and public access T
- V phenomenon under the direction of their outlandish spiritual leader Ruth
-  E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4392572/\n\nDetails: https://vidiotsfoundation.org/movies
- /welcome-space-brothers/
-END:VEVENT
-BEGIN:VEVENT
 UID:4388340@vidiotsfoundation.org
 DTSTAMP:20260822T044500Z
 DTSTART;TZID=America/Los_Angeles:20260821T214500
@@ -184,25 +125,6 @@ DESCRIPTION:Run time: 85 min | Format: 35mm Film | Rating: R\n\nSeries: 35m
  y charismatic Bruce Campbell.\n\nTickets: https://vidiotsfoundation.org/pu
  rchase/4388340/\n\nDetails: https://vidiotsfoundation.org/movies/the-evil-
  dead/
-END:VEVENT
-BEGIN:VEVENT
-UID:4437277@vidiotsfoundation.org
-DTSTAMP:20260822T050000Z
-DTSTART;TZID=America/Los_Angeles:20260821T220000
-DTEND;TZID=America/Los_Angeles:20260821T234100
-SUMMARY:Welcome Space Brothers
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4437277/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
- e but one-hundred percent true story of the Unarius Academy of Science —
-  an extraterrestrial-channeling spiritual school in Southern California wh
- o in the 1980s became a prolific filmmaking collective and public access T
- V phenomenon under the direction of their outlandish spiritual leader Ruth
-  E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4437277/\n\nDetails: https://vidiotsfoundation.org/movies
- /welcome-space-brothers/
 END:VEVENT
 BEGIN:VEVENT
 UID:4392538@vidiotsfoundation.org
@@ -254,25 +176,6 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries:
  ng screening of Taika Waititi's "Hunt for the Wilderpeople."\n\nTickets: h
  ttps://vidiotsfoundation.org/purchase/4392536/\n\nDetails: https://vidiots
  foundation.org/movies/hunt-for-the-wilderpeople/
-END:VEVENT
-BEGIN:VEVENT
-UID:4437289@vidiotsfoundation.org
-DTSTAMP:20260822T233000Z
-DTSTART;TZID=America/Los_Angeles:20260822T163000
-DTEND;TZID=America/Los_Angeles:20260822T181100
-SUMMARY:Welcome Space Brothers
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4437289/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
- e but one-hundred percent true story of the Unarius Academy of Science —
-  an extraterrestrial-channeling spiritual school in Southern California wh
- o in the 1980s became a prolific filmmaking collective and public access T
- V phenomenon under the direction of their outlandish spiritual leader Ruth
-  E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4437289/\n\nDetails: https://vidiotsfoundation.org/movies
- /welcome-space-brothers/
 END:VEVENT
 BEGIN:VEVENT
 UID:4388256@vidiotsfoundation.org
@@ -524,25 +427,6 @@ DESCRIPTION:Run time: 122 min | Format: Digital\n\nSeries: In the Eagle\n\n
  on.org/movies/twilight/
 END:VEVENT
 BEGIN:VEVENT
-UID:4438361@vidiotsfoundation.org
-DTSTAMP:20260828T233000Z
-DTSTART;TZID=America/Los_Angeles:20260828T163000
-DTEND;TZID=America/Los_Angeles:20260828T181100
-SUMMARY:Welcome Space Brothers
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4438361/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
- e but one-hundred percent true story of the Unarius Academy of Science —
-  an extraterrestrial-channeling spiritual school in Southern California wh
- o in the 1980s became a prolific filmmaking collective and public access T
- V phenomenon under the direction of their outlandish spiritual leader Ruth
-  E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4438361/\n\nDetails: https://vidiotsfoundation.org/movies
- /welcome-space-brothers/
-END:VEVENT
-BEGIN:VEVENT
 UID:4444820@vidiotsfoundation.org
 DTSTAMP:20260829T020000Z
 DTSTART;TZID=America/Los_Angeles:20260828T190000
@@ -658,25 +542,6 @@ DESCRIPTION:Run time: 97 min | Format: Digital | Release year: 1964\n\nSeri
  ovies/diary-of-a-chambermaid/
 END:VEVENT
 BEGIN:VEVENT
-UID:4438387@vidiotsfoundation.org
-DTSTAMP:20260829T233000Z
-DTSTART;TZID=America/Los_Angeles:20260829T163000
-DTEND;TZID=America/Los_Angeles:20260829T181100
-SUMMARY:Welcome Space Brothers
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4438387/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
- e but one-hundred percent true story of the Unarius Academy of Science —
-  an extraterrestrial-channeling spiritual school in Southern California wh
- o in the 1980s became a prolific filmmaking collective and public access T
- V phenomenon under the direction of their outlandish spiritual leader Ruth
-  E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4438387/\n\nDetails: https://vidiotsfoundation.org/movies
- /welcome-space-brothers/
-END:VEVENT
-BEGIN:VEVENT
 UID:4388713@vidiotsfoundation.org
 DTSTAMP:20260830T020000Z
 DTSTART;TZID=America/Los_Angeles:20260829T190000
@@ -756,25 +621,6 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: All Ages\n\nSeries
  arron is sure to stir the hearts both young and old alike.\n\nTickets: htt
  ps://vidiotsfoundation.org/purchase/4388709/\n\nDetails: https://vidiotsfo
  undation.org/movies/spirit-stallion-of-the-cimarron/
-END:VEVENT
-BEGIN:VEVENT
-UID:4438421@vidiotsfoundation.org
-DTSTAMP:20260830T200000Z
-DTSTART;TZID=America/Los_Angeles:20260830T130000
-DTEND;TZID=America/Los_Angeles:20260830T144100
-SUMMARY:Welcome Space Brothers
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4438421/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
- e but one-hundred percent true story of the Unarius Academy of Science —
-  an extraterrestrial-channeling spiritual school in Southern California wh
- o in the 1980s became a prolific filmmaking collective and public access T
- V phenomenon under the direction of their outlandish spiritual leader Ruth
-  E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4438421/\n\nDetails: https://vidiotsfoundation.org/movies
- /welcome-space-brothers/
 END:VEVENT
 BEGIN:VEVENT
 UID:4428192@vidiotsfoundation.org
@@ -1788,5 +1634,25 @@ DESCRIPTION:Run time: 137 min | Format: Digital | Rating: R\n\nSeries: 35mm
  n35th Anniversary screening on 35mm Film!\n\nTickets: https://vidiotsfound
  ation.org/purchase/4510150/\n\nDetails: https://vidiotsfoundation.org/movi
  es/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:4389907@vidiotsfoundation.org
+DTSTAMP:20260819T023000Z
+DTSTART;TZID=America/Los_Angeles:20260818T193000
+DTEND;TZID=America/Los_Angeles:20260818T211100
+SUMMARY:Welcome Space Brothers
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4389907/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nThe unbelievable but one-hundred percent true 
+ story of the Unarius Academy of Science — an extraterrestrial-channeling
+  spiritual school in Southern California who in the 1980s became a prolifi
+ c filmmaking collective and public access TV phenomenon under the directio
+ n of their outlandish spiritual leader Ruth E. Norman\, AKA “Archangel U
+ riel.”\n\nTickets: https://vidiotsfoundation.org/purchase/4389907/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/welcome-space-brothers/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
