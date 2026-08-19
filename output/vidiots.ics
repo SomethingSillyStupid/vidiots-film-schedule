@@ -1763,6 +1763,56 @@ DESCRIPTION:Run time: 96 min | Format: 35mm Film | Rating: R\n\nSeries: 35m
  etails: https://vidiotsfoundation.org/movies/dead-calm/
 END:VEVENT
 BEGIN:VEVENT
+UID:4510124@vidiotsfoundation.org
+DTSTAMP:20260926T224500Z
+DTSTART;TZID=America/Los_Angeles:20260926T154500
+DTEND;TZID=America/Los_Angeles:20260926T172700
+SUMMARY:Dazed and Confused – Dazed Day!
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510124/
+DESCRIPTION:Run time: 102 min | Format: 4K Digital | Rating: R\n\nSeries: C
+ ommunity Partners\, In the Eagle\, Interactive\, Live DJ Set\n\nOur Fourth
+  Annual Dazed Day is back and better than ever!\nA Full Day of Dazed Scree
+ nings! Pinball on Free play courtesy of our neighbors at Walt's! Tripped o
+ ut 16mm! All Vinyl DJ sets!\n\nTickets: https://vidiotsfoundation.org/purc
+ hase/4510124/\n\nDetails: https://vidiotsfoundation.org/movies/dazed-and-c
+ onfused/
+END:VEVENT
+BEGIN:VEVENT
+UID:4510126@vidiotsfoundation.org
+DTSTAMP:20260927T020000Z
+DTSTART;TZID=America/Los_Angeles:20260926T190000
+DTEND;TZID=America/Los_Angeles:20260926T204200
+SUMMARY:Dazed and Confused – Dazed Day!
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510126/
+DESCRIPTION:Run time: 102 min | Format: 4K Digital | Rating: R\n\nSeries: C
+ ommunity Partners\, In the Eagle\, Interactive\, Live DJ Set\n\nOur Fourth
+  Annual Dazed Day is back and better than ever!\nA Full Day of Dazed Scree
+ nings! Pinball on Free play courtesy of our neighbors at Walt's! Tripped o
+ ut 16mm! All Vinyl DJ sets!\n\nTickets: https://vidiotsfoundation.org/purc
+ hase/4510126/\n\nDetails: https://vidiotsfoundation.org/movies/dazed-and-c
+ onfused/
+END:VEVENT
+BEGIN:VEVENT
+UID:4565449@vidiotsfoundation.org
+DTSTAMP:20260927T044500Z
+DTSTART;TZID=America/Los_Angeles:20260926T214500
+DTEND;TZID=America/Los_Angeles:20260926T233600
+SUMMARY:Tommy
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4565449/
+DESCRIPTION:Run time: 111 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nOur Dazed Day extravaganza continues with the most psychedelic
+  cinematic rock opera of all time - Ken Russell's mind-melting adaptation 
+ of The Who's Tommy . Co-presented by our friends and neighbors at Walt's B
+ ar !\n\nTickets: https://vidiotsfoundation.org/purchase/4565449/\n\nDetail
+ s: https://vidiotsfoundation.org/movies/tommy/
+END:VEVENT
+BEGIN:VEVENT
 UID:4510129@vidiotsfoundation.org
 DTSTAMP:20260927T190000Z
 DTSTART;TZID=America/Los_Angeles:20260927T120000
