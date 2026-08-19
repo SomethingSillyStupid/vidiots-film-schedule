@@ -8,26 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4389907@vidiotsfoundation.org
-DTSTAMP:20260819T023000Z
-DTSTART;TZID=America/Los_Angeles:20260818T193000
-DTEND;TZID=America/Los_Angeles:20260818T211100
-SUMMARY:Welcome Space Brothers
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4389907/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
-  In the MUBI Microcinema\n\nThe unbelievable but one-hundred percent true 
- story of the Unarius Academy of Science — an extraterrestrial-channeling
-  spiritual school in Southern California who in the 1980s became a prolifi
- c filmmaking collective and public access TV phenomenon under the directio
- n of their outlandish spiritual leader Ruth E. Norman\, AKA “Archangel U
- riel.”\n\nTickets: https://vidiotsfoundation.org/purchase/4389907/\n\nDe
- tails: https://vidiotsfoundation.org/movies/welcome-space-brothers/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4392570@vidiotsfoundation.org
 DTSTAMP:20260820T020000Z
 DTSTART;TZID=America/Los_Angeles:20260819T190000
@@ -46,23 +26,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min |
  riel.”\n\nTickets: https://vidiotsfoundation.org/purchase/4392570/\n\nDe
  tails: https://vidiotsfoundation.org/movies/welcome-space-brothers/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4360544@vidiotsfoundation.org
-DTSTAMP:20260820T023000Z
-DTSTART;TZID=America/Los_Angeles:20260819T193000
-DTEND;TZID=America/Los_Angeles:20260819T210000
-SUMMARY:Programme 4
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4360544/
-DESCRIPTION:Run time: 90 min\n\nSeries: Doors Open at 6\, In the Eagle\, Li
- ve Show\, Special Guests in Attendance\n\nHosted by Masters of Ceremonies 
- the Sklar Brothers \, with pre and post-show cocktail lounge entertainment
-  featuring the soft sounds of Jon Spurney on the Rhodes piano. Plus Progra
- mme 4 creator Rachel Lichtman \, special guest stars\, complimentary match
- books\, and more!\n\nTickets: https://vidiotsfoundation.org/purchase/43605
- 44/\n\nDetails: https://vidiotsfoundation.org/movies/programme-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:4466487@vidiotsfoundation.org
@@ -1844,5 +1807,22 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries:
  ne Fonda in this guiltless pleasure of cinematic bitchery!\n\nTickets: htt
  ps://vidiotsfoundation.org/purchase/4510133/\n\nDetails: https://vidiotsfo
  undation.org/movies/monster-in-law/
+END:VEVENT
+BEGIN:VEVENT
+UID:4360544@vidiotsfoundation.org
+DTSTAMP:20260820T023000Z
+DTSTART;TZID=America/Los_Angeles:20260819T193000
+DTEND;TZID=America/Los_Angeles:20260819T210000
+SUMMARY:Programme 4
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4360544/
+DESCRIPTION:Run time: 90 min\n\nSeries: Doors Open at 6\, In the Eagle\, Li
+ ve Show\, Special Guests in Attendance\n\nHosted by Masters of Ceremonies 
+ the Sklar Brothers \, with pre and post-show cocktail lounge entertainment
+  featuring the soft sounds of Jon Spurney on the Rhodes piano. Plus Progra
+ mme 4 creator Rachel Lichtman \, special guest stars\, complimentary match
+ books\, and more!\n\nTickets: https://vidiotsfoundation.org/purchase/43605
+ 44/\n\nDetails: https://vidiotsfoundation.org/movies/programme-4/
 END:VEVENT
 END:VCALENDAR
