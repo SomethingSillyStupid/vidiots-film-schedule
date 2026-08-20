@@ -633,10 +633,11 @@ DESCRIPTION:Run time: 84 min | Format: Digital | Rating: R\n\nSeries: In th
  e Eagle\, Special Guests in Attendance\n\nOutstanding information for citi
  zens of Vidiots: your humble theater will be graced by sixth-most importan
  t journalist in all of Kazakhstan\, Borat! Great success!\nWith a special 
- introduction for the man responsible for Borat's speedo - Costume Designer
-  Jason Alper !\n\nTickets: https://vidiotsfoundation.org/purchase/4388722/
- \n\nDetails: https://vidiotsfoundation.org/movies/borat-cultural-learnings
- -of-america-for-make-benefit-glorious-nation-of-kazakhstan/
+ introduction from Producer Monica Levinson and the man responsible for Bor
+ at's speedo - Costume Designer Jason Alper !\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4388722/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation
+ -of-kazakhstan/
 END:VEVENT
 BEGIN:VEVENT
 UID:4438389@vidiotsfoundation.org
@@ -1529,6 +1530,22 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:4509967@vidiotsfoundation.org
+DTSTAMP:20260919T044500Z
+DTSTART;TZID=America/Los_Angeles:20260918T214500
+DTEND;TZID=America/Los_Angeles:20260918T232100
+SUMMARY:Staying Alive
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509967/
+DESCRIPTION:Run time: 96 min | Format: Digital | Rating: PG\n\nSeries: In t
+ he Eagle\, What the Friday?!?\n\nYour Friday night is never going to be th
+ e same because the steamiest\, sweatiest\, musclyest sequel of all time is
+  about to scorch the Vidiots big screen in all its oiled up 80s glory!\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4509967/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/staying-alive/
+END:VEVENT
+BEGIN:VEVENT
 UID:4509968@vidiotsfoundation.org
 DTSTAMP:20260919T200000Z
 DTSTART;TZID=America/Los_Angeles:20260919T130000
@@ -1577,6 +1594,22 @@ DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
  filipinana/
 END:VEVENT
 BEGIN:VEVENT
+UID:4509975@vidiotsfoundation.org
+DTSTAMP:20260920T013000Z
+DTSTART;TZID=America/Los_Angeles:20260919T183000
+DTEND;TZID=America/Los_Angeles:20260919T205500
+SUMMARY:Minority Report
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509975/
+DESCRIPTION:Run time: 145 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\n\nAn all-too prescient science fiction blockbuster of the su
+ rveillance state gone awry\, Steven Spielberg's adaptation of Philip K. Di
+ ck is a dystopian thriller for this and any time!\n\nTickets: https://vidi
+ otsfoundation.org/purchase/4509975/\n\nDetails: https://vidiotsfoundation.
+ org/movies/minority-report/
+END:VEVENT
+BEGIN:VEVENT
 UID:4509979@vidiotsfoundation.org
 DTSTAMP:20260920T021500Z
 DTSTART;TZID=America/Los_Angeles:20260919T191500
@@ -1592,6 +1625,22 @@ DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: In the MUBI Micr
  man and Director of Photography Lucia Zavarcikova in person!\n\nTickets: h
  ttps://vidiotsfoundation.org/purchase/4509979/\n\nDetails: https://vidiots
  foundation.org/movies/outerlands/
+END:VEVENT
+BEGIN:VEVENT
+UID:4571919@vidiotsfoundation.org
+DTSTAMP:20260920T044500Z
+DTSTART;TZID=America/Los_Angeles:20260919T214500
+DTEND;TZID=America/Los_Angeles:20260919T233600
+SUMMARY:Sgt. Pepper’s Lonely Hearts Club Band
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4571919/
+DESCRIPTION:Run time: 111 min | Format: Digital | Rating: PG\n\nSeries: In 
+ the Eagle\n\nGet ready for all the gonzo musical weirdness of this Beatles
+ -tuned\, Peter Frampton and the Bee Gees helmed cult classic of epic propo
+ rtions!\n\nTickets: https://vidiotsfoundation.org/purchase/4571919/\n\nDet
+ ails: https://vidiotsfoundation.org/movies/sgt-peppers-lonely-hearts-club-
+ band/
 END:VEVENT
 BEGIN:VEVENT
 UID:4510024@vidiotsfoundation.org
@@ -1685,13 +1734,13 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
 URL:https://vidiotsfoundation.org/purchase/4510104/
 DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Doors
   Open at 6\, In the Eagle\, Special Guests in Attendance\n\nVidiots is exc
- ited to welcome writer/director Peter Sollett and cast member Melonie Día
- z for a special screening of the coming-of-age classic Raising Victor Varg
- as !\nA warm\, funny\, and intimate look at growing up and getting down on
-  the Lower East Side\, this coming-of-age classic is an undeniable treasur
- e of indie cinema.\n\nTickets: https://vidiotsfoundation.org/purchase/4510
- 104/\n\nDetails: https://vidiotsfoundation.org/movies/raising-victor-varga
- s/
+ ited to welcome writer/director Peter Sollett \, screenwriter Eva Vives \,
+  and cast member Melonie Díaz for a special screening of the coming-of-ag
+ e classic Raising Victor Vargas !\nA warm\, funny\, and intimate look at g
+ rowing up and getting down on the Lower East Side\, this coming-of-age cla
+ ssic is an undeniable treasure of indie cinema.\n\nTickets: https://vidiot
+ sfoundation.org/purchase/4510104/\n\nDetails: https://vidiotsfoundation.or
+ g/movies/raising-victor-vargas/
 END:VEVENT
 BEGIN:VEVENT
 UID:4510122@vidiotsfoundation.org
