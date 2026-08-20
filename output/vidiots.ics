@@ -1575,13 +1575,14 @@ SUMMARY:Filipiñana
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4510040/
-DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
- ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
- ema for one of the best films of the year and a masterwork of internationa
- l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
- ipiñana .\nMore showtimes added soon!\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4510040/\n\nDetails: https://vidiotsfoundation.org/movies/
- filipinana/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
+ MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
+ f the year and a masterwork of international cinema - Rafael Manuel's phen
+ omenally composed deadpan social satire Filipiñana .\nMore showtimes adde
+ d soon!\n\nTickets: https://vidiotsfoundation.org/purchase/4510040/\n\nDet
+ ails: https://vidiotsfoundation.org/movies/filipinana/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4509968@vidiotsfoundation.org
@@ -1858,22 +1859,5 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries:
  ne Fonda in this guiltless pleasure of cinematic bitchery!\n\nTickets: htt
  ps://vidiotsfoundation.org/purchase/4510133/\n\nDetails: https://vidiotsfo
  undation.org/movies/monster-in-law/
-END:VEVENT
-BEGIN:VEVENT
-UID:4360544@vidiotsfoundation.org
-DTSTAMP:20260820T023000Z
-DTSTART;TZID=America/Los_Angeles:20260819T193000
-DTEND;TZID=America/Los_Angeles:20260819T210000
-SUMMARY:Programme 4
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4360544/
-DESCRIPTION:Run time: 90 min\n\nSeries: Doors Open at 6\, In the Eagle\, Li
- ve Show\, Special Guests in Attendance\n\nHosted by Masters of Ceremonies 
- the Sklar Brothers \, with pre and post-show cocktail lounge entertainment
-  featuring the soft sounds of Jon Spurney on the Rhodes piano. Plus Progra
- mme 4 creator Rachel Lichtman \, special guest stars\, complimentary match
- books\, and more!\n\nTickets: https://vidiotsfoundation.org/purchase/43605
- 44/\n\nDetails: https://vidiotsfoundation.org/movies/programme-4/
 END:VEVENT
 END:VCALENDAR
