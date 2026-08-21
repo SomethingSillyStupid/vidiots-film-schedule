@@ -65,15 +65,16 @@ SUMMARY:Welcome Space Brothers
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4392572/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
- e but one-hundred percent true story of the Unarius Academy of Science —
-  an extraterrestrial-channeling spiritual school in Southern California wh
- o in the 1980s became a prolific filmmaking collective and public access T
- V phenomenon under the direction of their outlandish spiritual leader Ruth
-  E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4392572/\n\nDetails: https://vidiotsfoundation.org/movies
- /welcome-space-brothers/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nThe unbelievable but one-hundred percent true 
+ story of the Unarius Academy of Science — an extraterrestrial-channeling
+  spiritual school in Southern California who in the 1980s became a prolifi
+ c filmmaking collective and public access TV phenomenon under the directio
+ n of their outlandish spiritual leader Ruth E. Norman\, AKA “Archangel U
+ riel.”\n\nTickets: https://vidiotsfoundation.org/purchase/4392572/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/welcome-space-brothers/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4388340@vidiotsfoundation.org
@@ -243,12 +244,13 @@ SUMMARY:American Pachuco: The Legend of Luis Valdez
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4437291/
-DESCRIPTION:Run time: 92 min | Format: Digital\n\nSeries: Groundbreaking No
- n-Fiction\, In the MUBI Microcinema\n\nAn auteur emerges from America’s 
- underclass: from migrant farmworker to revolutionary artist\, Luis Valdez 
- changed American culture.\n\nTickets: https://vidiotsfoundation.org/purcha
- se/4437291/\n\nDetails: https://vidiotsfoundation.org/movies/american-pach
- uco-the-legend-of-luis-valdez/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
+ ormat: Digital\n\nSeries: Groundbreaking Non-Fiction\, In the MUBI Microci
+ nema\n\nAn auteur emerges from America’s underclass: from migrant farmwo
+ rker to revolutionary artist\, Luis Valdez changed American culture.\n\nTi
+ ckets: https://vidiotsfoundation.org/purchase/4437291/\n\nDetails: https:/
+ /vidiotsfoundation.org/movies/american-pachuco-the-legend-of-luis-valdez/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4368697@vidiotsfoundation.org
@@ -1303,6 +1305,21 @@ DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
  ne's favorite escaped zoo owl Flaco - Wild Inside .\n\nTickets: https://vi
  diotsfoundation.org/purchase/4510006/\n\nDetails: https://vidiotsfoundatio
  n.org/movies/wild-inside/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509939@vidiotsfoundation.org
+DTSTAMP:20260912T044500Z
+DTSTART;TZID=America/Los_Angeles:20260911T214500
+DTEND;TZID=America/Los_Angeles:20260911T233500
+SUMMARY:Howard the Duck
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509939/
+DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: In 
+ the Eagle\, What the Friday?!?\n\nGet your brain ready for maximum meltage
+  with this bizarro cult classic and one of the strangest superhero movies 
+ of all time!\n\nTickets: https://vidiotsfoundation.org/purchase/4509939/\n
+ \nDetails: https://vidiotsfoundation.org/movies/howard-the-duck/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509941@vidiotsfoundation.org
