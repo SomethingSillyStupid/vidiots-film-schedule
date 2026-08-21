@@ -1870,40 +1870,4 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries:
  ps://vidiotsfoundation.org/purchase/4510133/\n\nDetails: https://vidiotsfo
  undation.org/movies/monster-in-law/
 END:VEVENT
-BEGIN:VEVENT
-UID:4466487@vidiotsfoundation.org
-DTSTAMP:20260821T020000Z
-DTSTART;TZID=America/Los_Angeles:20260820T190000
-DTEND;TZID=America/Los_Angeles:20260820T204000
-SUMMARY:Sweet 16mm – Those Awkward Years
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4466487/
-DESCRIPTION:Run time: 100 min\n\nSeries: In the MUBI Microcinema\, Sweet 16
- mm\n\nWe're firing up our 16mm projector for a night of the best of pubert
- y's pitfalls and adolescence at its most awkward with a program of long-fo
- rgotten and laughably outdated short films from the 1940s through the 1980
- s about humanity's cringiest life stage with menstrucation's finest\, ende
- aring Mormon comedy shorts\, mid-century slut-shaming primers\, and more!\
- n\nTickets: https://vidiotsfoundation.org/purchase/4466487/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/sweet-16mm-those-awkward-years/
-END:VEVENT
-BEGIN:VEVENT
-UID:4392797@vidiotsfoundation.org
-DTSTAMP:20260821T023000Z
-DTSTART;TZID=America/Los_Angeles:20260820T193000
-DTEND;TZID=America/Los_Angeles:20260820T213100
-SUMMARY:Volver on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4392797/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 121 min | 
- Format: 35mm Film | Release year: 2006\n\nSeries: 35mm Film\, Doors Open a
- t 6\, In the Eagle\n\nPenélope Cruz stars in Pedro Almodóvar's masterful
-  dark comedy and compassionate tribute to women and their resilience in th
- e face of life's most outrageous tribulations.\n\nTickets: https://vidiots
- foundation.org/purchase/4392797/\n\nDetails: https://vidiotsfoundation.org
- /movies/volver/
-STATUS:TENTATIVE
-END:VEVENT
 END:VCALENDAR
