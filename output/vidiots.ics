@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4388341@vidiotsfoundation.org
-DTSTAMP:20260821T230000Z
-DTSTART;TZID=America/Los_Angeles:20260821T160000
-DTEND;TZID=America/Los_Angeles:20260821T174000
-SUMMARY:Ponyo (Japanese with English Subtitles)
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4388341/
-DESCRIPTION:Run time: 100 min | Format: Digital | Rating: All Ages | Releas
- e year: 2008\n\nSeries: Films for Everyone\, In the Eagle\n\nDive into thi
- s breathtaking and heartwarming adventure from the legendary Studio Ghibli
- \, and Academy Award-winning director Hayao Miyazaki.\n\nTickets: https://
- vidiotsfoundation.org/purchase/4388341/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/ponyo-japanese-with-english-subtitles/
-END:VEVENT
-BEGIN:VEVENT
 UID:4392584@vidiotsfoundation.org
 DTSTAMP:20260821T233000Z
 DTSTART;TZID=America/Los_Angeles:20260821T163000
@@ -40,21 +24,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min |
  l guests.\n\nTickets: https://vidiotsfoundation.org/purchase/4392584/\n\nD
  etails: https://vidiotsfoundation.org/movies/mysterious-skin/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4388329@vidiotsfoundation.org
-DTSTAMP:20260822T020000Z
-DTSTART;TZID=America/Los_Angeles:20260821T190000
-DTEND;TZID=America/Los_Angeles:20260821T205900
-SUMMARY:Dangerous Liaisons
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4388329/
-DESCRIPTION:Run time: 119 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\, TeenTix LA\n\nGet ready for all the opulence\, the intrigue\, t
- he seduction\, and the betrayal of Stephen Frears' lush and salacious peri
- od piece.\n\nTickets: https://vidiotsfoundation.org/purchase/4388329/\n\nD
- etails: https://vidiotsfoundation.org/movies/dangerous-liaisons/
 END:VEVENT
 BEGIN:VEVENT
 UID:4392572@vidiotsfoundation.org
@@ -74,24 +43,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min |
  n of their outlandish spiritual leader Ruth E. Norman\, AKA “Archangel U
  riel.”\n\nTickets: https://vidiotsfoundation.org/purchase/4392572/\n\nDe
  tails: https://vidiotsfoundation.org/movies/welcome-space-brothers/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4388340@vidiotsfoundation.org
-DTSTAMP:20260822T044500Z
-DTSTART;TZID=America/Los_Angeles:20260821T214500
-DTEND;TZID=America/Los_Angeles:20260821T231000
-SUMMARY:The Evil Dead on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4388340/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 85 min | F
- ormat: 35mm Film | Rating: R\n\nSeries: 35mm Film\, In the Eagle\, What th
- e Friday?!?\n\nSam Raimi's all-time horror classic is a smorgasbord of gor
- y violence\, guttural laughs\, wildly inventive demons\, and top-notch pra
- ctical effects all helmed by the boundlessly charismatic Bruce Campbell.\n
- \nTickets: https://vidiotsfoundation.org/purchase/4388340/\n\nDetails: htt
- ps://vidiotsfoundation.org/movies/the-evil-dead/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -1869,5 +1820,54 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries:
  ne Fonda in this guiltless pleasure of cinematic bitchery!\n\nTickets: htt
  ps://vidiotsfoundation.org/purchase/4510133/\n\nDetails: https://vidiotsfo
  undation.org/movies/monster-in-law/
+END:VEVENT
+BEGIN:VEVENT
+UID:4388341@vidiotsfoundation.org
+DTSTAMP:20260821T230000Z
+DTSTART;TZID=America/Los_Angeles:20260821T160000
+DTEND;TZID=America/Los_Angeles:20260821T174000
+SUMMARY:Ponyo (Japanese with English Subtitles)
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4388341/
+DESCRIPTION:Run time: 100 min | Format: Digital | Rating: All Ages | Releas
+ e year: 2008\n\nSeries: Films for Everyone\, In the Eagle\n\nDive into thi
+ s breathtaking and heartwarming adventure from the legendary Studio Ghibli
+ \, and Academy Award-winning director Hayao Miyazaki.\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4388341/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/ponyo-japanese-with-english-subtitles/
+END:VEVENT
+BEGIN:VEVENT
+UID:4388329@vidiotsfoundation.org
+DTSTAMP:20260822T020000Z
+DTSTART;TZID=America/Los_Angeles:20260821T190000
+DTEND;TZID=America/Los_Angeles:20260821T205900
+SUMMARY:Dangerous Liaisons
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4388329/
+DESCRIPTION:Run time: 119 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\, TeenTix LA\n\nGet ready for all the opulence\, the intrigue\, t
+ he seduction\, and the betrayal of Stephen Frears' lush and salacious peri
+ od piece.\n\nTickets: https://vidiotsfoundation.org/purchase/4388329/\n\nD
+ etails: https://vidiotsfoundation.org/movies/dangerous-liaisons/
+END:VEVENT
+BEGIN:VEVENT
+UID:4388340@vidiotsfoundation.org
+DTSTAMP:20260822T044500Z
+DTSTART;TZID=America/Los_Angeles:20260821T214500
+DTEND;TZID=America/Los_Angeles:20260821T231000
+SUMMARY:The Evil Dead on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4388340/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 85 min | F
+ ormat: 35mm Film | Rating: R\n\nSeries: 35mm Film\, In the Eagle\, What th
+ e Friday?!?\n\nSam Raimi's all-time horror classic is a smorgasbord of gor
+ y violence\, guttural laughs\, wildly inventive demons\, and top-notch pra
+ ctical effects all helmed by the boundlessly charismatic Bruce Campbell.\n
+ \nTickets: https://vidiotsfoundation.org/purchase/4388340/\n\nDetails: htt
+ ps://vidiotsfoundation.org/movies/the-evil-dead/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
