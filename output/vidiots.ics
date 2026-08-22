@@ -8,79 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4392584@vidiotsfoundation.org
-DTSTAMP:20260821T233000Z
-DTSTART;TZID=America/Los_Angeles:20260821T163000
-DTEND;TZID=America/Los_Angeles:20260821T181500
-SUMMARY:Mysterious Skin
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4392584/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nI
- ndie legend Gregg Araki's most sensitive and thoughtful film to date\,and 
- a profound and compassionate view into the lasting effects of childhood tr
- auma.\nEncore screenings added in the microcinema August 21-23 - no specia
- l guests.\n\nTickets: https://vidiotsfoundation.org/purchase/4392584/\n\nD
- etails: https://vidiotsfoundation.org/movies/mysterious-skin/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4392572@vidiotsfoundation.org
-DTSTAMP:20260822T022000Z
-DTSTART;TZID=America/Los_Angeles:20260821T192000
-DTEND;TZID=America/Los_Angeles:20260821T210100
-SUMMARY:Welcome Space Brothers
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4392572/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
-  In the MUBI Microcinema\n\nThe unbelievable but one-hundred percent true 
- story of the Unarius Academy of Science — an extraterrestrial-channeling
-  spiritual school in Southern California who in the 1980s became a prolifi
- c filmmaking collective and public access TV phenomenon under the directio
- n of their outlandish spiritual leader Ruth E. Norman\, AKA “Archangel U
- riel.”\n\nTickets: https://vidiotsfoundation.org/purchase/4392572/\n\nDe
- tails: https://vidiotsfoundation.org/movies/welcome-space-brothers/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4437277@vidiotsfoundation.org
-DTSTAMP:20260822T050000Z
-DTSTART;TZID=America/Los_Angeles:20260821T220000
-DTEND;TZID=America/Los_Angeles:20260821T234100
-SUMMARY:Welcome Space Brothers
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4437277/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
- e but one-hundred percent true story of the Unarius Academy of Science —
-  an extraterrestrial-channeling spiritual school in Southern California wh
- o in the 1980s became a prolific filmmaking collective and public access T
- V phenomenon under the direction of their outlandish spiritual leader Ruth
-  E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4437277/\n\nDetails: https://vidiotsfoundation.org/movies
- /welcome-space-brothers/
-END:VEVENT
-BEGIN:VEVENT
-UID:4392538@vidiotsfoundation.org
-DTSTAMP:20260822T200000Z
-DTSTART;TZID=America/Los_Angeles:20260822T130000
-DTEND;TZID=America/Los_Angeles:20260822T142800
-SUMMARY:A Hard Day’s Night
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4392538/
-DESCRIPTION:Run time: 88 min | Format: Digital\n\nSeries: Community Partner
- s\, Films for Everyone\, In the Eagle\, TeenTix LA\n\nThe Beatles\, starri
- ng in their first full-length\, hilarious\, action-packed film!\nCo-presen
- ted by the Eagle Rock School of Rock!\n\nTickets: https://vidiotsfoundatio
- n.org/purchase/4392538/\n\nDetails: https://vidiotsfoundation.org/movies/a
- -hard-days-night/
-END:VEVENT
-BEGIN:VEVENT
 UID:4437288@vidiotsfoundation.org
 DTSTAMP:20260822T203000Z
 DTSTART;TZID=America/Los_Angeles:20260822T133000
@@ -102,22 +29,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4392536@vidiotsfoundation.org
-DTSTAMP:20260822T230000Z
-DTSTART;TZID=America/Los_Angeles:20260822T160000
-DTEND;TZID=America/Los_Angeles:20260822T174100
-SUMMARY:Hunt for the Wilderpeople
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4392536/
-DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\, Remembering Sam Neill\, TeenTix LA\n\nVidiots remembers the
-  life and legacy of the incredible Sam Neill with an especially heartwarmi
- ng screening of Taika Waititi's Hunt for the Wilderpeople !\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4392536/\n\nDetails: https://vidiotsf
- oundation.org/movies/hunt-for-the-wilderpeople/
-END:VEVENT
-BEGIN:VEVENT
 UID:4437289@vidiotsfoundation.org
 DTSTAMP:20260822T233000Z
 DTSTART;TZID=America/Los_Angeles:20260822T163000
@@ -126,8 +37,8 @@ SUMMARY:Welcome Space Brothers
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4437289/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Groundbreaking N
+ on-Fiction\, In the MUBI Microcinema\, Additional Shows\n\nThe unbelievabl
  e but one-hundred percent true story of the Unarius Academy of Science —
   an extraterrestrial-channeling spiritual school in Southern California wh
  o in the 1980s became a prolific filmmaking collective and public access T
@@ -135,21 +46,6 @@ DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
   E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoundat
  ion.org/purchase/4437289/\n\nDetails: https://vidiotsfoundation.org/movies
  /welcome-space-brothers/
-END:VEVENT
-BEGIN:VEVENT
-UID:4388256@vidiotsfoundation.org
-DTSTAMP:20260823T020000Z
-DTSTART;TZID=America/Los_Angeles:20260822T190000
-DTEND;TZID=America/Los_Angeles:20260822T204400
-SUMMARY:Mystic Pizza
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4388256/
-DESCRIPTION:Run time: 104 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\, TeenTix LA\n\nA warm and genuine romantic comedy that never lea
- ves you hungry\, Mystic Pizza is still cinematic comfort food for your sou
- l!\n\nTickets: https://vidiotsfoundation.org/purchase/4388256/\n\nDetails:
-  https://vidiotsfoundation.org/movies/mystic-pizza/
 END:VEVENT
 BEGIN:VEVENT
 UID:4437290@vidiotsfoundation.org
@@ -167,40 +63,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min |
  auma.\nEncore screenings added in the microcinema August 21-23 - no specia
  l guests.\n\nTickets: https://vidiotsfoundation.org/purchase/4437290/\n\nD
  etails: https://vidiotsfoundation.org/movies/mysterious-skin/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4388245@vidiotsfoundation.org
-DTSTAMP:20260823T044500Z
-DTSTART;TZID=America/Los_Angeles:20260822T214500
-DTEND;TZID=America/Los_Angeles:20260822T232300
-SUMMARY:The Untamed
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4388245/
-DESCRIPTION:Run time: 98 min | Format: Digital | Release year: 2016\n\nSeri
- es: In the Eagle\, Special Guests in Attendance\n\nJoin us for Amat Escala
- nte's genre-bending tour-de-force\, an unnerving\, erotic\, and chilling s
- cience fiction/ body horror/ existential thriller\, you won't want to miss
-  on the big screen!\nWith a special introduction from writer/director Amat
-  Escalante !\n\nTickets: https://vidiotsfoundation.org/purchase/4388245/\n
- \nDetails: https://vidiotsfoundation.org/movies/the-untamed/
-END:VEVENT
-BEGIN:VEVENT
-UID:4437291@vidiotsfoundation.org
-DTSTAMP:20260823T050000Z
-DTSTART;TZID=America/Los_Angeles:20260822T220000
-DTEND;TZID=America/Los_Angeles:20260822T233200
-SUMMARY:American Pachuco: The Legend of Luis Valdez
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4437291/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
- ormat: Digital\n\nSeries: Groundbreaking Non-Fiction\, In the MUBI Microci
- nema\n\nAn auteur emerges from America’s underclass: from migrant farmwo
- rker to revolutionary artist\, Luis Valdez changed American culture.\n\nTi
- ckets: https://vidiotsfoundation.org/purchase/4437291/\n\nDetails: https:/
- /vidiotsfoundation.org/movies/american-pachuco-the-legend-of-luis-valdez/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -235,22 +97,6 @@ DESCRIPTION:Run time: 115 min | Format: Digital | Release year: 1954\n\nSer
  magnificent show!\nCo-presented by community partners Pacific Opera Projec
  t .\n\nTickets: https://vidiotsfoundation.org/purchase/4368696/\n\nDetails
  : https://vidiotsfoundation.org/movies/la-strada/
-END:VEVENT
-BEGIN:VEVENT
-UID:4470936@vidiotsfoundation.org
-DTSTAMP:20260823T233000Z
-DTSTART;TZID=America/Los_Angeles:20260823T163000
-DTEND;TZID=America/Los_Angeles:20260823T180200
-SUMMARY:American Pachuco: The Legend of Luis Valdez
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4470936/
-DESCRIPTION:Run time: 92 min | Format: Digital\n\nSeries: Groundbreaking No
- n-Fiction\, In the MUBI Microcinema\n\nAn auteur emerges from America’s 
- underclass: from migrant farmworker to revolutionary artist\, Luis Valdez 
- changed American culture.\n\nTickets: https://vidiotsfoundation.org/purcha
- se/4470936/\n\nDetails: https://vidiotsfoundation.org/movies/american-pach
- uco-the-legend-of-luis-valdez/
 END:VEVENT
 BEGIN:VEVENT
 UID:4368695@vidiotsfoundation.org
@@ -400,8 +246,8 @@ SUMMARY:Welcome Space Brothers
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4438361/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Groundbreaking N
+ on-Fiction\, In the MUBI Microcinema\, Additional Shows\n\nThe unbelievabl
  e but one-hundred percent true story of the Unarius Academy of Science —
   an extraterrestrial-channeling spiritual school in Southern California wh
  o in the 1980s became a prolific filmmaking collective and public access T
@@ -534,8 +380,8 @@ SUMMARY:Welcome Space Brothers
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4438387/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Groundbreaking N
+ on-Fiction\, In the MUBI Microcinema\, Additional Shows\n\nThe unbelievabl
  e but one-hundred percent true story of the Unarius Academy of Science —
   an extraterrestrial-channeling spiritual school in Southern California wh
  o in the 1980s became a prolific filmmaking collective and public access T
@@ -635,8 +481,8 @@ SUMMARY:Welcome Space Brothers
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4438421/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Groundbreaking N
+ on-Fiction\, In the MUBI Microcinema\, Additional Shows\n\nThe unbelievabl
  e but one-hundred percent true story of the Unarius Academy of Science —
   an extraterrestrial-channeling spiritual school in Southern California wh
  o in the 1980s became a prolific filmmaking collective and public access T
@@ -1823,5 +1669,86 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries:
  ne Fonda in this guiltless pleasure of cinematic bitchery!\n\nTickets: htt
  ps://vidiotsfoundation.org/purchase/4510133/\n\nDetails: https://vidiotsfo
  undation.org/movies/monster-in-law/
+END:VEVENT
+BEGIN:VEVENT
+UID:4392538@vidiotsfoundation.org
+DTSTAMP:20260822T200000Z
+DTSTART;TZID=America/Los_Angeles:20260822T130000
+DTEND;TZID=America/Los_Angeles:20260822T142800
+SUMMARY:A Hard Day’s Night
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4392538/
+DESCRIPTION:Run time: 88 min | Format: Digital\n\nSeries: Community Partner
+ s\, Films for Everyone\, In the Eagle\, TeenTix LA\n\nThe Beatles\, starri
+ ng in their first full-length\, hilarious\, action-packed film!\nCo-presen
+ ted by the Eagle Rock School of Rock!\n\nTickets: https://vidiotsfoundatio
+ n.org/purchase/4392538/\n\nDetails: https://vidiotsfoundation.org/movies/a
+ -hard-days-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:4392536@vidiotsfoundation.org
+DTSTAMP:20260822T230000Z
+DTSTART;TZID=America/Los_Angeles:20260822T160000
+DTEND;TZID=America/Los_Angeles:20260822T174100
+SUMMARY:Hunt for the Wilderpeople
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4392536/
+DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\, Remembering Sam Neill\, TeenTix LA\n\nVidiots remembers the
+  life and legacy of the incredible Sam Neill with an especially heartwarmi
+ ng screening of Taika Waititi's Hunt for the Wilderpeople !\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4392536/\n\nDetails: https://vidiotsf
+ oundation.org/movies/hunt-for-the-wilderpeople/
+END:VEVENT
+BEGIN:VEVENT
+UID:4388256@vidiotsfoundation.org
+DTSTAMP:20260823T020000Z
+DTSTART;TZID=America/Los_Angeles:20260822T190000
+DTEND;TZID=America/Los_Angeles:20260822T204400
+SUMMARY:Mystic Pizza
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4388256/
+DESCRIPTION:Run time: 104 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\, TeenTix LA\n\nA warm and genuine romantic comedy that never lea
+ ves you hungry\, Mystic Pizza is still cinematic comfort food for your sou
+ l!\n\nTickets: https://vidiotsfoundation.org/purchase/4388256/\n\nDetails:
+  https://vidiotsfoundation.org/movies/mystic-pizza/
+END:VEVENT
+BEGIN:VEVENT
+UID:4388245@vidiotsfoundation.org
+DTSTAMP:20260823T044500Z
+DTSTART;TZID=America/Los_Angeles:20260822T214500
+DTEND;TZID=America/Los_Angeles:20260822T232300
+SUMMARY:The Untamed
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4388245/
+DESCRIPTION:Run time: 98 min | Format: Digital | Release year: 2016\n\nSeri
+ es: In the Eagle\, Special Guests in Attendance\n\nJoin us for Amat Escala
+ nte's genre-bending tour-de-force\, an unnerving\, erotic\, and chilling s
+ cience fiction/ body horror/ existential thriller\, you won't want to miss
+  on the big screen!\nWith a special introduction from writer/director Amat
+  Escalante !\n\nTickets: https://vidiotsfoundation.org/purchase/4388245/\n
+ \nDetails: https://vidiotsfoundation.org/movies/the-untamed/
+END:VEVENT
+BEGIN:VEVENT
+UID:4437291@vidiotsfoundation.org
+DTSTAMP:20260823T050000Z
+DTSTART;TZID=America/Los_Angeles:20260822T220000
+DTEND;TZID=America/Los_Angeles:20260822T233200
+SUMMARY:American Pachuco: The Legend of Luis Valdez
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4437291/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
+ ormat: Digital\n\nSeries: Groundbreaking Non-Fiction\, In the MUBI Microci
+ nema\n\nAn auteur emerges from America’s underclass: from migrant farmwo
+ rker to revolutionary artist\, Luis Valdez changed American culture.\n\nTi
+ ckets: https://vidiotsfoundation.org/purchase/4437291/\n\nDetails: https:/
+ /vidiotsfoundation.org/movies/american-pachuco-the-legend-of-luis-valdez/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
