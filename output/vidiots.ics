@@ -38,12 +38,13 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4398784/
 DESCRIPTION:Run time: 82 min | Format: 4K Digital\n\nSeries: Community Part
- ners\, Doors Open at 6\, In the Eagle\, TeenTix LA\n\nJoin Vidiots and Jaz
- z is Dead for the perfect summer concert film with iconic performances fro
- m musical legends including Louis Armstrong\, Thelonious Monk\, Gerry Mull
- igan\, Anita O'Day\, Dinah Washington and Mahalia Jackson!\n\nTickets: htt
- ps://vidiotsfoundation.org/purchase/4398784/\n\nDetails: https://vidiotsfo
- undation.org/movies/jazz-on-a-summers-day/
+ ners\, Doors Open at 6\, In the Eagle\, Live DJ Set\, TeenTix LA\n\nJoin V
+ idiots and Jazz is Dead for the perfect summer concert film with iconic pe
+ rformances from musical legends including Louis Armstrong\, Thelonious Mon
+ k\, Gerry Mulligan\, Anita O'Day\, Dinah Washington and Mahalia Jackson!\n
+ Plus\, Jazz is Dead merch and a live DJ set from DJ Rareform!\n\nTickets: 
+ https://vidiotsfoundation.org/purchase/4398784/\n\nDetails: https://vidiot
+ sfoundation.org/movies/jazz-on-a-summers-day/
 END:VEVENT
 BEGIN:VEVENT
 UID:4533968@vidiotsfoundation.org
@@ -263,12 +264,10 @@ SUMMARY:Alien
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4388713/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 117 min | 
- Format: Digital\n\nSeries: In the Eagle\n\nIf you're like us\, you could d
- efinitely use some Ellen Ripley in your life right now!\n\nTickets: https:
- //vidiotsfoundation.org/purchase/4388713/\n\nDetails: https://vidiotsfound
- ation.org/movies/alien/
-STATUS:TENTATIVE
+DESCRIPTION:Run time: 117 min | Format: Digital\n\nSeries: In the Eagle\n\n
+ If you're like us\, you could definitely use some Ellen Ripley in your lif
+ e right now!\n\nTickets: https://vidiotsfoundation.org/purchase/4388713/\n
+ \nDetails: https://vidiotsfoundation.org/movies/alien/
 END:VEVENT
 BEGIN:VEVENT
 UID:4438388@vidiotsfoundation.org
@@ -1164,6 +1163,20 @@ DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: Doors
  rch pop-up and limited giveaways!\n\nTickets: https://vidiotsfoundation.or
  g/purchase/4509962/\n\nDetails: https://vidiotsfoundation.org/movies/welco
  me-ii-the-terrordome/
+END:VEVENT
+BEGIN:VEVENT
+UID:4597696@vidiotsfoundation.org
+DTSTAMP:20260918T023000Z
+DTSTART;TZID=America/Los_Angeles:20260917T193000
+DTEND;TZID=America/Los_Angeles:20260917T214100
+SUMMARY:Husbands
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4597696/
+DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ Doors Open at 6\, In the Eagle\n\nA comedy about life\, death and freedom.
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4597696/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/husbands/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509964@vidiotsfoundation.org
