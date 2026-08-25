@@ -29,24 +29,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4398784@vidiotsfoundation.org
-DTSTAMP:20260826T023000Z
-DTSTART;TZID=America/Los_Angeles:20260825T193000
-DTEND;TZID=America/Los_Angeles:20260825T205200
-SUMMARY:Jazz on a Summer’s Day
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4398784/
-DESCRIPTION:Run time: 82 min | Format: 4K Digital\n\nSeries: Community Part
- ners\, Doors Open at 6\, In the Eagle\, Live DJ Set\, TeenTix LA\n\nJoin V
- idiots and Jazz is Dead for the perfect summer concert film with iconic pe
- rformances from musical legends including Louis Armstrong\, Thelonious Mon
- k\, Gerry Mulligan\, Anita O'Day\, Dinah Washington and Mahalia Jackson!\n
- Plus\, Jazz is Dead merch and a live DJ set from DJ Rareform!\n\nTickets: 
- https://vidiotsfoundation.org/purchase/4398784/\n\nDetails: https://vidiot
- sfoundation.org/movies/jazz-on-a-summers-day/
-END:VEVENT
-BEGIN:VEVENT
 UID:4533968@vidiotsfoundation.org
 DTSTAMP:20260827T023000Z
 DTSTART;TZID=America/Los_Angeles:20260826T193000
@@ -1552,5 +1534,23 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries:
  ne Fonda in this guiltless pleasure of cinematic bitchery!\n\nTickets: htt
  ps://vidiotsfoundation.org/purchase/4510133/\n\nDetails: https://vidiotsfo
  undation.org/movies/monster-in-law/
+END:VEVENT
+BEGIN:VEVENT
+UID:4398784@vidiotsfoundation.org
+DTSTAMP:20260826T023000Z
+DTSTART;TZID=America/Los_Angeles:20260825T193000
+DTEND;TZID=America/Los_Angeles:20260825T205200
+SUMMARY:Jazz on a Summer’s Day
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4398784/
+DESCRIPTION:Run time: 82 min | Format: 4K Digital\n\nSeries: Community Part
+ ners\, Doors Open at 6\, In the Eagle\, Live DJ Set\, TeenTix LA\n\nJoin V
+ idiots and Jazz is Dead for the perfect summer concert film with iconic pe
+ rformances from musical legends including Louis Armstrong\, Thelonious Mon
+ k\, Gerry Mulligan\, Anita O'Day\, Dinah Washington and Mahalia Jackson!\n
+ Plus\, Jazz is Dead merch and a live DJ set from DJ Rareform!\n\nTickets: 
+ https://vidiotsfoundation.org/purchase/4398784/\n\nDetails: https://vidiot
+ sfoundation.org/movies/jazz-on-a-summers-day/
 END:VEVENT
 END:VCALENDAR
