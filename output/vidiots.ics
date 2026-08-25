@@ -264,10 +264,12 @@ SUMMARY:Alien
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4388713/
-DESCRIPTION:Run time: 117 min | Format: Digital\n\nSeries: In the Eagle\n\n
- If you're like us\, you could definitely use some Ellen Ripley in your lif
- e right now!\n\nTickets: https://vidiotsfoundation.org/purchase/4388713/\n
- \nDetails: https://vidiotsfoundation.org/movies/alien/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 117 min | 
+ Format: Digital\n\nSeries: In the Eagle\n\nIf you're like us\, you could d
+ efinitely use some Ellen Ripley in your life right now!\n\nTickets: https:
+ //vidiotsfoundation.org/purchase/4388713/\n\nDetails: https://vidiotsfound
+ ation.org/movies/alien/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4438388@vidiotsfoundation.org
@@ -1550,22 +1552,5 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries:
  ne Fonda in this guiltless pleasure of cinematic bitchery!\n\nTickets: htt
  ps://vidiotsfoundation.org/purchase/4510133/\n\nDetails: https://vidiotsfo
  undation.org/movies/monster-in-law/
-END:VEVENT
-BEGIN:VEVENT
-UID:4428379@vidiotsfoundation.org
-DTSTAMP:20260825T023000Z
-DTSTART;TZID=America/Los_Angeles:20260824T193000
-DTEND;TZID=America/Los_Angeles:20260824T211500
-SUMMARY:Bob & Carol & Ted & Alice
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4428379/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\, Sp
- ecial Guests in Attendance\n\nVidiots is thrilled to welcome screen icon D
- yan Cannon for a special screening of Paul Mazursky's Bob & Carol & Ted & 
- Alice !\n\nTickets: https://vidiotsfoundation.org/purchase/4428379/\n\nDet
- ails: https://vidiotsfoundation.org/movies/bob-carol-ted-alice/
-STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
