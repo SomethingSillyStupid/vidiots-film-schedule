@@ -108,13 +108,11 @@ SUMMARY:Dirty Dancing
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4444820/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Rating: PG-13\n\nSeries: In the Eagle\n\nDon your dancin
- g shoes and come prepared for a movie-going experience you'll only find at
-  Vidiots\, you know you can’t resist these hungry eyes!\n\nTickets: http
- s://vidiotsfoundation.org/purchase/4444820/\n\nDetails: https://vidiotsfou
- ndation.org/movies/dirty-dancing/
-STATUS:TENTATIVE
+DESCRIPTION:Run time: 100 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\n\nDon your dancing shoes and come prepared for a movie-going
+  experience you'll only find at Vidiots\, you know you can’t resist thes
+ e hungry eyes!\n\nTickets: https://vidiotsfoundation.org/purchase/4444820/
+ \n\nDetails: https://vidiotsfoundation.org/movies/dirty-dancing/
 END:VEVENT
 BEGIN:VEVENT
 UID:4393377@vidiotsfoundation.org
@@ -147,9 +145,9 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 124 min |
  Format: Digital | Rating: R | Release year: 1981\n\nSeries: In the Eagle\,
   Remembering Sam Neill\, What the Friday?!?\n\nLose yourself in this distu
  rbing tale of obsession\, sexuality\, and transformation from the fecund m
- ind of Polish provocateur Andrzej Żuławski.\n\nTickets: https://vidiotsf
- oundation.org/purchase/4444822/\n\nDetails: https://vidiotsfoundation.org/
- movies/possession/
+ ind of Polish provocateur Andrzej Żuławski.\nEncore Screening Added!\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4444822/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/possession/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -514,6 +512,22 @@ DESCRIPTION:Run time: 147 min | Format: Digital | Release year: 2026\n\nSer
  murai and the Prisoner .\n\nTickets: https://vidiotsfoundation.org/purchas
  e/4471022/\n\nDetails: https://vidiotsfoundation.org/movies/the-samurai-an
  d-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+UID:4600700@vidiotsfoundation.org
+DTSTAMP:20260904T230000Z
+DTSTART;TZID=America/Los_Angeles:20260904T160000
+DTEND;TZID=America/Los_Angeles:20260904T180400
+SUMMARY:Possession
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4600700/
+DESCRIPTION:Run time: 124 min | Format: Digital | Rating: R | Release year:
+  1981\n\nSeries: In the Eagle\, Remembering Sam Neill\, What the Friday?!?
+ \n\nLose yourself in this disturbing tale of obsession\, sexuality\, and t
+ ransformation from the fecund mind of Polish provocateur Andrzej Żuławsk
+ i.\nEncore Screening Added!\n\nTickets: https://vidiotsfoundation.org/purc
+ hase/4600700/\n\nDetails: https://vidiotsfoundation.org/movies/possession/
 END:VEVENT
 BEGIN:VEVENT
 UID:4471014@vidiotsfoundation.org
