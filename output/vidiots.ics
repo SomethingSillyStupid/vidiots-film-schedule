@@ -949,6 +949,24 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: In
  \nDetails: https://vidiotsfoundation.org/movies/howard-the-duck/
 END:VEVENT
 BEGIN:VEVENT
+UID:4510011@vidiotsfoundation.org
+DTSTAMP:20260912T050000Z
+DTSTART;TZID=America/Los_Angeles:20260911T220000
+DTEND;TZID=America/Los_Angeles:20260911T232200
+SUMMARY:Idiotka
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510011/
+DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, In the MUBI Microcinema\n\nOur microcinema is catch
+ ing the fashion bug with Nastasya Popov's fiercely funny and endearing ind
+ ie comedy of fashion\, family\, and desperation!\nIn West Hollywood’s Ru
+ ssian district\, Margarita lives out the American Dream: competing on a re
+ ality show. Will she slay\, serve\, or survive?\n\nTickets: https://vidiot
+ sfoundation.org/purchase/4510011/\n\nDetails: https://vidiotsfoundation.or
+ g/movies/idiotka/
+END:VEVENT
+BEGIN:VEVENT
 UID:4509941@vidiotsfoundation.org
 DTSTAMP:20260912T200000Z
 DTSTART;TZID=America/Los_Angeles:20260912T130000
@@ -1010,6 +1028,24 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: In
   (not to mention Eugene Levy and John Candy)!\n\nTickets: https://vidiotsf
  oundation.org/purchase/4509948/\n\nDetails: https://vidiotsfoundation.org/
  movies/splash/
+END:VEVENT
+BEGIN:VEVENT
+UID:4561751@vidiotsfoundation.org
+DTSTAMP:20260913T021500Z
+DTSTART;TZID=America/Los_Angeles:20260912T191500
+DTEND;TZID=America/Los_Angeles:20260912T203700
+SUMMARY:Idiotka
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4561751/
+DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, In the MUBI Microcinema\n\nOur microcinema is catch
+ ing the fashion bug with Nastasya Popov's fiercely funny and endearing ind
+ ie comedy of fashion\, family\, and desperation!\nIn West Hollywood’s Ru
+ ssian district\, Margarita lives out the American Dream: competing on a re
+ ality show. Will she slay\, serve\, or survive?\n\nTickets: https://vidiot
+ sfoundation.org/purchase/4561751/\n\nDetails: https://vidiotsfoundation.or
+ g/movies/idiotka/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509944@vidiotsfoundation.org
@@ -1105,6 +1141,24 @@ DESCRIPTION:Run time: 97 min | Format: Digital | Rating: R\n\nSeries: In th
  ial debut - a hypnotic and ethereal work supported by the sublime soundtra
  ck from Air.\n\nTickets: https://vidiotsfoundation.org/purchase/4509961/\n
  \nDetails: https://vidiotsfoundation.org/movies/the-virgin-suicides/
+END:VEVENT
+BEGIN:VEVENT
+UID:4561786@vidiotsfoundation.org
+DTSTAMP:20260914T023000Z
+DTSTART;TZID=America/Los_Angeles:20260913T193000
+DTEND;TZID=America/Los_Angeles:20260913T205200
+SUMMARY:Idiotka
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4561786/
+DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, In the MUBI Microcinema\n\nOur microcinema is catch
+ ing the fashion bug with Nastasya Popov's fiercely funny and endearing ind
+ ie comedy of fashion\, family\, and desperation!\nIn West Hollywood’s Ru
+ ssian district\, Margarita lives out the American Dream: competing on a re
+ ality show. Will she slay\, serve\, or survive?\n\nTickets: https://vidiot
+ sfoundation.org/purchase/4561786/\n\nDetails: https://vidiotsfoundation.or
+ g/movies/idiotka/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509962@vidiotsfoundation.org
