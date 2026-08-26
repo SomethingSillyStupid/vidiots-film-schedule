@@ -8,48 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4533969@vidiotsfoundation.org
-DTSTAMP:20260826T020000Z
-DTSTART;TZID=America/Los_Angeles:20260825T190000
-DTEND;TZID=America/Los_Angeles:20260825T203100
-SUMMARY:Mary Oliver: Saved by the Beauty of the World
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4533969/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nCelebrated best-selling poet\, Pulitzer Prize-w
- inner\, lover of dogs and long walks in the woods\, openly queer but inten
- sely private\, Oliver was America’s unlikely contemporary mystic\, stalk
- ing the ponds and forests of Cape Cod for nearly fifty years in order to o
- pen herself – and her readers – to the known and unknowable world.\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4533969/\n\nDetails: https
- ://vidiotsfoundation.org/movies/mary-oliver-saved-by-the-beauty-of-the-wor
- ld/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4533968@vidiotsfoundation.org
-DTSTAMP:20260827T023000Z
-DTSTART;TZID=America/Los_Angeles:20260826T193000
-DTEND;TZID=America/Los_Angeles:20260826T210100
-SUMMARY:Mary Oliver: Saved by the Beauty of the World
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4533968/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nCelebrated best-selling poet\, Pulitzer Prize-w
- inner\, lover of dogs and long walks in the woods\, openly queer but inten
- sely private\, Oliver was America’s unlikely contemporary mystic\, stalk
- ing the ponds and forests of Cape Cod for nearly fifty years in order to o
- pen herself – and her readers – to the known and unknowable world.\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4533968/\n\nDetails: https
- ://vidiotsfoundation.org/movies/mary-oliver-saved-by-the-beauty-of-the-wor
- ld/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4388738@vidiotsfoundation.org
 DTSTAMP:20260828T023000Z
 DTSTART;TZID=America/Los_Angeles:20260827T193000
@@ -1552,5 +1510,26 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries:
  ne Fonda in this guiltless pleasure of cinematic bitchery!\n\nTickets: htt
  ps://vidiotsfoundation.org/purchase/4510133/\n\nDetails: https://vidiotsfo
  undation.org/movies/monster-in-law/
+END:VEVENT
+BEGIN:VEVENT
+UID:4533968@vidiotsfoundation.org
+DTSTAMP:20260827T023000Z
+DTSTART;TZID=America/Los_Angeles:20260826T193000
+DTEND;TZID=America/Los_Angeles:20260826T210100
+SUMMARY:Mary Oliver: Saved by the Beauty of the World
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4533968/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\n\nCelebrated best-selling poet\, Pulitzer Prize-w
+ inner\, lover of dogs and long walks in the woods\, openly queer but inten
+ sely private\, Oliver was America’s unlikely contemporary mystic\, stalk
+ ing the ponds and forests of Cape Cod for nearly fifty years in order to o
+ pen herself – and her readers – to the known and unknowable world.\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4533968/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/mary-oliver-saved-by-the-beauty-of-the-wor
+ ld/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
