@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4388738@vidiotsfoundation.org
-DTSTAMP:20260828T023000Z
-DTSTART;TZID=America/Los_Angeles:20260827T193000
-DTEND;TZID=America/Los_Angeles:20260827T211800
-SUMMARY:The Grandmaster on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4388738/
-DESCRIPTION:Run time: 108 min | Format: 35mm Film | Rating: PG-13 | Release
-  year: 2013\n\nSeries: 35mm Film\, Doors Open at 6\, In the Eagle\n\nJoin 
- us for Wong Kar-wai's breathtaking martial arts spectacle in glorious cell
- uloid!\n\nTickets: https://vidiotsfoundation.org/purchase/4388738/\n\nDeta
- ils: https://vidiotsfoundation.org/movies/the-grandmaster/
-END:VEVENT
-BEGIN:VEVENT
 UID:4528303@vidiotsfoundation.org
 DTSTAMP:20260828T230000Z
 DTSTART;TZID=America/Los_Angeles:20260828T160000
@@ -230,26 +215,6 @@ DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: Addit
  tails: https://vidiotsfoundation.org/movies/i-want-your-sex/
 END:VEVENT
 BEGIN:VEVENT
-UID:4388722@vidiotsfoundation.org
-DTSTAMP:20260830T044500Z
-DTSTART;TZID=America/Los_Angeles:20260829T214500
-DTEND;TZID=America/Los_Angeles:20260829T230900
-SUMMARY:Borat: Cultural Learnings of America for Make Benefit Glorious Nati
- on of Kazakhstan
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4388722/
-DESCRIPTION:Run time: 84 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\, Special Guests in Attendance\n\nOutstanding information for citi
- zens of Vidiots: your humble theater will be graced by sixth-most importan
- t journalist in all of Kazakhstan\, Borat! Great success!\nWith a special 
- introduction from Producer Monica Levinson and the man responsible for Bor
- at's speedo - Costume Designer Jason Alper !\n\nTickets: https://vidiotsfo
- undation.org/purchase/4388722/\n\nDetails: https://vidiotsfoundation.org/m
- ovies/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation
- -of-kazakhstan/
-END:VEVENT
-BEGIN:VEVENT
 UID:4438389@vidiotsfoundation.org
 DTSTAMP:20260830T050000Z
 DTSTART;TZID=America/Los_Angeles:20260829T220000
@@ -437,10 +402,9 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4509709/
 DESCRIPTION:Run time: 85 min | Format: Digital | Rating: R\n\nSeries: Doors
-  Open at 6\, In the Eagle\n\nVidiots remembers the life and talent of the 
- great musician and actor Glen Hansard with a special screening of the swoo
- nworthy musical romance Once .\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4509709/\n\nDetails: https://vidiotsfoundation.org/movies/once/
+  Open at 6\, In the Eagle\n\nJoin us for this swoonworthy musical romance!
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4509709/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/once/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509712@vidiotsfoundation.org
@@ -960,11 +924,9 @@ URL:https://vidiotsfoundation.org/purchase/4510011/
 DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
  es: Additional Shows\, In the MUBI Microcinema\n\nOur microcinema is catch
  ing the fashion bug with Nastasya Popov's fiercely funny and endearing ind
- ie comedy of fashion\, family\, and desperation!\nIn West Hollywood’s Ru
- ssian district\, Margarita lives out the American Dream: competing on a re
- ality show. Will she slay\, serve\, or survive?\n\nTickets: https://vidiot
- sfoundation.org/purchase/4510011/\n\nDetails: https://vidiotsfoundation.or
- g/movies/idiotka/
+ ie comedy of fashion\, family\, and desperation!\n\nTickets: https://vidio
+ tsfoundation.org/purchase/4510011/\n\nDetails: https://vidiotsfoundation.o
+ rg/movies/idiotka/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509941@vidiotsfoundation.org
@@ -1041,11 +1003,9 @@ URL:https://vidiotsfoundation.org/purchase/4561751/
 DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
  es: Additional Shows\, In the MUBI Microcinema\n\nOur microcinema is catch
  ing the fashion bug with Nastasya Popov's fiercely funny and endearing ind
- ie comedy of fashion\, family\, and desperation!\nIn West Hollywood’s Ru
- ssian district\, Margarita lives out the American Dream: competing on a re
- ality show. Will she slay\, serve\, or survive?\n\nTickets: https://vidiot
- sfoundation.org/purchase/4561751/\n\nDetails: https://vidiotsfoundation.or
- g/movies/idiotka/
+ ie comedy of fashion\, family\, and desperation!\n\nTickets: https://vidio
+ tsfoundation.org/purchase/4561751/\n\nDetails: https://vidiotsfoundation.o
+ rg/movies/idiotka/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509944@vidiotsfoundation.org
@@ -1154,11 +1114,9 @@ URL:https://vidiotsfoundation.org/purchase/4561786/
 DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
  es: Additional Shows\, In the MUBI Microcinema\n\nOur microcinema is catch
  ing the fashion bug with Nastasya Popov's fiercely funny and endearing ind
- ie comedy of fashion\, family\, and desperation!\nIn West Hollywood’s Ru
- ssian district\, Margarita lives out the American Dream: competing on a re
- ality show. Will she slay\, serve\, or survive?\n\nTickets: https://vidiot
- sfoundation.org/purchase/4561786/\n\nDetails: https://vidiotsfoundation.or
- g/movies/idiotka/
+ ie comedy of fashion\, family\, and desperation!\n\nTickets: https://vidio
+ tsfoundation.org/purchase/4561786/\n\nDetails: https://vidiotsfoundation.o
+ rg/movies/idiotka/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509962@vidiotsfoundation.org
@@ -1177,6 +1135,24 @@ DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: Doors
  rch pop-up and limited giveaways!\n\nTickets: https://vidiotsfoundation.or
  g/purchase/4509962/\n\nDetails: https://vidiotsfoundation.org/movies/welco
  me-ii-the-terrordome/
+END:VEVENT
+BEGIN:VEVENT
+UID:4565616@vidiotsfoundation.org
+DTSTAMP:20260916T023000Z
+DTSTART;TZID=America/Los_Angeles:20260915T193000
+DTEND;TZID=America/Los_Angeles:20260915T210000
+SUMMARY:The Waiting Room
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4565616/
+DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: In the MUBI Micro
+ cinema\, Special Guests in Attendance\n\nRediscover a recently unearthed g
+ roundbreaking film shot entirely within the Manhattan Psychiatric Center o
+ n Wards Island with an all female crew\, blending naturalism with avant-ga
+ rde techniques—incorporating elements of dance\, theatricality\, and vid
+ eo art.\nCo-presented by 7th House and featuring writer/director Karen Spe
+ rling in person!\n\nTickets: https://vidiotsfoundation.org/purchase/456561
+ 6/\n\nDetails: https://vidiotsfoundation.org/movies/the-waiting-room/
 END:VEVENT
 BEGIN:VEVENT
 UID:4597696@vidiotsfoundation.org
@@ -1566,24 +1542,18 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries:
  undation.org/movies/monster-in-law/
 END:VEVENT
 BEGIN:VEVENT
-UID:4533968@vidiotsfoundation.org
-DTSTAMP:20260827T023000Z
-DTSTART;TZID=America/Los_Angeles:20260826T193000
-DTEND;TZID=America/Los_Angeles:20260826T210100
-SUMMARY:Mary Oliver: Saved by the Beauty of the World
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4533968/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nCelebrated best-selling poet\, Pulitzer Prize-w
- inner\, lover of dogs and long walks in the woods\, openly queer but inten
- sely private\, Oliver was America’s unlikely contemporary mystic\, stalk
- ing the ponds and forests of Cape Cod for nearly fifty years in order to o
- pen herself – and her readers – to the known and unknowable world.\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4533968/\n\nDetails: https
- ://vidiotsfoundation.org/movies/mary-oliver-saved-by-the-beauty-of-the-wor
- ld/
-STATUS:TENTATIVE
+UID:4388738@vidiotsfoundation.org
+DTSTAMP:20260828T023000Z
+DTSTART;TZID=America/Los_Angeles:20260827T193000
+DTEND;TZID=America/Los_Angeles:20260827T211800
+SUMMARY:The Grandmaster on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4388738/
+DESCRIPTION:Run time: 108 min | Format: 35mm Film | Rating: PG-13 | Release
+  year: 2013\n\nSeries: 35mm Film\, Doors Open at 6\, In the Eagle\n\nJoin 
+ us for Wong Kar-wai's breathtaking martial arts spectacle in glorious cell
+ uloid!\n\nTickets: https://vidiotsfoundation.org/purchase/4388738/\n\nDeta
+ ils: https://vidiotsfoundation.org/movies/the-grandmaster/
 END:VEVENT
 END:VCALENDAR
