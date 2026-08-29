@@ -8,97 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4438361@vidiotsfoundation.org
-DTSTAMP:20260828T233000Z
-DTSTART;TZID=America/Los_Angeles:20260828T163000
-DTEND;TZID=America/Los_Angeles:20260828T181100
-SUMMARY:Welcome Space Brothers
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4438361/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
- e but one-hundred percent true story of the Unarius Academy of Science —
-  an extraterrestrial-channeling spiritual school in Southern California wh
- o in the 1980s became a prolific filmmaking collective and public access T
- V phenomenon under the direction of their outlandish spiritual leader Ruth
-  E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4438361/\n\nDetails: https://vidiotsfoundation.org/movies
- /welcome-space-brothers/
-END:VEVENT
-BEGIN:VEVENT
-UID:4393377@vidiotsfoundation.org
-DTSTAMP:20260829T023000Z
-DTSTART;TZID=America/Los_Angeles:20260828T193000
-DTEND;TZID=America/Los_Angeles:20260828T210000
-SUMMARY:I Want Your Sex
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4393377/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
- ormat: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micro
- cinema\n\nLos Angeles indie legend Gregg Araki's newest absurd comedy is a
-  raunchy\, kinky delight and it's steaming up our microcinema in all its e
- ye-popping\, kink-positive\, raucously funny glory!\n\nTickets: https://vi
- diotsfoundation.org/purchase/4393377/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/i-want-your-sex/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4444822@vidiotsfoundation.org
-DTSTAMP:20260829T044500Z
-DTSTART;TZID=America/Los_Angeles:20260828T214500
-DTEND;TZID=America/Los_Angeles:20260828T234900
-SUMMARY:Possession
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4444822/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 124 min | 
- Format: Digital | Rating: R | Release year: 1981\n\nSeries: In the Eagle\,
-  Remembering Sam Neill\, What the Friday?!?\n\nLose yourself in this distu
- rbing tale of obsession\, sexuality\, and transformation from the fecund m
- ind of Polish provocateur Andrzej Żuławski.\nEncore Screening Added!\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4444822/\n\nDetails: https
- ://vidiotsfoundation.org/movies/possession/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4393386@vidiotsfoundation.org
-DTSTAMP:20260829T050000Z
-DTSTART;TZID=America/Los_Angeles:20260828T220000
-DTEND;TZID=America/Los_Angeles:20260828T233000
-SUMMARY:I Want Your Sex
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4393386/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
- ormat: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micro
- cinema\n\nLos Angeles indie legend Gregg Araki's newest absurd comedy is a
-  raunchy\, kinky delight and it's steaming up our microcinema in all its e
- ye-popping\, kink-positive\, raucously funny glory!\n\nTickets: https://vi
- diotsfoundation.org/purchase/4393386/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/i-want-your-sex/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4365503@vidiotsfoundation.org
-DTSTAMP:20260829T200000Z
-DTSTART;TZID=America/Los_Angeles:20260829T130000
-DTEND;TZID=America/Los_Angeles:20260829T143000
-SUMMARY:Stop Motion Explosion! on 16mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4365503/
-DESCRIPTION:Run time: 90 min | Format: 16mm Film\n\nSeries: Films for Every
- one\, In the Eagle\, TeenTix LA\n\nAnimation heads of all ages rejoice! We
- 've got a supersized helping of adorable animated celluloid with Stop-Moti
- on Explosion!\, a program of delightful\, mesmerizing\, and mind-blowing s
- top-motion animation from the 1940s to the 1980s screening entirely on 16m
- m film on our big screen!\n\nTickets: https://vidiotsfoundation.org/purcha
- se/4365503/\n\nDetails: https://vidiotsfoundation.org/movies/stop-motion-e
- xplosion-on-16mm/
-END:VEVENT
-BEGIN:VEVENT
 UID:4438386@vidiotsfoundation.org
 DTSTAMP:20260829T203000Z
 DTSTART;TZID=America/Los_Angeles:20260829T133000
@@ -113,22 +22,6 @@ DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: Addit
  up our microcinema in all its eye-popping\, kink-positive\, raucously funn
  y glory!\n\nTickets: https://vidiotsfoundation.org/purchase/4438386/\n\nDe
  tails: https://vidiotsfoundation.org/movies/i-want-your-sex/
-END:VEVENT
-BEGIN:VEVENT
-UID:4388710@vidiotsfoundation.org
-DTSTAMP:20260829T230000Z
-DTSTART;TZID=America/Los_Angeles:20260829T160000
-DTEND;TZID=America/Los_Angeles:20260829T173700
-SUMMARY:Diary of a Chambermaid
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4388710/
-DESCRIPTION:Run time: 97 min | Format: Digital | Release year: 1964\n\nSeri
- es: In the Eagle\n\nSpanish provocateur Luis Buñuel once again explores t
- he perversity and hypocrisy of human nature with this biting social satire
-  set in the French countryside of the 1930s.\n\nTickets: https://vidiotsfo
- undation.org/purchase/4388710/\n\nDetails: https://vidiotsfoundation.org/m
- ovies/diary-of-a-chambermaid/
 END:VEVENT
 BEGIN:VEVENT
 UID:4438387@vidiotsfoundation.org
@@ -148,22 +41,6 @@ DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
   E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoundat
  ion.org/purchase/4438387/\n\nDetails: https://vidiotsfoundation.org/movies
  /welcome-space-brothers/
-END:VEVENT
-BEGIN:VEVENT
-UID:4388713@vidiotsfoundation.org
-DTSTAMP:20260830T020000Z
-DTSTART;TZID=America/Los_Angeles:20260829T190000
-DTEND;TZID=America/Los_Angeles:20260829T205700
-SUMMARY:Alien
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4388713/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 117 min | 
- Format: Digital\n\nSeries: In the Eagle\n\nIf you're like us\, you could d
- efinitely use some Ellen Ripley in your life right now!\n\nTickets: https:
- //vidiotsfoundation.org/purchase/4388713/\n\nDetails: https://vidiotsfound
- ation.org/movies/alien/
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4438388@vidiotsfoundation.org
@@ -354,12 +231,13 @@ SUMMARY:The Samurai and the Prisoner
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4509710/
-DESCRIPTION:Run time: 147 min | Format: Digital | Release year: 2026\n\nSer
- ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
- ema for Kiyoshi Kurosawa's ponderous and philosophical samurai epic The Sa
- murai and the Prisoner .\n\nTickets: https://vidiotsfoundation.org/purchas
- e/4509710/\n\nDetails: https://vidiotsfoundation.org/movies/the-samurai-an
- d-the-prisoner/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 147 min | 
+ Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
+ MUBI Microcinema\n\nJoin us in the microcinema for Kiyoshi Kurosawa's pond
+ erous and philosophical samurai epic The Samurai and the Prisoner .\n\nTic
+ kets: https://vidiotsfoundation.org/purchase/4509710/\n\nDetails: https://
+ vidiotsfoundation.org/movies/the-samurai-and-the-prisoner/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4509709@vidiotsfoundation.org
@@ -416,11 +294,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4600700/
 DESCRIPTION:Run time: 124 min | Format: Digital | Rating: R | Release year:
-  1981\n\nSeries: In the Eagle\, Remembering Sam Neill\, What the Friday?!?
- \n\nLose yourself in this disturbing tale of obsession\, sexuality\, and t
- ransformation from the fecund mind of Polish provocateur Andrzej Żuławsk
- i.\nEncore Screening Added!\n\nTickets: https://vidiotsfoundation.org/purc
- hase/4600700/\n\nDetails: https://vidiotsfoundation.org/movies/possession/
+  1981\n\nSeries: In the Eagle\, Remembering Sam Neill\n\nLose yourself in 
+ this disturbing tale of obsession\, sexuality\, and transformation from th
+ e fecund mind of Polish provocateur Andrzej Żuławski.\nEncore Screening 
+ Added!\n\nTickets: https://vidiotsfoundation.org/purchase/4600700/\n\nDeta
+ ils: https://vidiotsfoundation.org/movies/possession/
 END:VEVENT
 BEGIN:VEVENT
 UID:4471014@vidiotsfoundation.org
@@ -468,12 +346,13 @@ SUMMARY:The Holy Mountain
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4509721/
-DESCRIPTION:Run time: 114 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\, What the Friday?!?\n\nPack your bags for the head-trip of a lif
- etime with Alejandro Jodorowsky's dazzling masterpiece and one of the most
-  mind-bending feature films of all time.\n\nTickets: https://vidiotsfounda
- tion.org/purchase/4509721/\n\nDetails: https://vidiotsfoundation.org/movie
- s/the-holy-mountain/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 114 min | 
+ Format: Digital | Rating: R\n\nSeries: In the Eagle\, What the Friday?!?\n
+ \nPack your bags for the head-trip of a lifetime with Alejandro Jodorowsky
+ 's dazzling masterpiece and one of the most mind-bending feature films of 
+ all time.\n\nTickets: https://vidiotsfoundation.org/purchase/4509721/\n\nD
+ etails: https://vidiotsfoundation.org/movies/the-holy-mountain/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4504835@vidiotsfoundation.org
@@ -1531,36 +1410,53 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries:
  undation.org/movies/monster-in-law/
 END:VEVENT
 BEGIN:VEVENT
-UID:4528303@vidiotsfoundation.org
-DTSTAMP:20260828T230000Z
-DTSTART;TZID=America/Los_Angeles:20260828T160000
-DTEND;TZID=America/Los_Angeles:20260828T180200
-SUMMARY:Twilight
+UID:4365503@vidiotsfoundation.org
+DTSTAMP:20260829T200000Z
+DTSTART;TZID=America/Los_Angeles:20260829T130000
+DTEND;TZID=America/Los_Angeles:20260829T143000
+SUMMARY:Stop Motion Explosion! on 16mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4528303/
-DESCRIPTION:Run time: 122 min | Format: Digital\n\nSeries: In the Eagle\n\n
- Are you ready to live your Y2K gothic teen fantasy to the max with this te
- en goth essential as it sparkles on our big screen!?!\nEncore screening ad
- ded August 28th - no special guests\, screening only\n\nTickets: https://v
- idiotsfoundation.org/purchase/4528303/\n\nDetails: https://vidiotsfoundati
- on.org/movies/twilight/
+URL:https://vidiotsfoundation.org/purchase/4365503/
+DESCRIPTION:Run time: 90 min | Format: 16mm Film\n\nSeries: Films for Every
+ one\, In the Eagle\, TeenTix LA\n\nAnimation heads of all ages rejoice! We
+ 've got a supersized helping of adorable animated celluloid with Stop-Moti
+ on Explosion!\, a program of delightful\, mesmerizing\, and mind-blowing s
+ top-motion animation from the 1940s to the 1980s screening entirely on 16m
+ m film on our big screen!\n\nTickets: https://vidiotsfoundation.org/purcha
+ se/4365503/\n\nDetails: https://vidiotsfoundation.org/movies/stop-motion-e
+ xplosion-on-16mm/
 END:VEVENT
 BEGIN:VEVENT
-UID:4444820@vidiotsfoundation.org
-DTSTAMP:20260829T020000Z
-DTSTART;TZID=America/Los_Angeles:20260828T190000
-DTEND;TZID=America/Los_Angeles:20260828T204000
-SUMMARY:Dirty Dancing
+UID:4388710@vidiotsfoundation.org
+DTSTAMP:20260829T230000Z
+DTSTART;TZID=America/Los_Angeles:20260829T160000
+DTEND;TZID=America/Los_Angeles:20260829T173700
+SUMMARY:Diary of a Chambermaid
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4444820/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Rating: PG-13\n\nSeries: In the Eagle\n\nDon your dancin
- g shoes and come prepared for a movie-going experience you'll only find at
-  Vidiots\, you know you can’t resist these hungry eyes!\n\nTickets: http
- s://vidiotsfoundation.org/purchase/4444820/\n\nDetails: https://vidiotsfou
- ndation.org/movies/dirty-dancing/
+URL:https://vidiotsfoundation.org/purchase/4388710/
+DESCRIPTION:Run time: 97 min | Format: Digital | Release year: 1964\n\nSeri
+ es: In the Eagle\n\nSpanish provocateur Luis Buñuel once again explores t
+ he perversity and hypocrisy of human nature with this biting social satire
+  set in the French countryside of the 1930s.\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4388710/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/diary-of-a-chambermaid/
+END:VEVENT
+BEGIN:VEVENT
+UID:4388713@vidiotsfoundation.org
+DTSTAMP:20260830T020000Z
+DTSTART;TZID=America/Los_Angeles:20260829T190000
+DTEND;TZID=America/Los_Angeles:20260829T205700
+SUMMARY:Alien
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4388713/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 117 min | 
+ Format: Digital\n\nSeries: In the Eagle\n\nIf you're like us\, you could d
+ efinitely use some Ellen Ripley in your life right now!\n\nTickets: https:
+ //vidiotsfoundation.org/purchase/4388713/\n\nDetails: https://vidiotsfound
+ ation.org/movies/alien/
 STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
