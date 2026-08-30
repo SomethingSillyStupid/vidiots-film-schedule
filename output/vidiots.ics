@@ -8,130 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4438386@vidiotsfoundation.org
-DTSTAMP:20260829T203000Z
-DTSTART;TZID=America/Los_Angeles:20260829T133000
-DTEND;TZID=America/Los_Angeles:20260829T150000
-SUMMARY:I Want Your Sex
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4438386/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
- ormat: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micro
- cinema\n\nLos Angeles indie legend Gregg Araki's newest absurd comedy is a
-  raunchy\, kinky delight and it's steaming up our microcinema in all its e
- ye-popping\, kink-positive\, raucously funny glory!\n\nTickets: https://vi
- diotsfoundation.org/purchase/4438386/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/i-want-your-sex/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4438387@vidiotsfoundation.org
-DTSTAMP:20260829T233000Z
-DTSTART;TZID=America/Los_Angeles:20260829T163000
-DTEND;TZID=America/Los_Angeles:20260829T181100
-SUMMARY:Welcome Space Brothers
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4438387/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
- e but one-hundred percent true story of the Unarius Academy of Science —
-  an extraterrestrial-channeling spiritual school in Southern California wh
- o in the 1980s became a prolific filmmaking collective and public access T
- V phenomenon under the direction of their outlandish spiritual leader Ruth
-  E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4438387/\n\nDetails: https://vidiotsfoundation.org/movies
- /welcome-space-brothers/
-END:VEVENT
-BEGIN:VEVENT
-UID:4438388@vidiotsfoundation.org
-DTSTAMP:20260830T023000Z
-DTSTART;TZID=America/Los_Angeles:20260829T193000
-DTEND;TZID=America/Los_Angeles:20260829T210000
-SUMMARY:I Want Your Sex
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4438388/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
- ormat: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micro
- cinema\n\nLos Angeles indie legend Gregg Araki's newest absurd comedy is a
-  raunchy\, kinky delight and it's steaming up our microcinema in all its e
- ye-popping\, kink-positive\, raucously funny glory!\n\nTickets: https://vi
- diotsfoundation.org/purchase/4438388/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/i-want-your-sex/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4438389@vidiotsfoundation.org
-DTSTAMP:20260830T050000Z
-DTSTART;TZID=America/Los_Angeles:20260829T220000
-DTEND;TZID=America/Los_Angeles:20260829T233000
-SUMMARY:I Want Your Sex
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4438389/
-DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nLos Angeles indie legend Gregg Ar
- aki's newest absurd comedy is a raunchy\, kinky delight and it's steaming 
- up our microcinema in all its eye-popping\, kink-positive\, raucously funn
- y glory!\n\nTickets: https://vidiotsfoundation.org/purchase/4438389/\n\nDe
- tails: https://vidiotsfoundation.org/movies/i-want-your-sex/
-END:VEVENT
-BEGIN:VEVENT
-UID:4388709@vidiotsfoundation.org
-DTSTAMP:20260830T193000Z
-DTSTART;TZID=America/Los_Angeles:20260830T123000
-DTEND;TZID=America/Los_Angeles:20260830T135300
-SUMMARY:Spirit: Stallion of the Cimarron
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4388709/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 83 min | F
- ormat: Digital | Rating: All Ages\n\nSeries: Films for Everyone\, In the E
- agle\, TeenTix LA\n\nFeaturing a riveting score by Hans Zimmer and songs b
- y Bryan Adams\, Spirit: Stallion of The Cimarron is sure to stir the heart
- s both young and old alike.\n\nTickets: https://vidiotsfoundation.org/purc
- hase/4388709/\n\nDetails: https://vidiotsfoundation.org/movies/spirit-stal
- lion-of-the-cimarron/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4438421@vidiotsfoundation.org
-DTSTAMP:20260830T200000Z
-DTSTART;TZID=America/Los_Angeles:20260830T130000
-DTEND;TZID=America/Los_Angeles:20260830T144100
-SUMMARY:Welcome Space Brothers
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4438421/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
- e but one-hundred percent true story of the Unarius Academy of Science —
-  an extraterrestrial-channeling spiritual school in Southern California wh
- o in the 1980s became a prolific filmmaking collective and public access T
- V phenomenon under the direction of their outlandish spiritual leader Ruth
-  E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4438421/\n\nDetails: https://vidiotsfoundation.org/movies
- /welcome-space-brothers/
-END:VEVENT
-BEGIN:VEVENT
-UID:4428192@vidiotsfoundation.org
-DTSTAMP:20260830T221500Z
-DTSTART;TZID=America/Los_Angeles:20260830T151500
-DTEND;TZID=America/Los_Angeles:20260830T174400
-SUMMARY:Guys and Dolls
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4428192/
-DESCRIPTION:Run time: 149 min | Format: Digital\n\nSeries: In the Eagle\n\n
- Join us for a big screen criminal musical bonanza starring the legendary F
- rank Sinatra and Marlon Brando! A high-stakes story of New York's gambling
-  underworld that's light on its feet and sweeter than a round of dulce de 
- leche.\n\nTickets: https://vidiotsfoundation.org/purchase/4428192/\n\nDeta
- ils: https://vidiotsfoundation.org/movies/guys-and-dolls/
-END:VEVENT
-BEGIN:VEVENT
 UID:4438437@vidiotsfoundation.org
 DTSTAMP:20260830T230000Z
 DTSTART;TZID=America/Los_Angeles:20260830T160000
@@ -140,28 +16,12 @@ SUMMARY:I Want Your Sex
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4438437/
-DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nLos Angeles indie legend Gregg Ar
+DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: In th
+ e MUBI Microcinema\, Additional Shows\n\nLos Angeles indie legend Gregg Ar
  aki's newest absurd comedy is a raunchy\, kinky delight and it's steaming 
  up our microcinema in all its eye-popping\, kink-positive\, raucously funn
  y glory!\n\nTickets: https://vidiotsfoundation.org/purchase/4438437/\n\nDe
  tails: https://vidiotsfoundation.org/movies/i-want-your-sex/
-END:VEVENT
-BEGIN:VEVENT
-UID:4388667@vidiotsfoundation.org
-DTSTAMP:20260831T020000Z
-DTSTART;TZID=America/Los_Angeles:20260830T190000
-DTEND;TZID=America/Los_Angeles:20260830T210700
-SUMMARY:Pride & Prejudice
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4388667/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 127 min | 
- Format: Digital | Rating: PG\n\nSeries: In the Eagle\n\nVidiots invites yo
- u to spend the night... with Mr. Darcy in this dreamy Jane Austen adaptati
- on.\n\nTickets: https://vidiotsfoundation.org/purchase/4388667/\n\nDetails
- : https://vidiotsfoundation.org/movies/pride-and-prejudice/
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4438451@vidiotsfoundation.org
@@ -173,8 +33,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4438451/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
- ormat: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micro
- cinema\n\nLos Angeles indie legend Gregg Araki's newest absurd comedy is a
+ ormat: Digital | Rating: R\n\nSeries: In the MUBI Microcinema\, Additional
+  Shows\n\nLos Angeles indie legend Gregg Araki's newest absurd comedy is a
   raunchy\, kinky delight and it's steaming up our microcinema in all its e
  ye-popping\, kink-positive\, raucously funny glory!\n\nTickets: https://vi
  diotsfoundation.org/purchase/4438451/\n\nDetails: https://vidiotsfoundatio
@@ -190,8 +50,8 @@ SUMMARY:I Want Your Sex
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4528682/
-DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nLos Angeles indie legend Gregg Ar
+DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: In th
+ e MUBI Microcinema\, Additional Shows\n\nLos Angeles indie legend Gregg Ar
  aki's newest absurd comedy is a raunchy\, kinky delight and it's steaming 
  up our microcinema in all its eye-popping\, kink-positive\, raucously funn
  y glory!\n\nTickets: https://vidiotsfoundation.org/purchase/4528682/\n\nDe
@@ -221,8 +81,8 @@ SUMMARY:I Want Your Sex
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4509708/
-DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nLos Angeles indie legend Gregg Ar
+DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: In th
+ e MUBI Microcinema\, Additional Shows\n\nLos Angeles indie legend Gregg Ar
  aki's newest absurd comedy is a raunchy\, kinky delight and it's steaming 
  up our microcinema in all its eye-popping\, kink-positive\, raucously funn
  y glory!\n\nTickets: https://vidiotsfoundation.org/purchase/4509708/\n\nDe
@@ -1417,53 +1277,72 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries:
  undation.org/movies/monster-in-law/
 END:VEVENT
 BEGIN:VEVENT
-UID:4365503@vidiotsfoundation.org
-DTSTAMP:20260829T200000Z
-DTSTART;TZID=America/Los_Angeles:20260829T130000
-DTEND;TZID=America/Los_Angeles:20260829T143000
-SUMMARY:Stop Motion Explosion! on 16mm
+UID:4388709@vidiotsfoundation.org
+DTSTAMP:20260830T193000Z
+DTSTART;TZID=America/Los_Angeles:20260830T123000
+DTEND;TZID=America/Los_Angeles:20260830T135300
+SUMMARY:Spirit: Stallion of the Cimarron
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4365503/
-DESCRIPTION:Run time: 90 min | Format: 16mm Film\n\nSeries: Films for Every
- one\, In the Eagle\, TeenTix LA\n\nAnimation heads of all ages rejoice! We
- 've got a supersized helping of adorable animated celluloid with Stop-Moti
- on Explosion!\, a program of delightful\, mesmerizing\, and mind-blowing s
- top-motion animation from the 1940s to the 1980s screening entirely on 16m
- m film on our big screen!\n\nTickets: https://vidiotsfoundation.org/purcha
- se/4365503/\n\nDetails: https://vidiotsfoundation.org/movies/stop-motion-e
- xplosion-on-16mm/
+URL:https://vidiotsfoundation.org/purchase/4388709/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 83 min | F
+ ormat: Digital | Rating: All Ages\n\nSeries: Films for Everyone\, In the E
+ agle\, TeenTix LA\n\nFeaturing a riveting score by Hans Zimmer and songs b
+ y Bryan Adams\, Spirit: Stallion of The Cimarron is sure to stir the heart
+ s both young and old alike.\n\nTickets: https://vidiotsfoundation.org/purc
+ hase/4388709/\n\nDetails: https://vidiotsfoundation.org/movies/spirit-stal
+ lion-of-the-cimarron/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4388710@vidiotsfoundation.org
-DTSTAMP:20260829T230000Z
-DTSTART;TZID=America/Los_Angeles:20260829T160000
-DTEND;TZID=America/Los_Angeles:20260829T173700
-SUMMARY:Diary of a Chambermaid
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4388710/
-DESCRIPTION:Run time: 97 min | Format: Digital | Release year: 1964\n\nSeri
- es: In the Eagle\n\nSpanish provocateur Luis Buñuel once again explores t
- he perversity and hypocrisy of human nature with this biting social satire
-  set in the French countryside of the 1930s.\n\nTickets: https://vidiotsfo
- undation.org/purchase/4388710/\n\nDetails: https://vidiotsfoundation.org/m
- ovies/diary-of-a-chambermaid/
+UID:4438421@vidiotsfoundation.org
+DTSTAMP:20260830T200000Z
+DTSTART;TZID=America/Los_Angeles:20260830T130000
+DTEND;TZID=America/Los_Angeles:20260830T144100
+SUMMARY:Welcome Space Brothers
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4438421/
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nThe unbelievabl
+ e but one-hundred percent true story of the Unarius Academy of Science —
+  an extraterrestrial-channeling spiritual school in Southern California wh
+ o in the 1980s became a prolific filmmaking collective and public access T
+ V phenomenon under the direction of their outlandish spiritual leader Ruth
+  E. Norman\, AKA “Archangel Uriel.”\n\nTickets: https://vidiotsfoundat
+ ion.org/purchase/4438421/\n\nDetails: https://vidiotsfoundation.org/movies
+ /welcome-space-brothers/
 END:VEVENT
 BEGIN:VEVENT
-UID:4388713@vidiotsfoundation.org
-DTSTAMP:20260830T020000Z
-DTSTART;TZID=America/Los_Angeles:20260829T190000
-DTEND;TZID=America/Los_Angeles:20260829T205700
-SUMMARY:Alien
+UID:4428192@vidiotsfoundation.org
+DTSTAMP:20260830T221500Z
+DTSTART;TZID=America/Los_Angeles:20260830T151500
+DTEND;TZID=America/Los_Angeles:20260830T174400
+SUMMARY:Guys and Dolls
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4388713/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 117 min | 
- Format: Digital\n\nSeries: In the Eagle\n\nIf you're like us\, you could d
- efinitely use some Ellen Ripley in your life right now!\n\nTickets: https:
- //vidiotsfoundation.org/purchase/4388713/\n\nDetails: https://vidiotsfound
- ation.org/movies/alien/
+URL:https://vidiotsfoundation.org/purchase/4428192/
+DESCRIPTION:Run time: 149 min | Format: Digital\n\nSeries: In the Eagle\n\n
+ Join us for a big screen criminal musical bonanza starring the legendary F
+ rank Sinatra and Marlon Brando! A high-stakes story of New York's gambling
+  underworld that's light on its feet and sweeter than a round of dulce de 
+ leche.\n\nTickets: https://vidiotsfoundation.org/purchase/4428192/\n\nDeta
+ ils: https://vidiotsfoundation.org/movies/guys-and-dolls/
+END:VEVENT
+BEGIN:VEVENT
+UID:4388667@vidiotsfoundation.org
+DTSTAMP:20260831T020000Z
+DTSTART;TZID=America/Los_Angeles:20260830T190000
+DTEND;TZID=America/Los_Angeles:20260830T210700
+SUMMARY:Pride & Prejudice
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4388667/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 127 min | 
+ Format: Digital | Rating: PG\n\nSeries: In the Eagle\n\nVidiots invites yo
+ u to spend the night... with Mr. Darcy in this dreamy Jane Austen adaptati
+ on.\n\nTickets: https://vidiotsfoundation.org/purchase/4388667/\n\nDetails
+ : https://vidiotsfoundation.org/movies/pride-and-prejudice/
 STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
