@@ -130,9 +130,10 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 97 min | F
  ormat: Digital | Rating: R\n\nSeries: In the Eagle\, Special Guests in Att
  endance\n\nVidiots is kvelling to welcome back writer/director David Wain 
  and camp counselor Marguerite Moreau for a special 25th Anniversary screen
- ing of their cult comedy classic Wet Hot American Summer !\n\nTickets: htt
- ps://vidiotsfoundation.org/purchase/4471014/\n\nDetails: https://vidiotsfo
- undation.org/movies/wet-hot-american-summer/
+ ing of their cult comedy classic Wet Hot American Summer !\nEncore Screeni
+ ng Added - September 11th\, screening only.\n\nTickets: https://vidiotsfou
+ ndation.org/purchase/4471014/\n\nDetails: https://vidiotsfoundation.org/mo
+ vies/wet-hot-american-summer/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -515,6 +516,23 @@ DESCRIPTION:Run time: 171 min | Format: 4K Digital | Rating: R | Release ye
  s://vidiotsfoundation.org/movies/farewell-my-concubine/
 END:VEVENT
 BEGIN:VEVENT
+UID:4509940@vidiotsfoundation.org
+DTSTAMP:20260911T230000Z
+DTSTART;TZID=America/Los_Angeles:20260911T160000
+DTEND;TZID=America/Los_Angeles:20260911T173700
+SUMMARY:Wet Hot American Summer
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509940/
+DESCRIPTION:No guest\n\nRun time: 97 min | Format: Digital | Rating: R\n\nS
+ eries: In the Eagle\, Special Guests in Attendance\n\nVidiots is kvelling 
+ to welcome back writer/director David Wain and camp counselor Marguerite M
+ oreau for a special 25th Anniversary screening of their cult comedy classi
+ c Wet Hot American Summer !\nEncore Screening Added - September 11th\, scr
+ eening only.\n\nTickets: https://vidiotsfoundation.org/purchase/4509940/\n
+ \nDetails: https://vidiotsfoundation.org/movies/wet-hot-american-summer/
+END:VEVENT
+BEGIN:VEVENT
 UID:4510005@vidiotsfoundation.org
 DTSTAMP:20260911T231500Z
 DTSTART;TZID=America/Los_Angeles:20260911T161500
@@ -869,6 +887,23 @@ DESCRIPTION:Run time: 125 min | Format: Digital | Rating: All Ages | Releas
  lish-subtitles/
 END:VEVENT
 BEGIN:VEVENT
+UID:4630072@vidiotsfoundation.org
+DTSTAMP:20260918T231500Z
+DTSTART;TZID=America/Los_Angeles:20260918T161500
+DTEND;TZID=America/Los_Angeles:20260918T175500
+SUMMARY:Filipiñana
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4630072/
+DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ema for one of the best films of the year and a masterwork of internationa
+ l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
+ ipiñana .\nMore showtimes added!\n\nTickets: https://vidiotsfoundation.or
+ g/purchase/4630072/\n\nDetails: https://vidiotsfoundation.org/movies/filip
+ inana/
+END:VEVENT
+BEGIN:VEVENT
 UID:4509966@vidiotsfoundation.org
 DTSTAMP:20260919T020000Z
 DTSTART;TZID=America/Los_Angeles:20260918T190000
@@ -898,8 +933,8 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
  MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
  f the year and a masterwork of international cinema - Rafael Manuel's phen
  omenally composed deadpan social satire Filipiñana .\nMore showtimes adde
- d soon!\n\nTickets: https://vidiotsfoundation.org/purchase/4510040/\n\nDet
- ails: https://vidiotsfoundation.org/movies/filipinana/
+ d!\n\nTickets: https://vidiotsfoundation.org/purchase/4510040/\n\nDetails:
+  https://vidiotsfoundation.org/movies/filipinana/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -917,6 +952,23 @@ DESCRIPTION:Run time: 96 min | Format: Digital | Rating: PG\n\nSeries: In t
   about to scorch the Vidiots big screen in all its oiled up 80s glory!\n\n
  Tickets: https://vidiotsfoundation.org/purchase/4509967/\n\nDetails: https
  ://vidiotsfoundation.org/movies/staying-alive/
+END:VEVENT
+BEGIN:VEVENT
+UID:4510041@vidiotsfoundation.org
+DTSTAMP:20260919T050000Z
+DTSTART;TZID=America/Los_Angeles:20260918T220000
+DTEND;TZID=America/Los_Angeles:20260918T234000
+SUMMARY:Filipiñana
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510041/
+DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ema for one of the best films of the year and a masterwork of internationa
+ l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
+ ipiñana .\nMore showtimes added!\n\nTickets: https://vidiotsfoundation.or
+ g/purchase/4510041/\n\nDetails: https://vidiotsfoundation.org/movies/filip
+ inana/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509968@vidiotsfoundation.org
@@ -963,8 +1015,8 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
  MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
  f the year and a masterwork of international cinema - Rafael Manuel's phen
  omenally composed deadpan social satire Filipiñana .\nMore showtimes adde
- d soon!\n\nTickets: https://vidiotsfoundation.org/purchase/4509984/\n\nDet
- ails: https://vidiotsfoundation.org/movies/filipinana/
+ d!\n\nTickets: https://vidiotsfoundation.org/purchase/4509984/\n\nDetails:
+  https://vidiotsfoundation.org/movies/filipinana/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -1015,6 +1067,40 @@ DESCRIPTION:Run time: 111 min | Format: Digital | Rating: PG\n\nSeries: In
  rtions!\n\nTickets: https://vidiotsfoundation.org/purchase/4571919/\n\nDet
  ails: https://vidiotsfoundation.org/movies/sgt-peppers-lonely-hearts-club-
  band/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509983@vidiotsfoundation.org
+DTSTAMP:20260920T050000Z
+DTSTART;TZID=America/Los_Angeles:20260919T220000
+DTEND;TZID=America/Los_Angeles:20260919T234000
+SUMMARY:Filipiñana
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509983/
+DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ema for one of the best films of the year and a masterwork of internationa
+ l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
+ ipiñana .\nMore showtimes added!\n\nTickets: https://vidiotsfoundation.or
+ g/purchase/4509983/\n\nDetails: https://vidiotsfoundation.org/movies/filip
+ inana/
+END:VEVENT
+BEGIN:VEVENT
+UID:4510089@vidiotsfoundation.org
+DTSTAMP:20260920T201500Z
+DTSTART;TZID=America/Los_Angeles:20260920T131500
+DTEND;TZID=America/Los_Angeles:20260920T145500
+SUMMARY:Filipiñana
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510089/
+DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ema for one of the best films of the year and a masterwork of internationa
+ l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
+ ipiñana .\nMore showtimes added!\n\nTickets: https://vidiotsfoundation.or
+ g/purchase/4510089/\n\nDetails: https://vidiotsfoundation.org/movies/filip
+ inana/
 END:VEVENT
 BEGIN:VEVENT
 UID:4510024@vidiotsfoundation.org
@@ -1076,9 +1162,9 @@ DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
  ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
  ema for one of the best films of the year and a masterwork of internationa
  l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
- ipiñana .\nMore showtimes added soon!\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4510092/\n\nDetails: https://vidiotsfoundation.org/movies/
- filipinana/
+ ipiñana .\nMore showtimes added!\n\nTickets: https://vidiotsfoundation.or
+ g/purchase/4510092/\n\nDetails: https://vidiotsfoundation.org/movies/filip
+ inana/
 END:VEVENT
 BEGIN:VEVENT
 UID:4510096@vidiotsfoundation.org
@@ -1093,9 +1179,9 @@ DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
  ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
  ema for one of the best films of the year and a masterwork of internationa
  l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
- ipiñana .\nMore showtimes added soon!\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4510096/\n\nDetails: https://vidiotsfoundation.org/movies/
- filipinana/
+ ipiñana .\nMore showtimes added!\n\nTickets: https://vidiotsfoundation.or
+ g/purchase/4510096/\n\nDetails: https://vidiotsfoundation.org/movies/filip
+ inana/
 END:VEVENT
 BEGIN:VEVENT
 UID:4510104@vidiotsfoundation.org
