@@ -830,6 +830,23 @@ DESCRIPTION:Run time: 115 min | Format: Digital | Rating: R\n\nSeries: Doll
  ittle-whorehouse-in-texas/
 END:VEVENT
 BEGIN:VEVENT
+UID:4633732@vidiotsfoundation.org
+DTSTAMP:20260918T020000Z
+DTSTART;TZID=America/Los_Angeles:20260917T190000
+DTEND;TZID=America/Los_Angeles:20260917T204000
+SUMMARY:Filipiñana
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4633732/
+DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ema for one of the best films of the year and a masterwork of internationa
+ l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
+ ipiñana .\nMore showtimes added!\n\nTickets: https://vidiotsfoundation.or
+ g/purchase/4633732/\n\nDetails: https://vidiotsfoundation.org/movies/filip
+ inana/
+END:VEVENT
+BEGIN:VEVENT
 UID:4597696@vidiotsfoundation.org
 DTSTAMP:20260918T023000Z
 DTSTART;TZID=America/Los_Angeles:20260917T193000
