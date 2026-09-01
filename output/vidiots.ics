@@ -8,40 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4528682@vidiotsfoundation.org
-DTSTAMP:20260901T020000Z
-DTSTART;TZID=America/Los_Angeles:20260831T190000
-DTEND;TZID=America/Los_Angeles:20260831T203000
-SUMMARY:I Want Your Sex
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4528682/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
- ormat: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micro
- cinema\n\nLos Angeles indie legend Gregg Araki's newest absurd comedy is a
-  raunchy\, kinky delight and it's steaming up our microcinema in all its e
- ye-popping\, kink-positive\, raucously funny glory!\n\nTickets: https://vi
- diotsfoundation.org/purchase/4528682/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/i-want-your-sex/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4509708@vidiotsfoundation.org
-DTSTAMP:20260902T023000Z
-DTSTART;TZID=America/Los_Angeles:20260901T193000
-DTEND;TZID=America/Los_Angeles:20260901T210000
-SUMMARY:I Want Your Sex
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509708/
-DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nLos Angeles indie legend Gregg Ar
- aki's newest absurd comedy is a raunchy\, kinky delight and it's steaming 
- up our microcinema in all its eye-popping\, kink-positive\, raucously funn
- y glory!\n\nTickets: https://vidiotsfoundation.org/purchase/4509708/\n\nDe
- tails: https://vidiotsfoundation.org/movies/i-want-your-sex/
-END:VEVENT
-BEGIN:VEVENT
 UID:4509710@vidiotsfoundation.org
 DTSTAMP:20260903T020000Z
 DTSTART;TZID=America/Los_Angeles:20260902T190000
@@ -932,13 +898,14 @@ SUMMARY:Filipiñana
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4510040/
-DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
- ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
- ema for one of the best films of the year and a masterwork of internationa
- l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
- ipiñana .\nMore showtimes added!\n\nTickets: https://vidiotsfoundation.or
- g/purchase/4510040/\n\nDetails: https://vidiotsfoundation.org/movies/filip
- inana/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
+ MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
+ f the year and a masterwork of international cinema - Rafael Manuel's phen
+ omenally composed deadpan social satire Filipiñana .\nMore showtimes adde
+ d!\n\nTickets: https://vidiotsfoundation.org/purchase/4510040/\n\nDetails:
+  https://vidiotsfoundation.org/movies/filipinana/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4509967@vidiotsfoundation.org
@@ -1317,20 +1284,19 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries:
  undation.org/movies/monster-in-law/
 END:VEVENT
 BEGIN:VEVENT
-UID:4393414@vidiotsfoundation.org
-DTSTAMP:20260901T023000Z
-DTSTART;TZID=America/Los_Angeles:20260831T193000
-DTEND;TZID=America/Los_Angeles:20260831T211100
-SUMMARY:sex\, lies\, and videotape
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4393414/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\n\nG
- et ready for Steven Soderbergh's Palme d'Or Winning feature debut masterpi
- ece of sexuality and neuroses to hit our big screen!\n\nTickets: https://v
- idiotsfoundation.org/purchase/4393414/\n\nDetails: https://vidiotsfoundati
- on.org/movies/sex-lies-and-videotape/
-STATUS:TENTATIVE
+UID:4509708@vidiotsfoundation.org
+DTSTAMP:20260902T023000Z
+DTSTART;TZID=America/Los_Angeles:20260901T193000
+DTEND;TZID=America/Los_Angeles:20260901T210000
+SUMMARY:I Want Your Sex
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509708/
+DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, In the MUBI Microcinema\n\nLos Angeles indie legend Gregg Ar
+ aki's newest absurd comedy is a raunchy\, kinky delight and it's steaming 
+ up our microcinema in all its eye-popping\, kink-positive\, raucously funn
+ y glory!\n\nTickets: https://vidiotsfoundation.org/purchase/4509708/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/i-want-your-sex/
 END:VEVENT
 END:VCALENDAR
