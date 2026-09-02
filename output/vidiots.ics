@@ -33,12 +33,10 @@ SUMMARY:Once
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4509709/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 85 min | F
- ormat: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\n\nJo
- in us for this swoonworthy musical romance!\n\nTickets: https://vidiotsfou
- ndation.org/purchase/4509709/\n\nDetails: https://vidiotsfoundation.org/mo
- vies/once/
-STATUS:TENTATIVE
+DESCRIPTION:Run time: 85 min | Format: Digital | Rating: R\n\nSeries: Doors
+  Open at 6\, In the Eagle\n\nJoin us for this swoonworthy musical romance!
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4509709/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/once/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509712@vidiotsfoundation.org
@@ -415,12 +413,13 @@ SUMMARY:Jurassic Park on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4509870/
-DESCRIPTION:Run time: 127 min | Format: 35mm Film | Rating: PG-13\n\nSeries
- : 35mm Film\, In the Eagle\, Remembering Sam Neill\n\nHop in scientists an
- d dino-philes\, we're heading on a prehistoric thrill ride to the world's 
- hottest new amusement park!\nRemembering Sam Neill\n\nTickets: https://vid
- iotsfoundation.org/purchase/4509870/\n\nDetails: https://vidiotsfoundation
- .org/movies/jurassic-park/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 127 min | 
+ Format: 35mm Film | Rating: PG-13\n\nSeries: 35mm Film\, In the Eagle\, Re
+ membering Sam Neill\n\nHop in scientists and dino-philes\, we're heading o
+ n a prehistoric thrill ride to the world's hottest new amusement park!\nRe
+ membering Sam Neill\n\nTickets: https://vidiotsfoundation.org/purchase/450
+ 9870/\n\nDetails: https://vidiotsfoundation.org/movies/jurassic-park/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4509925@vidiotsfoundation.org
@@ -775,6 +774,22 @@ DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
  tion!\nWith filmmaker Nastasya Popov in person at the Sunday\, September 1
  3th screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4561786/
  \n\nDetails: https://vidiotsfoundation.org/movies/idiotka/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509963@vidiotsfoundation.org
+DTSTAMP:20260915T020000Z
+DTSTART;TZID=America/Los_Angeles:20260914T190000
+DTEND;TZID=America/Los_Angeles:20260914T203500
+SUMMARY:Wild Inside
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509963/
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOur microcinema 
+ is going to the birds with Penny Lane's rapturous documentary about everyo
+ ne's favorite escaped zoo owl Flaco - Wild Inside .\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4509963/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/wild-inside/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509962@vidiotsfoundation.org
