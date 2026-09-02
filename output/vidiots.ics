@@ -1097,6 +1097,27 @@ DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
  inana/
 END:VEVENT
 BEGIN:VEVENT
+UID:4510102@vidiotsfoundation.org
+DTSTAMP:20260924T023000Z
+DTSTART;TZID=America/Los_Angeles:20260923T193000
+DTEND;TZID=America/Los_Angeles:20260923T212100
+SUMMARY:An Evening with the Yeah Yeah Yeahs – Hidden in Pieces + Eraserhe
+ ad
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510102/
+DESCRIPTION:Run time: 111 min\n\nSeries: Doors Open at 6\, In the Eagle\, S
+ pecial Guests in Attendance\n\nVidiots invites you to an extraordinary eve
+ ning of music\, cinema\, and community when we welcome the Yeah Yeah Yeahs
+  for a special advance screening of Hidden in Pieces - a visual companion 
+ to their new record - followed by a conversation with the band and a speci
+ al screening of David Lynch's Eraserhead. And the magic doesn't end there!
+  Fresh copies of their new LP will be available for purchase before and af
+ ter the screening.\n\nTickets: https://vidiotsfoundation.org/purchase/4510
+ 102/\n\nDetails: https://vidiotsfoundation.org/movies/an-evening-with-the-
+ yeah-yeah-yeahs/
+END:VEVENT
+BEGIN:VEVENT
 UID:4510104@vidiotsfoundation.org
 DTSTAMP:20260925T023000Z
 DTSTART;TZID=America/Los_Angeles:20260924T193000
@@ -1225,6 +1246,21 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries:
  ne Fonda in this guiltless pleasure of cinematic bitchery!\n\nTickets: htt
  ps://vidiotsfoundation.org/purchase/4510133/\n\nDetails: https://vidiotsfo
  undation.org/movies/monster-in-law/
+END:VEVENT
+BEGIN:VEVENT
+UID:4510150@vidiotsfoundation.org
+DTSTAMP:20261001T023000Z
+DTSTART;TZID=America/Los_Angeles:20260930T193000
+DTEND;TZID=America/Los_Angeles:20260930T214700
+SUMMARY:Terminator 2: Judgment Day on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510150/
+DESCRIPTION:Run time: 137 min | Format: Digital | Rating: R\n\nSeries: 35mm
+  Film\, Doors Open at 6\, In the Eagle\n\nOne bad-ass mother of a sequel!\
+ n35th Anniversary screening on 35mm Film!\n\nTickets: https://vidiotsfound
+ ation.org/purchase/4510150/\n\nDetails: https://vidiotsfoundation.org/movi
+ es/terminator-2-judgment-day/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509710@vidiotsfoundation.org
