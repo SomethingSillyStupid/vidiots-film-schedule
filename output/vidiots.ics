@@ -323,11 +323,13 @@ SUMMARY:O Brother\, Where Art Thou?
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4509869/
-DESCRIPTION:Run time: 107 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\n\nWe've got your Odyssey right here with Ethan and Joel Coen
- 's endlessly entertaining reimagining of the ancient myth in the 1930s Dee
- p South.\n\nTickets: https://vidiotsfoundation.org/purchase/4509869/\n\nDe
- tails: https://vidiotsfoundation.org/movies/o-brother-where-art-thou/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 107 min | 
+ Format: Digital | Rating: PG-13\n\nSeries: In the Eagle\n\nWe've got your 
+ Odyssey right here with Ethan and Joel Coen's endlessly entertaining reima
+ gining of the ancient myth in the 1930s Deep South.\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4509869/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/o-brother-where-art-thou/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4509908@vidiotsfoundation.org
@@ -1134,6 +1136,23 @@ DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
  inana/
 END:VEVENT
 BEGIN:VEVENT
+UID:4510095@vidiotsfoundation.org
+DTSTAMP:20260922T023000Z
+DTSTART;TZID=America/Los_Angeles:20260921T193000
+DTEND;TZID=America/Los_Angeles:20260921T211000
+SUMMARY:Filipiñana
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510095/
+DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ema for one of the best films of the year and a masterwork of internationa
+ l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
+ ipiñana .\nMore showtimes added!\n\nTickets: https://vidiotsfoundation.or
+ g/purchase/4510095/\n\nDetails: https://vidiotsfoundation.org/movies/filip
+ inana/
+END:VEVENT
+BEGIN:VEVENT
 UID:4510096@vidiotsfoundation.org
 DTSTAMP:20260923T023000Z
 DTSTART;TZID=America/Los_Angeles:20260922T193000
@@ -1207,6 +1226,22 @@ DESCRIPTION:Run time: 96 min | Format: 35mm Film | Rating: R\n\nSeries: 35m
  roduction from Director Phillip Noyce !\n\nTickets: https://vidiotsfoundat
  ion.org/purchase/4510122/\n\nDetails: https://vidiotsfoundation.org/movies
  /dead-calm/
+END:VEVENT
+BEGIN:VEVENT
+UID:4510123@vidiotsfoundation.org
+DTSTAMP:20260926T044500Z
+DTSTART;TZID=America/Los_Angeles:20260925T214500
+DTEND;TZID=America/Los_Angeles:20260925T231800
+SUMMARY:Bandidas on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510123/
+DESCRIPTION:Run time: 93 min | Format: 35mm Film | Rating: PG-13\n\nSeries:
+  35mm Film\, In the Eagle\, What the Friday?!?\n\nIf your Friday night cou
+ ld use a little kick-ass social justice fire\, don't miss out when Penélo
+ pe Cruz and Salma Hayek singe the big screen with this bad ass banger!\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4510123/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/bandidas/
 END:VEVENT
 BEGIN:VEVENT
 UID:4510124@vidiotsfoundation.org
@@ -1303,6 +1338,22 @@ DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries:
  ff against Jane Fonda in this guiltless pleasure of cinematic bitchery!\n\
  nTickets: https://vidiotsfoundation.org/purchase/4510133/\n\nDetails: http
  s://vidiotsfoundation.org/movies/monster-in-law/
+END:VEVENT
+BEGIN:VEVENT
+UID:4510135@vidiotsfoundation.org
+DTSTAMP:20260929T023000Z
+DTSTART;TZID=America/Los_Angeles:20260928T193000
+DTEND;TZID=America/Los_Angeles:20260928T223800
+SUMMARY:Short Cuts
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510135/
+DESCRIPTION:Run time: 188 min | Format: Digital | Rating: R\n\nSeries: Door
+ s Open at 6\, In the Eagle\, Not on Streaming\n\nCinematic master Robert A
+ ltman interweaves the stories of 22 characters in this sprawling and kalei
+ doscopic masterpiece based on the short stories of Raymond Carver.\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4510135/\n\nDetails: https://v
+ idiotsfoundation.org/movies/short-cuts/
 END:VEVENT
 BEGIN:VEVENT
 UID:4510150@vidiotsfoundation.org
