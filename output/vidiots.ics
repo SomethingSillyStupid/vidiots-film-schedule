@@ -8,6 +8,23 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
+UID:4509710@vidiotsfoundation.org
+DTSTAMP:20260903T020000Z
+DTSTART;TZID=America/Los_Angeles:20260902T190000
+DTEND;TZID=America/Los_Angeles:20260902T212700
+SUMMARY:The Samurai and the Prisoner
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509710/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 147 min | 
+ Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
+ MUBI Microcinema\n\nJoin us in the microcinema for Kiyoshi Kurosawa's pond
+ erous and philosophical samurai epic The Samurai and the Prisoner .\n\nTic
+ kets: https://vidiotsfoundation.org/purchase/4509710/\n\nDetails: https://
+ vidiotsfoundation.org/movies/the-samurai-and-the-prisoner/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:4509712@vidiotsfoundation.org
 DTSTAMP:20260904T023000Z
 DTSTART;TZID=America/Los_Angeles:20260903T193000
@@ -21,6 +38,22 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Release year: 1961\n\nSer
  in this darkly comic and visually arresting masterpiece from the inimitabl
  e Akira Kurosawa.\n\nTickets: https://vidiotsfoundation.org/purchase/45097
  12/\n\nDetails: https://vidiotsfoundation.org/movies/yojimbo/
+END:VEVENT
+BEGIN:VEVENT
+UID:4471022@vidiotsfoundation.org
+DTSTAMP:20260904T223000Z
+DTSTART;TZID=America/Los_Angeles:20260904T153000
+DTEND;TZID=America/Los_Angeles:20260904T175700
+SUMMARY:The Samurai and the Prisoner
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4471022/
+DESCRIPTION:Run time: 147 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ema for Kiyoshi Kurosawa's ponderous and philosophical samurai epic The Sa
+ murai and the Prisoner .\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4471022/\n\nDetails: https://vidiotsfoundation.org/movies/the-samurai-an
+ d-the-prisoner/
 END:VEVENT
 BEGIN:VEVENT
 UID:4600700@vidiotsfoundation.org
@@ -135,12 +168,30 @@ SUMMARY:CatVideoFest 2026
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4509873/
-DESCRIPTION:Run time: 70 min | Format: Digital | Rating: All Ages\n\nSeries
- : Additional Shows\, In the MUBI Microcinema\, Films for Everyone\n\nOur f
- uzzy overlords return to the big screen! Vidiots is purrfectly enthralled 
- to bring back the cutest kitty compilation ever!\nEncore Screenings added 
- in the microcinema!\n\nTickets: https://vidiotsfoundation.org/purchase/450
- 9873/\n\nDetails: https://vidiotsfoundation.org/movies/catvideofest-2026/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 70 min | F
+ ormat: Digital | Rating: All Ages\n\nSeries: Additional Shows\, In the MUB
+ I Microcinema\, Films for Everyone\n\nOur fuzzy overlords return to the bi
+ g screen! Vidiots is purrfectly enthralled to bring back the cutest kitty 
+ compilation ever!\nEncore Screenings added in the microcinema!\n\nTickets:
+  https://vidiotsfoundation.org/purchase/4509873/\n\nDetails: https://vidio
+ tsfoundation.org/movies/catvideofest-2026/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4509882@vidiotsfoundation.org
+DTSTAMP:20260905T214500Z
+DTSTART;TZID=America/Los_Angeles:20260905T144500
+DTEND;TZID=America/Los_Angeles:20260905T171200
+SUMMARY:The Samurai and the Prisoner
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509882/
+DESCRIPTION:Run time: 147 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ema for Kiyoshi Kurosawa's ponderous and philosophical samurai epic The Sa
+ murai and the Prisoner .\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4509882/\n\nDetails: https://vidiotsfoundation.org/movies/the-samurai-an
+ d-the-prisoner/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509727@vidiotsfoundation.org
@@ -246,6 +297,22 @@ DESCRIPTION:Run time: 125 min | Format: Digital | Rating: All Ages | Releas
  way-english-dubbed/
 END:VEVENT
 BEGIN:VEVENT
+UID:4509906@vidiotsfoundation.org
+DTSTAMP:20260906T200000Z
+DTSTART;TZID=America/Los_Angeles:20260906T130000
+DTEND;TZID=America/Los_Angeles:20260906T152700
+SUMMARY:The Samurai and the Prisoner
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509906/
+DESCRIPTION:Run time: 147 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ema for Kiyoshi Kurosawa's ponderous and philosophical samurai epic The Sa
+ murai and the Prisoner .\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4509906/\n\nDetails: https://vidiotsfoundation.org/movies/the-samurai-an
+ d-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
 UID:4509868@vidiotsfoundation.org
 DTSTAMP:20260906T230000Z
 DTSTART;TZID=America/Los_Angeles:20260906T160000
@@ -346,6 +413,22 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 127 min |
  membering Sam Neill\n\nTickets: https://vidiotsfoundation.org/purchase/450
  9870/\n\nDetails: https://vidiotsfoundation.org/movies/jurassic-park/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4509925@vidiotsfoundation.org
+DTSTAMP:20260908T020000Z
+DTSTART;TZID=America/Los_Angeles:20260907T190000
+DTEND;TZID=America/Los_Angeles:20260907T212700
+SUMMARY:The Samurai and the Prisoner
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509925/
+DESCRIPTION:Run time: 147 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ema for Kiyoshi Kurosawa's ponderous and philosophical samurai epic The Sa
+ murai and the Prisoner .\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4509925/\n\nDetails: https://vidiotsfoundation.org/movies/the-samurai-an
+ d-the-prisoner/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509922@vidiotsfoundation.org
@@ -746,13 +829,14 @@ SUMMARY:The Best Little Whorehouse in Texas
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4608759/
-DESCRIPTION:Run time: 115 min | Format: Digital | Rating: R\n\nSeries: Doll
- y Parton - We Will Always Love You\, Doors Open at 6\, In the Eagle\n\nVid
- iots is easing our heartbreak over the loss of the eternal Goddess Dolly P
- arton with a special screening of her rootinest tootinest musical The Best
-  Little Whorehouse in Texas .\n\nTickets: https://vidiotsfoundation.org/pu
- rchase/4608759/\n\nDetails: https://vidiotsfoundation.org/movies/the-best-
- little-whorehouse-in-texas/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 115 min | 
+ Format: Digital | Rating: R\n\nSeries: Dolly Parton - We Will Always Love 
+ You\, Doors Open at 6\, In the Eagle\n\nVidiots is easing our heartbreak o
+ ver the loss of the eternal Goddess Dolly Parton with a special screening 
+ of her rootinest tootinest musical The Best Little Whorehouse in Texas .\n
+ \nTickets: https://vidiotsfoundation.org/purchase/4608759/\n\nDetails: htt
+ ps://vidiotsfoundation.org/movies/the-best-little-whorehouse-in-texas/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4633732@vidiotsfoundation.org
@@ -1148,10 +1232,12 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4510122/
 DESCRIPTION:Run time: 96 min | Format: 35mm Film | Rating: R\n\nSeries: 35m
- m Film\, In the Eagle\, Remembering Sam Neill\n\nOur celebration of the li
- fe and legacy of Sam Neill continues with this unnerving slow burn Aussie 
- thriller.\n\nTickets: https://vidiotsfoundation.org/purchase/4510122/\n\nD
- etails: https://vidiotsfoundation.org/movies/dead-calm/
+ m Film\, In the Eagle\, Remembering Sam Neill\, Special Guests in Attendan
+ ce\n\nOur celebration of the life and legacy of Sam Neill continues with t
+ his unnerving slow burn Aussie thriller\, featuring a special extended int
+ roduction from Director Phillip Noyce !\n\nTickets: https://vidiotsfoundat
+ ion.org/purchase/4510122/\n\nDetails: https://vidiotsfoundation.org/movies
+ /dead-calm/
 END:VEVENT
 BEGIN:VEVENT
 UID:4510124@vidiotsfoundation.org
@@ -1263,23 +1349,6 @@ DESCRIPTION:Run time: 137 min | Format: Digital | Rating: R\n\nSeries: 35mm
  n35th Anniversary screening on 35mm Film!\n\nTickets: https://vidiotsfound
  ation.org/purchase/4510150/\n\nDetails: https://vidiotsfoundation.org/movi
  es/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-UID:4509710@vidiotsfoundation.org
-DTSTAMP:20260903T020000Z
-DTSTART;TZID=America/Los_Angeles:20260902T190000
-DTEND;TZID=America/Los_Angeles:20260902T212700
-SUMMARY:The Samurai and the Prisoner
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509710/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 147 min | 
- Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
- MUBI Microcinema\n\nJoin us in the microcinema for Kiyoshi Kurosawa's pond
- erous and philosophical samurai epic The Samurai and the Prisoner .\n\nTic
- kets: https://vidiotsfoundation.org/purchase/4509710/\n\nDetails: https://
- vidiotsfoundation.org/movies/the-samurai-and-the-prisoner/
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4509709@vidiotsfoundation.org
