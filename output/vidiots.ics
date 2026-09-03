@@ -8,38 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4509710@vidiotsfoundation.org
-DTSTAMP:20260903T020000Z
-DTSTART;TZID=America/Los_Angeles:20260902T190000
-DTEND;TZID=America/Los_Angeles:20260902T212700
-SUMMARY:The Samurai and the Prisoner
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509710/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 147 min | 
- Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
- MUBI Microcinema\n\nJoin us in the microcinema for Kiyoshi Kurosawa's pond
- erous and philosophical samurai epic The Samurai and the Prisoner .\n\nTic
- kets: https://vidiotsfoundation.org/purchase/4509710/\n\nDetails: https://
- vidiotsfoundation.org/movies/the-samurai-and-the-prisoner/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4509712@vidiotsfoundation.org
-DTSTAMP:20260904T023000Z
-DTSTART;TZID=America/Los_Angeles:20260903T193000
-DTEND;TZID=America/Los_Angeles:20260903T212000
-SUMMARY:Yojimbo
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509712/
-DESCRIPTION:Run time: 110 min | Format: Digital | Release year: 1961\n\nSer
- ies: Doors Open at 6\, In the Eagle\n\nEternal icon Toshirō Mifune stars 
- in this darkly comic and visually arresting masterpiece from the inimitabl
- e Akira Kurosawa.\n\nTickets: https://vidiotsfoundation.org/purchase/45097
- 12/\n\nDetails: https://vidiotsfoundation.org/movies/yojimbo/
-END:VEVENT
-BEGIN:VEVENT
 UID:4471022@vidiotsfoundation.org
 DTSTAMP:20260904T223000Z
 DTSTART;TZID=America/Los_Angeles:20260904T153000
@@ -926,13 +894,14 @@ SUMMARY:Filipiñana
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4510040/
-DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
- ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
- ema for one of the best films of the year and a masterwork of internationa
- l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
- ipiñana .\nMore showtimes added!\n\nTickets: https://vidiotsfoundation.or
- g/purchase/4510040/\n\nDetails: https://vidiotsfoundation.org/movies/filip
- inana/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
+ MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
+ f the year and a masterwork of international cinema - Rafael Manuel's phen
+ omenally composed deadpan social satire Filipiñana .\nMore showtimes adde
+ d!\n\nTickets: https://vidiotsfoundation.org/purchase/4510040/\n\nDetails:
+  https://vidiotsfoundation.org/movies/filipinana/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4509967@vidiotsfoundation.org
@@ -1351,17 +1320,18 @@ DESCRIPTION:Run time: 137 min | Format: Digital | Rating: R\n\nSeries: 35mm
  es/terminator-2-judgment-day/
 END:VEVENT
 BEGIN:VEVENT
-UID:4509709@vidiotsfoundation.org
-DTSTAMP:20260903T023000Z
-DTSTART;TZID=America/Los_Angeles:20260902T193000
-DTEND;TZID=America/Los_Angeles:20260902T205500
-SUMMARY:Once
+UID:4509712@vidiotsfoundation.org
+DTSTAMP:20260904T023000Z
+DTSTART;TZID=America/Los_Angeles:20260903T193000
+DTEND;TZID=America/Los_Angeles:20260903T212000
+SUMMARY:Yojimbo
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509709/
-DESCRIPTION:Run time: 85 min | Format: Digital | Rating: R\n\nSeries: Doors
-  Open at 6\, In the Eagle\n\nJoin us for this swoonworthy musical romance!
- \n\nTickets: https://vidiotsfoundation.org/purchase/4509709/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/once/
+URL:https://vidiotsfoundation.org/purchase/4509712/
+DESCRIPTION:Run time: 110 min | Format: Digital | Release year: 1961\n\nSer
+ ies: Doors Open at 6\, In the Eagle\n\nEternal icon Toshirō Mifune stars 
+ in this darkly comic and visually arresting masterpiece from the inimitabl
+ e Akira Kurosawa.\n\nTickets: https://vidiotsfoundation.org/purchase/45097
+ 12/\n\nDetails: https://vidiotsfoundation.org/movies/yojimbo/
 END:VEVENT
 END:VCALENDAR
