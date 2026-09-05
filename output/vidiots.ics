@@ -8,95 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4471022@vidiotsfoundation.org
-DTSTAMP:20260904T223000Z
-DTSTART;TZID=America/Los_Angeles:20260904T153000
-DTEND;TZID=America/Los_Angeles:20260904T175700
-SUMMARY:The Samurai and the Prisoner
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4471022/
-DESCRIPTION:Run time: 147 min | Format: Digital | Release year: 2026\n\nSer
- ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
- ema for Kiyoshi Kurosawa's ponderous and philosophical samurai epic The Sa
- murai and the Prisoner .\n\nTickets: https://vidiotsfoundation.org/purchas
- e/4471022/\n\nDetails: https://vidiotsfoundation.org/movies/the-samurai-an
- d-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-UID:4471014@vidiotsfoundation.org
-DTSTAMP:20260905T020000Z
-DTSTART;TZID=America/Los_Angeles:20260904T190000
-DTEND;TZID=America/Los_Angeles:20260904T203700
-SUMMARY:Wet Hot American Summer
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4471014/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 97 min | F
- ormat: Digital | Rating: R\n\nSeries: In the Eagle\, Special Guests in Att
- endance\n\nVidiots is kvelling to welcome back writer/director David Wain 
- and camp counselor Marguerite Moreau for a special 25th Anniversary screen
- ing of their cult comedy classic Wet Hot American Summer !\nEncore Screeni
- ng Added - September 11th\, screening only.\n\nTickets: https://vidiotsfou
- ndation.org/purchase/4471014/\n\nDetails: https://vidiotsfoundation.org/mo
- vies/wet-hot-american-summer/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4471015@vidiotsfoundation.org
-DTSTAMP:20260905T022000Z
-DTSTART;TZID=America/Los_Angeles:20260904T192000
-DTEND;TZID=America/Los_Angeles:20260904T211200
-SUMMARY:Teenage Sex and Death at Camp Miasma
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4471015/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\, Doors Open at 6\n\nVisionary director Jane Schoenbrun presents a
-  new kind of horror remake! Bursting with imagination and surreal wit\, th
- eir latest genre-bending wonder affirms there’s no such thing as a guilt
- y pleasure.\nMore Showtimes added!\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4471015/\n\nDetails: https://vidiotsfoundation.org/movies/teen
- age-sex-and-death-at-camp-miasma-2026/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4504835@vidiotsfoundation.org
-DTSTAMP:20260905T051500Z
-DTSTART;TZID=America/Los_Angeles:20260904T221500
-DTEND;TZID=America/Los_Angeles:20260904T232500
-SUMMARY:CatVideoFest 2026
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4504835/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 70 min | F
- ormat: Digital | Rating: All Ages\n\nSeries: Additional Shows\, In the MUB
- I Microcinema\, Films for Everyone\n\nOur fuzzy overlords return to the bi
- g screen! Vidiots is purrfectly enthralled to bring back the cutest kitty 
- compilation ever!\nEncore Screenings added in the microcinema!\n\nTickets:
-  https://vidiotsfoundation.org/purchase/4504835/\n\nDetails: https://vidio
- tsfoundation.org/movies/catvideofest-2026/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4509722@vidiotsfoundation.org
-DTSTAMP:20260905T190000Z
-DTSTART;TZID=America/Los_Angeles:20260905T120000
-DTEND;TZID=America/Los_Angeles:20260905T134700
-SUMMARY:Moana Sing-Along
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509722/
-DESCRIPTION:Run time: 107 min | Format: Digital | Rating: All Ages\n\nSerie
- s: Films for Everyone\, In the Eagle\, Interactive\, TeenTix LA\n\nThe oce
- an is calling.\nWith a fun and inspiring soundtrack that includes tracks b
- y Lin-Manuel Miranda\, here's your chance to belt out your favorite tunes 
- with folks who love it as much as you do!\n\nTickets: https://vidiotsfound
- ation.org/purchase/4509722/\n\nDetails: https://vidiotsfoundation.org/movi
- es/moana/
-END:VEVENT
-BEGIN:VEVENT
 UID:4509873@vidiotsfoundation.org
 DTSTAMP:20260905T193000Z
 DTSTART;TZID=America/Los_Angeles:20260905T123000
@@ -106,8 +17,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4509873/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 70 min | F
- ormat: Digital | Rating: All Ages\n\nSeries: Additional Shows\, In the MUB
- I Microcinema\, Films for Everyone\n\nOur fuzzy overlords return to the bi
+ ormat: Digital | Rating: All Ages\n\nSeries: Additional Shows\, Films for 
+ Everyone\, In the MUBI Microcinema\n\nOur fuzzy overlords return to the bi
  g screen! Vidiots is purrfectly enthralled to bring back the cutest kitty 
  compilation ever!\nEncore Screenings added in the microcinema!\n\nTickets:
   https://vidiotsfoundation.org/purchase/4509873/\n\nDetails: https://vidio
@@ -131,24 +42,6 @@ DESCRIPTION:Run time: 147 min | Format: Digital | Release year: 2026\n\nSer
  d-the-prisoner/
 END:VEVENT
 BEGIN:VEVENT
-UID:4509727@vidiotsfoundation.org
-DTSTAMP:20260905T220000Z
-DTSTART;TZID=America/Los_Angeles:20260905T150000
-DTEND;TZID=America/Los_Angeles:20260905T174200
-SUMMARY:Star Trek II: The Wrath of Khan + Bonus Episode – Space Seed
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509727/
-DESCRIPTION:Run time: 162 min | Format: Digital | Rating: PG\n\nSeries: In 
- the Eagle\, TeenTix LA\n\nBeam yourself up to the Starship Enterprise for 
- a double shot of intergalactic fun and twice the Ricardo Montalban with on
- e of the best films in the franchise\, and an all-time classic of Science 
- Fiction cinema Star Trek II: The Wrath of Khan plus a bonus episode of the
-  original series that inspired the film: Space Seed .\n\nTickets: https://
- vidiotsfoundation.org/purchase/4509727/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/star-trek-ii-the-wrath-of-khan/
-END:VEVENT
-BEGIN:VEVENT
 UID:4509893@vidiotsfoundation.org
 DTSTAMP:20260906T013000Z
 DTSTART;TZID=America/Los_Angeles:20260905T183000
@@ -165,24 +58,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min |
  y pleasure.\nMore Showtimes added!\n\nTickets: https://vidiotsfoundation.o
  rg/purchase/4509893/\n\nDetails: https://vidiotsfoundation.org/movies/teen
  age-sex-and-death-at-camp-miasma-2026/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4509730@vidiotsfoundation.org
-DTSTAMP:20260906T020000Z
-DTSTART;TZID=America/Los_Angeles:20260905T190000
-DTEND;TZID=America/Los_Angeles:20260905T203600
-SUMMARY:Tremors
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509730/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 96 min | F
- ormat: Digital | Rating: PG-13\n\nSeries: In the Eagle\n\nWith some of the
-  best monster effects of the entire 1990s on full display in the desert su
- n\, this cult-classic delivers the scares\, thrills\, and laughs of a crea
- ture feature that is truly Perfection.\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4509730/\n\nDetails: https://vidiotsfoundation.org/movies/
- tremors/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -203,22 +78,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min |
  rg/purchase/4509894/\n\nDetails: https://vidiotsfoundation.org/movies/teen
  age-sex-and-death-at-camp-miasma-2026/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4509744@vidiotsfoundation.org
-DTSTAMP:20260906T044500Z
-DTSTART;TZID=America/Los_Angeles:20260905T214500
-DTEND;TZID=America/Los_Angeles:20260905T233600
-SUMMARY:Kill Bill: Vol. 1 on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509744/
-DESCRIPTION:Run time: 111 min | Format: 35mm Film | Rating: R\n\nSeries: 35
- mm Film\, In the Eagle\n\nYour Saturday night just got a whole lot more ki
- ck ass as Quentin Tarantino's Kill Bill ignites our big screen with an ons
- laught of celluloid action!\n\nTickets: https://vidiotsfoundation.org/purc
- hase/4509744/\n\nDetails: https://vidiotsfoundation.org/movies/kill-bill-v
- ol-1/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509866@vidiotsfoundation.org
@@ -277,8 +136,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4509910/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 70 min | F
- ormat: Digital | Rating: All Ages\n\nSeries: Additional Shows\, In the MUB
- I Microcinema\, Films for Everyone\n\nOur fuzzy overlords return to the bi
+ ormat: Digital | Rating: All Ages\n\nSeries: Additional Shows\, Films for 
+ Everyone\, In the MUBI Microcinema\n\nOur fuzzy overlords return to the bi
  g screen! Vidiots is purrfectly enthralled to bring back the cutest kitty 
  compilation ever!\nEncore Screenings added in the microcinema!\n\nTickets:
   https://vidiotsfoundation.org/purchase/4509910/\n\nDetails: https://vidio
@@ -469,12 +328,12 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4509940/
 DESCRIPTION:No guest\n\nRun time: 97 min | Format: Digital | Rating: R\n\nS
- eries: In the Eagle\, Special Guests in Attendance\n\nVidiots is kvelling 
- to welcome back writer/director David Wain and camp counselor Marguerite M
- oreau for a special 25th Anniversary screening of their cult comedy classi
- c Wet Hot American Summer !\nEncore Screening Added - September 11th\, scr
- eening only.\n\nTickets: https://vidiotsfoundation.org/purchase/4509940/\n
- \nDetails: https://vidiotsfoundation.org/movies/wet-hot-american-summer/
+ eries: In the Eagle\n\nVidiots is kvelling to welcome back writer/director
+  David Wain and camp counselor Marguerite Moreau for a special 25th Annive
+ rsary screening of their cult comedy classic Wet Hot American Summer !\nEn
+ core Screening Added - September 11th\, screening only.\n\nTickets: https:
+ //vidiotsfoundation.org/purchase/4509940/\n\nDetails: https://vidiotsfound
+ ation.org/showtimes/wet-hot-american-summer-9-11-26-400-pm/
 END:VEVENT
 BEGIN:VEVENT
 UID:4510005@vidiotsfoundation.org
@@ -1418,36 +1277,72 @@ DESCRIPTION:Run time: 83 min | Format: 4K Digital\n\nSeries: Community Part
  n.org/movies/chocolate-babies/
 END:VEVENT
 BEGIN:VEVENT
-UID:4600700@vidiotsfoundation.org
-DTSTAMP:20260904T230000Z
-DTSTART;TZID=America/Los_Angeles:20260904T160000
-DTEND;TZID=America/Los_Angeles:20260904T180400
-SUMMARY:Possession
+UID:4509722@vidiotsfoundation.org
+DTSTAMP:20260905T190000Z
+DTSTART;TZID=America/Los_Angeles:20260905T120000
+DTEND;TZID=America/Los_Angeles:20260905T134700
+SUMMARY:Moana Sing-Along
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4600700/
-DESCRIPTION:Run time: 124 min | Format: Digital | Rating: R | Release year:
-  1981\n\nSeries: In the Eagle\, Remembering Sam Neill\n\nLose yourself in 
- this disturbing tale of obsession\, sexuality\, and transformation from th
- e fecund mind of Polish provocateur Andrzej Żuławski.\nEncore Screening 
- Added!\n\nTickets: https://vidiotsfoundation.org/purchase/4600700/\n\nDeta
- ils: https://vidiotsfoundation.org/movies/possession/
+URL:https://vidiotsfoundation.org/purchase/4509722/
+DESCRIPTION:Run time: 107 min | Format: Digital | Rating: All Ages\n\nSerie
+ s: Films for Everyone\, In the Eagle\, Interactive\, TeenTix LA\n\nThe oce
+ an is calling.\nWith a fun and inspiring soundtrack that includes tracks b
+ y Lin-Manuel Miranda\, here's your chance to belt out your favorite tunes 
+ with folks who love it as much as you do!\n\nTickets: https://vidiotsfound
+ ation.org/purchase/4509722/\n\nDetails: https://vidiotsfoundation.org/movi
+ es/moana/
 END:VEVENT
 BEGIN:VEVENT
-UID:4509721@vidiotsfoundation.org
-DTSTAMP:20260905T044500Z
-DTSTART;TZID=America/Los_Angeles:20260904T214500
-DTEND;TZID=America/Los_Angeles:20260904T233900
-SUMMARY:The Holy Mountain
+UID:4509727@vidiotsfoundation.org
+DTSTAMP:20260905T220000Z
+DTSTART;TZID=America/Los_Angeles:20260905T150000
+DTEND;TZID=America/Los_Angeles:20260905T174200
+SUMMARY:Star Trek II: The Wrath of Khan + Bonus Episode – Space Seed
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509721/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 114 min | 
- Format: Digital | Rating: R\n\nSeries: In the Eagle\, What the Friday?!?\n
- \nPack your bags for the head-trip of a lifetime with Alejandro Jodorowsky
- 's dazzling masterpiece and one of the most mind-bending feature films of 
- all time.\n\nTickets: https://vidiotsfoundation.org/purchase/4509721/\n\nD
- etails: https://vidiotsfoundation.org/movies/the-holy-mountain/
+URL:https://vidiotsfoundation.org/purchase/4509727/
+DESCRIPTION:Run time: 162 min | Format: Digital | Rating: PG\n\nSeries: In 
+ the Eagle\, TeenTix LA\n\nBeam yourself up to the Starship Enterprise for 
+ a double shot of intergalactic fun and twice the Ricardo Montalban with on
+ e of the best films in the franchise\, and an all-time classic of Science 
+ Fiction cinema Star Trek II: The Wrath of Khan plus a bonus episode of the
+  original series that inspired the film: Space Seed .\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4509727/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/star-trek-ii-the-wrath-of-khan/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509730@vidiotsfoundation.org
+DTSTAMP:20260906T020000Z
+DTSTART;TZID=America/Los_Angeles:20260905T190000
+DTEND;TZID=America/Los_Angeles:20260905T203600
+SUMMARY:Tremors
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509730/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 96 min | F
+ ormat: Digital | Rating: PG-13\n\nSeries: In the Eagle\n\nWith some of the
+  best monster effects of the entire 1990s on full display in the desert su
+ n\, this cult-classic delivers the scares\, thrills\, and laughs of a crea
+ ture feature that is truly Perfection.\n\nTickets: https://vidiotsfoundati
+ on.org/purchase/4509730/\n\nDetails: https://vidiotsfoundation.org/movies/
+ tremors/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4509744@vidiotsfoundation.org
+DTSTAMP:20260906T044500Z
+DTSTART;TZID=America/Los_Angeles:20260905T214500
+DTEND;TZID=America/Los_Angeles:20260905T233600
+SUMMARY:Kill Bill: Vol. 1 on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509744/
+DESCRIPTION:Run time: 111 min | Format: 35mm Film | Rating: R\n\nSeries: 35
+ mm Film\, In the Eagle\n\nYour Saturday night just got a whole lot more ki
+ ck ass as Quentin Tarantino's Kill Bill ignites our big screen with an ons
+ laught of celluloid action!\n\nTickets: https://vidiotsfoundation.org/purc
+ hase/4509744/\n\nDetails: https://vidiotsfoundation.org/movies/kill-bill-v
+ ol-1/
 END:VEVENT
 END:VCALENDAR
