@@ -8,95 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4509873@vidiotsfoundation.org
-DTSTAMP:20260905T193000Z
-DTSTART;TZID=America/Los_Angeles:20260905T123000
-DTEND;TZID=America/Los_Angeles:20260905T134000
-SUMMARY:CatVideoFest 2026
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509873/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 70 min | F
- ormat: Digital | Rating: All Ages\n\nSeries: Additional Shows\, Films for 
- Everyone\, In the MUBI Microcinema\n\nOur fuzzy overlords return to the bi
- g screen! Vidiots is purrfectly enthralled to bring back the cutest kitty 
- compilation ever!\nEncore Screenings added in the microcinema!\n\nTickets:
-  https://vidiotsfoundation.org/purchase/4509873/\n\nDetails: https://vidio
- tsfoundation.org/movies/catvideofest-2026/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4509882@vidiotsfoundation.org
-DTSTAMP:20260905T214500Z
-DTSTART;TZID=America/Los_Angeles:20260905T144500
-DTEND;TZID=America/Los_Angeles:20260905T171200
-SUMMARY:The Samurai and the Prisoner
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509882/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 147 min | 
- Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
- MUBI Microcinema\n\nJoin us in the microcinema for Kiyoshi Kurosawa's pond
- erous and philosophical samurai epic The Samurai and the Prisoner .\n\nTic
- kets: https://vidiotsfoundation.org/purchase/4509882/\n\nDetails: https://
- vidiotsfoundation.org/movies/the-samurai-and-the-prisoner/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4509893@vidiotsfoundation.org
-DTSTAMP:20260906T013000Z
-DTSTART;TZID=America/Los_Angeles:20260905T183000
-DTEND;TZID=America/Los_Angeles:20260905T202200
-SUMMARY:Teenage Sex and Death at Camp Miasma
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509893/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\, Doors Open at 6\n\nVisionary director Jane Schoenbrun presents a
-  new kind of horror remake! Bursting with imagination and surreal wit\, th
- eir latest genre-bending wonder affirms there’s no such thing as a guilt
- y pleasure.\nMore Showtimes added!\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4509893/\n\nDetails: https://vidiotsfoundation.org/movies/teen
- age-sex-and-death-at-camp-miasma-2026/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4509894@vidiotsfoundation.org
-DTSTAMP:20260906T043000Z
-DTSTART;TZID=America/Los_Angeles:20260905T213000
-DTEND;TZID=America/Los_Angeles:20260905T232200
-SUMMARY:Teenage Sex and Death at Camp Miasma
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509894/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\, Doors Open at 6\n\nVisionary director Jane Schoenbrun presents a
-  new kind of horror remake! Bursting with imagination and surreal wit\, th
- eir latest genre-bending wonder affirms there’s no such thing as a guilt
- y pleasure.\nMore Showtimes added!\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4509894/\n\nDetails: https://vidiotsfoundation.org/movies/teen
- age-sex-and-death-at-camp-miasma-2026/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4509866@vidiotsfoundation.org
-DTSTAMP:20260906T193000Z
-DTSTART;TZID=America/Los_Angeles:20260906T123000
-DTEND;TZID=America/Los_Angeles:20260906T143500
-SUMMARY:Spirited Away (English Dubbed)
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509866/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 125 min | 
- Format: Digital | Rating: All Ages | Release year: 2001\n\nSeries: Films f
- or Everyone\, In the Eagle\n\nTake a journey to the land of the spirits\n\
- nTickets: https://vidiotsfoundation.org/purchase/4509866/\n\nDetails: http
- s://vidiotsfoundation.org/movies/spirited-away-english-dubbed/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4509906@vidiotsfoundation.org
 DTSTAMP:20260906T200000Z
 DTSTART;TZID=America/Los_Angeles:20260906T130000
@@ -111,57 +22,6 @@ DESCRIPTION:Run time: 147 min | Format: Digital | Release year: 2026\n\nSer
  murai and the Prisoner .\n\nTickets: https://vidiotsfoundation.org/purchas
  e/4509906/\n\nDetails: https://vidiotsfoundation.org/movies/the-samurai-an
  d-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-UID:4509868@vidiotsfoundation.org
-DTSTAMP:20260906T230000Z
-DTSTART;TZID=America/Los_Angeles:20260906T160000
-DTEND;TZID=America/Los_Angeles:20260906T174500
-SUMMARY:The Seven Year Itch
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509868/
-DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: In the Eagle\, T
- eenTix LA\n\nWe're celebrating 100 years of one of the biggest icons of th
- e silver screen - Marilyn Monroe - with a special screening of Billy Wilde
- r's hilarious classic comedy The Seven Year Itch .\n\nTickets: https://vid
- iotsfoundation.org/purchase/4509868/\n\nDetails: https://vidiotsfoundation
- .org/movies/the-seven-year-itch/
-END:VEVENT
-BEGIN:VEVENT
-UID:4509910@vidiotsfoundation.org
-DTSTAMP:20260906T234500Z
-DTSTART;TZID=America/Los_Angeles:20260906T164500
-DTEND;TZID=America/Los_Angeles:20260906T175500
-SUMMARY:CatVideoFest 2026
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509910/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 70 min | F
- ormat: Digital | Rating: All Ages\n\nSeries: Additional Shows\, Films for 
- Everyone\, In the MUBI Microcinema\n\nOur fuzzy overlords return to the bi
- g screen! Vidiots is purrfectly enthralled to bring back the cutest kitty 
- compilation ever!\nEncore Screenings added in the microcinema!\n\nTickets:
-  https://vidiotsfoundation.org/purchase/4509910/\n\nDetails: https://vidio
- tsfoundation.org/movies/catvideofest-2026/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4509869@vidiotsfoundation.org
-DTSTAMP:20260907T020000Z
-DTSTART;TZID=America/Los_Angeles:20260906T190000
-DTEND;TZID=America/Los_Angeles:20260906T204700
-SUMMARY:O Brother\, Where Art Thou?
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509869/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 107 min | 
- Format: Digital | Rating: PG-13\n\nSeries: In the Eagle\n\nWe've got your 
- Odyssey right here with Ethan and Joel Coen's endlessly entertaining reima
- gining of the ancient myth in the 1930s Deep South.\n\nTickets: https://vi
- diotsfoundation.org/purchase/4509869/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/o-brother-where-art-thou/
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4509908@vidiotsfoundation.org
@@ -1277,72 +1137,70 @@ DESCRIPTION:Run time: 83 min | Format: 4K Digital\n\nSeries: Community Part
  n.org/movies/chocolate-babies/
 END:VEVENT
 BEGIN:VEVENT
-UID:4509722@vidiotsfoundation.org
-DTSTAMP:20260905T190000Z
-DTSTART;TZID=America/Los_Angeles:20260905T120000
-DTEND;TZID=America/Los_Angeles:20260905T134700
-SUMMARY:Moana Sing-Along
+UID:4509866@vidiotsfoundation.org
+DTSTAMP:20260906T193000Z
+DTSTART;TZID=America/Los_Angeles:20260906T123000
+DTEND;TZID=America/Los_Angeles:20260906T143500
+SUMMARY:Spirited Away (English Dubbed)
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509722/
-DESCRIPTION:Run time: 107 min | Format: Digital | Rating: All Ages\n\nSerie
- s: Films for Everyone\, In the Eagle\, Interactive\, TeenTix LA\n\nThe oce
- an is calling.\nWith a fun and inspiring soundtrack that includes tracks b
- y Lin-Manuel Miranda\, here's your chance to belt out your favorite tunes 
- with folks who love it as much as you do!\n\nTickets: https://vidiotsfound
- ation.org/purchase/4509722/\n\nDetails: https://vidiotsfoundation.org/movi
- es/moana/
-END:VEVENT
-BEGIN:VEVENT
-UID:4509727@vidiotsfoundation.org
-DTSTAMP:20260905T220000Z
-DTSTART;TZID=America/Los_Angeles:20260905T150000
-DTEND;TZID=America/Los_Angeles:20260905T174200
-SUMMARY:Star Trek II: The Wrath of Khan + Bonus Episode – Space Seed
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509727/
-DESCRIPTION:Run time: 162 min | Format: Digital | Rating: PG\n\nSeries: In 
- the Eagle\, TeenTix LA\n\nBeam yourself up to the Starship Enterprise for 
- a double shot of intergalactic fun and twice the Ricardo Montalban with on
- e of the best films in the franchise\, and an all-time classic of Science 
- Fiction cinema Star Trek II: The Wrath of Khan plus a bonus episode of the
-  original series that inspired the film: Space Seed .\n\nTickets: https://
- vidiotsfoundation.org/purchase/4509727/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/star-trek-ii-the-wrath-of-khan/
-END:VEVENT
-BEGIN:VEVENT
-UID:4509730@vidiotsfoundation.org
-DTSTAMP:20260906T020000Z
-DTSTART;TZID=America/Los_Angeles:20260905T190000
-DTEND;TZID=America/Los_Angeles:20260905T203600
-SUMMARY:Tremors
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509730/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 96 min | F
- ormat: Digital | Rating: PG-13\n\nSeries: In the Eagle\n\nWith some of the
-  best monster effects of the entire 1990s on full display in the desert su
- n\, this cult-classic delivers the scares\, thrills\, and laughs of a crea
- ture feature that is truly Perfection.\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4509730/\n\nDetails: https://vidiotsfoundation.org/movies/
- tremors/
+URL:https://vidiotsfoundation.org/purchase/4509866/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 125 min | 
+ Format: Digital | Rating: All Ages | Release year: 2001\n\nSeries: Films f
+ or Everyone\, In the Eagle\n\nTake a journey to the land of the spirits\n\
+ nTickets: https://vidiotsfoundation.org/purchase/4509866/\n\nDetails: http
+ s://vidiotsfoundation.org/movies/spirited-away-english-dubbed/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4509744@vidiotsfoundation.org
-DTSTAMP:20260906T044500Z
-DTSTART;TZID=America/Los_Angeles:20260905T214500
-DTEND;TZID=America/Los_Angeles:20260905T233600
-SUMMARY:Kill Bill: Vol. 1 on 35mm
+UID:4509868@vidiotsfoundation.org
+DTSTAMP:20260906T230000Z
+DTSTART;TZID=America/Los_Angeles:20260906T160000
+DTEND;TZID=America/Los_Angeles:20260906T174500
+SUMMARY:The Seven Year Itch
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509744/
-DESCRIPTION:Run time: 111 min | Format: 35mm Film | Rating: R\n\nSeries: 35
- mm Film\, In the Eagle\n\nYour Saturday night just got a whole lot more ki
- ck ass as Quentin Tarantino's Kill Bill ignites our big screen with an ons
- laught of celluloid action!\n\nTickets: https://vidiotsfoundation.org/purc
- hase/4509744/\n\nDetails: https://vidiotsfoundation.org/movies/kill-bill-v
- ol-1/
+URL:https://vidiotsfoundation.org/purchase/4509868/
+DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: In the Eagle\, T
+ eenTix LA\n\nWe're celebrating 100 years of one of the biggest icons of th
+ e silver screen - Marilyn Monroe - with a special screening of Billy Wilde
+ r's hilarious classic comedy The Seven Year Itch .\n\nTickets: https://vid
+ iotsfoundation.org/purchase/4509868/\n\nDetails: https://vidiotsfoundation
+ .org/movies/the-seven-year-itch/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509910@vidiotsfoundation.org
+DTSTAMP:20260906T234500Z
+DTSTART;TZID=America/Los_Angeles:20260906T164500
+DTEND;TZID=America/Los_Angeles:20260906T175500
+SUMMARY:CatVideoFest 2026
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509910/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 70 min | F
+ ormat: Digital | Rating: All Ages\n\nSeries: Additional Shows\, Films for 
+ Everyone\, In the MUBI Microcinema\n\nOur fuzzy overlords return to the bi
+ g screen! Vidiots is purrfectly enthralled to bring back the cutest kitty 
+ compilation ever!\nEncore Screenings added in the microcinema!\n\nTickets:
+  https://vidiotsfoundation.org/purchase/4509910/\n\nDetails: https://vidio
+ tsfoundation.org/movies/catvideofest-2026/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4509869@vidiotsfoundation.org
+DTSTAMP:20260907T020000Z
+DTSTART;TZID=America/Los_Angeles:20260906T190000
+DTEND;TZID=America/Los_Angeles:20260906T204700
+SUMMARY:O Brother\, Where Art Thou?
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509869/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 107 min | 
+ Format: Digital | Rating: PG-13\n\nSeries: In the Eagle\n\nWe've got your 
+ Odyssey right here with Ethan and Joel Coen's endlessly entertaining reima
+ gining of the ancient myth in the 1930s Deep South.\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4509869/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/o-brother-where-art-thou/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
