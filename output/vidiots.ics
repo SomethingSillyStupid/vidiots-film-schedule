@@ -84,13 +84,15 @@ SUMMARY:Teenage Sex and Death at Camp Miasma
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4510005/
-DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Door
- s Open at 6\, In the MUBI Microcinema\, Additional Shows\n\nVisionary dire
- ctor Jane Schoenbrun presents a new kind of horror remake! Bursting with i
- magination and surreal wit\, their latest genre-bending wonder affirms the
- re’s no such thing as a guilty pleasure.\nMore Showtimes added!\n\nTicke
- ts: https://vidiotsfoundation.org/purchase/4510005/\n\nDetails: https://vi
- diotsfoundation.org/movies/teenage-sex-and-death-at-camp-miasma-2026/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min | 
+ Format: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the MUBI Micro
+ cinema\, Additional Shows\n\nVisionary director Jane Schoenbrun presents a
+  new kind of horror remake! Bursting with imagination and surreal wit\, th
+ eir latest genre-bending wonder affirms there’s no such thing as a guilt
+ y pleasure.\nMore Showtimes added!\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4510005/\n\nDetails: https://vidiotsfoundation.org/movies/teen
+ age-sex-and-death-at-camp-miasma-2026/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4509938@vidiotsfoundation.org
@@ -1005,6 +1007,54 @@ DESCRIPTION:Run time: 137 min | Format: Digital | Rating: R\n\nSeries: 35mm
  es/terminator-2-judgment-day/
 END:VEVENT
 BEGIN:VEVENT
+UID:4672309@vidiotsfoundation.org
+DTSTAMP:20261003T020000Z
+DTSTART;TZID=America/Los_Angeles:20261002T190000
+DTEND;TZID=America/Los_Angeles:20261002T210000
+SUMMARY:Creepshow
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672309/
+DESCRIPTION:Run time: 120 min | Format: Digital | Rating: R\n\nSeries: Coun
+ tdown to Halloween\, In the Eagle\n\nHorror titans Stephen King and George
+  Romero team up for the ultimate 80s horror anthology just in time to give
+  you the creeps for the whole month of October!\n\nTickets: https://vidiot
+ sfoundation.org/purchase/4672309/\n\nDetails: https://vidiotsfoundation.or
+ g/movies/creepshow/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672325@vidiotsfoundation.org
+DTSTAMP:20261004T044500Z
+DTSTART;TZID=America/Los_Angeles:20261003T214500
+DTEND;TZID=America/Los_Angeles:20261003T232000
+SUMMARY:The Hole on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672325/
+DESCRIPTION:Run time: 95 min | Format: 35mm Film | Release year: 1998\n\nSe
+ ries: 35mm Film\, In the Eagle\n\nYour Saturday night is about to get surr
+ eal with Tsai Ming-liang's wholly original dystopian dark comedy The Hole 
+ presented on a glorious brand new 35mm print!\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4672325/\n\nDetails: https://vidiotsfoundation.org/
+ movies/the-hole/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672342@vidiotsfoundation.org
+DTSTAMP:20261005T020000Z
+DTSTART;TZID=America/Los_Angeles:20261004T190000
+DTEND;TZID=America/Los_Angeles:20261004T210900
+SUMMARY:The Bodyguard
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672342/
+DESCRIPTION:Run time: 129 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nDon't miss all the music (including Whitney's cover of Dolly P
+ arton's "I Will Always Love You")\, the swoon-worthy romance\, and the sho
+ wmanship of the Princess of Pop Whitney Houston!\n\nTickets: https://vidio
+ tsfoundation.org/purchase/4672342/\n\nDetails: https://vidiotsfoundation.o
+ rg/movies/the-bodyguard/
+END:VEVENT
+BEGIN:VEVENT
 UID:4645034@vidiotsfoundation.org
 DTSTAMP:20261008T023000Z
 DTSTART;TZID=America/Los_Angeles:20261007T193000
@@ -1020,6 +1070,55 @@ DESCRIPTION:Run time: 83 min | Format: 4K Digital\n\nSeries: Community Part
  riotous New Queer Cinema treasure Chocolate Babies!\n\nTickets: https://vi
  diotsfoundation.org/purchase/4645034/\n\nDetails: https://vidiotsfoundatio
  n.org/movies/chocolate-babies/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672357@vidiotsfoundation.org
+DTSTAMP:20261011T223000Z
+DTSTART;TZID=America/Los_Angeles:20261011T153000
+DTEND;TZID=America/Los_Angeles:20261011T173700
+SUMMARY:Annie
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672357/
+DESCRIPTION:Run time: 127 min | Format: Digital | Rating: PG\n\nSeries: Fil
+ ms for Everyone\, In the Eagle\, Remembering Tim Curry - Don't Dream It\, 
+ Be It!\n\nVidiots remembers the great Tim Curry with a special screening o
+ f the musical bonanza Annie for Tim Curry lovers of all ages!\n\nTickets: 
+ https://vidiotsfoundation.org/purchase/4672357/\n\nDetails: https://vidiot
+ sfoundation.org/movies/annie/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672364@vidiotsfoundation.org
+DTSTAMP:20261017T020000Z
+DTSTART;TZID=America/Los_Angeles:20261016T190000
+DTEND;TZID=America/Los_Angeles:20261016T205800
+SUMMARY:The Witches of Eastwick
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672364/
+DESCRIPTION:Run time: 118 min | Format: Digital | Rating: R\n\nSeries: Coun
+ tdown to Halloween\, In the Eagle\n\nWith an iconic cast\, fiercely funny 
+ dialogue\, and tons of witchy fun\, you'll want to gather up your coven an
+ d get ready for all the sexy and savage sorcery!\n\nTickets: https://vidio
+ tsfoundation.org/purchase/4672364/\n\nDetails: https://vidiotsfoundation.o
+ rg/movies/the-witches-of-eastwick/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672376@vidiotsfoundation.org
+DTSTAMP:20261017T200000Z
+DTSTART;TZID=America/Los_Angeles:20261017T130000
+DTEND;TZID=America/Los_Angeles:20261017T143500
+SUMMARY:Mad Monster Party?
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672376/
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Films for Everyon
+ e\, In the Eagle\n\nGet ready for the wildest\, cutest\, stop-motion spook
+ y soiree ever made when all your favorite monsters (and even a pint-sized 
+ Peter Lorre) get together to sing\, dance\, and get groovy in this Rankin 
+ and Bass animated classic!\n\nTickets: https://vidiotsfoundation.org/purch
+ ase/4672376/\n\nDetails: https://vidiotsfoundation.org/movies/mad-monster-
+ party/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509935@vidiotsfoundation.org
