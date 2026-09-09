@@ -131,12 +131,13 @@ SUMMARY:Wild Inside
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4561750/
-DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOur microcinema 
- is going to the birds with Penny Lane's rapturous documentary about everyo
- ne's favorite escaped zoo owl Flaco - Wild Inside .\n\nTickets: https://vi
- diotsfoundation.org/purchase/4561750/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/wild-inside/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 95 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\n\nOur microcinema is going to the birds with Penn
+ y Lane's rapturous documentary about everyone's favorite escaped zoo owl F
+ laco - Wild Inside .\n\nTickets: https://vidiotsfoundation.org/purchase/45
+ 61750/\n\nDetails: https://vidiotsfoundation.org/movies/wild-inside/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4509942@vidiotsfoundation.org
@@ -1055,6 +1056,21 @@ DESCRIPTION:Run time: 129 min | Format: Digital | Rating: R\n\nSeries: Doll
  /\n\nDetails: https://vidiotsfoundation.org/movies/the-bodyguard/
 END:VEVENT
 BEGIN:VEVENT
+UID:4675170@vidiotsfoundation.org
+DTSTAMP:20261006T023000Z
+DTSTART;TZID=America/Los_Angeles:20261005T193000
+DTEND;TZID=America/Los_Angeles:20261005T204800
+SUMMARY:Carnival of Souls
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4675170/
+DESCRIPTION:Run time: 78 min | Format: Digital | Rating: PG\n\nSeries: Coun
+ tdown to Halloween\, Doors Open at 6\, In the Eagle\n\nLose yourself in th
+ e surreal nightmare world of Herk Harvey's indie horror masterpiece Carniv
+ al of Souls .\n\nTickets: https://vidiotsfoundation.org/purchase/4675170/\
+ n\nDetails: https://vidiotsfoundation.org/movies/carnival-of-souls/
+END:VEVENT
+BEGIN:VEVENT
 UID:4645034@vidiotsfoundation.org
 DTSTAMP:20261008T023000Z
 DTSTART;TZID=America/Los_Angeles:20261007T193000
@@ -1070,6 +1086,81 @@ DESCRIPTION:Run time: 83 min | Format: 4K Digital\n\nSeries: Community Part
  riotous New Queer Cinema treasure Chocolate Babies!\n\nTickets: https://vi
  diotsfoundation.org/purchase/4645034/\n\nDetails: https://vidiotsfoundatio
  n.org/movies/chocolate-babies/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672344@vidiotsfoundation.org
+DTSTAMP:20261010T020000Z
+DTSTART;TZID=America/Los_Angeles:20261009T190000
+DTEND;TZID=America/Los_Angeles:20261009T205300
+SUMMARY:28 Days Later
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672344/
+DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R\n\nSeries: Coun
+ tdown to Halloween\, In the Eagle\n\nThe days are numbered.\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4672344/\n\nDetails: https://vidiotsf
+ oundation.org/movies/28-days-later/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672345@vidiotsfoundation.org
+DTSTAMP:20261010T044500Z
+DTSTART;TZID=America/Los_Angeles:20261009T214500
+DTEND;TZID=America/Los_Angeles:20261009T232500
+SUMMARY:The Rocky Horror Picture Show
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672345/
+DESCRIPTION:Run time: 100 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\, Remembering Tim Curry - Don't Dream It\, Be It!\, What the Frid
+ ay?!?\n\nVidiots remembers the iconic legacy of the great Tim Curry with a
+  special screening of this quintessential cult classic musical extravaganz
+ a!\n\nTickets: https://vidiotsfoundation.org/purchase/4672345/\n\nDetails:
+  https://vidiotsfoundation.org/movies/the-rocky-horror-picture-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672347@vidiotsfoundation.org
+DTSTAMP:20261010T200000Z
+DTSTART;TZID=America/Los_Angeles:20261010T130000
+DTEND;TZID=America/Los_Angeles:20261010T142700
+SUMMARY:Frankenweenie
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672347/
+DESCRIPTION:Run time: 87 min | Format: Digital | Rating: PG\n\nSeries: Film
+ s for Everyone\, In the Eagle\, Remembering Catherine O'Hara\n\nRe-animate
+  your weekend with Tim Burton's adorably oddball animated send-off to horr
+ or\, with enough goofs and gaffs for the whole family.\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4672347/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/frankenweenie/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672348@vidiotsfoundation.org
+DTSTAMP:20261010T230000Z
+DTSTART;TZID=America/Los_Angeles:20261010T160000
+DTEND;TZID=America/Los_Angeles:20261010T173400
+SUMMARY:Teen Witch
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672348/
+DESCRIPTION:Run time: 94 min | Format: Digital | Rating: PG-13\n\nSeries: I
+ n the Eagle\n\nTop That! Behold the magic\, the music\, the hairspray\, th
+ e tutus\, and the rap battles of this cheese-tastic spectacle of 80s aweso
+ meness!\n\nTickets: https://vidiotsfoundation.org/purchase/4672348/\n\nDet
+ ails: https://vidiotsfoundation.org/movies/teen-witch/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672353@vidiotsfoundation.org
+DTSTAMP:20261011T044500Z
+DTSTART;TZID=America/Los_Angeles:20261010T214500
+DTEND;TZID=America/Los_Angeles:20261010T234400
+SUMMARY:Pulse
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672353/
+DESCRIPTION:Run time: 119 min | Format: Digital | Rating: R | Release year:
+  2001\n\nSeries: Countdown to Halloween\, In the Eagle\n\nDo you want to m
+ eet a ghost?\n\nTickets: https://vidiotsfoundation.org/purchase/4672353/\n
+ \nDetails: https://vidiotsfoundation.org/movies/pulse/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672357@vidiotsfoundation.org
@@ -1119,6 +1210,106 @@ DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Films for Everyon
  and Bass animated classic!\n\nTickets: https://vidiotsfoundation.org/purch
  ase/4672376/\n\nDetails: https://vidiotsfoundation.org/movies/mad-monster-
  party/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672394@vidiotsfoundation.org
+DTSTAMP:20261024T201500Z
+DTSTART;TZID=America/Los_Angeles:20261024T131500
+DTEND;TZID=America/Los_Angeles:20261024T144600
+SUMMARY:Hotel Transylvania
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672394/
+DESCRIPTION:Run time: 91 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nPack a bag\, grab the family\, and 
+ head to Vidiots for the vacation of your deathtime!\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4672394/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/hotel-transylvania/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672395@vidiotsfoundation.org
+DTSTAMP:20261025T013000Z
+DTSTART;TZID=America/Los_Angeles:20261024T183000
+DTEND;TZID=America/Los_Angeles:20261024T205400
+SUMMARY:The Shining on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672395/
+DESCRIPTION:Run time: 144 min | Format: 35mm Film | Rating: R\n\nSeries: 35
+ mm Film\, Countdown to Halloween\, In the Eagle\n\nThis Stephen King adapt
+ ation crawls with atmospheric dread from the opening scene to the closing 
+ credits\, inhabiting a special place in the psyche of all those who have w
+ itnessed its bloody\, psychotic mastery.\n\nTickets: https://vidiotsfounda
+ tion.org/purchase/4672395/\n\nDetails: https://vidiotsfoundation.org/movie
+ s/the-shining/
+END:VEVENT
+BEGIN:VEVENT
+UID:4675405@vidiotsfoundation.org
+DTSTAMP:20261028T023000Z
+DTSTART;TZID=America/Los_Angeles:20261027T193000
+DTEND;TZID=America/Los_Angeles:20261027T213700
+SUMMARY:Italo-Disco Horror Night – Argento’s Deep Red
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4675405/
+DESCRIPTION:Run time: 127 min | Format: Digital | Release year: 1975\n\nSer
+ ies: Countdown to Halloween\, Doors Open at 6\, In the Eagle\, Live DJ Set
+ \n\nGet on your boogie shoes and join us for a night of sick tunes and eve
+ n sicker horror when we crank up the Italo-Disco and slaughter the big scr
+ een with Dario Argento's gore-giously demented masterpiece Deep Red. With 
+ DJ Sindri spinning an all-vinyl set of bumpin' Italo-Disco tunes before an
+ d after the screening/screaming!\n\nTickets: https://vidiotsfoundation.org
+ /purchase/4675405/\n\nDetails: https://vidiotsfoundation.org/movies/italo-
+ disco-horror-night-argentos-deep-red/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672423@vidiotsfoundation.org
+DTSTAMP:20261029T023000Z
+DTSTART;TZID=America/Los_Angeles:20261028T193000
+DTEND;TZID=America/Los_Angeles:20261028T211800
+SUMMARY:Ginger Snaps
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672423/
+DESCRIPTION:Run time: 108 min | Format: Digital\n\nSeries: Countdown to Hal
+ loween\, Doors Open at 6\, In the Eagle\n\nA teen horror for the true weir
+ dos - Ginger Snaps is not only one of the best werewolf films of the new m
+ illennium\, it's also one of its best Coming-of-Age classics as well!\n\nT
+ ickets: https://vidiotsfoundation.org/purchase/4672423/\n\nDetails: https:
+ //vidiotsfoundation.org/movies/ginger-snaps/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672425@vidiotsfoundation.org
+DTSTAMP:20261031T044500Z
+DTSTART;TZID=America/Los_Angeles:20261030T214500
+DTEND;TZID=America/Los_Angeles:20261030T234000
+SUMMARY:Audition
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672425/
+DESCRIPTION:Run time: 115 min | Format: Digital | Release year: 2000\n\nSer
+ ies: Countdown to Halloween\, In the Eagle\, What the Friday?!?\n\nSteerin
+ g away from jump scares and cheap gore and into avenues of absolute tortur
+ e and terror\, Takashi Miike's breakthrough nightmare is the kind of rare 
+ horror film that affects you viscerally and haunts you in your psyche.\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4672425/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/audition/
+END:VEVENT
+BEGIN:VEVENT
+UID:4675239@vidiotsfoundation.org
+DTSTAMP:20261101T020000Z
+DTSTART;TZID=America/Los_Angeles:20261031T190000
+DTEND;TZID=America/Los_Angeles:20261031T203100
+SUMMARY:Halloween
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4675239/
+DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: Count
+ down to Halloween\, In the Eagle\n\nIt wouldn't be Halloween without a vis
+ it from Michael Myers - the monster that made the holiday - stalking our b
+ ig screen with masked terror in the slasher that started it all!\n\nTicket
+ s: https://vidiotsfoundation.org/purchase/4675239/\n\nDetails: https://vid
+ iotsfoundation.org/movies/halloween/
 END:VEVENT
 BEGIN:VEVENT
 UID:4641945@vidiotsfoundation.org
