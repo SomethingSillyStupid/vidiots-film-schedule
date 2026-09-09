@@ -977,6 +977,52 @@ DESCRIPTION:Run time: 120 min | Format: Digital | Rating: R\n\nSeries: Coun
  g/movies/creepshow/
 END:VEVENT
 BEGIN:VEVENT
+UID:4672312@vidiotsfoundation.org
+DTSTAMP:20261003T200000Z
+DTSTART;TZID=America/Los_Angeles:20261003T130000
+DTEND;TZID=America/Los_Angeles:20261003T144400
+SUMMARY:Monsters University
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672312/
+DESCRIPTION:Run time: 104 min | Format: Digital | Rating: All Ages\n\nSerie
+ s: Films for Everyone\, In the Eagle\n\nBefore they were incorporated\, th
+ ey had to be educated.\n\nTickets: https://vidiotsfoundation.org/purchase/
+ 4672312/\n\nDetails: https://vidiotsfoundation.org/movies/monsters-univers
+ ity/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672316@vidiotsfoundation.org
+DTSTAMP:20261003T230000Z
+DTSTART;TZID=America/Los_Angeles:20261003T160000
+DTEND;TZID=America/Los_Angeles:20261003T174400
+SUMMARY:Theater of Blood
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672316/
+DESCRIPTION:Run time: 104 min | Format: Digital | Rating: R\n\nSeries: Coun
+ tdown to Halloween\, In the Eagle\n\nIs it even spooky season if you're no
+ t spending it with Vincent Price unaliving people with Shakespearean twist
+ s?\n\nTickets: https://vidiotsfoundation.org/purchase/4672316/\n\nDetails:
+  https://vidiotsfoundation.org/movies/theater-of-blood/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672324@vidiotsfoundation.org
+DTSTAMP:20261004T020000Z
+DTSTART;TZID=America/Los_Angeles:20261003T190000
+DTEND;TZID=America/Los_Angeles:20261003T205000
+SUMMARY:9 to 5
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672324/
+DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: Dol
+ ly Parton - We Will Always Love You\, In the Eagle\n\nVidiots remembers it
+ s forever Goddess Dolly Parton with a special screening of the iconic work
+ place revenge comedy 9 to 5 .\n\nTickets: https://vidiotsfoundation.org/pu
+ rchase/4672324/\n\nDetails: https://vidiotsfoundation.org/movies/nine-to-f
+ ive/
+END:VEVENT
+BEGIN:VEVENT
 UID:4672325@vidiotsfoundation.org
 DTSTAMP:20261004T044500Z
 DTSTART;TZID=America/Los_Angeles:20261003T214500
@@ -1001,12 +1047,12 @@ SUMMARY:The Bodyguard
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672342/
-DESCRIPTION:Run time: 129 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nDon't miss all the music (including Whitney's cover of Dolly P
- arton's "I Will Always Love You")\, the swoon-worthy romance\, and the sho
- wmanship of the Princess of Pop Whitney Houston!\n\nTickets: https://vidio
- tsfoundation.org/purchase/4672342/\n\nDetails: https://vidiotsfoundation.o
- rg/movies/the-bodyguard/
+DESCRIPTION:Run time: 129 min | Format: Digital | Rating: R\n\nSeries: Doll
+ y Parton - We Will Always Love You\, In the Eagle\n\nDon't miss all the mu
+ sic (including Whitney's cover of Dolly Parton's "I Will Always Love You")
+ \, the swoon-worthy romance\, and the showmanship of the Princess of Pop W
+ hitney Houston!\n\nTickets: https://vidiotsfoundation.org/purchase/4672342
+ /\n\nDetails: https://vidiotsfoundation.org/movies/the-bodyguard/
 END:VEVENT
 BEGIN:VEVENT
 UID:4645034@vidiotsfoundation.org
