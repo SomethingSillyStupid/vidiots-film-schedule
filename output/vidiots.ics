@@ -8,59 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4509936@vidiotsfoundation.org
-DTSTAMP:20260909T020000Z
-DTSTART;TZID=America/Los_Angeles:20260908T190000
-DTEND;TZID=America/Los_Angeles:20260908T205200
-SUMMARY:Teenage Sex and Death at Camp Miasma
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509936/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min | 
- Format: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the MUBI Micro
- cinema\, Additional Shows\n\nVisionary director Jane Schoenbrun presents a
-  new kind of horror remake! Bursting with imagination and surreal wit\, th
- eir latest genre-bending wonder affirms there’s no such thing as a guilt
- y pleasure.\nMore Showtimes added!\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4509936/\n\nDetails: https://vidiotsfoundation.org/movies/teen
- age-sex-and-death-at-camp-miasma-2026/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4641945@vidiotsfoundation.org
-DTSTAMP:20260910T023000Z
-DTSTART;TZID=America/Los_Angeles:20260909T193000
-DTEND;TZID=America/Los_Angeles:20260909T213000
-SUMMARY:Alex Borstein: A Silent Thirst
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://www.simpletix.com/e/alex-borstein-a-silent-thirst-tickets-28368
- 8#description
-DESCRIPTION:Series: In the Eagle\, Live Show\, Special Guests in Attendance
- \n\nFresh off her national theatrical tour\, four-time Emmy winner Alex Bo
- rstein brings her critically acclaimed one-person stage show\, A Silent Th
- irst to our very own Vidiots!\n\nTickets: https://www.simpletix.com/e/alex
- -borstein-a-silent-thirst-tickets-283688#description\n\nDetails: https://v
- idiotsfoundation.org/movies/alex-borstein-a-silent-thirst/
-END:VEVENT
-BEGIN:VEVENT
-UID:4641947@vidiotsfoundation.org
-DTSTAMP:20260911T023000Z
-DTSTART;TZID=America/Los_Angeles:20260910T193000
-DTEND;TZID=America/Los_Angeles:20260910T213000
-SUMMARY:Alex Borstein: A Silent Thirst
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://www.simpletix.com/e/alex-borstein-a-silent-thirst-tickets-28368
- 8#description
-DESCRIPTION:Series: In the Eagle\, Live Show\, Special Guests in Attendance
- \n\nFresh off her national theatrical tour\, four-time Emmy winner Alex Bo
- rstein brings her critically acclaimed one-person stage show\, A Silent Th
- irst to our very own Vidiots!\n\nTickets: https://www.simpletix.com/e/alex
- -borstein-a-silent-thirst-tickets-283688#description\n\nDetails: https://v
- idiotsfoundation.org/movies/alex-borstein-a-silent-thirst/
-END:VEVENT
-BEGIN:VEVENT
 UID:4509940@vidiotsfoundation.org
 DTSTAMP:20260911T230000Z
 DTSTART;TZID=America/Los_Angeles:20260911T160000
@@ -85,13 +32,13 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4510005/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min | 
- Format: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the MUBI Micro
- cinema\, Additional Shows\n\nVisionary director Jane Schoenbrun presents a
-  new kind of horror remake! Bursting with imagination and surreal wit\, th
- eir latest genre-bending wonder affirms there’s no such thing as a guilt
- y pleasure.\nMore Showtimes added!\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4510005/\n\nDetails: https://vidiotsfoundation.org/movies/teen
- age-sex-and-death-at-camp-miasma-2026/
+ Format: Digital | Rating: R\n\nSeries: In the MUBI Microcinema\, Additiona
+ l Shows\n\nVisionary director Jane Schoenbrun presents a new kind of horro
+ r remake! Bursting with imagination and surreal wit\, their latest genre-b
+ ending wonder affirms there’s no such thing as a guilty pleasure.\nMore 
+ Showtimes added!\n\nTickets: https://vidiotsfoundation.org/purchase/451000
+ 5/\n\nDetails: https://vidiotsfoundation.org/movies/teenage-sex-and-death-
+ at-camp-miasma-2026/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -263,13 +210,15 @@ SUMMARY:Teenage Sex and Death at Camp Miasma
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4561753/
-DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Door
- s Open at 6\, In the MUBI Microcinema\, Additional Shows\n\nVisionary dire
- ctor Jane Schoenbrun presents a new kind of horror remake! Bursting with i
- magination and surreal wit\, their latest genre-bending wonder affirms the
- re’s no such thing as a guilty pleasure.\nMore Showtimes added!\n\nTicke
- ts: https://vidiotsfoundation.org/purchase/4561753/\n\nDetails: https://vi
- diotsfoundation.org/movies/teenage-sex-and-death-at-camp-miasma-2026/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min | 
+ Format: Digital | Rating: R\n\nSeries: In the MUBI Microcinema\, Additiona
+ l Shows\n\nVisionary director Jane Schoenbrun presents a new kind of horro
+ r remake! Bursting with imagination and surreal wit\, their latest genre-b
+ ending wonder affirms there’s no such thing as a guilty pleasure.\nMore 
+ Showtimes added!\n\nTickets: https://vidiotsfoundation.org/purchase/456175
+ 3/\n\nDetails: https://vidiotsfoundation.org/movies/teenage-sex-and-death-
+ at-camp-miasma-2026/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4509960@vidiotsfoundation.org
@@ -313,13 +262,13 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4561784/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min | 
- Format: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the MUBI Micro
- cinema\, Additional Shows\n\nVisionary director Jane Schoenbrun presents a
-  new kind of horror remake! Bursting with imagination and surreal wit\, th
- eir latest genre-bending wonder affirms there’s no such thing as a guilt
- y pleasure.\nMore Showtimes added!\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4561784/\n\nDetails: https://vidiotsfoundation.org/movies/teen
- age-sex-and-death-at-camp-miasma-2026/
+ Format: Digital | Rating: R\n\nSeries: In the MUBI Microcinema\, Additiona
+ l Shows\n\nVisionary director Jane Schoenbrun presents a new kind of horro
+ r remake! Bursting with imagination and surreal wit\, their latest genre-b
+ ending wonder affirms there’s no such thing as a guilty pleasure.\nMore 
+ Showtimes added!\n\nTickets: https://vidiotsfoundation.org/purchase/456178
+ 4/\n\nDetails: https://vidiotsfoundation.org/movies/teenage-sex-and-death-
+ at-camp-miasma-2026/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -397,14 +346,16 @@ SUMMARY:The Waiting Room
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4565616/
-DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: In the MUBI Micro
- cinema\, Special Guests in Attendance\n\nRediscover a recently unearthed g
- roundbreaking film shot entirely within the Manhattan Psychiatric Center o
- n Wards Island with an all female crew\, blending naturalism with avant-ga
- rde techniques—incorporating elements of dance\, theatricality\, and vid
- eo art.\nCo-presented by 7th House and featuring writer/director Karen Spe
- rling in person!\n\nTickets: https://vidiotsfoundation.org/purchase/456561
- 6/\n\nDetails: https://vidiotsfoundation.org/movies/the-waiting-room/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
+ ormat: Digital\n\nSeries: In the MUBI Microcinema\, Special Guests in Atte
+ ndance\n\nRediscover a recently unearthed groundbreaking film shot entirel
+ y within the Manhattan Psychiatric Center on Wards Island with an all fema
+ le crew\, blending naturalism with avant-garde techniques—incorporating 
+ elements of dance\, theatricality\, and video art.\nCo-presented by 7th Ho
+ use and featuring writer/director Karen Sperling in person!\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4565616/\n\nDetails: https://vidiotsf
+ oundation.org/movies/the-waiting-room/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4608759@vidiotsfoundation.org
@@ -1124,19 +1075,20 @@ DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Films for Everyon
  party/
 END:VEVENT
 BEGIN:VEVENT
-UID:4509935@vidiotsfoundation.org
-DTSTAMP:20260909T023000Z
-DTSTART;TZID=America/Los_Angeles:20260908T193000
-DTEND;TZID=America/Los_Angeles:20260908T222100
-SUMMARY:Farewell My Concubine
+UID:4641945@vidiotsfoundation.org
+DTSTAMP:20260910T023000Z
+DTSTART;TZID=America/Los_Angeles:20260909T193000
+DTEND;TZID=America/Los_Angeles:20260909T213000
+SUMMARY:Alex Borstein: A Silent Thirst
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509935/
-DESCRIPTION:Run time: 171 min | Format: 4K Digital | Rating: R | Release ye
- ar: 1993\n\nSeries: Community Partners\, Doors Open at 6\, In the Eagle\, 
- TeenTix LA\n\nJoin Vidiots and our friends at CAPE for the new 4K Restorat
- ion of Chen Kaige's ravishing Palme d'Or winning masterpiece Farewell My C
- oncubine .\n\nTickets: https://vidiotsfoundation.org/purchase/4509935/\n\n
- Details: https://vidiotsfoundation.org/movies/farewell-my-concubine/
+URL:https://www.simpletix.com/e/alex-borstein-a-silent-thirst-tickets-28368
+ 8#description
+DESCRIPTION:Series: In the Eagle\, Live Show\, Special Guests in Attendance
+ \n\nFresh off her national theatrical tour\, four-time Emmy winner Alex Bo
+ rstein brings her critically acclaimed one-person stage show\, A Silent Th
+ irst to our very own Vidiots!\n\nTickets: https://www.simpletix.com/e/alex
+ -borstein-a-silent-thirst-tickets-283688#description\n\nDetails: https://v
+ idiotsfoundation.org/movies/alex-borstein-a-silent-thirst/
 END:VEVENT
 END:VCALENDAR
