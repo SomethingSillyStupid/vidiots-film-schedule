@@ -633,13 +633,14 @@ SUMMARY:Filipiñana
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4510089/
-DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
- ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
- ema for one of the best films of the year and a masterwork of internationa
- l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
- ipiñana .\nMore showtimes added!\n\nTickets: https://vidiotsfoundation.or
- g/purchase/4510089/\n\nDetails: https://vidiotsfoundation.org/movies/filip
- inana/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
+ MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
+ f the year and a masterwork of international cinema - Rafael Manuel's phen
+ omenally composed deadpan social satire Filipiñana .\nMore showtimes adde
+ d!\n\nTickets: https://vidiotsfoundation.org/purchase/4510089/\n\nDetails:
+  https://vidiotsfoundation.org/movies/filipinana/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4510024@vidiotsfoundation.org
@@ -683,12 +684,13 @@ SUMMARY:An Evening with Mike Mills – C’mon C’mon
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4510014/
-DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\, Special Guests in Attendance\n\nOur enchanting evening with Mik
- e Mills continues with his latest intimate and tender triumph C'mon C'mon 
- featuring an introduction by Mills.\n\nTickets: https://vidiotsfoundation.
- org/purchase/4510014/\n\nDetails: https://vidiotsfoundation.org/movies/cmo
- n-cmon/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 110 min | 
+ Format: Digital | Rating: R\n\nSeries: In the Eagle\, Special Guests in At
+ tendance\n\nOur enchanting evening with Mike Mills continues with his late
+ st intimate and tender triumph C'mon C'mon featuring an introduction by Mi
+ lls.\n\nTickets: https://vidiotsfoundation.org/purchase/4510014/\n\nDetail
+ s: https://vidiotsfoundation.org/movies/cmon-cmon/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4510092@vidiotsfoundation.org
@@ -1341,22 +1343,5 @@ DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: Count
  ig screen with masked terror in the slasher that started it all!\n\nTicket
  s: https://vidiotsfoundation.org/purchase/4675239/\n\nDetails: https://vid
  iotsfoundation.org/movies/halloween/
-END:VEVENT
-BEGIN:VEVENT
-UID:4641945@vidiotsfoundation.org
-DTSTAMP:20260910T023000Z
-DTSTART;TZID=America/Los_Angeles:20260909T193000
-DTEND;TZID=America/Los_Angeles:20260909T213000
-SUMMARY:Alex Borstein: A Silent Thirst
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://www.simpletix.com/e/alex-borstein-a-silent-thirst-tickets-28368
- 8#description
-DESCRIPTION:Series: In the Eagle\, Live Show\, Special Guests in Attendance
- \n\nFresh off her national theatrical tour\, four-time Emmy winner Alex Bo
- rstein brings her critically acclaimed one-person stage show\, A Silent Th
- irst to our very own Vidiots!\n\nTickets: https://www.simpletix.com/e/alex
- -borstein-a-silent-thirst-tickets-283688#description\n\nDetails: https://v
- idiotsfoundation.org/movies/alex-borstein-a-silent-thirst/
 END:VEVENT
 END:VCALENDAR
