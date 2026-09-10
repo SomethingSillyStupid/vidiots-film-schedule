@@ -683,13 +683,12 @@ SUMMARY:An Evening with Mike Mills – C’mon C’mon
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4510014/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 110 min | 
- Format: Digital | Rating: R\n\nSeries: In the Eagle\, Special Guests in At
- tendance\n\nOur enchanting evening with Mike Mills continues with his late
- st intimate and tender triumph C'mon C'mon featuring an introduction by Mi
- lls.\n\nTickets: https://vidiotsfoundation.org/purchase/4510014/\n\nDetail
- s: https://vidiotsfoundation.org/movies/cmon-cmon/
-STATUS:TENTATIVE
+DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\, Special Guests in Attendance\n\nOur enchanting evening with Mik
+ e Mills continues with his latest intimate and tender triumph C'mon C'mon 
+ featuring an introduction by Mills.\n\nTickets: https://vidiotsfoundation.
+ org/purchase/4510014/\n\nDetails: https://vidiotsfoundation.org/movies/cmo
+ n-cmon/
 END:VEVENT
 BEGIN:VEVENT
 UID:4510092@vidiotsfoundation.org
@@ -1003,9 +1002,9 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
 URL:https://vidiotsfoundation.org/purchase/4672316/
 DESCRIPTION:Run time: 104 min | Format: Digital | Rating: R\n\nSeries: Coun
  tdown to Halloween\, In the Eagle\n\nIs it even spooky season if you're no
- t spending it with Vincent Price unaliving people with Shakespearean twist
- s?\n\nTickets: https://vidiotsfoundation.org/purchase/4672316/\n\nDetails:
-  https://vidiotsfoundation.org/movies/theater-of-blood/
+ t spending it with Vincent Price unaliving his critics with Shakespearean 
+ twists?\n\nTickets: https://vidiotsfoundation.org/purchase/4672316/\n\nDet
+ ails: https://vidiotsfoundation.org/movies/theater-of-blood/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672324@vidiotsfoundation.org
@@ -1195,6 +1194,22 @@ DESCRIPTION:Run time: 118 min | Format: Digital | Rating: R\n\nSeries: Coun
  rg/movies/the-witches-of-eastwick/
 END:VEVENT
 BEGIN:VEVENT
+UID:4672369@vidiotsfoundation.org
+DTSTAMP:20261017T044500Z
+DTSTART;TZID=America/Los_Angeles:20261016T214500
+DTEND;TZID=America/Los_Angeles:20261016T232000
+SUMMARY:Def by Temptation
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672369/
+DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Count
+ down to Halloween\, In the Eagle\, What the Friday?!?\n\nOne of the best f
+ ilms to be released on Troma's label\, James Bond III's Def by Temptation 
+ is a smart\, slick\, and stylish tale of faith\, temptation\, and demons!\
+ n\nTickets: https://vidiotsfoundation.org/purchase/4672369/\n\nDetails: ht
+ tps://vidiotsfoundation.org/movies/def-by-temptation/
+END:VEVENT
+BEGIN:VEVENT
 UID:4672376@vidiotsfoundation.org
 DTSTAMP:20261017T200000Z
 DTSTART;TZID=America/Los_Angeles:20261017T130000
@@ -1277,6 +1292,22 @@ DESCRIPTION:Run time: 108 min | Format: Digital\n\nSeries: Countdown to Hal
  illennium\, it's also one of its best Coming-of-Age classics as well!\n\nT
  ickets: https://vidiotsfoundation.org/purchase/4672423/\n\nDetails: https:
  //vidiotsfoundation.org/movies/ginger-snaps/
+END:VEVENT
+BEGIN:VEVENT
+UID:4675860@vidiotsfoundation.org
+DTSTAMP:20261030T020000Z
+DTSTART;TZID=America/Los_Angeles:20261029T190000
+DTEND;TZID=America/Los_Angeles:20261029T203000
+SUMMARY:Sweet 16mm: Halloween Haunts
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4675860/
+DESCRIPTION:Run time: 90 min\n\nSeries: Countdown to Halloween\, In the MUB
+ I Microcinema\, Sweet 16mm\n\n16mm Spookiness just in time for Halloween! 
+ A ghostly night of obscure\, rare\, goofy\, and haunting short films and c
+ artoons all on 16mm celluloid.\n\nTickets: https://vidiotsfoundation.org/p
+ urchase/4675860/\n\nDetails: https://vidiotsfoundation.org/movies/sweet-16
+ mm-halloween-haunts/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672425@vidiotsfoundation.org
