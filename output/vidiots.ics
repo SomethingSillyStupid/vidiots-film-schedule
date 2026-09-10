@@ -987,10 +987,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672312/
 DESCRIPTION:Run time: 104 min | Format: Digital | Rating: All Ages\n\nSerie
- s: Films for Everyone\, In the Eagle\n\nBefore they were incorporated\, th
- ey had to be educated.\n\nTickets: https://vidiotsfoundation.org/purchase/
- 4672312/\n\nDetails: https://vidiotsfoundation.org/movies/monsters-univers
- ity/
+ s: Films for Everyone\, In the Eagle\n\nNo matter your level of furriness 
+ or the number of eyes you have\, we're sure to have a place for you and yo
+ ur little monsters at the head of the class!\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4672312/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/monsters-university/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672316@vidiotsfoundation.org
@@ -1038,6 +1039,38 @@ DESCRIPTION:Run time: 95 min | Format: 35mm Film | Release year: 1998\n\nSe
  presented on a glorious brand new 35mm print!\n\nTickets: https://vidiotsf
  oundation.org/purchase/4672325/\n\nDetails: https://vidiotsfoundation.org/
  movies/the-hole/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672338@vidiotsfoundation.org
+DTSTAMP:20261004T200000Z
+DTSTART;TZID=America/Los_Angeles:20261004T130000
+DTEND;TZID=America/Los_Angeles:20261004T143200
+SUMMARY:The Last Unicorn
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672338/
+DESCRIPTION:Run time: 92 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nOne of the great fever dreams of a 
+ 1980s kids movie - this Rankin-Bass classic of sorcery and cryptozoology i
+ s an epic and beautiful tale of resilience and magic.\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4672338/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/the-last-unicorn/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672339@vidiotsfoundation.org
+DTSTAMP:20261004T230000Z
+DTSTART;TZID=America/Los_Angeles:20261004T160000
+DTEND;TZID=America/Los_Angeles:20261004T173900
+SUMMARY:The Uninvited
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672339/
+DESCRIPTION:Run time: 99 min | Format: Digital\n\nSeries: Countdown to Hall
+ oween\, In the Eagle\n\nIf your spooky season plans call for a haunted hou
+ se and a ghostly love story\, do yourself a favor and join us for one of t
+ he best horror films of the 1940s and one of the great ghost stories of al
+ l time.\n\nTickets: https://vidiotsfoundation.org/purchase/4672339/\n\nDet
+ ails: https://vidiotsfoundation.org/movies/the-uninvited/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672342@vidiotsfoundation.org
@@ -1228,6 +1261,55 @@ DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Films for Everyon
  party/
 END:VEVENT
 BEGIN:VEVENT
+UID:4672378@vidiotsfoundation.org
+DTSTAMP:20261018T020000Z
+DTSTART;TZID=America/Los_Angeles:20261017T190000
+DTEND;TZID=America/Los_Angeles:20261017T202800
+SUMMARY:Videodrome
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672378/
+DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Count
+ down to Halloween\, In the Eagle\, Video Store Day!\n\nWe're celebrating V
+ ideo Store Day with horror maestro David Cronenberg's VCR-centric classic 
+ Videodrome!\nA viscerally disturbing treatise on voyeurism\, sleaze\, and 
+ the pursuit of the deepest of underground entertainment.\n\nTickets: https
+ ://vidiotsfoundation.org/purchase/4672378/\n\nDetails: https://vidiotsfoun
+ dation.org/movies/videodrome/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672385@vidiotsfoundation.org
+DTSTAMP:20261018T190000Z
+DTSTART;TZID=America/Los_Angeles:20261018T120000
+DTEND;TZID=America/Los_Angeles:20261018T133700
+SUMMARY:Escape to Witch Mountain
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672385/
+DESCRIPTION:Run time: 97 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nAliens! Kid-psychics! Black Cats! A
+ nd Puppets! Bring your little spellcasters to this fantastical adventure f
+ or your whole family or coven!\n\nTickets: https://vidiotsfoundation.org/p
+ urchase/4672385/\n\nDetails: https://vidiotsfoundation.org/movies/escape-t
+ o-witch-mountain/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672391@vidiotsfoundation.org
+DTSTAMP:20261019T020000Z
+DTSTART;TZID=America/Los_Angeles:20261018T190000
+DTEND;TZID=America/Los_Angeles:20261018T211200
+SUMMARY:The Exorcist on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672391/
+DESCRIPTION:Run time: 132 min | Format: 35mm Film | Rating: R\n\nSeries: 35
+ mm Film\, Countdown to Halloween\, In the Eagle\n\nGrab your crucifix and 
+ hold your loved ones close as Vidiots delves into the depths of demonic ho
+ rror on glorious celluloid!\n\nTickets: https://vidiotsfoundation.org/purc
+ hase/4672391/\n\nDetails: https://vidiotsfoundation.org/movies/the-exorcis
+ t/
+END:VEVENT
+BEGIN:VEVENT
 UID:4672394@vidiotsfoundation.org
 DTSTAMP:20261024T201500Z
 DTSTART;TZID=America/Los_Angeles:20261024T131500
@@ -1241,6 +1323,22 @@ DESCRIPTION:Run time: 91 min | Format: Digital | Rating: All Ages\n\nSeries
  head to Vidiots for the vacation of your deathtime!\n\nTickets: https://vi
  diotsfoundation.org/purchase/4672394/\n\nDetails: https://vidiotsfoundatio
  n.org/movies/hotel-transylvania/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672396@vidiotsfoundation.org
+DTSTAMP:20261024T230000Z
+DTSTART;TZID=America/Los_Angeles:20261024T160000
+DTEND;TZID=America/Los_Angeles:20261024T171600
+SUMMARY:The Nightmare Before Christmas
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672396/
+DESCRIPTION:Run time: 76 min | Format: Digital | Rating: PG\n\nSeries: Film
+ s for Everyone\, In the Eagle\, Countdown to Halloween\n\nGet in the spook
+ y spirit with a trip to the delightful nightmare world of Halloween Town w
+ ith Jack Skellington and his gruesome band of ghoulfriends.\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4672396/\n\nDetails: https://vidiotsf
+ oundation.org/movies/the-nightmare-before-christmas/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672395@vidiotsfoundation.org
@@ -1258,6 +1356,21 @@ DESCRIPTION:Run time: 144 min | Format: 35mm Film | Rating: R\n\nSeries: 35
  itnessed its bloody\, psychotic mastery.\n\nTickets: https://vidiotsfounda
  tion.org/purchase/4672395/\n\nDetails: https://vidiotsfoundation.org/movie
  s/the-shining/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672401@vidiotsfoundation.org
+DTSTAMP:20261025T230000Z
+DTSTART;TZID=America/Los_Angeles:20261025T160000
+DTEND;TZID=America/Los_Angeles:20261025T175500
+SUMMARY:E.T. the Extra-Terrestrial on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672401/
+DESCRIPTION:Run time: 115 min | Format: 35mm Film | Rating: All Ages\n\nSer
+ ies: 35mm Film\, Films for Everyone\, In the Eagle\n\nEveryone's favorite 
+ wig-wearing\, Reese's Pieces-eating alien is back on our big screen!\n\nTi
+ ckets: https://vidiotsfoundation.org/purchase/4672401/\n\nDetails: https:/
+ /vidiotsfoundation.org/movies/e-t-the-extra-terrestrial/
 END:VEVENT
 BEGIN:VEVENT
 UID:4675405@vidiotsfoundation.org
@@ -1311,6 +1424,36 @@ DESCRIPTION:Run time: 90 min\n\nSeries: Countdown to Halloween\, In the MUB
  mm-halloween-haunts/
 END:VEVENT
 BEGIN:VEVENT
+UID:4672419@vidiotsfoundation.org
+DTSTAMP:20261030T233000Z
+DTSTART;TZID=America/Los_Angeles:20261030T163000
+DTEND;TZID=America/Los_Angeles:20261030T174600
+SUMMARY:The Nightmare Before Christmas
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672419/
+DESCRIPTION:Run time: 76 min | Format: Digital | Rating: PG\n\nSeries: Film
+ s for Everyone\, In the Eagle\, Countdown to Halloween\n\nGet in the spook
+ y spirit with a trip to the delightful nightmare world of Halloween Town w
+ ith Jack Skellington and his gruesome band of ghoulfriends.\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4672419/\n\nDetails: https://vidiotsf
+ oundation.org/movies/the-nightmare-before-christmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672424@vidiotsfoundation.org
+DTSTAMP:20261031T020000Z
+DTSTART;TZID=America/Los_Angeles:20261030T190000
+DTEND;TZID=America/Los_Angeles:20261030T204400
+SUMMARY:Practical Magic
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672424/
+DESCRIPTION:Run time: 104 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ Countdown to Halloween\, In the Eagle\n\nWitchcraft feels good in a place 
+ like this.\n\nTickets: https://vidiotsfoundation.org/purchase/4672424/\n\n
+ Details: https://vidiotsfoundation.org/movies/practical-magic/
+END:VEVENT
+BEGIN:VEVENT
 UID:4672425@vidiotsfoundation.org
 DTSTAMP:20261031T044500Z
 DTSTART;TZID=America/Los_Angeles:20261030T214500
@@ -1328,6 +1471,22 @@ DESCRIPTION:Run time: 115 min | Format: Digital | Release year: 2000\n\nSer
  ://vidiotsfoundation.org/movies/audition/
 END:VEVENT
 BEGIN:VEVENT
+UID:4675363@vidiotsfoundation.org
+DTSTAMP:20261031T231500Z
+DTSTART;TZID=America/Los_Angeles:20261031T161500
+DTEND;TZID=America/Los_Angeles:20261031T173000
+SUMMARY:Bride of Frankenstein
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4675363/
+DESCRIPTION:Run time: 75 min | Format: Digital\n\nSeries: Countdown to Hall
+ oween\, In the Eagle\n\nOpenly queer film director James Whale's gothic ma
+ sterpiece weaves the artistic style of German Expressionism\, a distinctly
+  camp sensibility\, and a story of otherness that resonates throughout his
+ tory.\n\nTickets: https://vidiotsfoundation.org/purchase/4675363/\n\nDetai
+ ls: https://vidiotsfoundation.org/movies/bride-of-frankenstein/
+END:VEVENT
+BEGIN:VEVENT
 UID:4675239@vidiotsfoundation.org
 DTSTAMP:20261101T020000Z
 DTSTART;TZID=America/Los_Angeles:20261031T190000
@@ -1342,5 +1501,21 @@ DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: Count
  ig screen with masked terror in the slasher that started it all!\n\nTicket
  s: https://vidiotsfoundation.org/purchase/4675239/\n\nDetails: https://vid
  iotsfoundation.org/movies/halloween/
+END:VEVENT
+BEGIN:VEVENT
+UID:4675360@vidiotsfoundation.org
+DTSTAMP:20261101T044500Z
+DTSTART;TZID=America/Los_Angeles:20261031T214500
+DTEND;TZID=America/Los_Angeles:20261031T230800
+SUMMARY:The Texas Chain Saw Massacre
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4675360/
+DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
+ down to Halloween\, In the Eagle\n\n52 years ago Tobe Hooper set a new hig
+ h-water mark for horror with this brutal and gruesome exercise in terror\,
+  and few films since have matched its levels of visceral torture.\n\nTicke
+ ts: https://vidiotsfoundation.org/purchase/4675360/\n\nDetails: https://vi
+ diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 END:VCALENDAR
