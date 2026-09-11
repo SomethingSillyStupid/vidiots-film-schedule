@@ -27,6 +27,40 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:4510006@vidiotsfoundation.org
+DTSTAMP:20260912T022000Z
+DTSTART;TZID=America/Los_Angeles:20260911T192000
+DTEND;TZID=America/Los_Angeles:20260911T205500
+SUMMARY:Wild Inside
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510006/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 95 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\n\nOur microcinema is going to the birds with Penn
+ y Lane's rapturous documentary about everyone's favorite escaped zoo owl F
+ laco - Wild Inside .\n\nTickets: https://vidiotsfoundation.org/purchase/45
+ 10006/\n\nDetails: https://vidiotsfoundation.org/movies/wild-inside/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4510011@vidiotsfoundation.org
+DTSTAMP:20260912T050000Z
+DTSTART;TZID=America/Los_Angeles:20260911T220000
+DTEND;TZID=America/Los_Angeles:20260911T232200
+SUMMARY:Idiotka
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510011/
+DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, In the MUBI Microcinema\, Special Guests in Attenda
+ nce\n\nOur microcinema is catching the fashion bug with Nastasya Popov's f
+ iercely funny and endearing indie comedy of fashion\, family\, and despera
+ tion!\nWith filmmaker Nastasya Popov in person at the Sunday\, September 1
+ 3th screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4510011/
+ \n\nDetails: https://vidiotsfoundation.org/movies/idiotka/
+END:VEVENT
+BEGIN:VEVENT
 UID:4509941@vidiotsfoundation.org
 DTSTAMP:20260912T200000Z
 DTSTART;TZID=America/Los_Angeles:20260912T130000
@@ -40,6 +74,23 @@ DESCRIPTION:Run time: 108 min | Format: Digital | Rating: PG\n\nSeries: Fil
  eorge Miller's joyously animated treasure of putting your best foot (and w
  ing) forward.\n\nTickets: https://vidiotsfoundation.org/purchase/4509941/\
  n\nDetails: https://vidiotsfoundation.org/movies/happy-feet/
+END:VEVENT
+BEGIN:VEVENT
+UID:4561750@vidiotsfoundation.org
+DTSTAMP:20260912T231500Z
+DTSTART;TZID=America/Los_Angeles:20260912T161500
+DTEND;TZID=America/Los_Angeles:20260912T175000
+SUMMARY:Wild Inside
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4561750/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 95 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\n\nOur microcinema is going to the birds with Penn
+ y Lane's rapturous documentary about everyone's favorite escaped zoo owl F
+ laco - Wild Inside .\n\nTickets: https://vidiotsfoundation.org/purchase/45
+ 61750/\n\nDetails: https://vidiotsfoundation.org/movies/wild-inside/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4509942@vidiotsfoundation.org
@@ -72,6 +123,23 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: In
  and Tom Hanks (not to mention Eugene Levy and John Candy)!\n\nTickets: htt
  ps://vidiotsfoundation.org/purchase/4509948/\n\nDetails: https://vidiotsfo
  undation.org/movies/splash/
+END:VEVENT
+BEGIN:VEVENT
+UID:4561751@vidiotsfoundation.org
+DTSTAMP:20260913T021500Z
+DTSTART;TZID=America/Los_Angeles:20260912T191500
+DTEND;TZID=America/Los_Angeles:20260912T203700
+SUMMARY:Idiotka
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4561751/
+DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, In the MUBI Microcinema\, Special Guests in Attenda
+ nce\n\nOur microcinema is catching the fashion bug with Nastasya Popov's f
+ iercely funny and endearing indie comedy of fashion\, family\, and despera
+ tion!\nWith filmmaker Nastasya Popov in person at the Sunday\, September 1
+ 3th screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4561751/
+ \n\nDetails: https://vidiotsfoundation.org/movies/idiotka/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509944@vidiotsfoundation.org
@@ -123,6 +191,22 @@ DESCRIPTION:Run time: 118 min | Format: Digital | Rating: PG\n\nSeries: Fil
  org/movies/clash-of-the-titans/
 END:VEVENT
 BEGIN:VEVENT
+UID:4561783@vidiotsfoundation.org
+DTSTAMP:20260913T200000Z
+DTSTART;TZID=America/Los_Angeles:20260913T130000
+DTEND;TZID=America/Los_Angeles:20260913T143500
+SUMMARY:Wild Inside
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4561783/
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOur microcinema 
+ is going to the birds with Penny Lane's rapturous documentary about everyo
+ ne's favorite escaped zoo owl Flaco - Wild Inside .\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4561783/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/wild-inside/
+END:VEVENT
+BEGIN:VEVENT
 UID:4561784@vidiotsfoundation.org
 DTSTAMP:20260913T231500Z
 DTSTART;TZID=America/Los_Angeles:20260913T161500
@@ -157,6 +241,39 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 97 min | F
  //vidiotsfoundation.org/purchase/4509961/\n\nDetails: https://vidiotsfound
  ation.org/movies/the-virgin-suicides/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4561786@vidiotsfoundation.org
+DTSTAMP:20260914T023000Z
+DTSTART;TZID=America/Los_Angeles:20260913T193000
+DTEND;TZID=America/Los_Angeles:20260913T205200
+SUMMARY:Idiotka
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4561786/
+DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, In the MUBI Microcinema\, Special Guests in Attenda
+ nce\n\nOur microcinema is catching the fashion bug with Nastasya Popov's f
+ iercely funny and endearing indie comedy of fashion\, family\, and despera
+ tion!\nWith filmmaker Nastasya Popov in person at the Sunday\, September 1
+ 3th screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4561786/
+ \n\nDetails: https://vidiotsfoundation.org/movies/idiotka/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509963@vidiotsfoundation.org
+DTSTAMP:20260915T020000Z
+DTSTART;TZID=America/Los_Angeles:20260914T190000
+DTEND;TZID=America/Los_Angeles:20260914T203500
+SUMMARY:Wild Inside
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509963/
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOur microcinema 
+ is going to the birds with Penny Lane's rapturous documentary about everyo
+ ne's favorite escaped zoo owl Flaco - Wild Inside .\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4509963/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/wild-inside/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509962@vidiotsfoundation.org
@@ -244,7 +361,7 @@ URL:https://vidiotsfoundation.org/purchase/4597696/
 DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries: 
  Doors Open at 6\, In the Eagle\, TeenTix LA\n\nJoin us for John Cassavetes
  ' raucous and unsettling meditation on toxic masculinity: the hangout movi
- e from hell\, Husbands.\n\nTickets: https://vidiotsfoundation.org/purchase
+ e from hell\, Husbands!\n\nTickets: https://vidiotsfoundation.org/purchase
  /4597696/\n\nDetails: https://vidiotsfoundation.org/movies/husbands/
 END:VEVENT
 BEGIN:VEVENT
@@ -800,6 +917,23 @@ DESCRIPTION:Run time: 137 min | Format: Digital | Rating: R\n\nSeries: 35mm
  es/terminator-2-judgment-day/
 END:VEVENT
 BEGIN:VEVENT
+UID:4672308@vidiotsfoundation.org
+DTSTAMP:20261002T023000Z
+DTSTART;TZID=America/Los_Angeles:20261001T193000
+DTEND;TZID=America/Los_Angeles:20261001T210500
+SUMMARY:In the Mouth of Madness
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672308/
+DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Count
+ down to Halloween\, Doors Open at 6\, In the Eagle\, Remembering Sam Neill
+ \n\nDo you read Sutter Cane?\nOne of horror master John Carpenter's best f
+ ilms outside of the 1980s\, this prophetic Lovecraftian mind-bender is a n
+ ightmarish mystery that draws you into parallel universes of horror.\n\nTi
+ ckets: https://vidiotsfoundation.org/purchase/4672308/\n\nDetails: https:/
+ /vidiotsfoundation.org/movies/in-the-mouth-of-madness/
+END:VEVENT
+BEGIN:VEVENT
 UID:4672309@vidiotsfoundation.org
 DTSTAMP:20261003T020000Z
 DTSTART;TZID=America/Los_Angeles:20261002T190000
@@ -1042,6 +1176,23 @@ DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R\n\nSeries: Coun
  oundation.org/movies/28-days-later/
 END:VEVENT
 BEGIN:VEVENT
+UID:4677779@vidiotsfoundation.org
+DTSTAMP:20261010T022000Z
+DTSTART;TZID=America/Los_Angeles:20261009T192000
+DTEND;TZID=America/Los_Angeles:20261009T204700
+SUMMARY:Bird in Hand
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677779/
+DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
+  microcinema for Melody Roscher's bitingly comic feature film debut that w
+ eaves themes of race\, belonging\, and family into a mercurial journey.\nW
+ riter/Director Melody C. Roscher in person after the Friday\, October 9th 
+ screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4677779/\n\n
+ Details: https://vidiotsfoundation.org/movies/bird-in-hand/
+END:VEVENT
+BEGIN:VEVENT
 UID:4672345@vidiotsfoundation.org
 DTSTAMP:20261010T044500Z
 DTSTART;TZID=America/Los_Angeles:20261009T214500
@@ -1107,6 +1258,39 @@ DESCRIPTION:Run time: 94 min | Format: Digital | Rating: PG-13\n\nSeries: I
  ails: https://vidiotsfoundation.org/movies/teen-witch/
 END:VEVENT
 BEGIN:VEVENT
+UID:4677783@vidiotsfoundation.org
+DTSTAMP:20261010T233000Z
+DTSTART;TZID=America/Los_Angeles:20261010T163000
+DTEND;TZID=America/Los_Angeles:20261010T175700
+SUMMARY:Bird in Hand
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677783/
+DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
+  microcinema for Melody Roscher's bitingly comic feature film debut that w
+ eaves themes of race\, belonging\, and family into a mercurial journey.\nW
+ riter/Director Melody C. Roscher in person after the Friday\, October 9th 
+ screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4677783/\n\n
+ Details: https://vidiotsfoundation.org/movies/bird-in-hand/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672349@vidiotsfoundation.org
+DTSTAMP:20261011T020000Z
+DTSTART;TZID=America/Los_Angeles:20261010T190000
+DTEND;TZID=America/Los_Angeles:20261010T203400
+SUMMARY:Clue
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672349/
+DESCRIPTION:Run time: 94 min | Format: Digital | Rating: PG\n\nSeries: In t
+ he Eagle\, Remembering Tim Curry - Don't Dream It\, Be It!\n\nVidiots reme
+ mbers the iconic legacy of the great Tim Curry with a special screening of
+  the mirthful murder mystery Clue!\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4672349/\n\nDetails: https://vidiotsfoundation.org/movies/clue
+ -1985/
+END:VEVENT
+BEGIN:VEVENT
 UID:4672353@vidiotsfoundation.org
 DTSTAMP:20261011T044500Z
 DTSTART;TZID=America/Los_Angeles:20261010T214500
@@ -1155,6 +1339,74 @@ DESCRIPTION:Run time: 127 min | Format: Digital | Rating: PG\n\nSeries: Fil
  sfoundation.org/movies/annie/
 END:VEVENT
 BEGIN:VEVENT
+UID:4677808@vidiotsfoundation.org
+DTSTAMP:20261011T233000Z
+DTSTART;TZID=America/Los_Angeles:20261011T163000
+DTEND;TZID=America/Los_Angeles:20261011T175700
+SUMMARY:Bird in Hand
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677808/
+DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
+  microcinema for Melody Roscher's bitingly comic feature film debut that w
+ eaves themes of race\, belonging\, and family into a mercurial journey.\nW
+ riter/Director Melody C. Roscher in person after the Friday\, October 9th 
+ screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4677808/\n\n
+ Details: https://vidiotsfoundation.org/movies/bird-in-hand/
+END:VEVENT
+BEGIN:VEVENT
+UID:4677807@vidiotsfoundation.org
+DTSTAMP:20261012T023000Z
+DTSTART;TZID=America/Los_Angeles:20261011T193000
+DTEND;TZID=America/Los_Angeles:20261011T211100
+SUMMARY:The History of Concrete
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677807/
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOne part docume
+ ntary\, one part camcorder video essay\, and one part the driest yet funni
+ est of comedies\, John Wilson extends his unique genre-bending style from 
+ the small screen to the big with this magnificently absurd examination of 
+ the literal ground below our feet.\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4677807/\n\nDetails: https://vidiotsfoundation.org/movies/the-
+ history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672363@vidiotsfoundation.org
+DTSTAMP:20261014T023000Z
+DTSTART;TZID=America/Los_Angeles:20261013T193000
+DTEND;TZID=America/Los_Angeles:20261013T205800
+SUMMARY:The Rental
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672363/
+DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Count
+ down to Halloween\, Doors Open at 6\, In the Eagle\, Special Guests in Att
+ endance\n\nVidiots is dying to welcome writer/director Dave Franco and spe
+ cial guests for a long overdue theatrical screening of his sinister thrill
+ er The Rental .\n\nTickets: https://vidiotsfoundation.org/purchase/4672363
+ /\n\nDetails: https://vidiotsfoundation.org/movies/the-rental/
+END:VEVENT
+BEGIN:VEVENT
+UID:4679430@vidiotsfoundation.org
+DTSTAMP:20261016T020000Z
+DTSTART;TZID=America/Los_Angeles:20261015T190000
+DTEND;TZID=America/Los_Angeles:20261015T202400
+SUMMARY:Outpost
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4679430/
+DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Additional Shows\
+ , Countdown to Halloween\, In the MUBI Microcinema\, Special Guests in Att
+ endance\n\nJoin us in the microcinema for Joe Lo Truglio's nail-biting nig
+ htmare of the darkness that lurks in the woods and inside us.\nWith writer
+ /director Joe Lo Truglio in person for the October 15th screening!\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4679430/\n\nDetails: https://v
+ idiotsfoundation.org/movies/outpost/
+END:VEVENT
+BEGIN:VEVENT
 UID:4672364@vidiotsfoundation.org
 DTSTAMP:20261017T020000Z
 DTSTART;TZID=America/Los_Angeles:20261016T190000
@@ -1185,6 +1437,23 @@ DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Count
  is a smart\, slick\, and stylish tale of faith\, temptation\, and demons!\
  n\nTickets: https://vidiotsfoundation.org/purchase/4672369/\n\nDetails: ht
  tps://vidiotsfoundation.org/movies/def-by-temptation/
+END:VEVENT
+BEGIN:VEVENT
+UID:4679442@vidiotsfoundation.org
+DTSTAMP:20261017T050000Z
+DTSTART;TZID=America/Los_Angeles:20261016T220000
+DTEND;TZID=America/Los_Angeles:20261016T232400
+SUMMARY:Outpost
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4679442/
+DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Additional Shows\
+ , Countdown to Halloween\, In the MUBI Microcinema\, Special Guests in Att
+ endance\n\nJoin us in the microcinema for Joe Lo Truglio's nail-biting nig
+ htmare of the darkness that lurks in the woods and inside us.\nWith writer
+ /director Joe Lo Truglio in person for the October 15th screening!\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4679442/\n\nDetails: https://v
+ idiotsfoundation.org/movies/outpost/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672376@vidiotsfoundation.org
@@ -1251,6 +1520,57 @@ DESCRIPTION:Run time: 132 min | Format: 35mm Film | Rating: R\n\nSeries: 35
  rror on glorious celluloid!\n\nTickets: https://vidiotsfoundation.org/purc
  hase/4672391/\n\nDetails: https://vidiotsfoundation.org/movies/the-exorcis
  t/
+END:VEVENT
+BEGIN:VEVENT
+UID:4679487@vidiotsfoundation.org
+DTSTAMP:20261022T023000Z
+DTSTART;TZID=America/Los_Angeles:20261021T193000
+DTEND;TZID=America/Los_Angeles:20261021T210600
+SUMMARY:Bones on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4679487/
+DESCRIPTION:Run time: 96 min | Format: 35mm Film | Rating: R\n\nSeries: 35m
+ m Film\, Countdown to Halloween\, Doors Open at 6\, In the Eagle\, Special
+  Guests in Attendance\n\nVidiots is dying to welcome back legendary direct
+ or Ernest R. Dickerson for a special screening of his cult classic horror 
+ starring Snoop Dogg - Bones on glorious 35mm celluloid!\n\nTickets: https:
+ //vidiotsfoundation.org/purchase/4679487/\n\nDetails: https://vidiotsfound
+ ation.org/movies/bones/
+END:VEVENT
+BEGIN:VEVENT
+UID:4679492@vidiotsfoundation.org
+DTSTAMP:20261024T020000Z
+DTSTART;TZID=America/Los_Angeles:20261023T190000
+DTEND;TZID=America/Los_Angeles:20261023T203100
+SUMMARY:A Nightmare on Elm Street
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4679492/
+DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: Count
+ down to Halloween\, In the Eagle\n\nOne\, two... Freddy's coming for you!\
+ nWes Craven's original nightmare and the start of a monstrous 20-year fran
+ chise\, this first installment of Freddy remains the most terrifying of th
+ e series and is considered one of the best horror movies of all time.\n\nT
+ ickets: https://vidiotsfoundation.org/purchase/4679492/\n\nDetails: https:
+ //vidiotsfoundation.org/movies/a-nightmare-on-elm-street/
+END:VEVENT
+BEGIN:VEVENT
+UID:4679845@vidiotsfoundation.org
+DTSTAMP:20261024T044500Z
+DTSTART;TZID=America/Los_Angeles:20261023T214500
+DTEND;TZID=America/Los_Angeles:20261023T233000
+SUMMARY:Mimic
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4679845/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Coun
+ tdown to Halloween\, In the Eagle\, What the Friday?!?\n\nDon't bug out - 
+ we've got the creature feature your Friday night has been missing - a Guil
+ lermo del Toro giant mutant cockroach movie starring Mira Sorvino and inte
+ rnational superstar Giancarlo Giannini!\n\nTickets: https://vidiotsfoundat
+ ion.org/purchase/4679845/\n\nDetails: https://vidiotsfoundation.org/movies
+ /mimic/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672394@vidiotsfoundation.org
@@ -1494,23 +1814,6 @@ DESCRIPTION:Run time: 106 min | Format: Digital | Rating: PG-13\n\nSeries:
  vidiotsfoundation.org/movies/unbreakable/
 END:VEVENT
 BEGIN:VEVENT
-UID:4510006@vidiotsfoundation.org
-DTSTAMP:20260912T022000Z
-DTSTART;TZID=America/Los_Angeles:20260911T192000
-DTEND;TZID=America/Los_Angeles:20260911T205500
-SUMMARY:Wild Inside
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510006/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 95 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nOur microcinema is going to the birds with Penn
- y Lane's rapturous documentary about everyone's favorite escaped zoo owl F
- laco - Wild Inside .\n\nTickets: https://vidiotsfoundation.org/purchase/45
- 10006/\n\nDetails: https://vidiotsfoundation.org/movies/wild-inside/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4509939@vidiotsfoundation.org
 DTSTAMP:20260912T044500Z
 DTSTART;TZID=America/Los_Angeles:20260911T214500
@@ -1526,22 +1829,5 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: In
  h Day in Duckland with a special video introduction from Tim Robbins !\n\n
  Tickets: https://vidiotsfoundation.org/purchase/4509939/\n\nDetails: https
  ://vidiotsfoundation.org/movies/howard-the-duck/
-END:VEVENT
-BEGIN:VEVENT
-UID:4510011@vidiotsfoundation.org
-DTSTAMP:20260912T050000Z
-DTSTART;TZID=America/Los_Angeles:20260911T220000
-DTEND;TZID=America/Los_Angeles:20260911T232200
-SUMMARY:Idiotka
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510011/
-DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\, Special Guests in Attenda
- nce\n\nOur microcinema is catching the fashion bug with Nastasya Popov's f
- iercely funny and endearing indie comedy of fashion\, family\, and despera
- tion!\nWith filmmaker Nastasya Popov in person at the Sunday\, September 1
- 3th screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4510011/
- \n\nDetails: https://vidiotsfoundation.org/movies/idiotka/
 END:VEVENT
 END:VCALENDAR
