@@ -1010,6 +1010,24 @@ DESCRIPTION:Run time: 83 min | Format: 4K Digital\n\nSeries: Community Part
  n.org/movies/chocolate-babies/
 END:VEVENT
 BEGIN:VEVENT
+UID:4677781@vidiotsfoundation.org
+DTSTAMP:20261009T233000Z
+DTSTART;TZID=America/Los_Angeles:20261009T163000
+DTEND;TZID=America/Los_Angeles:20261009T181100
+SUMMARY:The History of Concrete
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677781/
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOne part docume
+ ntary\, one part camcorder video essay\, and one part the driest yet funni
+ est of comedies\, John Wilson extends his unique genre-bending style from 
+ the small screen to the big with this magnificently absurd examination of 
+ the literal ground below our feet.\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4677781/\n\nDetails: https://vidiotsfoundation.org/movies/the-
+ history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
 UID:4672344@vidiotsfoundation.org
 DTSTAMP:20261010T020000Z
 DTSTART;TZID=America/Los_Angeles:20261009T190000
@@ -1038,6 +1056,24 @@ DESCRIPTION:Run time: 100 min | Format: Digital | Rating: R\n\nSeries: In t
   special screening of this quintessential cult classic musical extravaganz
  a!\n\nTickets: https://vidiotsfoundation.org/purchase/4672345/\n\nDetails:
   https://vidiotsfoundation.org/movies/the-rocky-horror-picture-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:4677780@vidiotsfoundation.org
+DTSTAMP:20261010T050000Z
+DTSTART;TZID=America/Los_Angeles:20261009T220000
+DTEND;TZID=America/Los_Angeles:20261009T234100
+SUMMARY:The History of Concrete
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677780/
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOne part docume
+ ntary\, one part camcorder video essay\, and one part the driest yet funni
+ est of comedies\, John Wilson extends his unique genre-bending style from 
+ the small screen to the big with this magnificently absurd examination of 
+ the literal ground below our feet.\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4677780/\n\nDetails: https://vidiotsfoundation.org/movies/the-
+ history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672347@vidiotsfoundation.org
@@ -1083,6 +1119,24 @@ DESCRIPTION:Run time: 119 min | Format: Digital | Rating: R | Release year:
   2001\n\nSeries: Countdown to Halloween\, In the Eagle\n\nDo you want to m
  eet a ghost?\n\nTickets: https://vidiotsfoundation.org/purchase/4672353/\n
  \nDetails: https://vidiotsfoundation.org/movies/pulse/
+END:VEVENT
+BEGIN:VEVENT
+UID:4677791@vidiotsfoundation.org
+DTSTAMP:20261011T050000Z
+DTSTART;TZID=America/Los_Angeles:20261010T220000
+DTEND;TZID=America/Los_Angeles:20261010T234100
+SUMMARY:The History of Concrete
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677791/
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOne part docume
+ ntary\, one part camcorder video essay\, and one part the driest yet funni
+ est of comedies\, John Wilson extends his unique genre-bending style from 
+ the small screen to the big with this magnificently absurd examination of 
+ the literal ground below our feet.\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4677791/\n\nDetails: https://vidiotsfoundation.org/movies/the-
+ history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672357@vidiotsfoundation.org
