@@ -281,11 +281,13 @@ SUMMARY:The Virgin Suicides
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4509961/
-DESCRIPTION:Run time: 97 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\n\nSlip into the dark and dreamy world of Sofia Coppola's director
- ial debut - a hypnotic and ethereal work supported by the sublime soundtra
- ck from Air.\n\nTickets: https://vidiotsfoundation.org/purchase/4509961/\n
- \nDetails: https://vidiotsfoundation.org/movies/the-virgin-suicides/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 97 min | F
+ ormat: Digital | Rating: R\n\nSeries: In the Eagle\n\nSlip into the dark a
+ nd dreamy world of Sofia Coppola's directorial debut - a hypnotic and ethe
+ real work supported by the sublime soundtrack from Air.\n\nTickets: https:
+ //vidiotsfoundation.org/purchase/4509961/\n\nDetails: https://vidiotsfound
+ ation.org/movies/the-virgin-suicides/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4561786@vidiotsfoundation.org
@@ -978,6 +980,23 @@ DESCRIPTION:Run time: 120 min | Format: Digital | Rating: R\n\nSeries: Coun
  g/movies/creepshow/
 END:VEVENT
 BEGIN:VEVENT
+UID:4677597@vidiotsfoundation.org
+DTSTAMP:20261003T021500Z
+DTSTART;TZID=America/Los_Angeles:20261002T191500
+DTEND;TZID=America/Los_Angeles:20261002T205700
+SUMMARY:Barbara Forever
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677597/
+DESCRIPTION:Run time: 102 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the 
+ microcinema to rediscover the immense legacy of groundbreaking lesbian fil
+ mmaker Barbara Hammer through Brydie O'Connor's phenomenal and award-winni
+ ng portrait\, Barbara Forever !\n\nTickets: https://vidiotsfoundation.org/
+ purchase/4677597/\n\nDetails: https://vidiotsfoundation.org/movies/barbara
+ -forever/
+END:VEVENT
+BEGIN:VEVENT
 UID:4672312@vidiotsfoundation.org
 DTSTAMP:20261003T200000Z
 DTSTART;TZID=America/Los_Angeles:20261003T130000
@@ -992,6 +1011,23 @@ DESCRIPTION:Run time: 104 min | Format: Digital | Rating: All Ages\n\nSerie
  ur little monsters at the head of the class!\n\nTickets: https://vidiotsfo
  undation.org/purchase/4672312/\n\nDetails: https://vidiotsfoundation.org/m
  ovies/monsters-university/
+END:VEVENT
+BEGIN:VEVENT
+UID:4677611@vidiotsfoundation.org
+DTSTAMP:20261003T224500Z
+DTSTART;TZID=America/Los_Angeles:20261003T154500
+DTEND;TZID=America/Los_Angeles:20261003T172700
+SUMMARY:Barbara Forever
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677611/
+DESCRIPTION:Run time: 102 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the 
+ microcinema to rediscover the immense legacy of groundbreaking lesbian fil
+ mmaker Barbara Hammer through Brydie O'Connor's phenomenal and award-winni
+ ng portrait\, Barbara Forever !\n\nTickets: https://vidiotsfoundation.org/
+ purchase/4677611/\n\nDetails: https://vidiotsfoundation.org/movies/barbara
+ -forever/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672316@vidiotsfoundation.org
@@ -1039,6 +1075,23 @@ DESCRIPTION:Run time: 95 min | Format: 35mm Film | Release year: 1998\n\nSe
  presented on a glorious brand new 35mm print!\n\nTickets: https://vidiotsf
  oundation.org/purchase/4672325/\n\nDetails: https://vidiotsfoundation.org/
  movies/the-hole/
+END:VEVENT
+BEGIN:VEVENT
+UID:4677631@vidiotsfoundation.org
+DTSTAMP:20261004T194500Z
+DTSTART;TZID=America/Los_Angeles:20261004T124500
+DTEND;TZID=America/Los_Angeles:20261004T142700
+SUMMARY:Barbara Forever
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677631/
+DESCRIPTION:Run time: 102 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the 
+ microcinema to rediscover the immense legacy of groundbreaking lesbian fil
+ mmaker Barbara Hammer through Brydie O'Connor's phenomenal and award-winni
+ ng portrait\, Barbara Forever !\n\nTickets: https://vidiotsfoundation.org/
+ purchase/4677631/\n\nDetails: https://vidiotsfoundation.org/movies/barbara
+ -forever/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672338@vidiotsfoundation.org
@@ -1334,11 +1387,12 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672396/
 DESCRIPTION:Run time: 76 min | Format: Digital | Rating: PG\n\nSeries: Film
- s for Everyone\, In the Eagle\, Countdown to Halloween\n\nGet in the spook
- y spirit with a trip to the delightful nightmare world of Halloween Town w
- ith Jack Skellington and his gruesome band of ghoulfriends.\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4672396/\n\nDetails: https://vidiotsf
- oundation.org/movies/the-nightmare-before-christmas/
+ s for Everyone\, In the Eagle\, Remembering Catherine O'Hara\, Countdown t
+ o Halloween\n\nGet in the spooky spirit with a trip to the delightful nigh
+ tmare world of Halloween Town with Jack Skellington and his gruesome band 
+ of ghoulfriends.\n\nTickets: https://vidiotsfoundation.org/purchase/467239
+ 6/\n\nDetails: https://vidiotsfoundation.org/movies/the-nightmare-before-c
+ hristmas/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672395@vidiotsfoundation.org
@@ -1433,11 +1487,12 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672419/
 DESCRIPTION:Run time: 76 min | Format: Digital | Rating: PG\n\nSeries: Film
- s for Everyone\, In the Eagle\, Countdown to Halloween\n\nGet in the spook
- y spirit with a trip to the delightful nightmare world of Halloween Town w
- ith Jack Skellington and his gruesome band of ghoulfriends.\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4672419/\n\nDetails: https://vidiotsf
- oundation.org/movies/the-nightmare-before-christmas/
+ s for Everyone\, In the Eagle\, Remembering Catherine O'Hara\, Countdown t
+ o Halloween\n\nGet in the spooky spirit with a trip to the delightful nigh
+ tmare world of Halloween Town with Jack Skellington and his gruesome band 
+ of ghoulfriends.\n\nTickets: https://vidiotsfoundation.org/purchase/467241
+ 9/\n\nDetails: https://vidiotsfoundation.org/movies/the-nightmare-before-c
+ hristmas/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672424@vidiotsfoundation.org
