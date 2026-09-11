@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4509940@vidiotsfoundation.org
-DTSTAMP:20260911T230000Z
-DTSTART;TZID=America/Los_Angeles:20260911T160000
-DTEND;TZID=America/Los_Angeles:20260911T173700
-SUMMARY:Wet Hot American Summer
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509940/
-DESCRIPTION:No guest\n\nRun time: 97 min | Format: Digital | Rating: R\n\nS
- eries: In the Eagle\n\nEncore Screening Added - September 11th\, screening
-  only.\n\nTickets: https://vidiotsfoundation.org/purchase/4509940/\n\nDeta
- ils: https://vidiotsfoundation.org/showtimes/wet-hot-american-summer-9-11-
- 26-400-pm/
-END:VEVENT
-BEGIN:VEVENT
 UID:4510005@vidiotsfoundation.org
 DTSTAMP:20260911T231500Z
 DTSTART;TZID=America/Los_Angeles:20260911T161500
@@ -42,72 +27,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4509938@vidiotsfoundation.org
-DTSTAMP:20260912T020000Z
-DTSTART;TZID=America/Los_Angeles:20260911T190000
-DTEND;TZID=America/Los_Angeles:20260911T204600
-SUMMARY:Unbreakable
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509938/
-DESCRIPTION:Run time: 106 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\, TeenTix LA\n\nM. Night Shyamalan twists the superhero genre
-  into an introspective thriller in this genre-shattering slow burn.\n\nTic
- kets: https://vidiotsfoundation.org/purchase/4509938/\n\nDetails: https://
- vidiotsfoundation.org/movies/unbreakable/
-END:VEVENT
-BEGIN:VEVENT
-UID:4510006@vidiotsfoundation.org
-DTSTAMP:20260912T022000Z
-DTSTART;TZID=America/Los_Angeles:20260911T192000
-DTEND;TZID=America/Los_Angeles:20260911T205500
-SUMMARY:Wild Inside
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510006/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 95 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nOur microcinema is going to the birds with Penn
- y Lane's rapturous documentary about everyone's favorite escaped zoo owl F
- laco - Wild Inside .\n\nTickets: https://vidiotsfoundation.org/purchase/45
- 10006/\n\nDetails: https://vidiotsfoundation.org/movies/wild-inside/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4509939@vidiotsfoundation.org
-DTSTAMP:20260912T044500Z
-DTSTART;TZID=America/Los_Angeles:20260911T214500
-DTEND;TZID=America/Los_Angeles:20260911T233500
-SUMMARY:Howard the Duck
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509939/
-DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: In 
- the Eagle\, What the Friday?!?\n\nGet your brain ready for maximum meltage
-  with this bizarro cult classic and one of the strangest superhero movies 
- of all time!\nPlus! The Vidiots premiere of Tim Robbins' short film A Roug
- h Day in Duckland with a special video introduction from Tim Robbins !\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4509939/\n\nDetails: https
- ://vidiotsfoundation.org/movies/howard-the-duck/
-END:VEVENT
-BEGIN:VEVENT
-UID:4510011@vidiotsfoundation.org
-DTSTAMP:20260912T050000Z
-DTSTART;TZID=America/Los_Angeles:20260911T220000
-DTEND;TZID=America/Los_Angeles:20260911T232200
-SUMMARY:Idiotka
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510011/
-DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\, Special Guests in Attenda
- nce\n\nOur microcinema is catching the fashion bug with Nastasya Popov's f
- iercely funny and endearing indie comedy of fashion\, family\, and despera
- tion!\nWith filmmaker Nastasya Popov in person at the Sunday\, September 1
- 3th screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4510011/
- \n\nDetails: https://vidiotsfoundation.org/movies/idiotka/
-END:VEVENT
-BEGIN:VEVENT
 UID:4509941@vidiotsfoundation.org
 DTSTAMP:20260912T200000Z
 DTSTART;TZID=America/Los_Angeles:20260912T130000
@@ -121,23 +40,6 @@ DESCRIPTION:Run time: 108 min | Format: Digital | Rating: PG\n\nSeries: Fil
  eorge Miller's joyously animated treasure of putting your best foot (and w
  ing) forward.\n\nTickets: https://vidiotsfoundation.org/purchase/4509941/\
  n\nDetails: https://vidiotsfoundation.org/movies/happy-feet/
-END:VEVENT
-BEGIN:VEVENT
-UID:4561750@vidiotsfoundation.org
-DTSTAMP:20260912T231500Z
-DTSTART;TZID=America/Los_Angeles:20260912T161500
-DTEND;TZID=America/Los_Angeles:20260912T175000
-SUMMARY:Wild Inside
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4561750/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 95 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nOur microcinema is going to the birds with Penn
- y Lane's rapturous documentary about everyone's favorite escaped zoo owl F
- laco - Wild Inside .\n\nTickets: https://vidiotsfoundation.org/purchase/45
- 61750/\n\nDetails: https://vidiotsfoundation.org/movies/wild-inside/
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4509942@vidiotsfoundation.org
@@ -170,23 +72,6 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: In
  and Tom Hanks (not to mention Eugene Levy and John Candy)!\n\nTickets: htt
  ps://vidiotsfoundation.org/purchase/4509948/\n\nDetails: https://vidiotsfo
  undation.org/movies/splash/
-END:VEVENT
-BEGIN:VEVENT
-UID:4561751@vidiotsfoundation.org
-DTSTAMP:20260913T021500Z
-DTSTART;TZID=America/Los_Angeles:20260912T191500
-DTEND;TZID=America/Los_Angeles:20260912T203700
-SUMMARY:Idiotka
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4561751/
-DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\, Special Guests in Attenda
- nce\n\nOur microcinema is catching the fashion bug with Nastasya Popov's f
- iercely funny and endearing indie comedy of fashion\, family\, and despera
- tion!\nWith filmmaker Nastasya Popov in person at the Sunday\, September 1
- 3th screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4561751/
- \n\nDetails: https://vidiotsfoundation.org/movies/idiotka/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509944@vidiotsfoundation.org
@@ -238,22 +123,6 @@ DESCRIPTION:Run time: 118 min | Format: Digital | Rating: PG\n\nSeries: Fil
  org/movies/clash-of-the-titans/
 END:VEVENT
 BEGIN:VEVENT
-UID:4561783@vidiotsfoundation.org
-DTSTAMP:20260913T200000Z
-DTSTART;TZID=America/Los_Angeles:20260913T130000
-DTEND;TZID=America/Los_Angeles:20260913T143500
-SUMMARY:Wild Inside
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4561783/
-DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOur microcinema 
- is going to the birds with Penny Lane's rapturous documentary about everyo
- ne's favorite escaped zoo owl Flaco - Wild Inside .\n\nTickets: https://vi
- diotsfoundation.org/purchase/4561783/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
 UID:4561784@vidiotsfoundation.org
 DTSTAMP:20260913T231500Z
 DTSTART;TZID=America/Los_Angeles:20260913T161500
@@ -288,39 +157,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 97 min | F
  //vidiotsfoundation.org/purchase/4509961/\n\nDetails: https://vidiotsfound
  ation.org/movies/the-virgin-suicides/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4561786@vidiotsfoundation.org
-DTSTAMP:20260914T023000Z
-DTSTART;TZID=America/Los_Angeles:20260913T193000
-DTEND;TZID=America/Los_Angeles:20260913T205200
-SUMMARY:Idiotka
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4561786/
-DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\, Special Guests in Attenda
- nce\n\nOur microcinema is catching the fashion bug with Nastasya Popov's f
- iercely funny and endearing indie comedy of fashion\, family\, and despera
- tion!\nWith filmmaker Nastasya Popov in person at the Sunday\, September 1
- 3th screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4561786/
- \n\nDetails: https://vidiotsfoundation.org/movies/idiotka/
-END:VEVENT
-BEGIN:VEVENT
-UID:4509963@vidiotsfoundation.org
-DTSTAMP:20260915T020000Z
-DTSTART;TZID=America/Los_Angeles:20260914T190000
-DTEND;TZID=America/Los_Angeles:20260914T203500
-SUMMARY:Wild Inside
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509963/
-DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOur microcinema 
- is going to the birds with Penny Lane's rapturous documentary about everyo
- ne's favorite escaped zoo owl Flaco - Wild Inside .\n\nTickets: https://vi
- diotsfoundation.org/purchase/4509963/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/wild-inside/
 END:VEVENT
 BEGIN:VEVENT
 UID:4509962@vidiotsfoundation.org
@@ -1572,5 +1408,86 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
   and few films since have matched its levels of visceral torture.\n\nTicke
  ts: https://vidiotsfoundation.org/purchase/4675360/\n\nDetails: https://vi
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509940@vidiotsfoundation.org
+DTSTAMP:20260911T230000Z
+DTSTART;TZID=America/Los_Angeles:20260911T160000
+DTEND;TZID=America/Los_Angeles:20260911T173700
+SUMMARY:Wet Hot American Summer
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509940/
+DESCRIPTION:No guest\n\nRun time: 97 min | Format: Digital | Rating: R\n\nS
+ eries: In the Eagle\n\nEncore Screening Added - September 11th\, screening
+  only.\n\nTickets: https://vidiotsfoundation.org/purchase/4509940/\n\nDeta
+ ils: https://vidiotsfoundation.org/showtimes/wet-hot-american-summer-9-11-
+ 26-400-pm/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509938@vidiotsfoundation.org
+DTSTAMP:20260912T020000Z
+DTSTART;TZID=America/Los_Angeles:20260911T190000
+DTEND;TZID=America/Los_Angeles:20260911T204600
+SUMMARY:Unbreakable
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509938/
+DESCRIPTION:Run time: 106 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\, TeenTix LA\n\nM. Night Shyamalan twists the superhero genre
+  into an introspective thriller in this genre-shattering slow burn.\n\nTic
+ kets: https://vidiotsfoundation.org/purchase/4509938/\n\nDetails: https://
+ vidiotsfoundation.org/movies/unbreakable/
+END:VEVENT
+BEGIN:VEVENT
+UID:4510006@vidiotsfoundation.org
+DTSTAMP:20260912T022000Z
+DTSTART;TZID=America/Los_Angeles:20260911T192000
+DTEND;TZID=America/Los_Angeles:20260911T205500
+SUMMARY:Wild Inside
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510006/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 95 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
+ In the MUBI Microcinema\n\nOur microcinema is going to the birds with Penn
+ y Lane's rapturous documentary about everyone's favorite escaped zoo owl F
+ laco - Wild Inside .\n\nTickets: https://vidiotsfoundation.org/purchase/45
+ 10006/\n\nDetails: https://vidiotsfoundation.org/movies/wild-inside/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4509939@vidiotsfoundation.org
+DTSTAMP:20260912T044500Z
+DTSTART;TZID=America/Los_Angeles:20260911T214500
+DTEND;TZID=America/Los_Angeles:20260911T233500
+SUMMARY:Howard the Duck
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509939/
+DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: In 
+ the Eagle\, What the Friday?!?\n\nGet your brain ready for maximum meltage
+  with this bizarro cult classic and one of the strangest superhero movies 
+ of all time!\nPlus! The Vidiots premiere of Tim Robbins' short film A Roug
+ h Day in Duckland with a special video introduction from Tim Robbins !\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4509939/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/howard-the-duck/
+END:VEVENT
+BEGIN:VEVENT
+UID:4510011@vidiotsfoundation.org
+DTSTAMP:20260912T050000Z
+DTSTART;TZID=America/Los_Angeles:20260911T220000
+DTEND;TZID=America/Los_Angeles:20260911T232200
+SUMMARY:Idiotka
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510011/
+DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, In the MUBI Microcinema\, Special Guests in Attenda
+ nce\n\nOur microcinema is catching the fashion bug with Nastasya Popov's f
+ iercely funny and endearing indie comedy of fashion\, family\, and despera
+ tion!\nWith filmmaker Nastasya Popov in person at the Sunday\, September 1
+ 3th screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4510011/
+ \n\nDetails: https://vidiotsfoundation.org/movies/idiotka/
 END:VEVENT
 END:VCALENDAR
