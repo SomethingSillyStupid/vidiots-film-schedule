@@ -1362,23 +1362,6 @@ DESCRIPTION:Run time: 132 min | Format: 35mm Film | Rating: R\n\nSeries: 35
  t/
 END:VEVENT
 BEGIN:VEVENT
-UID:4679487@vidiotsfoundation.org
-DTSTAMP:20261022T023000Z
-DTSTART;TZID=America/Los_Angeles:20261021T193000
-DTEND;TZID=America/Los_Angeles:20261021T210600
-SUMMARY:Bones on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4679487/
-DESCRIPTION:Run time: 96 min | Format: 35mm Film | Rating: R\n\nSeries: 35m
- m Film\, Countdown to Halloween\, Doors Open at 6\, In the Eagle\, Special
-  Guests in Attendance\n\nVidiots is dying to welcome back legendary direct
- or Ernest R. Dickerson for a special screening of his cult classic horror 
- starring Snoop Dogg - Bones on glorious 35mm celluloid!\n\nTickets: https:
- //vidiotsfoundation.org/purchase/4679487/\n\nDetails: https://vidiotsfound
- ation.org/movies/bones/
-END:VEVENT
-BEGIN:VEVENT
 UID:4679492@vidiotsfoundation.org
 DTSTAMP:20261024T020000Z
 DTSTART;TZID=America/Los_Angeles:20261023T190000
