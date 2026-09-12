@@ -691,13 +691,14 @@ SUMMARY:Filipiñana
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4510096/
-DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
- ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
- ema for one of the best films of the year and a masterwork of internationa
- l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
- ipiñana .\nMore showtimes added!\n\nTickets: https://vidiotsfoundation.or
- g/purchase/4510096/\n\nDetails: https://vidiotsfoundation.org/movies/filip
- inana/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
+ MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
+ f the year and a masterwork of international cinema - Rafael Manuel's phen
+ omenally composed deadpan social satire Filipiñana .\nMore showtimes adde
+ d!\n\nTickets: https://vidiotsfoundation.org/purchase/4510096/\n\nDetails:
+  https://vidiotsfoundation.org/movies/filipinana/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4510102@vidiotsfoundation.org
@@ -1171,7 +1172,9 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672344/
 DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R\n\nSeries: Coun
- tdown to Halloween\, In the Eagle\n\nThe days are numbered.\n\nTickets: ht
+ tdown to Halloween\, In the Eagle\n\nDanny Boyle breathes new life into th
+ e world of the undead with this gritty\, frenetic\, and fantastically bloo
+ dy journey through a zombie-infested\, post-apocalyptic UK.\n\nTickets: ht
  tps://vidiotsfoundation.org/purchase/4672344/\n\nDetails: https://vidiotsf
  oundation.org/movies/28-days-later/
 END:VEVENT
@@ -1404,55 +1407,6 @@ DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Additional Shows\
  htmare of the darkness that lurks in the woods and inside us.\nWith writer
  /director Joe Lo Truglio in person for the October 15th screening!\n\nTick
  ets: https://vidiotsfoundation.org/purchase/4679430/\n\nDetails: https://v
- idiotsfoundation.org/movies/outpost/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672364@vidiotsfoundation.org
-DTSTAMP:20261017T020000Z
-DTSTART;TZID=America/Los_Angeles:20261016T190000
-DTEND;TZID=America/Los_Angeles:20261016T205800
-SUMMARY:The Witches of Eastwick
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672364/
-DESCRIPTION:Run time: 118 min | Format: Digital | Rating: R\n\nSeries: Coun
- tdown to Halloween\, In the Eagle\n\nWith an iconic cast\, fiercely funny 
- dialogue\, and tons of witchy fun\, you'll want to gather up your coven an
- d get ready for all the sexy and savage sorcery!\n\nTickets: https://vidio
- tsfoundation.org/purchase/4672364/\n\nDetails: https://vidiotsfoundation.o
- rg/movies/the-witches-of-eastwick/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672369@vidiotsfoundation.org
-DTSTAMP:20261017T044500Z
-DTSTART;TZID=America/Los_Angeles:20261016T214500
-DTEND;TZID=America/Los_Angeles:20261016T232000
-SUMMARY:Def by Temptation
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672369/
-DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Count
- down to Halloween\, In the Eagle\, What the Friday?!?\n\nOne of the best f
- ilms to be released on Troma's label\, James Bond III's Def by Temptation 
- is a smart\, slick\, and stylish tale of faith\, temptation\, and demons!\
- n\nTickets: https://vidiotsfoundation.org/purchase/4672369/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/def-by-temptation/
-END:VEVENT
-BEGIN:VEVENT
-UID:4679442@vidiotsfoundation.org
-DTSTAMP:20261017T050000Z
-DTSTART;TZID=America/Los_Angeles:20261016T220000
-DTEND;TZID=America/Los_Angeles:20261016T232400
-SUMMARY:Outpost
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4679442/
-DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Additional Shows\
- , Countdown to Halloween\, In the MUBI Microcinema\, Special Guests in Att
- endance\n\nJoin us in the microcinema for Joe Lo Truglio's nail-biting nig
- htmare of the darkness that lurks in the woods and inside us.\nWith writer
- /director Joe Lo Truglio in person for the October 15th screening!\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4679442/\n\nDetails: https://v
  idiotsfoundation.org/movies/outpost/
 END:VEVENT
 BEGIN:VEVENT
