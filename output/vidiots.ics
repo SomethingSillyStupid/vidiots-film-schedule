@@ -8,74 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4510005@vidiotsfoundation.org
-DTSTAMP:20260911T231500Z
-DTSTART;TZID=America/Los_Angeles:20260911T161500
-DTEND;TZID=America/Los_Angeles:20260911T180700
-SUMMARY:Teenage Sex and Death at Camp Miasma
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510005/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min | 
- Format: Digital | Rating: R\n\nSeries: In the MUBI Microcinema\, Additiona
- l Shows\n\nVisionary director Jane Schoenbrun presents a new kind of horro
- r remake! Bursting with imagination and surreal wit\, their latest genre-b
- ending wonder affirms there’s no such thing as a guilty pleasure.\nMore 
- Showtimes added!\n\nTickets: https://vidiotsfoundation.org/purchase/451000
- 5/\n\nDetails: https://vidiotsfoundation.org/movies/teenage-sex-and-death-
- at-camp-miasma-2026/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4510006@vidiotsfoundation.org
-DTSTAMP:20260912T022000Z
-DTSTART;TZID=America/Los_Angeles:20260911T192000
-DTEND;TZID=America/Los_Angeles:20260911T205500
-SUMMARY:Wild Inside
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510006/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 95 min | F
- ormat: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\, 
- In the MUBI Microcinema\n\nOur microcinema is going to the birds with Penn
- y Lane's rapturous documentary about everyone's favorite escaped zoo owl F
- laco - Wild Inside .\n\nTickets: https://vidiotsfoundation.org/purchase/45
- 10006/\n\nDetails: https://vidiotsfoundation.org/movies/wild-inside/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4510011@vidiotsfoundation.org
-DTSTAMP:20260912T050000Z
-DTSTART;TZID=America/Los_Angeles:20260911T220000
-DTEND;TZID=America/Los_Angeles:20260911T232200
-SUMMARY:Idiotka
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510011/
-DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\, Special Guests in Attenda
- nce\n\nOur microcinema is catching the fashion bug with Nastasya Popov's f
- iercely funny and endearing indie comedy of fashion\, family\, and despera
- tion!\nWith filmmaker Nastasya Popov in person at the Sunday\, September 1
- 3th screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4510011/
- \n\nDetails: https://vidiotsfoundation.org/movies/idiotka/
-END:VEVENT
-BEGIN:VEVENT
-UID:4509941@vidiotsfoundation.org
-DTSTAMP:20260912T200000Z
-DTSTART;TZID=America/Los_Angeles:20260912T130000
-DTEND;TZID=America/Los_Angeles:20260912T144800
-SUMMARY:Happy Feet
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509941/
-DESCRIPTION:Run time: 108 min | Format: Digital | Rating: PG\n\nSeries: Fil
- ms for Everyone\, In the Eagle\n\nGet ready to shake a tail feather with G
- eorge Miller's joyously animated treasure of putting your best foot (and w
- ing) forward.\n\nTickets: https://vidiotsfoundation.org/purchase/4509941/\
- n\nDetails: https://vidiotsfoundation.org/movies/happy-feet/
-END:VEVENT
-BEGIN:VEVENT
 UID:4561750@vidiotsfoundation.org
 DTSTAMP:20260912T231500Z
 DTSTART;TZID=America/Los_Angeles:20260912T161500
@@ -91,38 +23,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 95 min | F
  laco - Wild Inside .\n\nTickets: https://vidiotsfoundation.org/purchase/45
  61750/\n\nDetails: https://vidiotsfoundation.org/movies/wild-inside/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4509942@vidiotsfoundation.org
-DTSTAMP:20260912T233000Z
-DTSTART;TZID=America/Los_Angeles:20260912T163000
-DTEND;TZID=America/Los_Angeles:20260912T174300
-SUMMARY:The Traveler
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509942/
-DESCRIPTION:Run time: 73 min | Format: Digital | Release year: 1974\n\nSeri
- es: In the Eagle\, TeenTix LA\n\nJoin us for Abbas Kiarostami's remarkable
-  feature debut with this simple\, intimate\, and haunting tale of childish
-  obsessions and the means we'll use to fulfill them.\n\nTickets: https://v
- idiotsfoundation.org/purchase/4509942/\n\nDetails: https://vidiotsfoundati
- on.org/movies/the-traveler/
-END:VEVENT
-BEGIN:VEVENT
-UID:4509948@vidiotsfoundation.org
-DTSTAMP:20260913T020000Z
-DTSTART;TZID=America/Los_Angeles:20260912T190000
-DTEND;TZID=America/Los_Angeles:20260912T205000
-SUMMARY:Splash
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509948/
-DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: In 
- the Eagle\, TeenTix LA\n\nA rom com with fins\, get ready to fall in love 
- all over again with Ron Howard's very 80s fairytale starring Daryl Hannah 
- and Tom Hanks (not to mention Eugene Levy and John Candy)!\n\nTickets: htt
- ps://vidiotsfoundation.org/purchase/4509948/\n\nDetails: https://vidiotsfo
- undation.org/movies/splash/
 END:VEVENT
 BEGIN:VEVENT
 UID:4561751@vidiotsfoundation.org
@@ -142,20 +42,6 @@ DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
  \n\nDetails: https://vidiotsfoundation.org/movies/idiotka/
 END:VEVENT
 BEGIN:VEVENT
-UID:4509944@vidiotsfoundation.org
-DTSTAMP:20260913T044500Z
-DTSTART;TZID=America/Los_Angeles:20260912T214500
-DTEND;TZID=America/Los_Angeles:20260912T231800
-SUMMARY:Death Wish
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509944/
-DESCRIPTION:Run time: 93 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\n\nBronson's gonna get you\, punk!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4509944/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/death-wish/
-END:VEVENT
-BEGIN:VEVENT
 UID:4561753@vidiotsfoundation.org
 DTSTAMP:20260913T050000Z
 DTSTART;TZID=America/Los_Angeles:20260912T220000
@@ -165,8 +51,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4561753/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min | 
- Format: Digital | Rating: R\n\nSeries: In the MUBI Microcinema\, Additiona
- l Shows\n\nVisionary director Jane Schoenbrun presents a new kind of horro
+ Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
+ ocinema\n\nVisionary director Jane Schoenbrun presents a new kind of horro
  r remake! Bursting with imagination and surreal wit\, their latest genre-b
  ending wonder affirms there’s no such thing as a guilty pleasure.\nMore 
  Showtimes added!\n\nTickets: https://vidiotsfoundation.org/purchase/456175
@@ -216,8 +102,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4561784/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min | 
- Format: Digital | Rating: R\n\nSeries: In the MUBI Microcinema\, Additiona
- l Shows\n\nVisionary director Jane Schoenbrun presents a new kind of horro
+ Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
+ ocinema\n\nVisionary director Jane Schoenbrun presents a new kind of horro
  r remake! Bursting with imagination and surreal wit\, their latest genre-b
  ending wonder affirms there’s no such thing as a guilty pleasure.\nMore 
  Showtimes added!\n\nTickets: https://vidiotsfoundation.org/purchase/456178
@@ -1738,50 +1624,64 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 BEGIN:VEVENT
-UID:4509940@vidiotsfoundation.org
-DTSTAMP:20260911T230000Z
-DTSTART;TZID=America/Los_Angeles:20260911T160000
-DTEND;TZID=America/Los_Angeles:20260911T173700
-SUMMARY:Wet Hot American Summer
+UID:4509941@vidiotsfoundation.org
+DTSTAMP:20260912T200000Z
+DTSTART;TZID=America/Los_Angeles:20260912T130000
+DTEND;TZID=America/Los_Angeles:20260912T144800
+SUMMARY:Happy Feet
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509940/
-DESCRIPTION:No guest\n\nRun time: 97 min | Format: Digital | Rating: R\n\nS
- eries: In the Eagle\n\nEncore Screening Added - September 11th\, screening
-  only.\n\nTickets: https://vidiotsfoundation.org/purchase/4509940/\n\nDeta
- ils: https://vidiotsfoundation.org/showtimes/wet-hot-american-summer-9-11-
- 26-400-pm/
+URL:https://vidiotsfoundation.org/purchase/4509941/
+DESCRIPTION:Run time: 108 min | Format: Digital | Rating: PG\n\nSeries: Fil
+ ms for Everyone\, In the Eagle\n\nGet ready to shake a tail feather with G
+ eorge Miller's joyously animated treasure of putting your best foot (and w
+ ing) forward.\n\nTickets: https://vidiotsfoundation.org/purchase/4509941/\
+ n\nDetails: https://vidiotsfoundation.org/movies/happy-feet/
 END:VEVENT
 BEGIN:VEVENT
-UID:4509938@vidiotsfoundation.org
-DTSTAMP:20260912T020000Z
-DTSTART;TZID=America/Los_Angeles:20260911T190000
-DTEND;TZID=America/Los_Angeles:20260911T204600
-SUMMARY:Unbreakable
+UID:4509942@vidiotsfoundation.org
+DTSTAMP:20260912T233000Z
+DTSTART;TZID=America/Los_Angeles:20260912T163000
+DTEND;TZID=America/Los_Angeles:20260912T174300
+SUMMARY:The Traveler
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509938/
-DESCRIPTION:Run time: 106 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\, TeenTix LA\n\nM. Night Shyamalan twists the superhero genre
-  into an introspective thriller in this genre-shattering slow burn.\n\nTic
- kets: https://vidiotsfoundation.org/purchase/4509938/\n\nDetails: https://
- vidiotsfoundation.org/movies/unbreakable/
+URL:https://vidiotsfoundation.org/purchase/4509942/
+DESCRIPTION:Run time: 73 min | Format: Digital | Release year: 1974\n\nSeri
+ es: In the Eagle\, TeenTix LA\n\nJoin us for Abbas Kiarostami's remarkable
+  feature debut with this simple\, intimate\, and haunting tale of childish
+  obsessions and the means we'll use to fulfill them.\n\nTickets: https://v
+ idiotsfoundation.org/purchase/4509942/\n\nDetails: https://vidiotsfoundati
+ on.org/movies/the-traveler/
 END:VEVENT
 BEGIN:VEVENT
-UID:4509939@vidiotsfoundation.org
-DTSTAMP:20260912T044500Z
-DTSTART;TZID=America/Los_Angeles:20260911T214500
-DTEND;TZID=America/Los_Angeles:20260911T233500
-SUMMARY:Howard the Duck
+UID:4509948@vidiotsfoundation.org
+DTSTAMP:20260913T020000Z
+DTSTART;TZID=America/Los_Angeles:20260912T190000
+DTEND;TZID=America/Los_Angeles:20260912T205000
+SUMMARY:Splash
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509939/
+URL:https://vidiotsfoundation.org/purchase/4509948/
 DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: In 
- the Eagle\, What the Friday?!?\n\nGet your brain ready for maximum meltage
-  with this bizarro cult classic and one of the strangest superhero movies 
- of all time!\nPlus! The Vidiots premiere of Tim Robbins' short film A Roug
- h Day in Duckland with a special video introduction from Tim Robbins !\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4509939/\n\nDetails: https
- ://vidiotsfoundation.org/movies/howard-the-duck/
+ the Eagle\, TeenTix LA\n\nA rom com with fins\, get ready to fall in love 
+ all over again with Ron Howard's very 80s fairytale starring Daryl Hannah 
+ and Tom Hanks (not to mention Eugene Levy and John Candy)!\n\nTickets: htt
+ ps://vidiotsfoundation.org/purchase/4509948/\n\nDetails: https://vidiotsfo
+ undation.org/movies/splash/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509944@vidiotsfoundation.org
+DTSTAMP:20260913T044500Z
+DTSTART;TZID=America/Los_Angeles:20260912T214500
+DTEND;TZID=America/Los_Angeles:20260912T231800
+SUMMARY:Death Wish
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509944/
+DESCRIPTION:Run time: 93 min | Format: Digital | Rating: R\n\nSeries: In th
+ e Eagle\n\nBronson's gonna get you\, punk!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4509944/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/death-wish/
 END:VEVENT
 END:VCALENDAR
