@@ -619,6 +619,21 @@ DESCRIPTION:Run time: 188 min | Format: Digital | Rating: R\n\nSeries: Door
  idiotsfoundation.org/movies/short-cuts/
 END:VEVENT
 BEGIN:VEVENT
+UID:4510152@vidiotsfoundation.org
+DTSTAMP:20260930T023000Z
+DTSTART;TZID=America/Los_Angeles:20260929T193000
+DTEND;TZID=America/Los_Angeles:20260929T213300
+SUMMARY:Only Lovers Left Alive on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510152/
+DESCRIPTION:Run time: 123 min | Format: 35mm Film\n\nSeries: 35mm Film\, Do
+ ors Open at 6\, In the Eagle\n\nLush\, stylish\, and endlessly hip\, this 
+ is one vampire tale that sets its own pace\, humor\, and creativity.\n\nTi
+ ckets: https://vidiotsfoundation.org/purchase/4510152/\n\nDetails: https:/
+ /vidiotsfoundation.org/movies/only-lovers-left-alive/
+END:VEVENT
+BEGIN:VEVENT
 UID:4510150@vidiotsfoundation.org
 DTSTAMP:20261001T023000Z
 DTSTART;TZID=America/Los_Angeles:20260930T193000
@@ -1190,6 +1205,25 @@ DESCRIPTION:Run time: 132 min | Format: 35mm Film | Rating: R\n\nSeries: 35
  rror on glorious celluloid!\n\nTickets: https://vidiotsfoundation.org/purc
  hase/4672391/\n\nDetails: https://vidiotsfoundation.org/movies/the-exorcis
  t/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672393@vidiotsfoundation.org
+DTSTAMP:20261021T023000Z
+DTSTART;TZID=America/Los_Angeles:20261020T193000
+DTEND;TZID=America/Los_Angeles:20261020T211400
+SUMMARY:Death Becomes Her + Vidiots Halloween Party
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672393/
+DESCRIPTION:Run time: 104 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ Countdown to Halloween\, Doors Open at 6\, In the Eagle\n\nBring your best
+  frenemies and get ready for Vidiots annual Halloween Shindig! We'll be ki
+ cking off the night with extra spooky tunes and vibes before diving into t
+ he everlasting classic dark comedy Death Becomes Her\, followed by more Ha
+ lloweenie revelry and plenty of spooky Vidiots fun. So\, put on your costu
+ mes\, bring your besties\, and come for one killer party!\n\nTickets: http
+ s://vidiotsfoundation.org/purchase/4672393/\n\nDetails: https://vidiotsfou
+ ndation.org/movies/death-becomes-her/
 END:VEVENT
 BEGIN:VEVENT
 UID:4679492@vidiotsfoundation.org
