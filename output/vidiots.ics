@@ -8,26 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4565616@vidiotsfoundation.org
-DTSTAMP:20260916T023000Z
-DTSTART;TZID=America/Los_Angeles:20260915T193000
-DTEND;TZID=America/Los_Angeles:20260915T210000
-SUMMARY:The Waiting Room
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4565616/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
- ormat: Digital\n\nSeries: In the MUBI Microcinema\, Special Guests in Atte
- ndance\n\nRediscover a recently unearthed groundbreaking film shot entirel
- y within the Manhattan Psychiatric Center on Wards Island with an all fema
- le crew\, blending naturalism with avant-garde techniques—incorporating 
- elements of dance\, theatricality\, and video art.\nCo-presented by 7th Ho
- use and featuring writer/director Karen Sperling in person!\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4565616/\n\nDetails: https://vidiotsf
- oundation.org/movies/the-waiting-room/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4608759@vidiotsfoundation.org
 DTSTAMP:20260917T023000Z
 DTSTART;TZID=America/Los_Angeles:20260916T193000
@@ -952,14 +932,15 @@ SUMMARY:The History of Concrete
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4677780/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOne part docume
- ntary\, one part camcorder video essay\, and one part the driest yet funni
- est of comedies\, John Wilson extends his unique genre-bending style from 
- the small screen to the big with this magnificently absurd examination of 
- the literal ground below our feet.\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4677780/\n\nDetails: https://vidiotsfoundation.org/movies/the-
- history-of-concrete/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nOne part documentary\, one part camcorder vide
+ o essay\, and one part the driest yet funniest of comedies\, John Wilson e
+ xtends his unique genre-bending style from the small screen to the big wit
+ h this magnificently absurd examination of the literal ground below our fe
+ et.\n\nTickets: https://vidiotsfoundation.org/purchase/4677780/\n\nDetails
+ : https://vidiotsfoundation.org/movies/the-history-of-concrete/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4672347@vidiotsfoundation.org
@@ -1472,37 +1453,23 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 BEGIN:VEVENT
-UID:4509963@vidiotsfoundation.org
-DTSTAMP:20260915T020000Z
-DTSTART;TZID=America/Los_Angeles:20260914T190000
-DTEND;TZID=America/Los_Angeles:20260914T203500
-SUMMARY:Wild Inside
+UID:4565616@vidiotsfoundation.org
+DTSTAMP:20260916T023000Z
+DTSTART;TZID=America/Los_Angeles:20260915T193000
+DTEND;TZID=America/Los_Angeles:20260915T210000
+SUMMARY:The Waiting Room
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509963/
-DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOur microcinema 
- is going to the birds with Penny Lane's rapturous documentary about everyo
- ne's favorite escaped zoo owl Flaco - Wild Inside .\n\nTickets: https://vi
- diotsfoundation.org/purchase/4509963/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-UID:4509962@vidiotsfoundation.org
-DTSTAMP:20260915T023000Z
-DTSTART;TZID=America/Los_Angeles:20260914T193000
-DTEND;TZID=America/Los_Angeles:20260914T210000
-SUMMARY:Welcome II the Terrordome
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509962/
-DESCRIPTION:Run time: 90 min | Format: Digital | Rating: R\n\nSeries: Doors
-  Open at 6\, In the Eagle\, Special Guests in Attendance\, TeenTix LA\n\nV
- idiots is thrilled to welcome writer/director Ngozi Onwurah for a special 
- 30th Anniversary screening of her visionary Afrofuturist gem Welcome II th
- e Terrordome !\nCo-presented by our friends at Monkeypaw Productions and f
- eaturing a merch pop-up and limited giveaways!\n\nTickets: https://vidiots
- foundation.org/purchase/4509962/\n\nDetails: https://vidiotsfoundation.org
- /movies/welcome-ii-the-terrordome/
+URL:https://vidiotsfoundation.org/purchase/4565616/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min | F
+ ormat: Digital\n\nSeries: In the MUBI Microcinema\, Special Guests in Atte
+ ndance\n\nRediscover a recently unearthed groundbreaking film shot entirel
+ y within the Manhattan Psychiatric Center on Wards Island with an all fema
+ le crew\, blending naturalism with avant-garde techniques—incorporating 
+ elements of dance\, theatricality\, and video art.\nCo-presented by 7th Ho
+ use and featuring writer/director Karen Sperling in person!\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4565616/\n\nDetails: https://vidiotsf
+ oundation.org/movies/the-waiting-room/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
