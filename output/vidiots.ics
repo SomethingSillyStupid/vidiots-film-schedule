@@ -267,13 +267,14 @@ SUMMARY:Filipiñana
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4509983/
-DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
- ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
- ema for one of the best films of the year and a masterwork of internationa
- l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
- ipiñana .\nMore showtimes added!\n\nTickets: https://vidiotsfoundation.or
- g/purchase/4509983/\n\nDetails: https://vidiotsfoundation.org/movies/filip
- inana/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
+ MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
+ f the year and a masterwork of international cinema - Rafael Manuel's phen
+ omenally composed deadpan social satire Filipiñana .\nMore showtimes adde
+ d!\n\nTickets: https://vidiotsfoundation.org/purchase/4509983/\n\nDetails:
+  https://vidiotsfoundation.org/movies/filipinana/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4510089@vidiotsfoundation.org
@@ -623,11 +624,12 @@ SUMMARY:Terminator 2: Judgment Day on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4510150/
-DESCRIPTION:Run time: 137 min | Format: Digital | Rating: R\n\nSeries: 35mm
-  Film\, Doors Open at 6\, In the Eagle\n\nOne bad-ass mother of a sequel!\
- n35th Anniversary screening on 35mm Film!\n\nTickets: https://vidiotsfound
- ation.org/purchase/4510150/\n\nDetails: https://vidiotsfoundation.org/movi
- es/terminator-2-judgment-day/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 137 min | 
+ Format: Digital | Rating: R\n\nSeries: 35mm Film\, Doors Open at 6\, In th
+ e Eagle\n\nOne bad-ass mother of a sequel!\n35th Anniversary screening on 
+ 35mm Film!\n\nTickets: https://vidiotsfoundation.org/purchase/4510150/\n\n
+ Details: https://vidiotsfoundation.org/movies/terminator-2-judgment-day/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4672308@vidiotsfoundation.org
@@ -838,6 +840,22 @@ DESCRIPTION:Run time: 78 min | Format: Digital | Rating: PG\n\nSeries: Coun
  e surreal nightmare world of Herk Harvey's indie horror masterpiece Carniv
  al of Souls .\n\nTickets: https://vidiotsfoundation.org/purchase/4675170/\
  n\nDetails: https://vidiotsfoundation.org/movies/carnival-of-souls/
+END:VEVENT
+BEGIN:VEVENT
+UID:4698593@vidiotsfoundation.org
+DTSTAMP:20261007T023000Z
+DTSTART;TZID=America/Los_Angeles:20261006T193000
+DTEND;TZID=America/Los_Angeles:20261006T213000
+SUMMARY:Physical Media Mind-Melters: Vidiots in Space!
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4698593/
+DESCRIPTION:Series: 35mm Film\, Doors Open at 6\, In the Eagle\n\nPsychedel
+ ic\, funny\, weird\, and all in celebration of physical media and the endl
+ ess worlds beyond our reach\, this is one night your eyeballs may never re
+ cover from (in the best possible way)!\n\nTickets: https://vidiotsfoundati
+ on.org/purchase/4698593/\n\nDetails: https://vidiotsfoundation.org/movies/
+ physical-media-mind-melters-in-space/
 END:VEVENT
 BEGIN:VEVENT
 UID:4645034@vidiotsfoundation.org
@@ -1208,6 +1226,23 @@ DESCRIPTION:Run time: 104 min | Format: Digital | Rating: PG-13\n\nSeries:
  ndation.org/movies/death-becomes-her/
 END:VEVENT
 BEGIN:VEVENT
+UID:4679487@vidiotsfoundation.org
+DTSTAMP:20261022T023000Z
+DTSTART;TZID=America/Los_Angeles:20261021T193000
+DTEND;TZID=America/Los_Angeles:20261021T210600
+SUMMARY:Bones on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4679487/
+DESCRIPTION:Run time: 96 min | Format: 35mm Film | Rating: R\n\nSeries: 35m
+ m Film\, Countdown to Halloween\, Doors Open at 6\, In the Eagle\, Special
+  Guests in Attendance\n\nVidiots is dying to welcome back legendary direct
+ or Ernest R. Dickerson for a special screening of his cult classic horror 
+ starring Snoop Dogg - Bones on glorious 35mm celluloid!\n\nTickets: https:
+ //vidiotsfoundation.org/purchase/4679487/\n\nDetails: https://vidiotsfound
+ ation.org/movies/bones/
+END:VEVENT
+BEGIN:VEVENT
 UID:4679492@vidiotsfoundation.org
 DTSTAMP:20261024T020000Z
 DTSTART;TZID=America/Los_Angeles:20261023T190000
@@ -1289,6 +1324,51 @@ DESCRIPTION:Run time: 144 min | Format: 35mm Film | Rating: R\n\nSeries: 35
  itnessed its bloody\, psychotic mastery.\n\nTickets: https://vidiotsfounda
  tion.org/purchase/4672395/\n\nDetails: https://vidiotsfoundation.org/movie
  s/the-shining/
+END:VEVENT
+BEGIN:VEVENT
+UID:4698519@vidiotsfoundation.org
+DTSTAMP:20261025T044500Z
+DTSTART;TZID=America/Los_Angeles:20261024T214500
+DTEND;TZID=America/Los_Angeles:20261024T232000
+SUMMARY:Def by Temptation
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4698519/
+DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Count
+ down to Halloween\, In the Eagle\n\nOne of the best films to be released o
+ n Troma's label\, James Bond III's Def by Temptation is a smart\, slick\, 
+ and stylish tale of faith\, temptation\, and demons!\n\nTickets: https://v
+ idiotsfoundation.org/purchase/4698519/\n\nDetails: https://vidiotsfoundati
+ on.org/movies/def-by-temptation/
+END:VEVENT
+BEGIN:VEVENT
+UID:4698559@vidiotsfoundation.org
+DTSTAMP:20261025T180000Z
+DTSTART;TZID=America/Los_Angeles:20261025T110000
+DTEND;TZID=America/Los_Angeles:20261025T130000
+SUMMARY:Día de los Muertos Celebration
+LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+URL:https://vidiotsfoundation.org/purchase/4698559/
+DESCRIPTION:Series: Free Events\n\nVidiots invites you to join us for our s
+ econd annual Día de los Muertos Celebration - an all-day remembrance of o
+ ur loved ones.\n\nTickets: https://vidiotsfoundation.org/purchase/4698559/
+ \n\nDetails: https://vidiotsfoundation.org/movies/dia-de-los-muertos-celeb
+ ration/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672403@vidiotsfoundation.org
+DTSTAMP:20261025T200000Z
+DTSTART;TZID=America/Los_Angeles:20261025T130000
+DTEND;TZID=America/Los_Angeles:20261025T144500
+SUMMARY:Coco en Español
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672403/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: All Ages | Releas
+ e year: 2017\n\nSeries: Día de los Muertos Celebration\, Films for Everyo
+ ne\, In the Eagle\n\nCelebrate Día De Los Muertos with Coco!\nSpecial Dis
+ counted Tickets!\n\nTickets: https://vidiotsfoundation.org/purchase/467240
+ 3/\n\nDetails: https://vidiotsfoundation.org/movies/coco/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672401@vidiotsfoundation.org
@@ -1403,6 +1483,22 @@ DESCRIPTION:Run time: 115 min | Format: Digital | Release year: 2000\n\nSer
  horror film that affects you viscerally and haunts you in your psyche.\n\n
  Tickets: https://vidiotsfoundation.org/purchase/4672425/\n\nDetails: https
  ://vidiotsfoundation.org/movies/audition/
+END:VEVENT
+BEGIN:VEVENT
+UID:4675365@vidiotsfoundation.org
+DTSTAMP:20261031T180000Z
+DTSTART;TZID=America/Los_Angeles:20261031T110000
+DTEND;TZID=America/Los_Angeles:20261031T140000
+SUMMARY:Vidiots Annual “Unscary” Halloween
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4675365/
+DESCRIPTION:Run time: 180 min\n\nSeries: Films for Everyone\, Free Events\,
+  In the Eagle\, Interactive\n\nA free\, sensory-friendly all-ages Hallowee
+ nie community event\nPumpkin carving\, costume parade\, trick or treating\
+ , Halloweenie cartoons!\n\nTickets: https://vidiotsfoundation.org/purchase
+ /4675365/\n\nDetails: https://vidiotsfoundation.org/movies/unscary-hallowe
+ en-open-house/
 END:VEVENT
 BEGIN:VEVENT
 UID:4675363@vidiotsfoundation.org
