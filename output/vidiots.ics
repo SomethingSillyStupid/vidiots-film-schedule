@@ -883,14 +883,15 @@ SUMMARY:The History of Concrete
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4677781/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOne part docume
- ntary\, one part camcorder video essay\, and one part the driest yet funni
- est of comedies\, John Wilson extends his unique genre-bending style from 
- the small screen to the big with this magnificently absurd examination of 
- the literal ground below our feet.\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4677781/\n\nDetails: https://vidiotsfoundation.org/movies/the-
- history-of-concrete/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nOne part documentary\, one part camcorder vide
+ o essay\, and one part the driest yet funniest of comedies\, John Wilson e
+ xtends his unique genre-bending style from the small screen to the big wit
+ h this magnificently absurd examination of the literal ground below our fe
+ et.\n\nTickets: https://vidiotsfoundation.org/purchase/4677781/\n\nDetails
+ : https://vidiotsfoundation.org/movies/the-history-of-concrete/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4672344@vidiotsfoundation.org
@@ -1158,6 +1159,21 @@ DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Films for Everyon
  party/
 END:VEVENT
 BEGIN:VEVENT
+UID:4672377@vidiotsfoundation.org
+DTSTAMP:20261017T230000Z
+DTSTART;TZID=America/Los_Angeles:20261017T160000
+DTEND;TZID=America/Los_Angeles:20261017T174100
+SUMMARY:Breaking Away
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672377/
+DESCRIPTION:Run time: 101 min\n\nSeries: In the Eagle\, Special Guests in A
+ ttendance\n\nThe movie that tells you exactly what you can do with your hi
+ gh school diploma!\nWith a special introduction from the legendary Paul Do
+ oley!\n\nTickets: https://vidiotsfoundation.org/purchase/4672377/\n\nDetai
+ ls: https://vidiotsfoundation.org/movies/breaking-away/
+END:VEVENT
+BEGIN:VEVENT
 UID:4672378@vidiotsfoundation.org
 DTSTAMP:20261018T020000Z
 DTSTART;TZID=America/Los_Angeles:20261017T190000
@@ -1350,10 +1366,10 @@ SUMMARY:Día de los Muertos Celebration
 LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
 URL:https://vidiotsfoundation.org/purchase/4698559/
 DESCRIPTION:Series: Free Events\n\nVidiots invites you to join us for our s
- econd annual Día de los Muertos Celebration - an all-day remembrance of o
- ur loved ones.\n\nTickets: https://vidiotsfoundation.org/purchase/4698559/
- \n\nDetails: https://vidiotsfoundation.org/movies/dia-de-los-muertos-celeb
- ration/
+ econd annual Día de los Muertos Celebration - a special community event i
+ n remembrance of our loved ones.\n\nTickets: https://vidiotsfoundation.org
+ /purchase/4698559/\n\nDetails: https://vidiotsfoundation.org/movies/dia-de
+ -los-muertos-celebration/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672403@vidiotsfoundation.org
