@@ -1206,25 +1206,6 @@ DESCRIPTION:Run time: 132 min | Format: 35mm Film | Rating: R\n\nSeries: 35
  t/
 END:VEVENT
 BEGIN:VEVENT
-UID:4672393@vidiotsfoundation.org
-DTSTAMP:20261021T023000Z
-DTSTART;TZID=America/Los_Angeles:20261020T193000
-DTEND;TZID=America/Los_Angeles:20261020T211400
-SUMMARY:Death Becomes Her + Vidiots Halloween Party
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672393/
-DESCRIPTION:Run time: 104 min | Format: Digital | Rating: PG-13\n\nSeries: 
- Countdown to Halloween\, Doors Open at 6\, In the Eagle\n\nBring your best
-  frenemies and get ready for Vidiots annual Halloween Shindig! We'll be ki
- cking off the night with extra spooky tunes and vibes before diving into t
- he everlasting classic dark comedy Death Becomes Her\, followed by more Ha
- lloweenie revelry and plenty of spooky Vidiots fun. So\, put on your costu
- mes\, bring your besties\, and come for one killer party!\n\nTickets: http
- s://vidiotsfoundation.org/purchase/4672393/\n\nDetails: https://vidiotsfou
- ndation.org/movies/death-becomes-her/
-END:VEVENT
-BEGIN:VEVENT
 UID:4679487@vidiotsfoundation.org
 DTSTAMP:20261022T023000Z
 DTSTART;TZID=America/Los_Angeles:20261021T193000
@@ -1240,6 +1221,25 @@ DESCRIPTION:Run time: 96 min | Format: 35mm Film | Rating: R\n\nSeries: 35m
  starring Snoop Dogg - Bones on glorious 35mm celluloid!\n\nTickets: https:
  //vidiotsfoundation.org/purchase/4679487/\n\nDetails: https://vidiotsfound
  ation.org/movies/bones/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672393@vidiotsfoundation.org
+DTSTAMP:20261023T023000Z
+DTSTART;TZID=America/Los_Angeles:20261022T193000
+DTEND;TZID=America/Los_Angeles:20261022T211400
+SUMMARY:Death Becomes Her + Vidiots Halloween Party
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672393/
+DESCRIPTION:Run time: 104 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ Countdown to Halloween\, Doors Open at 6\, In the Eagle\n\nBring your best
+  frenemies and get ready for Vidiots annual Halloween Shindig! We'll be ki
+ cking off the night with extra spooky tunes and vibes before diving into t
+ he everlasting classic dark comedy Death Becomes Her\, followed by more Ha
+ lloweenie revelry and plenty of spooky Vidiots fun. So\, put on your costu
+ mes\, bring your besties\, and come for one killer party!\n\nTickets: http
+ s://vidiotsfoundation.org/purchase/4672393/\n\nDetails: https://vidiotsfou
+ ndation.org/movies/death-becomes-her/
 END:VEVENT
 BEGIN:VEVENT
 UID:4679492@vidiotsfoundation.org
