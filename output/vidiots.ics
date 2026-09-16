@@ -539,15 +539,15 @@ UID:4510133@vidiotsfoundation.org
 DTSTAMP:20260928T023000Z
 DTSTART;TZID=America/Los_Angeles:20260927T193000
 DTEND;TZID=America/Los_Angeles:20260927T211100
-SUMMARY:Monster-in-Law
+SUMMARY:Monster-in-Law on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4510133/
-DESCRIPTION:Run time: 101 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\, TeenTix LA\n\nIt's a battle of the icons when J. Lo faces o
- ff against Jane Fonda in this guiltless pleasure of cinematic bitchery!\n\
- nTickets: https://vidiotsfoundation.org/purchase/4510133/\n\nDetails: http
- s://vidiotsfoundation.org/movies/monster-in-law/
+DESCRIPTION:Run time: 101 min | Format: 35mm Film | Rating: PG-13\n\nSeries
+ : 35mm Film\, In the Eagle\, TeenTix LA\n\nIt's a battle of the icons when
+  J. Lo faces off against Jane Fonda in this guiltless pleasure of cinemati
+ c bitchery!\n\nTickets: https://vidiotsfoundation.org/purchase/4510133/\n\
+ nDetails: https://vidiotsfoundation.org/movies/monster-in-law/
 END:VEVENT
 BEGIN:VEVENT
 UID:4510139@vidiotsfoundation.org
@@ -1188,22 +1188,6 @@ DESCRIPTION:Run time: 97 min | Format: Digital | Rating: All Ages\n\nSeries
  or your whole family or coven!\n\nTickets: https://vidiotsfoundation.org/p
  urchase/4672385/\n\nDetails: https://vidiotsfoundation.org/movies/escape-t
  o-witch-mountain/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672391@vidiotsfoundation.org
-DTSTAMP:20261019T020000Z
-DTSTART;TZID=America/Los_Angeles:20261018T190000
-DTEND;TZID=America/Los_Angeles:20261018T211200
-SUMMARY:The Exorcist on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672391/
-DESCRIPTION:Run time: 132 min | Format: 35mm Film | Rating: R\n\nSeries: 35
- mm Film\, Countdown to Halloween\, In the Eagle\n\nGrab your crucifix and 
- hold your loved ones close as Vidiots delves into the depths of demonic ho
- rror on glorious celluloid!\n\nTickets: https://vidiotsfoundation.org/purc
- hase/4672391/\n\nDetails: https://vidiotsfoundation.org/movies/the-exorcis
- t/
 END:VEVENT
 BEGIN:VEVENT
 UID:4679487@vidiotsfoundation.org
