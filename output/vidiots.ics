@@ -520,6 +520,23 @@ DESCRIPTION:Run time: 192 min | Format: Digital | Rating: G\n\nSeries: In t
  -a-mad-mad-mad-mad-world/
 END:VEVENT
 BEGIN:VEVENT
+UID:4706284@vidiotsfoundation.org
+DTSTAMP:20260928T020000Z
+DTSTART;TZID=America/Los_Angeles:20260927T190000
+DTEND;TZID=America/Los_Angeles:20260927T204000
+SUMMARY:Filipiñana
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4706284/
+DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ema for one of the best films of the year and a masterwork of internationa
+ l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
+ ipiñana .\nEven more showtimes added!\n\nTickets: https://vidiotsfoundati
+ on.org/purchase/4706284/\n\nDetails: https://vidiotsfoundation.org/movies/
+ filipinana/
+END:VEVENT
+BEGIN:VEVENT
 UID:4510133@vidiotsfoundation.org
 DTSTAMP:20260928T023000Z
 DTSTART;TZID=America/Los_Angeles:20260927T193000
@@ -666,6 +683,23 @@ DESCRIPTION:Run time: 102 min | Format: Digital\n\nSeries: Additional Shows
  ng portrait\, Barbara Forever !\n\nTickets: https://vidiotsfoundation.org/
  purchase/4677597/\n\nDetails: https://vidiotsfoundation.org/movies/barbara
  -forever/
+END:VEVENT
+BEGIN:VEVENT
+UID:4677600@vidiotsfoundation.org
+DTSTAMP:20261003T050000Z
+DTSTART;TZID=America/Los_Angeles:20261002T220000
+DTEND;TZID=America/Los_Angeles:20261002T233500
+SUMMARY:If I Go Will They Miss Me
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677600/
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\n\nA poetic\, emotionally expansive father-son s
+ tory about Black family\, grace\, imagination\, and the hope that love can
+  transform even the most fragile relationships into something more healing
+  and beautiful.\n\nTickets: https://vidiotsfoundation.org/purchase/4677600
+ /\n\nDetails: https://vidiotsfoundation.org/movies/if-i-go-will-they-miss-
+ me/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672312@vidiotsfoundation.org
@@ -1476,6 +1510,22 @@ DESCRIPTION:Run time: 115 min | Format: 35mm Film | Rating: All Ages\n\nSer
  wig-wearing\, Reese's Pieces-eating alien is back on our big screen!\n\nTi
  ckets: https://vidiotsfoundation.org/purchase/4672401/\n\nDetails: https:/
  /vidiotsfoundation.org/movies/e-t-the-extra-terrestrial/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672391@vidiotsfoundation.org
+DTSTAMP:20261026T020000Z
+DTSTART;TZID=America/Los_Angeles:20261025T190000
+DTEND;TZID=America/Los_Angeles:20261025T211200
+SUMMARY:The Exorcist on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672391/
+DESCRIPTION:Run time: 132 min | Format: 35mm Film | Rating: R\n\nSeries: 35
+ mm Film\, Countdown to Halloween\, In the Eagle\n\nGrab your crucifix and 
+ hold your loved ones close as Vidiots delves into the depths of demonic ho
+ rror on glorious celluloid!\n\nTickets: https://vidiotsfoundation.org/purc
+ hase/4672391/\n\nDetails: https://vidiotsfoundation.org/movies/the-exorcis
+ t/
 END:VEVENT
 BEGIN:VEVENT
 UID:4675405@vidiotsfoundation.org
