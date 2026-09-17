@@ -26,21 +26,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4597696@vidiotsfoundation.org
-DTSTAMP:20260918T023000Z
-DTSTART;TZID=America/Los_Angeles:20260917T193000
-DTEND;TZID=America/Los_Angeles:20260917T214100
-SUMMARY:Husbands
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4597696/
-DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries: 
- Doors Open at 6\, In the Eagle\, TeenTix LA\n\nJoin us for John Cassavetes
- ' raucous and unsettling meditation on toxic masculinity: the hangout movi
- e from hell\, Husbands!\n\nTickets: https://vidiotsfoundation.org/purchase
- /4597696/\n\nDetails: https://vidiotsfoundation.org/movies/husbands/
-END:VEVENT
-BEGIN:VEVENT
 UID:4509964@vidiotsfoundation.org
 DTSTAMP:20260918T224500Z
 DTSTART;TZID=America/Los_Angeles:20260918T154500
@@ -1656,21 +1641,18 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 BEGIN:VEVENT
-UID:4608759@vidiotsfoundation.org
-DTSTAMP:20260917T023000Z
-DTSTART;TZID=America/Los_Angeles:20260916T193000
-DTEND;TZID=America/Los_Angeles:20260916T212500
-SUMMARY:The Best Little Whorehouse in Texas
+UID:4597696@vidiotsfoundation.org
+DTSTAMP:20260918T023000Z
+DTSTART;TZID=America/Los_Angeles:20260917T193000
+DTEND;TZID=America/Los_Angeles:20260917T214100
+SUMMARY:Husbands
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4608759/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 115 min | 
- Format: Digital | Rating: R\n\nSeries: Dolly Parton - We Will Always Love 
- You\, Doors Open at 6\, In the Eagle\n\nVidiots is easing our heartbreak o
- ver the loss of the eternal Goddess Dolly Parton with a special screening 
- of her rootinest tootinest musical The Best Little Whorehouse in Texas .\n
- \nTickets: https://vidiotsfoundation.org/purchase/4608759/\n\nDetails: htt
- ps://vidiotsfoundation.org/movies/the-best-little-whorehouse-in-texas/
-STATUS:TENTATIVE
+URL:https://vidiotsfoundation.org/purchase/4597696/
+DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ Doors Open at 6\, In the Eagle\, TeenTix LA\n\nJoin us for John Cassavetes
+ ' raucous and unsettling meditation on toxic masculinity: the hangout movi
+ e from hell\, Husbands!\n\nTickets: https://vidiotsfoundation.org/purchase
+ /4597696/\n\nDetails: https://vidiotsfoundation.org/movies/husbands/
 END:VEVENT
 END:VCALENDAR
