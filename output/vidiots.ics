@@ -406,6 +406,23 @@ DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Doors
  foundation.org/movies/raising-victor-vargas/
 END:VEVENT
 BEGIN:VEVENT
+UID:4510121@vidiotsfoundation.org
+DTSTAMP:20260925T230000Z
+DTSTART;TZID=America/Los_Angeles:20260925T160000
+DTEND;TZID=America/Los_Angeles:20260925T175500
+SUMMARY:The Best Little Whorehouse in Texas
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510121/
+DESCRIPTION:Run time: 115 min | Format: Digital | Rating: R\n\nSeries: Doll
+ y Parton - We Will Always Love You\, In the Eagle\n\nVidiots is easing our
+  heartbreak over the loss of the eternal Goddess Dolly Parton with a speci
+ al screening of her rootinest tootinest musical The Best Little Whorehouse
+  in Texas .\nEncore Screening Added By Popular Demand!\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4510121/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/the-best-little-whorehouse-in-texas/
+END:VEVENT
+BEGIN:VEVENT
 UID:4510122@vidiotsfoundation.org
 DTSTAMP:20260926T020000Z
 DTSTART;TZID=America/Los_Angeles:20260925T190000
@@ -583,6 +600,23 @@ DESCRIPTION:Run time: 188 min | Format: Digital | Rating: R\n\nSeries: Door
  doscopic masterpiece based on the short stories of Raymond Carver.\n\nTick
  ets: https://vidiotsfoundation.org/purchase/4510135/\n\nDetails: https://v
  idiotsfoundation.org/movies/short-cuts/
+END:VEVENT
+BEGIN:VEVENT
+UID:4706451@vidiotsfoundation.org
+DTSTAMP:20260930T020000Z
+DTSTART;TZID=America/Los_Angeles:20260929T190000
+DTEND;TZID=America/Los_Angeles:20260929T204200
+SUMMARY:Barbara Forever
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4706451/
+DESCRIPTION:Run time: 102 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the 
+ microcinema to rediscover the immense legacy of groundbreaking lesbian fil
+ mmaker Barbara Hammer through Brydie O'Connor's phenomenal and award-winni
+ ng portrait\, Barbara Forever !\n\nTickets: https://vidiotsfoundation.org/
+ purchase/4706451/\n\nDetails: https://vidiotsfoundation.org/movies/barbara
+ -forever/
 END:VEVENT
 BEGIN:VEVENT
 UID:4510152@vidiotsfoundation.org
@@ -767,6 +801,23 @@ DESCRIPTION:Run time: 104 min | Format: Digital | Rating: R\n\nSeries: Coun
  ails: https://vidiotsfoundation.org/movies/theater-of-blood/
 END:VEVENT
 BEGIN:VEVENT
+UID:4677613@vidiotsfoundation.org
+DTSTAMP:20261004T013000Z
+DTSTART;TZID=America/Los_Angeles:20261003T183000
+DTEND;TZID=America/Los_Angeles:20261003T200500
+SUMMARY:If I Go Will They Miss Me
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677613/
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\n\nA poetic\, emotionally expansive father-son s
+ tory about Black family\, grace\, imagination\, and the hope that love can
+  transform even the most fragile relationships into something more healing
+  and beautiful.\n\nTickets: https://vidiotsfoundation.org/purchase/4677613
+ /\n\nDetails: https://vidiotsfoundation.org/movies/if-i-go-will-they-miss-
+ me/
+END:VEVENT
+BEGIN:VEVENT
 UID:4672324@vidiotsfoundation.org
 DTSTAMP:20261004T020000Z
 DTSTART;TZID=America/Los_Angeles:20261003T190000
@@ -784,9 +835,9 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: Dol
 END:VEVENT
 BEGIN:VEVENT
 UID:4677614@vidiotsfoundation.org
-DTSTAMP:20261004T041500Z
-DTSTART;TZID=America/Los_Angeles:20261003T211500
-DTEND;TZID=America/Los_Angeles:20261003T225500
+DTSTAMP:20261004T042000Z
+DTSTART;TZID=America/Los_Angeles:20261003T212000
+DTEND;TZID=America/Los_Angeles:20261003T230000
 SUMMARY:Filipiñana
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
@@ -847,6 +898,23 @@ DESCRIPTION:Run time: 92 min | Format: Digital | Rating: All Ages\n\nSeries
  s an epic and beautiful tale of resilience and magic.\n\nTickets: https://
  vidiotsfoundation.org/purchase/4672338/\n\nDetails: https://vidiotsfoundat
  ion.org/movies/the-last-unicorn/
+END:VEVENT
+BEGIN:VEVENT
+UID:4677630@vidiotsfoundation.org
+DTSTAMP:20261004T223000Z
+DTSTART;TZID=America/Los_Angeles:20261004T153000
+DTEND;TZID=America/Los_Angeles:20261004T170500
+SUMMARY:If I Go Will They Miss Me
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677630/
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\n\nA poetic\, emotionally expansive father-son s
+ tory about Black family\, grace\, imagination\, and the hope that love can
+  transform even the most fragile relationships into something more healing
+  and beautiful.\n\nTickets: https://vidiotsfoundation.org/purchase/4677630
+ /\n\nDetails: https://vidiotsfoundation.org/movies/if-i-go-will-they-miss-
+ me/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672339@vidiotsfoundation.org
@@ -927,6 +995,23 @@ DESCRIPTION:Series: 35mm Film\, Doors Open at 6\, In the Eagle\n\nPsychedel
  cover from (in the best possible way)!\n\nTickets: https://vidiotsfoundati
  on.org/purchase/4698593/\n\nDetails: https://vidiotsfoundation.org/movies/
  physical-media-mind-melters-in-space/
+END:VEVENT
+BEGIN:VEVENT
+UID:4706316@vidiotsfoundation.org
+DTSTAMP:20261008T020000Z
+DTSTART;TZID=America/Los_Angeles:20261007T190000
+DTEND;TZID=America/Los_Angeles:20261007T203500
+SUMMARY:If I Go Will They Miss Me
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4706316/
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\n\nA poetic\, emotionally expansive father-son s
+ tory about Black family\, grace\, imagination\, and the hope that love can
+  transform even the most fragile relationships into something more healing
+  and beautiful.\n\nTickets: https://vidiotsfoundation.org/purchase/4706316
+ /\n\nDetails: https://vidiotsfoundation.org/movies/if-i-go-will-they-miss-
+ me/
 END:VEVENT
 BEGIN:VEVENT
 UID:4645034@vidiotsfoundation.org
@@ -1065,9 +1150,9 @@ DESCRIPTION:Run time: 94 min | Format: Digital | Rating: PG-13\n\nSeries: I
 END:VEVENT
 BEGIN:VEVENT
 UID:4677783@vidiotsfoundation.org
-DTSTAMP:20261010T233000Z
-DTSTART;TZID=America/Los_Angeles:20261010T163000
-DTEND;TZID=America/Los_Angeles:20261010T175700
+DTSTAMP:20261010T231500Z
+DTSTART;TZID=America/Los_Angeles:20261010T161500
+DTEND;TZID=America/Los_Angeles:20261010T174200
 SUMMARY:Bird in Hand
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
@@ -1079,6 +1164,24 @@ DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
  riter/Director Melody C. Roscher in person after the Friday\, October 9th 
  screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4677783/\n\n
  Details: https://vidiotsfoundation.org/movies/bird-in-hand/
+END:VEVENT
+BEGIN:VEVENT
+UID:4677784@vidiotsfoundation.org
+DTSTAMP:20261011T014500Z
+DTSTART;TZID=America/Los_Angeles:20261010T184500
+DTEND;TZID=America/Los_Angeles:20261010T203000
+SUMMARY:First They Came for My College
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677784/
+DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nWhen Florida Go
+ vernor Ron DeSantis stages a coup at New College\, the state’s beloved p
+ ublic honors college\, students and professors confront a new reality: the
+ ir campus is ground zero in an unprecedented nationwide assault on academi
+ c freedom and diversity.\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4677784/\n\nDetails: https://vidiotsfoundation.org/movies/first-they-cam
+ e-for-my-college/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672349@vidiotsfoundation.org
@@ -1119,14 +1222,33 @@ SUMMARY:The History of Concrete
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4677791/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOne part docume
- ntary\, one part camcorder video essay\, and one part the driest yet funni
- est of comedies\, John Wilson extends his unique genre-bending style from 
- the small screen to the big with this magnificently absurd examination of 
- the literal ground below our feet.\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4677791/\n\nDetails: https://vidiotsfoundation.org/movies/the-
- history-of-concrete/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nOne part documentary\, one part camcorder vide
+ o essay\, and one part the driest yet funniest of comedies\, John Wilson e
+ xtends his unique genre-bending style from the small screen to the big wit
+ h this magnificently absurd examination of the literal ground below our fe
+ et.\n\nTickets: https://vidiotsfoundation.org/purchase/4677791/\n\nDetails
+ : https://vidiotsfoundation.org/movies/the-history-of-concrete/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4677809@vidiotsfoundation.org
+DTSTAMP:20261011T203000Z
+DTSTART;TZID=America/Los_Angeles:20261011T133000
+DTEND;TZID=America/Los_Angeles:20261011T151500
+SUMMARY:First They Came for My College
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677809/
+DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nWhen Florida Go
+ vernor Ron DeSantis stages a coup at New College\, the state’s beloved p
+ ublic honors college\, students and professors confront a new reality: the
+ ir campus is ground zero in an unprecedented nationwide assault on academi
+ c freedom and diversity.\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4677809/\n\nDetails: https://vidiotsfoundation.org/movies/first-they-cam
+ e-for-my-college/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672357@vidiotsfoundation.org
