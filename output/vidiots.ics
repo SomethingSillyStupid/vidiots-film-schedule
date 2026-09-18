@@ -8,39 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4633732@vidiotsfoundation.org
-DTSTAMP:20260918T020000Z
-DTSTART;TZID=America/Los_Angeles:20260917T190000
-DTEND;TZID=America/Los_Angeles:20260917T204000
-SUMMARY:Filipiñana
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4633732/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
- MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
- f the year and a masterwork of international cinema - Rafael Manuel's phen
- omenally composed deadpan social satire Filipiñana .\nEven more showtimes
-  added!\n\nTickets: https://vidiotsfoundation.org/purchase/4633732/\n\nDet
- ails: https://vidiotsfoundation.org/movies/filipinana/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4509964@vidiotsfoundation.org
-DTSTAMP:20260918T224500Z
-DTSTART;TZID=America/Los_Angeles:20260918T154500
-DTEND;TZID=America/Los_Angeles:20260918T175000
-SUMMARY:Spirited Away (Japanese with English Subtitles)
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509964/
-DESCRIPTION:Run time: 125 min | Format: Digital | Rating: All Ages | Releas
- e year: 2001\n\nSeries: In the Eagle\n\nTake a journey to the land of the 
- spirits\n\nTickets: https://vidiotsfoundation.org/purchase/4509964/\n\nDet
- ails: https://vidiotsfoundation.org/movies/spirited-away-japanese-with-eng
- lish-subtitles/
-END:VEVENT
-BEGIN:VEVENT
 UID:4630072@vidiotsfoundation.org
 DTSTAMP:20260918T231500Z
 DTSTART;TZID=America/Los_Angeles:20260918T161500
@@ -59,22 +26,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4509966@vidiotsfoundation.org
-DTSTAMP:20260919T020000Z
-DTSTART;TZID=America/Los_Angeles:20260918T190000
-DTEND;TZID=America/Los_Angeles:20260918T204200
-SUMMARY:Pump Up the Volume
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509966/
-DESCRIPTION:Run time: 102 min | Format: Digital | Rating: R\n\nSeries: Comm
- unity Partners\, In the Eagle\n\nLong live Pirate Radio and long live this
-  bangin' early 90s cult classic starring Christian Slater as a teenage air
- wave bandit!\nCo-presented by our friends on the airwaves at KPBJ!\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4509966/\n\nDetails: https://v
- idiotsfoundation.org/movies/pump-up-the-volume/
-END:VEVENT
-BEGIN:VEVENT
 UID:4510040@vidiotsfoundation.org
 DTSTAMP:20260919T022000Z
 DTSTART;TZID=America/Los_Angeles:20260918T192000
@@ -91,22 +42,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
   added!\n\nTickets: https://vidiotsfoundation.org/purchase/4510040/\n\nDet
  ails: https://vidiotsfoundation.org/movies/filipinana/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4509967@vidiotsfoundation.org
-DTSTAMP:20260919T044500Z
-DTSTART;TZID=America/Los_Angeles:20260918T214500
-DTEND;TZID=America/Los_Angeles:20260918T232100
-SUMMARY:Staying Alive
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509967/
-DESCRIPTION:Run time: 96 min | Format: Digital | Rating: PG\n\nSeries: In t
- he Eagle\, What the Friday?!?\n\nYour Friday night is never going to be th
- e same because the steamiest\, sweatiest\, musclyest sequel of all time is
-  about to scorch the Vidiots big screen in all its oiled up 80s glory!\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4509967/\n\nDetails: https
- ://vidiotsfoundation.org/movies/staying-alive/
 END:VEVENT
 BEGIN:VEVENT
 UID:4510041@vidiotsfoundation.org
@@ -1813,18 +1748,50 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 BEGIN:VEVENT
-UID:4597696@vidiotsfoundation.org
-DTSTAMP:20260918T023000Z
-DTSTART;TZID=America/Los_Angeles:20260917T193000
-DTEND;TZID=America/Los_Angeles:20260917T214100
-SUMMARY:Husbands
+UID:4509964@vidiotsfoundation.org
+DTSTAMP:20260918T224500Z
+DTSTART;TZID=America/Los_Angeles:20260918T154500
+DTEND;TZID=America/Los_Angeles:20260918T175000
+SUMMARY:Spirited Away (Japanese with English Subtitles)
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4597696/
-DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries: 
- Doors Open at 6\, In the Eagle\, TeenTix LA\n\nJoin us for John Cassavetes
- ' raucous and unsettling meditation on toxic masculinity: the hangout movi
- e from hell\, Husbands!\n\nTickets: https://vidiotsfoundation.org/purchase
- /4597696/\n\nDetails: https://vidiotsfoundation.org/movies/husbands/
+URL:https://vidiotsfoundation.org/purchase/4509964/
+DESCRIPTION:Run time: 125 min | Format: Digital | Rating: All Ages | Releas
+ e year: 2001\n\nSeries: In the Eagle\n\nTake a journey to the land of the 
+ spirits\n\nTickets: https://vidiotsfoundation.org/purchase/4509964/\n\nDet
+ ails: https://vidiotsfoundation.org/movies/spirited-away-japanese-with-eng
+ lish-subtitles/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509966@vidiotsfoundation.org
+DTSTAMP:20260919T020000Z
+DTSTART;TZID=America/Los_Angeles:20260918T190000
+DTEND;TZID=America/Los_Angeles:20260918T204200
+SUMMARY:Pump Up the Volume
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509966/
+DESCRIPTION:Run time: 102 min | Format: Digital | Rating: R\n\nSeries: Comm
+ unity Partners\, In the Eagle\n\nLong live Pirate Radio and long live this
+  bangin' early 90s cult classic starring Christian Slater as a teenage air
+ wave bandit!\nCo-presented by our friends on the airwaves at KPBJ!\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4509966/\n\nDetails: https://v
+ idiotsfoundation.org/movies/pump-up-the-volume/
+END:VEVENT
+BEGIN:VEVENT
+UID:4509967@vidiotsfoundation.org
+DTSTAMP:20260919T044500Z
+DTSTART;TZID=America/Los_Angeles:20260918T214500
+DTEND;TZID=America/Los_Angeles:20260918T232100
+SUMMARY:Staying Alive
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4509967/
+DESCRIPTION:Run time: 96 min | Format: Digital | Rating: PG\n\nSeries: In t
+ he Eagle\, What the Friday?!?\n\nYour Friday night is never going to be th
+ e same because the steamiest\, sweatiest\, musclyest sequel of all time is
+  about to scorch the Vidiots big screen in all its oiled up 80s glory!\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4509967/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/staying-alive/
 END:VEVENT
 END:VCALENDAR
