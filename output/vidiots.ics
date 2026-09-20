@@ -8,42 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4509984@vidiotsfoundation.org
-DTSTAMP:20260919T233000Z
-DTSTART;TZID=America/Los_Angeles:20260919T163000
-DTEND;TZID=America/Los_Angeles:20260919T181000
-SUMMARY:Filipiñana
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509984/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
- MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
- f the year and a masterwork of international cinema - Rafael Manuel's phen
- omenally composed deadpan social satire Filipiñana .\nEven more showtimes
-  added!\n\nTickets: https://vidiotsfoundation.org/purchase/4509984/\n\nDet
- ails: https://vidiotsfoundation.org/movies/filipinana/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4509983@vidiotsfoundation.org
-DTSTAMP:20260920T050000Z
-DTSTART;TZID=America/Los_Angeles:20260919T220000
-DTEND;TZID=America/Los_Angeles:20260919T234000
-SUMMARY:Filipiñana
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509983/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
- MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
- f the year and a masterwork of international cinema - Rafael Manuel's phen
- omenally composed deadpan social satire Filipiñana .\nEven more showtimes
-  added!\n\nTickets: https://vidiotsfoundation.org/purchase/4509983/\n\nDet
- ails: https://vidiotsfoundation.org/movies/filipinana/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4510089@vidiotsfoundation.org
 DTSTAMP:20260920T201500Z
 DTSTART;TZID=America/Los_Angeles:20260920T131500
@@ -59,56 +23,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
  omenally composed deadpan social satire Filipiñana .\nEven more showtimes
   added!\n\nTickets: https://vidiotsfoundation.org/purchase/4510089/\n\nDet
  ails: https://vidiotsfoundation.org/movies/filipinana/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4510024@vidiotsfoundation.org
-DTSTAMP:20260920T203000Z
-DTSTART;TZID=America/Los_Angeles:20260920T133000
-DTEND;TZID=America/Los_Angeles:20260920T151200
-SUMMARY:Encanto Sing-Along
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510024/
-DESCRIPTION:Run time: 102 min | Format: Digital | Rating: PG\n\nSeries: Fil
- ms for Everyone\, In the Eagle\, Interactive\n\nSing along with this encha
- nted musical with your little ones\, or your Pixar-loving adult besties!\n
- \nTickets: https://vidiotsfoundation.org/purchase/4510024/\n\nDetails: htt
- ps://vidiotsfoundation.org/movies/encanto/
-END:VEVENT
-BEGIN:VEVENT
-UID:4510012@vidiotsfoundation.org
-DTSTAMP:20260920T233000Z
-DTSTART;TZID=America/Los_Angeles:20260920T163000
-DTEND;TZID=America/Los_Angeles:20260920T181500
-SUMMARY:An Evening with Mike Mills – Beginners
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510012/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital | Rating: R\n\nSeries: In the Eagle\, Special Guests in At
- tendance\n\nVidiots is thrilled to welcome Indie legend Mike Mills for an 
- incredible night of cinema starting with the lovable modern classic Beginn
- ers followed by a conversation with Mills.\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4510012/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/beginners/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4510014@vidiotsfoundation.org
-DTSTAMP:20260921T023000Z
-DTSTART;TZID=America/Los_Angeles:20260920T193000
-DTEND;TZID=America/Los_Angeles:20260920T212000
-SUMMARY:An Evening with Mike Mills – C’mon C’mon
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510014/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 110 min | 
- Format: Digital | Rating: R\n\nSeries: In the Eagle\, Special Guests in At
- tendance\n\nOur enchanting evening with Mike Mills continues with his late
- st intimate and tender triumph C'mon C'mon featuring an introduction by Mi
- lls.\n\nTickets: https://vidiotsfoundation.org/purchase/4510014/\n\nDetail
- s: https://vidiotsfoundation.org/movies/cmon-cmon/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -1615,84 +1529,53 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 BEGIN:VEVENT
-UID:4509968@vidiotsfoundation.org
-DTSTAMP:20260919T200000Z
-DTSTART;TZID=America/Los_Angeles:20260919T130000
-DTEND;TZID=America/Los_Angeles:20260919T143100
-SUMMARY:Babe
+UID:4510024@vidiotsfoundation.org
+DTSTAMP:20260920T203000Z
+DTSTART;TZID=America/Los_Angeles:20260920T133000
+DTEND;TZID=America/Los_Angeles:20260920T151200
+SUMMARY:Encanto Sing-Along
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509968/
-DESCRIPTION:Run time: 91 min | Format: Digital | Rating: All Ages\n\nSeries
- : Films for Everyone\, In the Eagle\n\nThis perennially delightful family 
- film will still make you squeal with joy!\n\nTickets: https://vidiotsfound
- ation.org/purchase/4509968/\n\nDetails: https://vidiotsfoundation.org/movi
- es/babe/
+URL:https://vidiotsfoundation.org/purchase/4510024/
+DESCRIPTION:Run time: 102 min | Format: Digital | Rating: PG\n\nSeries: Fil
+ ms for Everyone\, In the Eagle\, Interactive\n\nSing along with this encha
+ nted musical with your little ones\, or your Pixar-loving adult besties!\n
+ \nTickets: https://vidiotsfoundation.org/purchase/4510024/\n\nDetails: htt
+ ps://vidiotsfoundation.org/movies/encanto/
 END:VEVENT
 BEGIN:VEVENT
-UID:4509972@vidiotsfoundation.org
-DTSTAMP:20260919T224500Z
-DTSTART;TZID=America/Los_Angeles:20260919T154500
-DTEND;TZID=America/Los_Angeles:20260919T171500
-SUMMARY:Salesman
+UID:4510012@vidiotsfoundation.org
+DTSTAMP:20260920T233000Z
+DTSTART;TZID=America/Los_Angeles:20260920T163000
+DTEND;TZID=America/Los_Angeles:20260920T181500
+SUMMARY:An Evening with Mike Mills – Beginners
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509972/
-DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Groundbreaking No
- n-Fiction\, In the Eagle\, TeenTix LA\n\nOne of the most important and ill
- uminating documentaries of the mid-20th-century\, Salesman showed the worl
- d a realism it had never seen and a pair of brothers who would change the 
- documentary landscape forever.\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4509972/\n\nDetails: https://vidiotsfoundation.org/movies/salesman
- /
+URL:https://vidiotsfoundation.org/purchase/4510012/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
+ Format: Digital | Rating: R\n\nSeries: In the Eagle\, Special Guests in At
+ tendance\n\nVidiots is thrilled to welcome Indie legend Mike Mills for an 
+ incredible night of cinema starting with the lovable modern classic Beginn
+ ers followed by a conversation with Mills.\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4510012/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/beginners/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4509975@vidiotsfoundation.org
-DTSTAMP:20260920T013000Z
-DTSTART;TZID=America/Los_Angeles:20260919T183000
-DTEND;TZID=America/Los_Angeles:20260919T205500
-SUMMARY:Minority Report
+UID:4510014@vidiotsfoundation.org
+DTSTAMP:20260921T023000Z
+DTSTART;TZID=America/Los_Angeles:20260920T193000
+DTEND;TZID=America/Los_Angeles:20260920T212000
+SUMMARY:An Evening with Mike Mills – C’mon C’mon
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509975/
-DESCRIPTION:Run time: 145 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\n\nAn all-too prescient science fiction blockbuster of the su
- rveillance state gone awry\, Steven Spielberg's adaptation of Philip K. Di
- ck is a dystopian thriller for this and any time!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4509975/\n\nDetails: https://vidiotsfoundation.
- org/movies/minority-report/
-END:VEVENT
-BEGIN:VEVENT
-UID:4509979@vidiotsfoundation.org
-DTSTAMP:20260920T021500Z
-DTSTART;TZID=America/Los_Angeles:20260919T191500
-DTEND;TZID=America/Los_Angeles:20260919T205500
-SUMMARY:Outerlands
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4509979/
-DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: In the MUBI Micr
- ocinema\, Special Guests in Attendance\n\nJoin us in the microcinema for E
- lena Oxman's festival darling\, the beautifully touching triumph Outerland
- s starring Asia Kate Dillon in a stirring performance.\nFilmmaker Elena Ox
- man and Director of Photography Lucia Zavarcikova in person!\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4509979/\n\nDetails: https://vidiots
- foundation.org/movies/outerlands/
-END:VEVENT
-BEGIN:VEVENT
-UID:4571919@vidiotsfoundation.org
-DTSTAMP:20260920T044500Z
-DTSTART;TZID=America/Los_Angeles:20260919T214500
-DTEND;TZID=America/Los_Angeles:20260919T233600
-SUMMARY:Sgt. Pepper’s Lonely Hearts Club Band
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4571919/
-DESCRIPTION:Run time: 111 min | Format: Digital | Rating: PG\n\nSeries: In 
- the Eagle\n\nGet ready for all the gonzo musical weirdness of this Beatles
- -tuned\, Peter Frampton and the Bee Gees helmed cult classic of epic propo
- rtions!\n\nTickets: https://vidiotsfoundation.org/purchase/4571919/\n\nDet
- ails: https://vidiotsfoundation.org/movies/sgt-peppers-lonely-hearts-club-
- band/
+URL:https://vidiotsfoundation.org/purchase/4510014/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 110 min | 
+ Format: Digital | Rating: R\n\nSeries: In the Eagle\, Special Guests in At
+ tendance\n\nOur enchanting evening with Mike Mills continues with his late
+ st intimate and tender triumph C'mon C'mon featuring an introduction by Mi
+ lls.\n\nTickets: https://vidiotsfoundation.org/purchase/4510014/\n\nDetail
+ s: https://vidiotsfoundation.org/movies/cmon-cmon/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
