@@ -8,42 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4510089@vidiotsfoundation.org
-DTSTAMP:20260920T201500Z
-DTSTART;TZID=America/Los_Angeles:20260920T131500
-DTEND;TZID=America/Los_Angeles:20260920T145500
-SUMMARY:Filipiñana
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510089/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
- MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
- f the year and a masterwork of international cinema - Rafael Manuel's phen
- omenally composed deadpan social satire Filipiñana .\nEven more showtimes
-  added!\n\nTickets: https://vidiotsfoundation.org/purchase/4510089/\n\nDet
- ails: https://vidiotsfoundation.org/movies/filipinana/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4510092@vidiotsfoundation.org
-DTSTAMP:20260921T031500Z
-DTSTART;TZID=America/Los_Angeles:20260920T201500
-DTEND;TZID=America/Los_Angeles:20260920T215500
-SUMMARY:Filipiñana
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510092/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
- MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
- f the year and a masterwork of international cinema - Rafael Manuel's phen
- omenally composed deadpan social satire Filipiñana .\nEven more showtimes
-  added!\n\nTickets: https://vidiotsfoundation.org/purchase/4510092/\n\nDet
- ails: https://vidiotsfoundation.org/movies/filipinana/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4510095@vidiotsfoundation.org
 DTSTAMP:20260922T023000Z
 DTSTART;TZID=America/Los_Angeles:20260921T193000
@@ -1527,55 +1491,5 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
   and few films since have matched its levels of visceral torture.\n\nTicke
  ts: https://vidiotsfoundation.org/purchase/4675360/\n\nDetails: https://vi
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
-END:VEVENT
-BEGIN:VEVENT
-UID:4510024@vidiotsfoundation.org
-DTSTAMP:20260920T203000Z
-DTSTART;TZID=America/Los_Angeles:20260920T133000
-DTEND;TZID=America/Los_Angeles:20260920T151200
-SUMMARY:Encanto Sing-Along
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510024/
-DESCRIPTION:Run time: 102 min | Format: Digital | Rating: PG\n\nSeries: Fil
- ms for Everyone\, In the Eagle\, Interactive\n\nSing along with this encha
- nted musical with your little ones\, or your Pixar-loving adult besties!\n
- \nTickets: https://vidiotsfoundation.org/purchase/4510024/\n\nDetails: htt
- ps://vidiotsfoundation.org/movies/encanto/
-END:VEVENT
-BEGIN:VEVENT
-UID:4510012@vidiotsfoundation.org
-DTSTAMP:20260920T233000Z
-DTSTART;TZID=America/Los_Angeles:20260920T163000
-DTEND;TZID=America/Los_Angeles:20260920T181500
-SUMMARY:An Evening with Mike Mills – Beginners
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510012/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital | Rating: R\n\nSeries: In the Eagle\, Special Guests in At
- tendance\n\nVidiots is thrilled to welcome Indie legend Mike Mills for an 
- incredible night of cinema starting with the lovable modern classic Beginn
- ers followed by a conversation with Mills.\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4510012/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/beginners/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4510014@vidiotsfoundation.org
-DTSTAMP:20260921T023000Z
-DTSTART;TZID=America/Los_Angeles:20260920T193000
-DTEND;TZID=America/Los_Angeles:20260920T212000
-SUMMARY:An Evening with Mike Mills – C’mon C’mon
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510014/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 110 min | 
- Format: Digital | Rating: R\n\nSeries: In the Eagle\, Special Guests in At
- tendance\n\nOur enchanting evening with Mike Mills continues with his late
- st intimate and tender triumph C'mon C'mon featuring an introduction by Mi
- lls.\n\nTickets: https://vidiotsfoundation.org/purchase/4510014/\n\nDetail
- s: https://vidiotsfoundation.org/movies/cmon-cmon/
-STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
