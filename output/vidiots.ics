@@ -159,13 +159,14 @@ SUMMARY:Dazed and Confused – Dazed Day!
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4510126/
-DESCRIPTION:Run time: 102 min | Format: 4K Digital | Rating: R\n\nSeries: C
- ommunity Partners\, In the Eagle\, Interactive\, Live DJ Set\n\nOur Fourth
-  Annual Dazed Day is back and better than ever!\nA Full Day of Dazed Scree
- nings! Pinball on Free play courtesy of our neighbors at Walt's! Tripped o
- ut 16mm! All Vinyl DJ sets!\n\nTickets: https://vidiotsfoundation.org/purc
- hase/4510126/\n\nDetails: https://vidiotsfoundation.org/movies/dazed-and-c
- onfused/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 102 min | 
+ Format: 4K Digital | Rating: R\n\nSeries: Community Partners\, In the Eagl
+ e\, Interactive\, Live DJ Set\n\nOur Fourth Annual Dazed Day is back and b
+ etter than ever!\nA Full Day of Dazed Screenings! Pinball on Free play cou
+ rtesy of our neighbors at Walt's! Tripped out 16mm! All Vinyl DJ sets!\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4510126/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/dazed-and-confused/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4565449@vidiotsfoundation.org
@@ -1014,6 +1015,22 @@ DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Additional Shows\
  /director Joe Lo Truglio in person for the October 15th screening!\n\nTick
  ets: https://vidiotsfoundation.org/purchase/4679430/\n\nDetails: https://v
  idiotsfoundation.org/movies/outpost/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672364@vidiotsfoundation.org
+DTSTAMP:20261016T023000Z
+DTSTART;TZID=America/Los_Angeles:20261015T193000
+DTEND;TZID=America/Los_Angeles:20261015T212800
+SUMMARY:The Witches of Eastwick
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672364/
+DESCRIPTION:Run time: 118 min | Format: Digital | Rating: R\n\nSeries: Coun
+ tdown to Halloween\, Doors Open at 6\, In the Eagle\n\nWith an iconic cast
+ \, fiercely funny dialogue\, and tons of witchy fun\, you'll want to gathe
+ r up your coven and get ready for all the sexy and savage sorcery!\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4672364/\n\nDetails: https://v
+ idiotsfoundation.org/movies/the-witches-of-eastwick/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672376@vidiotsfoundation.org
