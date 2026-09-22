@@ -381,6 +381,23 @@ DESCRIPTION:Run time: 102 min | Format: Digital\n\nSeries: Additional Shows
  -forever/
 END:VEVENT
 BEGIN:VEVENT
+UID:4677540@vidiotsfoundation.org
+DTSTAMP:20261003T044500Z
+DTSTART;TZID=America/Los_Angeles:20261002T214500
+DTEND;TZID=America/Los_Angeles:20261002T234300
+SUMMARY:Train to Busan
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677540/
+DESCRIPTION:Run time: 118 min | Format: Digital | Release year: 2016\n\nSer
+ ies: Countdown to Halloween\, In the Eagle\n\nOne of the most well-rounded
+  of all zombie flicks\, Train to Busan is a genre-bending high-octane unde
+ ad thrill ride with a supersized heart\, realistic characters\, and a deli
+ cious spread of social commentary.\nTenth Anniversary Screening!\n\nTicket
+ s: https://vidiotsfoundation.org/purchase/4677540/\n\nDetails: https://vid
+ iotsfoundation.org/movies/train-to-busan/
+END:VEVENT
+BEGIN:VEVENT
 UID:4677600@vidiotsfoundation.org
 DTSTAMP:20261003T050000Z
 DTSTART;TZID=America/Los_Angeles:20261002T220000
@@ -422,13 +439,14 @@ SUMMARY:Filipiñana
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4677739/
-DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
- ies: In the MUBI Microcinema\, Additional Shows\n\nJoin us in the microcin
- ema for one of the best films of the year and a masterwork of internationa
- l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
- ipiñana .\nEven more showtimes added!\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4677739/\n\nDetails: https://vidiotsfoundation.org/movies/
- filipinana/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital | Release year: 2026\n\nSeries: In the MUBI Microcinema\, 
+ Additional Shows\n\nJoin us in the microcinema for one of the best films o
+ f the year and a masterwork of international cinema - Rafael Manuel's phen
+ omenally composed deadpan social satire Filipiñana .\nEven more showtimes
+  added!\n\nTickets: https://vidiotsfoundation.org/purchase/4677739/\n\nDet
+ ails: https://vidiotsfoundation.org/movies/filipinana/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4677611@vidiotsfoundation.org
@@ -619,13 +637,14 @@ SUMMARY:Filipiñana
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4677760/
-DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
- ies: In the MUBI Microcinema\, Additional Shows\n\nJoin us in the microcin
- ema for one of the best films of the year and a masterwork of internationa
- l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
- ipiñana .\nEven more showtimes added!\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4677760/\n\nDetails: https://vidiotsfoundation.org/movies/
- filipinana/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital | Release year: 2026\n\nSeries: In the MUBI Microcinema\, 
+ Additional Shows\n\nJoin us in the microcinema for one of the best films o
+ f the year and a masterwork of international cinema - Rafael Manuel's phen
+ omenally composed deadpan social satire Filipiñana .\nEven more showtimes
+  added!\n\nTickets: https://vidiotsfoundation.org/purchase/4677760/\n\nDet
+ ails: https://vidiotsfoundation.org/movies/filipinana/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4675170@vidiotsfoundation.org
@@ -965,6 +984,24 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min |
  et.\n\nTickets: https://vidiotsfoundation.org/purchase/4677807/\n\nDetails
  : https://vidiotsfoundation.org/movies/the-history-of-concrete/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4729511@vidiotsfoundation.org
+DTSTAMP:20261013T030000Z
+DTSTART;TZID=America/Los_Angeles:20261012T200000
+DTEND;TZID=America/Los_Angeles:20261012T214100
+SUMMARY:The History of Concrete
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4729511/
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOne part docume
+ ntary\, one part camcorder video essay\, and one part the driest yet funni
+ est of comedies\, John Wilson extends his unique genre-bending style from 
+ the small screen to the big with this magnificently absurd examination of 
+ the literal ground below our feet.\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4729511/\n\nDetails: https://vidiotsfoundation.org/movies/the-
+ history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672363@vidiotsfoundation.org
