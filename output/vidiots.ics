@@ -8,24 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4510095@vidiotsfoundation.org
-DTSTAMP:20260922T023000Z
-DTSTART;TZID=America/Los_Angeles:20260921T193000
-DTEND;TZID=America/Los_Angeles:20260921T211000
-SUMMARY:Filipiñana
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510095/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
- MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
- f the year and a masterwork of international cinema - Rafael Manuel's phen
- omenally composed deadpan social satire Filipiñana .\nEven more showtimes
-  added!\n\nTickets: https://vidiotsfoundation.org/purchase/4510095/\n\nDet
- ails: https://vidiotsfoundation.org/movies/filipinana/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4510096@vidiotsfoundation.org
 DTSTAMP:20260923T023000Z
 DTSTART;TZID=America/Los_Angeles:20260922T193000
@@ -35,8 +17,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4510096/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
- MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
+ Format: Digital | Release year: 2026\n\nSeries: In the MUBI Microcinema\, 
+ Additional Shows\n\nJoin us in the microcinema for one of the best films o
  f the year and a masterwork of international cinema - Rafael Manuel's phen
  omenally composed deadpan social satire Filipiñana .\nEven more showtimes
   added!\n\nTickets: https://vidiotsfoundation.org/purchase/4510096/\n\nDet
@@ -225,7 +207,7 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4706284/
 DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
- ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ies: In the MUBI Microcinema\, Additional Shows\n\nJoin us in the microcin
  ema for one of the best films of the year and a masterwork of internationa
  l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
  ipiñana .\nEven more showtimes added!\n\nTickets: https://vidiotsfoundati
@@ -357,7 +339,7 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4677588/
 DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
- ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ies: In the MUBI Microcinema\, Additional Shows\n\nJoin us in the microcin
  ema for one of the best films of the year and a masterwork of internationa
  l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
  ipiñana .\nEven more showtimes added!\n\nTickets: https://vidiotsfoundati
@@ -440,7 +422,7 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4677739/
 DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
- ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ies: In the MUBI Microcinema\, Additional Shows\n\nJoin us in the microcin
  ema for one of the best films of the year and a masterwork of internationa
  l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
  ipiñana .\nEven more showtimes added!\n\nTickets: https://vidiotsfoundati
@@ -522,7 +504,7 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4677614/
 DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
- ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ies: In the MUBI Microcinema\, Additional Shows\n\nJoin us in the microcin
  ema for one of the best films of the year and a masterwork of internationa
  l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
  ipiñana .\nEven more showtimes added!\n\nTickets: https://vidiotsfoundati
@@ -637,7 +619,7 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4677760/
 DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
- ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
+ ies: In the MUBI Microcinema\, Additional Shows\n\nJoin us in the microcin
  ema for one of the best films of the year and a masterwork of internationa
  l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
  ipiñana .\nEven more showtimes added!\n\nTickets: https://vidiotsfoundati
