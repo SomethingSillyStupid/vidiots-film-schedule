@@ -8,45 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4510096@vidiotsfoundation.org
-DTSTAMP:20260923T023000Z
-DTSTART;TZID=America/Los_Angeles:20260922T193000
-DTEND;TZID=America/Los_Angeles:20260922T211000
-SUMMARY:Filipiñana
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510096/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Release year: 2026\n\nSeries: In the MUBI Microcinema\, 
- Additional Shows\n\nJoin us in the microcinema for one of the best films o
- f the year and a masterwork of international cinema - Rafael Manuel's phen
- omenally composed deadpan social satire Filipiñana .\nEven more showtimes
-  added!\n\nTickets: https://vidiotsfoundation.org/purchase/4510096/\n\nDet
- ails: https://vidiotsfoundation.org/movies/filipinana/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4510102@vidiotsfoundation.org
-DTSTAMP:20260924T023000Z
-DTSTART;TZID=America/Los_Angeles:20260923T193000
-DTEND;TZID=America/Los_Angeles:20260923T212100
-SUMMARY:An Evening with the Yeah Yeah Yeahs – Hidden in Pieces + Eraserhe
- ad
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510102/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 111 min\n\
- nSeries: Doors Open at 6\, In the Eagle\, Special Guests in Attendance\n\n
- Vidiots invites you to an extraordinary evening of music\, cinema\, and co
- mmunity when we welcome the Yeah Yeah Yeahs for a special advance screenin
- g of Hidden in Pieces - a visual companion to their new record - followed 
- by a conversation with the band and a special screening of David Lynch's E
- raserhead .\n\nTickets: https://vidiotsfoundation.org/purchase/4510102/\n\
- nDetails: https://vidiotsfoundation.org/movies/an-evening-with-the-yeah-ye
- ah-yeahs/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4510104@vidiotsfoundation.org
 DTSTAMP:20260925T023000Z
 DTSTART;TZID=America/Los_Angeles:20260924T193000
@@ -207,8 +168,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4706284/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Release year: 2026\n\nSeries: In the MUBI Microcinema\, 
- Additional Shows\n\nJoin us in the microcinema for one of the best films o
+ Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
+ MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
  f the year and a masterwork of international cinema - Rafael Manuel's phen
  omenally composed deadpan social satire Filipiñana .\nEven more showtimes
   added!\n\nTickets: https://vidiotsfoundation.org/purchase/4706284/\n\nDet
@@ -340,13 +301,14 @@ SUMMARY:Filipiñana
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4677588/
-DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
- ies: In the MUBI Microcinema\, Additional Shows\n\nJoin us in the microcin
- ema for one of the best films of the year and a masterwork of internationa
- l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
- ipiñana .\nEven more showtimes added!\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4677588/\n\nDetails: https://vidiotsfoundation.org/movies/
- filipinana/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
+ MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
+ f the year and a masterwork of international cinema - Rafael Manuel's phen
+ omenally composed deadpan social satire Filipiñana .\nEven more showtimes
+  added!\n\nTickets: https://vidiotsfoundation.org/purchase/4677588/\n\nDet
+ ails: https://vidiotsfoundation.org/movies/filipinana/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4672309@vidiotsfoundation.org
@@ -441,8 +403,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4677739/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Release year: 2026\n\nSeries: In the MUBI Microcinema\, 
- Additional Shows\n\nJoin us in the microcinema for one of the best films o
+ Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
+ MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
  f the year and a masterwork of international cinema - Rafael Manuel's phen
  omenally composed deadpan social satire Filipiñana .\nEven more showtimes
   added!\n\nTickets: https://vidiotsfoundation.org/purchase/4677739/\n\nDet
@@ -524,7 +486,7 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4677614/
 DESCRIPTION:Run time: 100 min | Format: Digital | Release year: 2026\n\nSer
- ies: In the MUBI Microcinema\, Additional Shows\n\nJoin us in the microcin
+ ies: Additional Shows\, In the MUBI Microcinema\n\nJoin us in the microcin
  ema for one of the best films of the year and a masterwork of internationa
  l cinema - Rafael Manuel's phenomenally composed deadpan social satire Fil
  ipiñana .\nEven more showtimes added!\n\nTickets: https://vidiotsfoundati
@@ -639,8 +601,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4677760/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Release year: 2026\n\nSeries: In the MUBI Microcinema\, 
- Additional Shows\n\nJoin us in the microcinema for one of the best films o
+ Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
+ MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
  f the year and a masterwork of international cinema - Rafael Manuel's phen
  omenally composed deadpan social satire Filipiñana .\nEven more showtimes
   added!\n\nTickets: https://vidiotsfoundation.org/purchase/4677760/\n\nDet
@@ -1562,5 +1524,26 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
   and few films since have matched its levels of visceral torture.\n\nTicke
  ts: https://vidiotsfoundation.org/purchase/4675360/\n\nDetails: https://vi
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
+END:VEVENT
+BEGIN:VEVENT
+UID:4510102@vidiotsfoundation.org
+DTSTAMP:20260924T023000Z
+DTSTART;TZID=America/Los_Angeles:20260923T193000
+DTEND;TZID=America/Los_Angeles:20260923T212100
+SUMMARY:An Evening with the Yeah Yeah Yeahs – Hidden in Pieces + Eraserhe
+ ad
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510102/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 111 min\n\
+ nSeries: Doors Open at 6\, In the Eagle\, Special Guests in Attendance\n\n
+ Vidiots invites you to an extraordinary evening of music\, cinema\, and co
+ mmunity when we welcome the Yeah Yeah Yeahs for a special advance screenin
+ g of Hidden in Pieces - a visual companion to their new record - followed 
+ by a conversation with the band and a special screening of David Lynch's E
+ raserhead .\n\nTickets: https://vidiotsfoundation.org/purchase/4510102/\n\
+ nDetails: https://vidiotsfoundation.org/movies/an-evening-with-the-yeah-ye
+ ah-yeahs/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
