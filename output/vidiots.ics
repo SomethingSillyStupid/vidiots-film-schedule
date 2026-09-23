@@ -108,12 +108,12 @@ SUMMARY:Bandidas on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4510123/
-DESCRIPTION:Run time: 93 min | Format: 35mm Film | Rating: PG-13\n\nSeries:
-  35mm Film\, In the Eagle\, What the Friday?!?\n\nIf your Friday night cou
- ld use a little kick-ass social justice fire\, don't miss out when Penélo
- pe Cruz and Salma Hayek singe the big screen with this bad ass banger!\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4510123/\n\nDetails: https
- ://vidiotsfoundation.org/movies/bandidas/
+DESCRIPTION:Run time: 93 min | Format: 35mm Film | Rating: PG-13 | Release 
+ year: 2006\n\nSeries: 35mm Film\, In the Eagle\, What the Friday?!?\n\nIf 
+ your Friday night could use a little kick-ass social justice fire\, don't 
+ miss out when Penélope Cruz and Salma Hayek singe the big screen with thi
+ s bad ass banger!\n\nTickets: https://vidiotsfoundation.org/purchase/45101
+ 23/\n\nDetails: https://vidiotsfoundation.org/movies/bandidas/
 END:VEVENT
 BEGIN:VEVENT
 UID:4510124@vidiotsfoundation.org
@@ -239,13 +239,14 @@ SUMMARY:Barbara Forever
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4510139/
-DESCRIPTION:Run time: 102 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the 
- microcinema to rediscover the immense legacy of groundbreaking lesbian fil
- mmaker Barbara Hammer through Brydie O'Connor's phenomenal and award-winni
- ng portrait\, Barbara Forever !\n\nTickets: https://vidiotsfoundation.org/
- purchase/4510139/\n\nDetails: https://vidiotsfoundation.org/movies/barbara
- -forever/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 102 min | 
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nJoin us in the microcinema to rediscover the i
+ mmense legacy of groundbreaking lesbian filmmaker Barbara Hammer through B
+ rydie O'Connor's phenomenal and award-winning portrait\, Barbara Forever !
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4510139/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/barbara-forever/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4510135@vidiotsfoundation.org
@@ -389,13 +390,13 @@ SUMMARY:Train to Busan
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4677540/
-DESCRIPTION:Run time: 118 min | Format: Digital | Release year: 2016\n\nSer
- ies: Countdown to Halloween\, In the Eagle\n\nOne of the most well-rounded
-  of all zombie flicks\, Train to Busan is a genre-bending high-octane unde
- ad thrill ride with a supersized heart\, realistic characters\, and a deli
- cious spread of social commentary.\nTenth Anniversary Screening!\n\nTicket
- s: https://vidiotsfoundation.org/purchase/4677540/\n\nDetails: https://vid
- iotsfoundation.org/movies/train-to-busan/
+DESCRIPTION:Run time: 118 min | Format: 4K Digital | Release year: 2016\n\n
+ Series: Countdown to Halloween\, In the Eagle\n\nOne of the most well-roun
+ ded of all zombie flicks\, Train to Busan is a genre-bending high-octane u
+ ndead thrill ride with a supersized heart\, realistic characters\, and a d
+ elicious spread of social commentary.\nTenth Anniversary Screening! New 4K
+  Restoration!\n\nTickets: https://vidiotsfoundation.org/purchase/4677540/\
+ n\nDetails: https://vidiotsfoundation.org/movies/train-to-busan/
 END:VEVENT
 BEGIN:VEVENT
 UID:4677600@vidiotsfoundation.org
@@ -892,9 +893,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672353/
 DESCRIPTION:Run time: 119 min | Format: Digital | Rating: R | Release year:
-  2001\n\nSeries: Countdown to Halloween\, In the Eagle\n\nDo you want to m
- eet a ghost?\n\nTickets: https://vidiotsfoundation.org/purchase/4672353/\n
- \nDetails: https://vidiotsfoundation.org/movies/pulse/
+  2001\n\nSeries: Countdown to Halloween\, In the Eagle\n\nKiyoshi Kurosawa
+ ’s shattering masterpiece from 2001 is beyond liminality\, beyond dimens
+ ion\, giving us a despair and isolation decades ahead of its time.\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4672353/\n\nDetails: https://v
+ idiotsfoundation.org/movies/pulse/
 END:VEVENT
 BEGIN:VEVENT
 UID:4677791@vidiotsfoundation.org
@@ -914,6 +917,21 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min |
  et.\n\nTickets: https://vidiotsfoundation.org/purchase/4677791/\n\nDetails
  : https://vidiotsfoundation.org/movies/the-history-of-concrete/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4729814@vidiotsfoundation.org
+DTSTAMP:20261011T194500Z
+DTSTART;TZID=America/Los_Angeles:20261011T124500
+DTEND;TZID=America/Los_Angeles:20261011T141000
+SUMMARY:Brother Bear
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4729814/
+DESCRIPTION:Run time: 85 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nSee through another’s eyes\, feel
+  through another's heart\, and discover the meaning of brotherhood.\n\nTic
+ kets: https://vidiotsfoundation.org/purchase/4729814/\n\nDetails: https://
+ vidiotsfoundation.org/movies/brother-bear/
 END:VEVENT
 BEGIN:VEVENT
 UID:4677809@vidiotsfoundation.org
@@ -1365,6 +1383,22 @@ DESCRIPTION:Run time: 132 min | Format: 35mm Film | Rating: R\n\nSeries: 35
  rror on glorious celluloid!\n\nTickets: https://vidiotsfoundation.org/purc
  hase/4672391/\n\nDetails: https://vidiotsfoundation.org/movies/the-exorcis
  t/
+END:VEVENT
+BEGIN:VEVENT
+UID:4675667@vidiotsfoundation.org
+DTSTAMP:20261027T023000Z
+DTSTART;TZID=America/Los_Angeles:20261026T193000
+DTEND;TZID=America/Los_Angeles:20261026T210500
+SUMMARY:Insiang
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4675667/
+DESCRIPTION:Run time: 95 min | Format: Digital | Release year: 1976\n\nSeri
+ es: Community Partners\, Doors Open at 6\, In the Eagle\n\nVidiots\, The C
+ inegogue\, and A Bunch of Savages are thrilled to present an ultra-rare sc
+ reening of Lino Brocka's masterful melodrama Insiang.\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4675667/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/insiang/
 END:VEVENT
 BEGIN:VEVENT
 UID:4675405@vidiotsfoundation.org
