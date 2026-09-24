@@ -127,12 +127,12 @@ BEGIN:VEVENT
 UID:4510130@vidiotsfoundation.org
 DTSTAMP:20260927T214500Z
 DTSTART;TZID=America/Los_Angeles:20260927T144500
-DTEND;TZID=America/Los_Angeles:20260927T175700
+DTEND;TZID=America/Los_Angeles:20260927T173900
 SUMMARY:It’s a Mad\, Mad\, Mad\, Mad World
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4510130/
-DESCRIPTION:Run time: 192 min | Format: Digital | Rating: G\n\nSeries: In t
+DESCRIPTION:Run time: 174 min | Format: Digital | Rating: G\n\nSeries: In t
  he Eagle\, TeenTix LA\n\nBuckle up for a carload of belly laughs with Stan
  ley Kramer's madcap comedy of treasure hunting starring a cavalcade of som
  e of the best comedians of the day.\n\nTickets: https://vidiotsfoundation.
@@ -1276,11 +1276,11 @@ DTEND;TZID=America/Los_Angeles:20261025T130000
 SUMMARY:Día de los Muertos Celebration
 LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
 URL:https://vidiotsfoundation.org/purchase/4698559/
-DESCRIPTION:Series: Free Events\n\nVidiots invites you to join us for our s
- econd annual Día de los Muertos Celebration - a special community event i
- n remembrance of our loved ones.\n\nTickets: https://vidiotsfoundation.org
- /purchase/4698559/\n\nDetails: https://vidiotsfoundation.org/movies/dia-de
- -los-muertos-celebration/
+DESCRIPTION:Series: Free Events\n\nVidiots invites you to join us for our t
+ hird annual Día de los Muertos Celebration - a special community event in
+  remembrance of our loved ones.\n\nTickets: https://vidiotsfoundation.org/
+ purchase/4698559/\n\nDetails: https://vidiotsfoundation.org/movies/dia-de-
+ los-muertos-celebration/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672403@vidiotsfoundation.org
