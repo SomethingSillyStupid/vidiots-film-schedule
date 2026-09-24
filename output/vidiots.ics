@@ -8,25 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4510104@vidiotsfoundation.org
-DTSTAMP:20260925T023000Z
-DTSTART;TZID=America/Los_Angeles:20260924T193000
-DTEND;TZID=America/Los_Angeles:20260924T205800
-SUMMARY:Raising Victor Vargas
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510104/
-DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Doors
-  Open at 6\, In the Eagle\, Special Guests in Attendance\, TeenTix LA\n\nV
- idiots is excited to welcome screenwriter Eva Vives \, and cast member Mel
- onie Díaz for a special screening of the coming-of-age classic Raising Vi
- ctor Vargas !\nA warm\, funny\, and intimate look at growing up and gettin
- g down on the Lower East Side\, this coming-of-age classic is an undeniabl
- e treasure of indie cinema.\n\nTickets: https://vidiotsfoundation.org/purc
- hase/4510104/\n\nDetails: https://vidiotsfoundation.org/movies/raising-vic
- tor-vargas/
-END:VEVENT
-BEGIN:VEVENT
 UID:4510121@vidiotsfoundation.org
 DTSTAMP:20260925T230000Z
 DTSTART;TZID=America/Los_Angeles:20260925T160000
@@ -1527,24 +1508,22 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 BEGIN:VEVENT
-UID:4510102@vidiotsfoundation.org
-DTSTAMP:20260924T023000Z
-DTSTART;TZID=America/Los_Angeles:20260923T193000
-DTEND;TZID=America/Los_Angeles:20260923T212100
-SUMMARY:An Evening with the Yeah Yeah Yeahs – Hidden in Pieces + Eraserhe
- ad
+UID:4510104@vidiotsfoundation.org
+DTSTAMP:20260925T023000Z
+DTSTART;TZID=America/Los_Angeles:20260924T193000
+DTEND;TZID=America/Los_Angeles:20260924T205800
+SUMMARY:Raising Victor Vargas
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510102/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 111 min\n\
- nSeries: Doors Open at 6\, In the Eagle\, Special Guests in Attendance\n\n
- Vidiots invites you to an extraordinary evening of music\, cinema\, and co
- mmunity when we welcome the Yeah Yeah Yeahs for a special advance screenin
- g of Hidden in Pieces - a visual companion to their new record - followed 
- by a conversation with the band and a special screening of David Lynch's E
- raserhead .\n\nTickets: https://vidiotsfoundation.org/purchase/4510102/\n\
- nDetails: https://vidiotsfoundation.org/movies/an-evening-with-the-yeah-ye
- ah-yeahs/
-STATUS:TENTATIVE
+URL:https://vidiotsfoundation.org/purchase/4510104/
+DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Doors
+  Open at 6\, In the Eagle\, Special Guests in Attendance\, TeenTix LA\n\nV
+ idiots is excited to welcome screenwriter Eva Vives \, and cast member Mel
+ onie Díaz for a special screening of the coming-of-age classic Raising Vi
+ ctor Vargas !\nA warm\, funny\, and intimate look at growing up and gettin
+ g down on the Lower East Side\, this coming-of-age classic is an undeniabl
+ e treasure of indie cinema.\n\nTickets: https://vidiotsfoundation.org/purc
+ hase/4510104/\n\nDetails: https://vidiotsfoundation.org/movies/raising-vic
+ tor-vargas/
 END:VEVENT
 END:VCALENDAR
