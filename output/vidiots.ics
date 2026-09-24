@@ -199,12 +199,14 @@ SUMMARY:Short Cuts
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4510135/
-DESCRIPTION:Run time: 188 min | Format: Digital | Rating: R\n\nSeries: Door
- s Open at 6\, In the Eagle\, Not on Streaming\n\nCinematic master Robert A
- ltman interweaves the stories of 22 characters in this sprawling and kalei
- doscopic masterpiece based on the short stories of Raymond Carver.\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4510135/\n\nDetails: https://v
- idiotsfoundation.org/movies/short-cuts/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 188 min | 
+ Format: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\, No
+ t on Streaming\n\nCinematic master Robert Altman interweaves the stories o
+ f 22 characters in this sprawling and kaleidoscopic masterpiece based on t
+ he short stories of Raymond Carver.\n\nTickets: https://vidiotsfoundation.
+ org/purchase/4510135/\n\nDetails: https://vidiotsfoundation.org/movies/sho
+ rt-cuts/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4706451@vidiotsfoundation.org
@@ -252,8 +254,9 @@ URL:https://vidiotsfoundation.org/purchase/4510150/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 137 min | 
  Format: Digital | Rating: R\n\nSeries: 35mm Film\, Doors Open at 6\, In th
  e Eagle\n\nOne bad-ass mother of a sequel!\n35th Anniversary screening on 
- 35mm Film!\n\nTickets: https://vidiotsfoundation.org/purchase/4510150/\n\n
- Details: https://vidiotsfoundation.org/movies/terminator-2-judgment-day/
+ 35mm Film! Encore Screening Added!\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4510150/\n\nDetails: https://vidiotsfoundation.org/movies/term
+ inator-2-judgment-day/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -272,6 +275,21 @@ DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Count
  ightmarish mystery that draws you into parallel universes of horror.\n\nTi
  ckets: https://vidiotsfoundation.org/purchase/4672308/\n\nDetails: https:/
  /vidiotsfoundation.org/movies/in-the-mouth-of-madness/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672311@vidiotsfoundation.org
+DTSTAMP:20261002T224500Z
+DTSTART;TZID=America/Los_Angeles:20261002T154500
+DTEND;TZID=America/Los_Angeles:20261002T180200
+SUMMARY:Terminator 2: Judgment Day on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672311/
+DESCRIPTION:Run time: 137 min | Format: Digital | Rating: R\n\nSeries: 35mm
+  Film\, Doors Open at 6\, In the Eagle\n\nOne bad-ass mother of a sequel!\
+ n35th Anniversary screening on 35mm Film! Encore Screening Added!\n\nTicke
+ ts: https://vidiotsfoundation.org/purchase/4672311/\n\nDetails: https://vi
+ diotsfoundation.org/movies/terminator-2-judgment-day/
 END:VEVENT
 BEGIN:VEVENT
 UID:4677588@vidiotsfoundation.org
@@ -453,9 +471,9 @@ URL:https://vidiotsfoundation.org/purchase/4672324/
 DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: Dol
  ly Parton - We Will Always Love You\, In the Eagle\n\nVidiots remembers it
  s forever Goddess Dolly Parton with a special screening of the iconic work
- place revenge comedy 9 to 5 .\n\nTickets: https://vidiotsfoundation.org/pu
- rchase/4672324/\n\nDetails: https://vidiotsfoundation.org/movies/nine-to-f
- ive/
+ place revenge comedy 9 to 5 .\nEncore Screening Added!\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4672324/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/nine-to-five/
 END:VEVENT
 BEGIN:VEVENT
 UID:4677614@vidiotsfoundation.org
@@ -656,6 +674,22 @@ DESCRIPTION:Run time: 83 min | Format: 4K Digital\n\nSeries: Community Part
  n.org/movies/chocolate-babies/
 END:VEVENT
 BEGIN:VEVENT
+UID:4672343@vidiotsfoundation.org
+DTSTAMP:20261009T230000Z
+DTSTART;TZID=America/Los_Angeles:20261009T160000
+DTEND;TZID=America/Los_Angeles:20261009T175000
+SUMMARY:9 to 5
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672343/
+DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: Dol
+ ly Parton - We Will Always Love You\, In the Eagle\n\nVidiots remembers it
+ s forever Goddess Dolly Parton with a special screening of the iconic work
+ place revenge comedy 9 to 5 .\nEncore Screening Added!\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4672343/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/nine-to-five/
+END:VEVENT
+BEGIN:VEVENT
 UID:4677781@vidiotsfoundation.org
 DTSTAMP:20261009T233000Z
 DTSTART;TZID=America/Los_Angeles:20261009T163000
@@ -670,8 +704,9 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min |
  o essay\, and one part the driest yet funniest of comedies\, John Wilson e
  xtends his unique genre-bending style from the small screen to the big wit
  h this magnificently absurd examination of the literal ground below our fe
- et.\n\nTickets: https://vidiotsfoundation.org/purchase/4677781/\n\nDetails
- : https://vidiotsfoundation.org/movies/the-history-of-concrete/
+ et.\nMore Screenings added by Popular Demand!\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4677781/\n\nDetails: https://vidiotsfoundation.org/
+ movies/the-history-of-concrete/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -740,8 +775,9 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min |
  o essay\, and one part the driest yet funniest of comedies\, John Wilson e
  xtends his unique genre-bending style from the small screen to the big wit
  h this magnificently absurd examination of the literal ground below our fe
- et.\n\nTickets: https://vidiotsfoundation.org/purchase/4677780/\n\nDetails
- : https://vidiotsfoundation.org/movies/the-history-of-concrete/
+ et.\nMore Screenings added by Popular Demand!\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4677780/\n\nDetails: https://vidiotsfoundation.org/
+ movies/the-history-of-concrete/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -857,8 +893,9 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min |
  o essay\, and one part the driest yet funniest of comedies\, John Wilson e
  xtends his unique genre-bending style from the small screen to the big wit
  h this magnificently absurd examination of the literal ground below our fe
- et.\n\nTickets: https://vidiotsfoundation.org/purchase/4677791/\n\nDetails
- : https://vidiotsfoundation.org/movies/the-history-of-concrete/
+ et.\nMore Screenings added by Popular Demand!\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4677791/\n\nDetails: https://vidiotsfoundation.org/
+ movies/the-history-of-concrete/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -942,8 +979,9 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min |
  o essay\, and one part the driest yet funniest of comedies\, John Wilson e
  xtends his unique genre-bending style from the small screen to the big wit
  h this magnificently absurd examination of the literal ground below our fe
- et.\n\nTickets: https://vidiotsfoundation.org/purchase/4677807/\n\nDetails
- : https://vidiotsfoundation.org/movies/the-history-of-concrete/
+ et.\nMore Screenings added by Popular Demand!\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4677807/\n\nDetails: https://vidiotsfoundation.org/
+ movies/the-history-of-concrete/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -961,8 +999,9 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min |
  o essay\, and one part the driest yet funniest of comedies\, John Wilson e
  xtends his unique genre-bending style from the small screen to the big wit
  h this magnificently absurd examination of the literal ground below our fe
- et.\n\nTickets: https://vidiotsfoundation.org/purchase/4729511/\n\nDetails
- : https://vidiotsfoundation.org/movies/the-history-of-concrete/
+ et.\nMore Screenings added by Popular Demand!\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4729511/\n\nDetails: https://vidiotsfoundation.org/
+ movies/the-history-of-concrete/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -980,6 +1019,22 @@ DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Count
  cial guests for a long overdue theatrical screening of his sinister thrill
  er The Rental .\n\nTickets: https://vidiotsfoundation.org/purchase/4672363
  /\n\nDetails: https://vidiotsfoundation.org/movies/the-rental/
+END:VEVENT
+BEGIN:VEVENT
+UID:4735523@vidiotsfoundation.org
+DTSTAMP:20261015T023000Z
+DTSTART;TZID=America/Los_Angeles:20261014T193000
+DTEND;TZID=America/Los_Angeles:20261014T211000
+SUMMARY:Candyman
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4735523/
+DESCRIPTION:Run time: 100 min | Format: Digital | Rating: R\n\nSeries: Coun
+ tdown to Halloween\, Doors Open at 6\, In the Eagle\n\nLet the hypnotic Ph
+ ilip Glass score draw you into a haunting and menacing nightmare about gen
+ trification and systemic racism\, perfectly helmed by Tony Todd's iconic p
+ erformance.\n\nTickets: https://vidiotsfoundation.org/purchase/4735523/\n\
+ nDetails: https://vidiotsfoundation.org/movies/candyman/
 END:VEVENT
 BEGIN:VEVENT
 UID:4679430@vidiotsfoundation.org
@@ -1047,6 +1102,24 @@ DESCRIPTION:Run time: 101 min\n\nSeries: In the Eagle\, Special Guests in A
  ls: https://vidiotsfoundation.org/movies/breaking-away/
 END:VEVENT
 BEGIN:VEVENT
+UID:4735493@vidiotsfoundation.org
+DTSTAMP:20261018T013000Z
+DTSTART;TZID=America/Los_Angeles:20261017T183000
+DTEND;TZID=America/Los_Angeles:20261017T201100
+SUMMARY:The History of Concrete
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4735493/
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOne part docume
+ ntary\, one part camcorder video essay\, and one part the driest yet funni
+ est of comedies\, John Wilson extends his unique genre-bending style from 
+ the small screen to the big with this magnificently absurd examination of 
+ the literal ground below our feet.\nMore Screenings added by Popular Deman
+ d!\n\nTickets: https://vidiotsfoundation.org/purchase/4735493/\n\nDetails:
+  https://vidiotsfoundation.org/movies/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
 UID:4672378@vidiotsfoundation.org
 DTSTAMP:20261018T020000Z
 DTSTART;TZID=America/Los_Angeles:20261017T190000
@@ -1064,6 +1137,23 @@ DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Count
  dation.org/movies/videodrome/
 END:VEVENT
 BEGIN:VEVENT
+UID:4735498@vidiotsfoundation.org
+DTSTAMP:20261018T043000Z
+DTSTART;TZID=America/Los_Angeles:20261017T213000
+DTEND;TZID=America/Los_Angeles:20261017T225400
+SUMMARY:Outpost
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4735498/
+DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Additional Shows\
+ , Countdown to Halloween\, In the MUBI Microcinema\, Special Guests in Att
+ endance\n\nJoin us in the microcinema for Joe Lo Truglio's nail-biting nig
+ htmare of the darkness that lurks in the woods and inside us.\nWith writer
+ /director Joe Lo Truglio in person for the October 15th screening!\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4735498/\n\nDetails: https://v
+ idiotsfoundation.org/movies/outpost/
+END:VEVENT
+BEGIN:VEVENT
 UID:4672385@vidiotsfoundation.org
 DTSTAMP:20261018T190000Z
 DTSTART;TZID=America/Los_Angeles:20261018T120000
@@ -1078,6 +1168,42 @@ DESCRIPTION:Run time: 97 min | Format: Digital | Rating: All Ages\n\nSeries
  or your whole family or coven!\n\nTickets: https://vidiotsfoundation.org/p
  urchase/4672385/\n\nDetails: https://vidiotsfoundation.org/movies/escape-t
  o-witch-mountain/
+END:VEVENT
+BEGIN:VEVENT
+UID:4735518@vidiotsfoundation.org
+DTSTAMP:20261018T193000Z
+DTSTART;TZID=America/Los_Angeles:20261018T123000
+DTEND;TZID=America/Los_Angeles:20261018T141100
+SUMMARY:The History of Concrete
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4735518/
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOne part docume
+ ntary\, one part camcorder video essay\, and one part the driest yet funni
+ est of comedies\, John Wilson extends his unique genre-bending style from 
+ the small screen to the big with this magnificently absurd examination of 
+ the literal ground below our feet.\nMore Screenings added by Popular Deman
+ d!\n\nTickets: https://vidiotsfoundation.org/purchase/4735518/\n\nDetails:
+  https://vidiotsfoundation.org/movies/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+UID:4735519@vidiotsfoundation.org
+DTSTAMP:20261018T223000Z
+DTSTART;TZID=America/Los_Angeles:20261018T153000
+DTEND;TZID=America/Los_Angeles:20261018T171100
+SUMMARY:The History of Concrete
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4735519/
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOne part docume
+ ntary\, one part camcorder video essay\, and one part the driest yet funni
+ est of comedies\, John Wilson extends his unique genre-bending style from 
+ the small screen to the big with this magnificently absurd examination of 
+ the literal ground below our feet.\nMore Screenings added by Popular Deman
+ d!\n\nTickets: https://vidiotsfoundation.org/purchase/4735519/\n\nDetails:
+  https://vidiotsfoundation.org/movies/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:4679487@vidiotsfoundation.org
