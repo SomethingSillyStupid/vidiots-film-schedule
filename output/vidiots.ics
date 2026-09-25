@@ -8,56 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4510121@vidiotsfoundation.org
-DTSTAMP:20260925T230000Z
-DTSTART;TZID=America/Los_Angeles:20260925T160000
-DTEND;TZID=America/Los_Angeles:20260925T175500
-SUMMARY:The Best Little Whorehouse in Texas
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510121/
-DESCRIPTION:Run time: 115 min | Format: Digital | Rating: R\n\nSeries: Doll
- y Parton - We Will Always Love You\, In the Eagle\n\nVidiots is easing our
-  heartbreak over the loss of the eternal Goddess Dolly Parton with a speci
- al screening of her rootinest tootinest musical The Best Little Whorehouse
-  in Texas .\nEncore Screening Added By Popular Demand!\n\nTickets: https:/
- /vidiotsfoundation.org/purchase/4510121/\n\nDetails: https://vidiotsfounda
- tion.org/movies/the-best-little-whorehouse-in-texas/
-END:VEVENT
-BEGIN:VEVENT
-UID:4510122@vidiotsfoundation.org
-DTSTAMP:20260926T020000Z
-DTSTART;TZID=America/Los_Angeles:20260925T190000
-DTEND;TZID=America/Los_Angeles:20260925T203600
-SUMMARY:Dead Calm on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510122/
-DESCRIPTION:Run time: 96 min | Format: 35mm Film | Rating: R\n\nSeries: 35m
- m Film\, In the Eagle\, Remembering Sam Neill\, Special Guests in Attendan
- ce\n\nOur celebration of the life and legacy of Sam Neill continues with t
- his unnerving slow burn Aussie thriller\, featuring a special extended int
- roduction from Director Phillip Noyce !\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4510122/\n\nDetails: https://vidiotsfoundation.org/movies
- /dead-calm/
-END:VEVENT
-BEGIN:VEVENT
-UID:4510123@vidiotsfoundation.org
-DTSTAMP:20260926T044500Z
-DTSTART;TZID=America/Los_Angeles:20260925T214500
-DTEND;TZID=America/Los_Angeles:20260925T231800
-SUMMARY:Bandidas on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510123/
-DESCRIPTION:Run time: 93 min | Format: 35mm Film | Rating: PG-13 | Release 
- year: 2006\n\nSeries: 35mm Film\, In the Eagle\, What the Friday?!?\n\nIf 
- your Friday night could use a little kick-ass social justice fire\, don't 
- miss out when Penélope Cruz and Salma Hayek singe the big screen with thi
- s bad ass banger!\n\nTickets: https://vidiotsfoundation.org/purchase/45101
- 23/\n\nDetails: https://vidiotsfoundation.org/movies/bandidas/
-END:VEVENT
-BEGIN:VEVENT
 UID:4510124@vidiotsfoundation.org
 DTSTAMP:20260926T224500Z
 DTSTART;TZID=America/Los_Angeles:20260926T154500
@@ -1634,22 +1584,53 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 BEGIN:VEVENT
-UID:4510104@vidiotsfoundation.org
-DTSTAMP:20260925T023000Z
-DTSTART;TZID=America/Los_Angeles:20260924T193000
-DTEND;TZID=America/Los_Angeles:20260924T205800
-SUMMARY:Raising Victor Vargas
+UID:4510121@vidiotsfoundation.org
+DTSTAMP:20260925T230000Z
+DTSTART;TZID=America/Los_Angeles:20260925T160000
+DTEND;TZID=America/Los_Angeles:20260925T175500
+SUMMARY:The Best Little Whorehouse in Texas
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510104/
-DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Doors
-  Open at 6\, In the Eagle\, Special Guests in Attendance\, TeenTix LA\n\nV
- idiots is excited to welcome screenwriter Eva Vives \, and cast member Mel
- onie Díaz for a special screening of the coming-of-age classic Raising Vi
- ctor Vargas !\nA warm\, funny\, and intimate look at growing up and gettin
- g down on the Lower East Side\, this coming-of-age classic is an undeniabl
- e treasure of indie cinema.\n\nTickets: https://vidiotsfoundation.org/purc
- hase/4510104/\n\nDetails: https://vidiotsfoundation.org/movies/raising-vic
- tor-vargas/
+URL:https://vidiotsfoundation.org/purchase/4510121/
+DESCRIPTION:Run time: 115 min | Format: Digital | Rating: R\n\nSeries: Doll
+ y Parton - We Will Always Love You\, In the Eagle\n\nVidiots is easing our
+  heartbreak over the loss of the eternal Goddess Dolly Parton with a speci
+ al screening of her rootinest tootinest musical The Best Little Whorehouse
+  in Texas .\nEncore Screening Added By Popular Demand!\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4510121/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/the-best-little-whorehouse-in-texas/
+END:VEVENT
+BEGIN:VEVENT
+UID:4510122@vidiotsfoundation.org
+DTSTAMP:20260926T020000Z
+DTSTART;TZID=America/Los_Angeles:20260925T190000
+DTEND;TZID=America/Los_Angeles:20260925T203600
+SUMMARY:Dead Calm on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510122/
+DESCRIPTION:Run time: 96 min | Format: 35mm Film | Rating: R\n\nSeries: 35m
+ m Film\, In the Eagle\, Remembering Sam Neill\, Special Guests in Attendan
+ ce\n\nOur celebration of the life and legacy of Sam Neill continues with t
+ his unnerving slow burn Aussie thriller\, featuring a special extended int
+ roduction from Director Phillip Noyce !\n\nTickets: https://vidiotsfoundat
+ ion.org/purchase/4510122/\n\nDetails: https://vidiotsfoundation.org/movies
+ /dead-calm/
+END:VEVENT
+BEGIN:VEVENT
+UID:4510123@vidiotsfoundation.org
+DTSTAMP:20260926T044500Z
+DTSTART;TZID=America/Los_Angeles:20260925T214500
+DTEND;TZID=America/Los_Angeles:20260925T231800
+SUMMARY:Bandidas on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4510123/
+DESCRIPTION:Run time: 93 min | Format: 35mm Film | Rating: PG-13 | Release 
+ year: 2006\n\nSeries: 35mm Film\, In the Eagle\, What the Friday?!?\n\nIf 
+ your Friday night could use a little kick-ass social justice fire\, don't 
+ miss out when Penélope Cruz and Salma Hayek singe the big screen with thi
+ s bad ass banger!\n\nTickets: https://vidiotsfoundation.org/purchase/45101
+ 23/\n\nDetails: https://vidiotsfoundation.org/movies/bandidas/
 END:VEVENT
 END:VCALENDAR
