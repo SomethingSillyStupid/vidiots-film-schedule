@@ -197,16 +197,16 @@ UID:4510150@vidiotsfoundation.org
 DTSTAMP:20261001T023000Z
 DTSTART;TZID=America/Los_Angeles:20260930T193000
 DTEND;TZID=America/Los_Angeles:20260930T214700
-SUMMARY:Terminator 2: Judgment Day on 35mm
+SUMMARY:Terminator 2: Judgment Day
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4510150/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 137 min | 
- Format: Digital | Rating: R\n\nSeries: 35mm Film\, Doors Open at 6\, In th
- e Eagle\n\nOne bad-ass mother of a sequel!\n35th Anniversary screening on 
- 35mm Film! Encore Screening Added!\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4510150/\n\nDetails: https://vidiotsfoundation.org/movies/term
- inator-2-judgment-day/
+ Rating: R\n\nSeries: 35mm Film\, Doors Open at 6\, In the Eagle\n\nOne bad
+ -ass mother of a sequel!\n35th Anniversary screening on 35mm Film! Encore 
+ Screening Added!\n\nTickets: https://vidiotsfoundation.org/purchase/451015
+ 0/\n\nDetails: https://vidiotsfoundation.org/movies/terminator-2-judgment-
+ day/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -231,15 +231,15 @@ UID:4672311@vidiotsfoundation.org
 DTSTAMP:20261002T224500Z
 DTSTART;TZID=America/Los_Angeles:20261002T154500
 DTEND;TZID=America/Los_Angeles:20261002T180200
-SUMMARY:Terminator 2: Judgment Day on 35mm
+SUMMARY:Terminator 2: Judgment Day
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672311/
-DESCRIPTION:Run time: 137 min | Format: Digital | Rating: R\n\nSeries: 35mm
-  Film\, Doors Open at 6\, In the Eagle\n\nOne bad-ass mother of a sequel!\
- n35th Anniversary screening on 35mm Film! Encore Screening Added!\n\nTicke
- ts: https://vidiotsfoundation.org/purchase/4672311/\n\nDetails: https://vi
- diotsfoundation.org/movies/terminator-2-judgment-day/
+DESCRIPTION:Run time: 137 min | Rating: R\n\nSeries: 35mm Film\, Doors Open
+  at 6\, In the Eagle\n\nOne bad-ass mother of a sequel!\n35th Anniversary 
+ screening on 35mm Film! Encore Screening Added!\n\nTickets: https://vidiot
+ sfoundation.org/purchase/4672311/\n\nDetails: https://vidiotsfoundation.or
+ g/movies/terminator-2-judgment-day/
 END:VEVENT
 BEGIN:VEVENT
 UID:4677588@vidiotsfoundation.org
