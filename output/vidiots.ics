@@ -8,58 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4510124@vidiotsfoundation.org
-DTSTAMP:20260926T224500Z
-DTSTART;TZID=America/Los_Angeles:20260926T154500
-DTEND;TZID=America/Los_Angeles:20260926T172700
-SUMMARY:Dazed and Confused – Dazed Day!
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510124/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 102 min | 
- Format: 4K Digital | Rating: R\n\nSeries: Community Partners\, In the Eagl
- e\, Interactive\, Live DJ Set\n\nOur Fourth Annual Dazed Day is back and b
- etter than ever!\nA Full Day of Dazed Screenings! Pinball on Free play cou
- rtesy of our neighbors at Walt's! Tripped out 16mm! All Vinyl DJ sets!\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4510124/\n\nDetails: https
- ://vidiotsfoundation.org/movies/dazed-and-confused/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4510126@vidiotsfoundation.org
-DTSTAMP:20260927T020000Z
-DTSTART;TZID=America/Los_Angeles:20260926T190000
-DTEND;TZID=America/Los_Angeles:20260926T204200
-SUMMARY:Dazed and Confused – Dazed Day!
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510126/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 102 min | 
- Format: 4K Digital | Rating: R\n\nSeries: Community Partners\, In the Eagl
- e\, Interactive\, Live DJ Set\n\nOur Fourth Annual Dazed Day is back and b
- etter than ever!\nA Full Day of Dazed Screenings! Pinball on Free play cou
- rtesy of our neighbors at Walt's! Tripped out 16mm! All Vinyl DJ sets!\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4510126/\n\nDetails: https
- ://vidiotsfoundation.org/movies/dazed-and-confused/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4565449@vidiotsfoundation.org
-DTSTAMP:20260927T044500Z
-DTSTART;TZID=America/Los_Angeles:20260926T214500
-DTEND;TZID=America/Los_Angeles:20260926T233600
-SUMMARY:Tommy
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4565449/
-DESCRIPTION:Run time: 111 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nOur Dazed Day extravaganza continues with the most psychedelic
-  cinematic rock opera of all time - Ken Russell's mind-melting adaptation 
- of The Who's Tommy . Co-presented by our friends and neighbors at Walt's B
- ar !\n\nTickets: https://vidiotsfoundation.org/purchase/4565449/\n\nDetail
- s: https://vidiotsfoundation.org/movies/tommy/
-END:VEVENT
-BEGIN:VEVENT
 UID:4510129@vidiotsfoundation.org
 DTSTAMP:20260927T190000Z
 DTSTART;TZID=America/Los_Angeles:20260927T120000
@@ -1586,53 +1534,55 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 BEGIN:VEVENT
-UID:4510121@vidiotsfoundation.org
-DTSTAMP:20260925T230000Z
-DTSTART;TZID=America/Los_Angeles:20260925T160000
-DTEND;TZID=America/Los_Angeles:20260925T175500
-SUMMARY:The Best Little Whorehouse in Texas
+UID:4510124@vidiotsfoundation.org
+DTSTAMP:20260926T224500Z
+DTSTART;TZID=America/Los_Angeles:20260926T154500
+DTEND;TZID=America/Los_Angeles:20260926T172700
+SUMMARY:Dazed and Confused – Dazed Day!
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510121/
-DESCRIPTION:Run time: 115 min | Format: Digital | Rating: R\n\nSeries: Doll
- y Parton - We Will Always Love You\, In the Eagle\n\nVidiots is easing our
-  heartbreak over the loss of the eternal Goddess Dolly Parton with a speci
- al screening of her rootinest tootinest musical The Best Little Whorehouse
-  in Texas .\nEncore Screening Added By Popular Demand!\n\nTickets: https:/
- /vidiotsfoundation.org/purchase/4510121/\n\nDetails: https://vidiotsfounda
- tion.org/movies/the-best-little-whorehouse-in-texas/
+URL:https://vidiotsfoundation.org/purchase/4510124/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 102 min | 
+ Format: 4K Digital | Rating: R\n\nSeries: Community Partners\, In the Eagl
+ e\, Interactive\, Live DJ Set\n\nOur Fourth Annual Dazed Day is back and b
+ etter than ever!\nA Full Day of Dazed Screenings! Pinball on Free play cou
+ rtesy of our neighbors at Walt's! Tripped out 16mm! All Vinyl DJ sets!\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4510124/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/dazed-and-confused/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4510122@vidiotsfoundation.org
-DTSTAMP:20260926T020000Z
-DTSTART;TZID=America/Los_Angeles:20260925T190000
-DTEND;TZID=America/Los_Angeles:20260925T203600
-SUMMARY:Dead Calm on 35mm
+UID:4510126@vidiotsfoundation.org
+DTSTAMP:20260927T020000Z
+DTSTART;TZID=America/Los_Angeles:20260926T190000
+DTEND;TZID=America/Los_Angeles:20260926T204200
+SUMMARY:Dazed and Confused – Dazed Day!
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510122/
-DESCRIPTION:Run time: 96 min | Format: 35mm Film | Rating: R\n\nSeries: 35m
- m Film\, In the Eagle\, Remembering Sam Neill\, Special Guests in Attendan
- ce\n\nOur celebration of the life and legacy of Sam Neill continues with t
- his unnerving slow burn Aussie thriller\, featuring a special extended int
- roduction from Director Phillip Noyce !\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4510122/\n\nDetails: https://vidiotsfoundation.org/movies
- /dead-calm/
+URL:https://vidiotsfoundation.org/purchase/4510126/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 102 min | 
+ Format: 4K Digital | Rating: R\n\nSeries: Community Partners\, In the Eagl
+ e\, Interactive\, Live DJ Set\n\nOur Fourth Annual Dazed Day is back and b
+ etter than ever!\nA Full Day of Dazed Screenings! Pinball on Free play cou
+ rtesy of our neighbors at Walt's! Tripped out 16mm! All Vinyl DJ sets!\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4510126/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/dazed-and-confused/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4510123@vidiotsfoundation.org
-DTSTAMP:20260926T044500Z
-DTSTART;TZID=America/Los_Angeles:20260925T214500
-DTEND;TZID=America/Los_Angeles:20260925T231800
-SUMMARY:Bandidas on 35mm
+UID:4565449@vidiotsfoundation.org
+DTSTAMP:20260927T044500Z
+DTSTART;TZID=America/Los_Angeles:20260926T214500
+DTEND;TZID=America/Los_Angeles:20260926T233600
+SUMMARY:Tommy
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510123/
-DESCRIPTION:Run time: 93 min | Format: 35mm Film | Rating: PG-13 | Release 
- year: 2006\n\nSeries: 35mm Film\, In the Eagle\, What the Friday?!?\n\nIf 
- your Friday night could use a little kick-ass social justice fire\, don't 
- miss out when Penélope Cruz and Salma Hayek singe the big screen with thi
- s bad ass banger!\n\nTickets: https://vidiotsfoundation.org/purchase/45101
- 23/\n\nDetails: https://vidiotsfoundation.org/movies/bandidas/
+URL:https://vidiotsfoundation.org/purchase/4565449/
+DESCRIPTION:Run time: 111 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nOur Dazed Day extravaganza continues with the most psychedelic
+  cinematic rock opera of all time - Ken Russell's mind-melting adaptation 
+ of The Who's Tommy . Co-presented by our friends and neighbors at Walt's B
+ ar !\n\nTickets: https://vidiotsfoundation.org/purchase/4565449/\n\nDetail
+ s: https://vidiotsfoundation.org/movies/tommy/
 END:VEVENT
 END:VCALENDAR
