@@ -8,37 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4510129@vidiotsfoundation.org
-DTSTAMP:20260927T190000Z
-DTSTART;TZID=America/Los_Angeles:20260927T120000
-DTEND;TZID=America/Los_Angeles:20260927T132400
-SUMMARY:Beauty and the Beast Sing-Along
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510129/
-DESCRIPTION:Run time: 84 min | Format: Digital | Rating: All Ages\n\nSeries
- : Films for Everyone\, In the Eagle\, TeenTix LA\n\nBe our guest and sing-
- along with this magical fairytale!\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4510129/\n\nDetails: https://vidiotsfoundation.org/movies/beau
- ty-and-the-beast/
-END:VEVENT
-BEGIN:VEVENT
-UID:4510130@vidiotsfoundation.org
-DTSTAMP:20260927T214500Z
-DTSTART;TZID=America/Los_Angeles:20260927T144500
-DTEND;TZID=America/Los_Angeles:20260927T173900
-SUMMARY:It’s a Mad\, Mad\, Mad\, Mad World
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510130/
-DESCRIPTION:Run time: 174 min | Format: Digital | Rating: G\n\nSeries: In t
- he Eagle\, TeenTix LA\n\nBuckle up for a carload of belly laughs with Stan
- ley Kramer's madcap comedy of treasure hunting starring a cavalcade of som
- e of the best comedians of the day.\n\nTickets: https://vidiotsfoundation.
- org/purchase/4510130/\n\nDetails: https://vidiotsfoundation.org/movies/its
- -a-mad-mad-mad-mad-world/
-END:VEVENT
-BEGIN:VEVENT
 UID:4706284@vidiotsfoundation.org
 DTSTAMP:20260928T020000Z
 DTSTART;TZID=America/Los_Angeles:20260927T190000
@@ -55,21 +24,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
   added!\n\nTickets: https://vidiotsfoundation.org/purchase/4706284/\n\nDet
  ails: https://vidiotsfoundation.org/movies/filipinana/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4510133@vidiotsfoundation.org
-DTSTAMP:20260928T023000Z
-DTSTART;TZID=America/Los_Angeles:20260927T193000
-DTEND;TZID=America/Los_Angeles:20260927T211100
-SUMMARY:Monster-in-Law on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510133/
-DESCRIPTION:Run time: 101 min | Format: 35mm Film | Rating: PG-13\n\nSeries
- : 35mm Film\, In the Eagle\, TeenTix LA\n\nIt's a battle of the icons when
-  J. Lo faces off against Jane Fonda in this guiltless pleasure of cinemati
- c bitchery!\n\nTickets: https://vidiotsfoundation.org/purchase/4510133/\n\
- nDetails: https://vidiotsfoundation.org/movies/monster-in-law/
 END:VEVENT
 BEGIN:VEVENT
 UID:4510139@vidiotsfoundation.org
@@ -1534,55 +1488,49 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 BEGIN:VEVENT
-UID:4510124@vidiotsfoundation.org
-DTSTAMP:20260926T224500Z
-DTSTART;TZID=America/Los_Angeles:20260926T154500
-DTEND;TZID=America/Los_Angeles:20260926T172700
-SUMMARY:Dazed and Confused – Dazed Day!
+UID:4510129@vidiotsfoundation.org
+DTSTAMP:20260927T190000Z
+DTSTART;TZID=America/Los_Angeles:20260927T120000
+DTEND;TZID=America/Los_Angeles:20260927T132400
+SUMMARY:Beauty and the Beast Sing-Along
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510124/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 102 min | 
- Format: 4K Digital | Rating: R\n\nSeries: Community Partners\, In the Eagl
- e\, Interactive\, Live DJ Set\n\nOur Fourth Annual Dazed Day is back and b
- etter than ever!\nA Full Day of Dazed Screenings! Pinball on Free play cou
- rtesy of our neighbors at Walt's! Tripped out 16mm! All Vinyl DJ sets!\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4510124/\n\nDetails: https
- ://vidiotsfoundation.org/movies/dazed-and-confused/
-STATUS:TENTATIVE
+URL:https://vidiotsfoundation.org/purchase/4510129/
+DESCRIPTION:Run time: 84 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\, TeenTix LA\n\nBe our guest and sing-
+ along with this magical fairytale!\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4510129/\n\nDetails: https://vidiotsfoundation.org/movies/beau
+ ty-and-the-beast/
 END:VEVENT
 BEGIN:VEVENT
-UID:4510126@vidiotsfoundation.org
-DTSTAMP:20260927T020000Z
-DTSTART;TZID=America/Los_Angeles:20260926T190000
-DTEND;TZID=America/Los_Angeles:20260926T204200
-SUMMARY:Dazed and Confused – Dazed Day!
+UID:4510130@vidiotsfoundation.org
+DTSTAMP:20260927T214500Z
+DTSTART;TZID=America/Los_Angeles:20260927T144500
+DTEND;TZID=America/Los_Angeles:20260927T173900
+SUMMARY:It’s a Mad\, Mad\, Mad\, Mad World
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510126/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 102 min | 
- Format: 4K Digital | Rating: R\n\nSeries: Community Partners\, In the Eagl
- e\, Interactive\, Live DJ Set\n\nOur Fourth Annual Dazed Day is back and b
- etter than ever!\nA Full Day of Dazed Screenings! Pinball on Free play cou
- rtesy of our neighbors at Walt's! Tripped out 16mm! All Vinyl DJ sets!\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4510126/\n\nDetails: https
- ://vidiotsfoundation.org/movies/dazed-and-confused/
-STATUS:TENTATIVE
+URL:https://vidiotsfoundation.org/purchase/4510130/
+DESCRIPTION:Run time: 174 min | Format: Digital | Rating: G\n\nSeries: In t
+ he Eagle\, TeenTix LA\n\nBuckle up for a carload of belly laughs with Stan
+ ley Kramer's madcap comedy of treasure hunting starring a cavalcade of som
+ e of the best comedians of the day.\n\nTickets: https://vidiotsfoundation.
+ org/purchase/4510130/\n\nDetails: https://vidiotsfoundation.org/movies/its
+ -a-mad-mad-mad-mad-world/
 END:VEVENT
 BEGIN:VEVENT
-UID:4565449@vidiotsfoundation.org
-DTSTAMP:20260927T044500Z
-DTSTART;TZID=America/Los_Angeles:20260926T214500
-DTEND;TZID=America/Los_Angeles:20260926T233600
-SUMMARY:Tommy
+UID:4510133@vidiotsfoundation.org
+DTSTAMP:20260928T023000Z
+DTSTART;TZID=America/Los_Angeles:20260927T193000
+DTEND;TZID=America/Los_Angeles:20260927T211100
+SUMMARY:Monster-in-Law on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4565449/
-DESCRIPTION:Run time: 111 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nOur Dazed Day extravaganza continues with the most psychedelic
-  cinematic rock opera of all time - Ken Russell's mind-melting adaptation 
- of The Who's Tommy . Co-presented by our friends and neighbors at Walt's B
- ar !\n\nTickets: https://vidiotsfoundation.org/purchase/4565449/\n\nDetail
- s: https://vidiotsfoundation.org/movies/tommy/
+URL:https://vidiotsfoundation.org/purchase/4510133/
+DESCRIPTION:Run time: 101 min | Format: 35mm Film | Rating: PG-13\n\nSeries
+ : 35mm Film\, In the Eagle\, TeenTix LA\n\nIt's a battle of the icons when
+  J. Lo faces off against Jane Fonda in this guiltless pleasure of cinemati
+ c bitchery!\n\nTickets: https://vidiotsfoundation.org/purchase/4510133/\n\
+ nDetails: https://vidiotsfoundation.org/movies/monster-in-law/
 END:VEVENT
 END:VCALENDAR
