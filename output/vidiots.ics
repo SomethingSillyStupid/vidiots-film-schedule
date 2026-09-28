@@ -469,9 +469,9 @@ DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
  , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
   microcinema for Melody Roscher's bitingly comic feature film debut that w
  eaves themes of race\, belonging\, and family into a mercurial journey.\nW
- riter/Director Melody C. Roscher in person after the Friday\, October 9th 
- screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4677779/\n\n
- Details: https://vidiotsfoundation.org/movies/bird-in-hand/
+ riter/Director Melody C. Roscher in person at all screenings!\n\nTickets: 
+ https://vidiotsfoundation.org/purchase/4677779/\n\nDetails: https://vidiot
+ sfoundation.org/movies/bird-in-hand/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672345@vidiotsfoundation.org
@@ -555,9 +555,9 @@ DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
  , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
   microcinema for Melody Roscher's bitingly comic feature film debut that w
  eaves themes of race\, belonging\, and family into a mercurial journey.\nW
- riter/Director Melody C. Roscher in person after the Friday\, October 9th 
- screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4677783/\n\n
- Details: https://vidiotsfoundation.org/movies/bird-in-hand/
+ riter/Director Melody C. Roscher in person at all screenings!\n\nTickets: 
+ https://vidiotsfoundation.org/purchase/4677783/\n\nDetails: https://vidiot
+ sfoundation.org/movies/bird-in-hand/
 END:VEVENT
 BEGIN:VEVENT
 UID:4677784@vidiotsfoundation.org
@@ -691,9 +691,9 @@ DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
  , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
   microcinema for Melody Roscher's bitingly comic feature film debut that w
  eaves themes of race\, belonging\, and family into a mercurial journey.\nW
- riter/Director Melody C. Roscher in person after the Friday\, October 9th 
- screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4677808/\n\n
- Details: https://vidiotsfoundation.org/movies/bird-in-hand/
+ riter/Director Melody C. Roscher in person at all screenings!\n\nTickets: 
+ https://vidiotsfoundation.org/purchase/4677808/\n\nDetails: https://vidiot
+ sfoundation.org/movies/bird-in-hand/
 END:VEVENT
 BEGIN:VEVENT
 UID:4677807@vidiotsfoundation.org
@@ -1251,6 +1251,22 @@ DESCRIPTION:Run time: 90 min\n\nSeries: Countdown to Halloween\, In the MUB
  artoons all on 16mm celluloid.\n\nTickets: https://vidiotsfoundation.org/p
  urchase/4675860/\n\nDetails: https://vidiotsfoundation.org/movies/sweet-16
  mm-halloween-haunts/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672421@vidiotsfoundation.org
+DTSTAMP:20261030T023000Z
+DTSTART;TZID=America/Los_Angeles:20261029T193000
+DTEND;TZID=America/Los_Angeles:20261029T210700
+SUMMARY:An American Werewolf in London
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672421/
+DESCRIPTION:Run time: 97 min | Format: Digital | Rating: R\n\nSeries: Count
+ down to Halloween\, Doors Open at 6\, In the Eagle\n\nSurreal visions\, fa
+ bulous practical special effects\, and a grim sense of humor still keep th
+ is classic as fresh as it was 45 years ago!\n\nTickets: https://vidiotsfou
+ ndation.org/purchase/4672421/\n\nDetails: https://vidiotsfoundation.org/mo
+ vies/an-american-werewolf-in-london/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672419@vidiotsfoundation.org
