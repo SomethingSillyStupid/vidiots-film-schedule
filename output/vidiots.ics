@@ -8,23 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4510152@vidiotsfoundation.org
-DTSTAMP:20260930T023000Z
-DTSTART;TZID=America/Los_Angeles:20260929T193000
-DTEND;TZID=America/Los_Angeles:20260929T213300
-SUMMARY:Only Lovers Left Alive on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510152/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 123 min | 
- Format: 35mm Film\n\nSeries: 35mm Film\, Doors Open at 6\, In the Eagle\n\
- nLush\, stylish\, and endlessly hip\, this is one vampire tale that sets i
- ts own pace\, humor\, and creativity.\n\nTickets: https://vidiotsfoundatio
- n.org/purchase/4510152/\n\nDetails: https://vidiotsfoundation.org/movies/o
- nly-lovers-left-alive/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4510150@vidiotsfoundation.org
 DTSTAMP:20261001T023000Z
 DTSTART;TZID=America/Los_Angeles:20260930T193000
@@ -1383,39 +1366,20 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 BEGIN:VEVENT
-UID:4510139@vidiotsfoundation.org
-DTSTAMP:20260929T020000Z
-DTSTART;TZID=America/Los_Angeles:20260928T190000
-DTEND;TZID=America/Los_Angeles:20260928T204200
-SUMMARY:Barbara Forever
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510139/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 102 min | 
- Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
-  In the MUBI Microcinema\n\nJoin us in the microcinema to rediscover the i
- mmense legacy of groundbreaking lesbian filmmaker Barbara Hammer through B
- rydie O'Connor's phenomenal and award-winning portrait\, Barbara Forever !
- \n\nTickets: https://vidiotsfoundation.org/purchase/4510139/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/barbara-forever/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4510135@vidiotsfoundation.org
-DTSTAMP:20260929T023000Z
-DTSTART;TZID=America/Los_Angeles:20260928T193000
-DTEND;TZID=America/Los_Angeles:20260928T223800
-SUMMARY:Short Cuts
+UID:4510152@vidiotsfoundation.org
+DTSTAMP:20260930T023000Z
+DTSTART;TZID=America/Los_Angeles:20260929T193000
+DTEND;TZID=America/Los_Angeles:20260929T213300
+SUMMARY:Only Lovers Left Alive on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510135/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 188 min | 
- Format: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\, No
- t on Streaming\n\nCinematic master Robert Altman interweaves the stories o
- f 22 characters in this sprawling and kaleidoscopic masterpiece based on t
- he short stories of Raymond Carver.\n\nTickets: https://vidiotsfoundation.
- org/purchase/4510135/\n\nDetails: https://vidiotsfoundation.org/movies/sho
- rt-cuts/
+URL:https://vidiotsfoundation.org/purchase/4510152/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 123 min | 
+ Format: 35mm Film\n\nSeries: 35mm Film\, Doors Open at 6\, In the Eagle\n\
+ nLush\, stylish\, and endlessly hip\, this is one vampire tale that sets i
+ ts own pace\, humor\, and creativity.\n\nTickets: https://vidiotsfoundatio
+ n.org/purchase/4510152/\n\nDetails: https://vidiotsfoundation.org/movies/o
+ nly-lovers-left-alive/
 STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
