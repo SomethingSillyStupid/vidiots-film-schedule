@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4510150@vidiotsfoundation.org
-DTSTAMP:20261001T023000Z
-DTSTART;TZID=America/Los_Angeles:20260930T193000
-DTEND;TZID=America/Los_Angeles:20260930T214700
-SUMMARY:Terminator 2: Judgment Day
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510150/
-DESCRIPTION:Run time: 137 min | Rating: R\n\nSeries: 35mm Film\, Doors Open
-  at 6\, In the Eagle\n\nOne bad-ass mother of a sequel!\n35th Anniversary 
- screening on 35mm Film! Encore Screening Added!\n\nTickets: https://vidiot
- sfoundation.org/purchase/4510150/\n\nDetails: https://vidiotsfoundation.or
- g/movies/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
 UID:4672308@vidiotsfoundation.org
 DTSTAMP:20261002T023000Z
 DTSTART;TZID=America/Los_Angeles:20261001T193000
@@ -38,21 +23,6 @@ DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Count
  ightmarish mystery that draws you into parallel universes of horror.\n\nTi
  ckets: https://vidiotsfoundation.org/purchase/4672308/\n\nDetails: https:/
  /vidiotsfoundation.org/movies/in-the-mouth-of-madness/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672311@vidiotsfoundation.org
-DTSTAMP:20261002T224500Z
-DTSTART;TZID=America/Los_Angeles:20261002T154500
-DTEND;TZID=America/Los_Angeles:20261002T180200
-SUMMARY:Terminator 2: Judgment Day
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672311/
-DESCRIPTION:Run time: 137 min | Rating: R\n\nSeries: 35mm Film\, Doors Open
-  at 6\, In the Eagle\n\nOne bad-ass mother of a sequel!\n35th Anniversary 
- screening on 35mm Film! Encore Screening Added!\n\nTickets: https://vidiot
- sfoundation.org/purchase/4672311/\n\nDetails: https://vidiotsfoundation.or
- g/movies/terminator-2-judgment-day/
 END:VEVENT
 BEGIN:VEVENT
 UID:4677588@vidiotsfoundation.org
@@ -1381,20 +1351,18 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 BEGIN:VEVENT
-UID:4510152@vidiotsfoundation.org
-DTSTAMP:20260930T023000Z
-DTSTART;TZID=America/Los_Angeles:20260929T193000
-DTEND;TZID=America/Los_Angeles:20260929T213300
-SUMMARY:Only Lovers Left Alive on 35mm
+UID:4510150@vidiotsfoundation.org
+DTSTAMP:20261001T023000Z
+DTSTART;TZID=America/Los_Angeles:20260930T193000
+DTEND;TZID=America/Los_Angeles:20260930T214700
+SUMMARY:Terminator 2: Judgment Day
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510152/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 123 min | 
- Format: 35mm Film\n\nSeries: 35mm Film\, Doors Open at 6\, In the Eagle\n\
- nLush\, stylish\, and endlessly hip\, this is one vampire tale that sets i
- ts own pace\, humor\, and creativity.\n\nTickets: https://vidiotsfoundatio
- n.org/purchase/4510152/\n\nDetails: https://vidiotsfoundation.org/movies/o
- nly-lovers-left-alive/
-STATUS:TENTATIVE
+URL:https://vidiotsfoundation.org/purchase/4510150/
+DESCRIPTION:Run time: 137 min | Rating: R\n\nSeries: 35mm Film\, Doors Open
+  at 6\, In the Eagle\n\nOne bad-ass mother of a sequel!\n35th Anniversary 
+ screening on 35mm Film! Encore Screening Added!\n\nTickets: https://vidiot
+ sfoundation.org/purchase/4510150/\n\nDetails: https://vidiotsfoundation.or
+ g/movies/terminator-2-judgment-day/
 END:VEVENT
 END:VCALENDAR
