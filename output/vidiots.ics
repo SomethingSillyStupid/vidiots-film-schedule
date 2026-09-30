@@ -436,12 +436,14 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672345/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Rating: R\n\nSeries: In the Eagle\, Remembering Tim Curr
- y - Don't Dream It\, Be It!\, What the Friday?!?\n\nVidiots remembers the 
- iconic legacy of the great Tim Curry with a special screening of this quin
- tessential cult classic musical extravaganza!\n\nTickets: https://vidiotsf
- oundation.org/purchase/4672345/\n\nDetails: https://vidiotsfoundation.org/
- movies/the-rocky-horror-picture-show/
+ Format: Digital | Rating: R\n\nSeries: Be It!\, In the Eagle\, Interactive
+ \, Remembering Tim Curry - Don't Dream It\, What the Friday?!?\n\nVidiots 
+ remembers the iconic legacy of the great Tim Curry with a special screenin
+ g of this quintessential cult classic musical extravaganza!\nThis is an in
+ teractive screening. You can leave your props at home (seriously\, no outs
+ ide props)\, we've got a prop bag for everyone!\n\nTickets: https://vidiot
+ sfoundation.org/purchase/4672345/\n\nDetails: https://vidiotsfoundation.or
+ g/movies/the-rocky-horror-picture-show/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -713,12 +715,15 @@ SUMMARY:The Rental
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672363/
-DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Count
- down to Halloween\, Doors Open at 6\, In the Eagle\, Special Guests in Att
- endance\n\nVidiots is dying to welcome writer/director Dave Franco and spe
- cial guests for a long overdue theatrical screening of his sinister thrill
- er The Rental .\n\nTickets: https://vidiotsfoundation.org/purchase/4672363
- /\n\nDetails: https://vidiotsfoundation.org/movies/the-rental/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
+ ormat: Digital | Rating: R\n\nSeries: Countdown to Halloween\, Doors Open 
+ at 6\, In the Eagle\, Special Guests in Attendance\n\nVidiots is dying to 
+ welcome writer/director Dave Franco \, as well as cast members Alison Brie
+ \, Dan Stevens and Jeremy Allen White for a long overdue theatrical screen
+ ing of their sinister thriller The Rental .\n\nTickets: https://vidiotsfou
+ ndation.org/purchase/4672363/\n\nDetails: https://vidiotsfoundation.org/mo
+ vies/the-rental/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4735523@vidiotsfoundation.org
@@ -810,14 +815,16 @@ SUMMARY:The History of Concrete
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4735493/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOne part docume
- ntary\, one part camcorder video essay\, and one part the driest yet funni
- est of comedies\, John Wilson extends his unique genre-bending style from 
- the small screen to the big with this magnificently absurd examination of 
- the literal ground below our feet.\nMore Screenings added by Popular Deman
- d!\n\nTickets: https://vidiotsfoundation.org/purchase/4735493/\n\nDetails:
-  https://vidiotsfoundation.org/movies/the-history-of-concrete/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nOne part documentary\, one part camcorder vide
+ o essay\, and one part the driest yet funniest of comedies\, John Wilson e
+ xtends his unique genre-bending style from the small screen to the big wit
+ h this magnificently absurd examination of the literal ground below our fe
+ et.\nMore Screenings added by Popular Demand!\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4735493/\n\nDetails: https://vidiotsfoundation.org/
+ movies/the-history-of-concrete/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4672378@vidiotsfoundation.org
@@ -906,6 +913,40 @@ DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
   https://vidiotsfoundation.org/movies/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
+UID:4751221@vidiotsfoundation.org
+DTSTAMP:20261021T020000Z
+DTSTART;TZID=America/Los_Angeles:20261020T190000
+DTEND;TZID=America/Los_Angeles:20261020T204100
+SUMMARY:The History of Concrete
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4751221/
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOne part docume
+ ntary\, one part camcorder video essay\, and one part the driest yet funni
+ est of comedies\, John Wilson extends his unique genre-bending style from 
+ the small screen to the big with this magnificently absurd examination of 
+ the literal ground below our feet.\nMore Screenings added by Popular Deman
+ d!\n\nTickets: https://vidiotsfoundation.org/purchase/4751221/\n\nDetails:
+  https://vidiotsfoundation.org/movies/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+UID:4751215@vidiotsfoundation.org
+DTSTAMP:20261021T023000Z
+DTSTART;TZID=America/Los_Angeles:20261020T193000
+DTEND;TZID=America/Los_Angeles:20261020T221000
+SUMMARY:Nashville
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4751215/
+DESCRIPTION:Run time: 160 min | Format: Digital\n\nSeries: Doors Open at 6\
+ , In the Eagle\n\nPart political thriller\, part comedy\, part musical\, p
+ art whirling dervish\, this kaleidoscopic symphony of celluloid could only
+  be conducted by the maestro himself\, Robert Altman.\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4751215/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/nashville/
+END:VEVENT
+BEGIN:VEVENT
 UID:4679487@vidiotsfoundation.org
 DTSTAMP:20261022T023000Z
 DTSTART;TZID=America/Los_Angeles:20261021T193000
@@ -952,12 +993,12 @@ URL:https://vidiotsfoundation.org/purchase/4672393/
 DESCRIPTION:Run time: 104 min | Format: Digital | Rating: PG-13\n\nSeries: 
  Countdown to Halloween\, Doors Open at 6\, In the Eagle\n\nBring your best
   frenemies and get ready for Vidiots annual Halloween Shindig! We'll be ki
- cking off the night with extra spooky tunes and vibes before diving into t
- he everlasting classic dark comedy Death Becomes Her\, followed by more Ha
- lloweenie revelry and plenty of spooky Vidiots fun. So\, put on your costu
- mes\, bring your besties\, and come for one killer party!\n\nTickets: http
- s://vidiotsfoundation.org/purchase/4672393/\n\nDetails: https://vidiotsfou
- ndation.org/movies/death-becomes-her/
+ cking off the night with extra spooky tunes from DJ Jeli and creeped out v
+ ibes before diving into the everlasting classic dark comedy Death Becomes 
+ Her\, followed by more Halloweenie revelry and plenty of spooky Vidiots fu
+ n. So\, put on your costumes\, bring your besties\, and come for one kille
+ r party!\n\nTickets: https://vidiotsfoundation.org/purchase/4672393/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/death-becomes-her/
 END:VEVENT
 BEGIN:VEVENT
 UID:4703169@vidiotsfoundation.org
@@ -995,6 +1036,22 @@ DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: Count
  //vidiotsfoundation.org/movies/a-nightmare-on-elm-street/
 END:VEVENT
 BEGIN:VEVENT
+UID:4757608@vidiotsfoundation.org
+DTSTAMP:20261024T022000Z
+DTSTART;TZID=America/Los_Angeles:20261023T192000
+DTEND;TZID=America/Los_Angeles:20261023T212300
+SUMMARY:Colony
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4757608/
+DESCRIPTION:Run time: 123 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n
+ \nOur microcinema is going to the undead with horror master Yeon Sang-ho's
+  (Train to Busan) new Korean zombie thriller starring Gianna Jun and Koo K
+ yo-hwan.\n\nTickets: https://vidiotsfoundation.org/purchase/4757608/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/colony/
+END:VEVENT
+BEGIN:VEVENT
 UID:4679845@vidiotsfoundation.org
 DTSTAMP:20261024T044500Z
 DTSTART;TZID=America/Los_Angeles:20261023T214500
@@ -1010,6 +1067,24 @@ DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Coun
  rnational superstar Giancarlo Giannini!\n\nTickets: https://vidiotsfoundat
  ion.org/purchase/4679845/\n\nDetails: https://vidiotsfoundation.org/movies
  /mimic/
+END:VEVENT
+BEGIN:VEVENT
+UID:4757612@vidiotsfoundation.org
+DTSTAMP:20261024T051500Z
+DTSTART;TZID=America/Los_Angeles:20261023T221500
+DTEND;TZID=America/Los_Angeles:20261023T235600
+SUMMARY:The History of Concrete
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4757612/
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOne part docume
+ ntary\, one part camcorder video essay\, and one part the driest yet funni
+ est of comedies\, John Wilson extends his unique genre-bending style from 
+ the small screen to the big with this magnificently absurd examination of 
+ the literal ground below our feet.\nMore Screenings added by Popular Deman
+ d!\n\nTickets: https://vidiotsfoundation.org/purchase/4757612/\n\nDetails:
+  https://vidiotsfoundation.org/movies/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672394@vidiotsfoundation.org
@@ -1045,9 +1120,9 @@ DESCRIPTION:Run time: 76 min | Format: Digital | Rating: PG\n\nSeries: Film
 END:VEVENT
 BEGIN:VEVENT
 UID:4703178@vidiotsfoundation.org
-DTSTAMP:20261024T233000Z
-DTSTART;TZID=America/Los_Angeles:20261024T163000
-DTEND;TZID=America/Los_Angeles:20261024T175700
+DTSTAMP:20261025T003000Z
+DTSTART;TZID=America/Los_Angeles:20261024T173000
+DTEND;TZID=America/Los_Angeles:20261024T185700
 SUMMARY:The Oldest Person in the World
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
@@ -1078,6 +1153,22 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 144 min |
   mastery.\n\nTickets: https://vidiotsfoundation.org/purchase/4672395/\n\nD
  etails: https://vidiotsfoundation.org/movies/the-shining/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4757625@vidiotsfoundation.org
+DTSTAMP:20261025T030000Z
+DTSTART;TZID=America/Los_Angeles:20261024T200000
+DTEND;TZID=America/Los_Angeles:20261024T220300
+SUMMARY:Colony
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4757625/
+DESCRIPTION:Run time: 123 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n
+ \nOur microcinema is going to the undead with horror master Yeon Sang-ho's
+  (Train to Busan) new Korean zombie thriller starring Gianna Jun and Koo K
+ yo-hwan.\n\nTickets: https://vidiotsfoundation.org/purchase/4757625/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/colony/
 END:VEVENT
 BEGIN:VEVENT
 UID:4698519@vidiotsfoundation.org
@@ -1140,6 +1231,22 @@ DESCRIPTION:Run time: 115 min | Format: 35mm Film | Rating: All Ages\n\nSer
  /vidiotsfoundation.org/movies/e-t-the-extra-terrestrial/
 END:VEVENT
 BEGIN:VEVENT
+UID:4757646@vidiotsfoundation.org
+DTSTAMP:20261025T233000Z
+DTSTART;TZID=America/Los_Angeles:20261025T163000
+DTEND;TZID=America/Los_Angeles:20261025T183300
+SUMMARY:Colony
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4757646/
+DESCRIPTION:Run time: 123 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n
+ \nOur microcinema is going to the undead with horror master Yeon Sang-ho's
+  (Train to Busan) new Korean zombie thriller starring Gianna Jun and Koo K
+ yo-hwan.\n\nTickets: https://vidiotsfoundation.org/purchase/4757646/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/colony/
+END:VEVENT
+BEGIN:VEVENT
 UID:4672391@vidiotsfoundation.org
 DTSTAMP:20261026T020000Z
 DTSTART;TZID=America/Los_Angeles:20261025T190000
@@ -1154,6 +1261,38 @@ DESCRIPTION:Run time: 132 min | Format: 35mm Film | Rating: R\n\nSeries: 35
  rror on glorious celluloid!\n\nTickets: https://vidiotsfoundation.org/purc
  hase/4672391/\n\nDetails: https://vidiotsfoundation.org/movies/the-exorcis
  t/
+END:VEVENT
+BEGIN:VEVENT
+UID:4757649@vidiotsfoundation.org
+DTSTAMP:20261026T023000Z
+DTSTART;TZID=America/Los_Angeles:20261025T193000
+DTEND;TZID=America/Los_Angeles:20261025T213300
+SUMMARY:Colony
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4757649/
+DESCRIPTION:Run time: 123 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n
+ \nOur microcinema is going to the undead with horror master Yeon Sang-ho's
+  (Train to Busan) new Korean zombie thriller starring Gianna Jun and Koo K
+ yo-hwan.\n\nTickets: https://vidiotsfoundation.org/purchase/4757649/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/colony/
+END:VEVENT
+BEGIN:VEVENT
+UID:4757701@vidiotsfoundation.org
+DTSTAMP:20261027T020000Z
+DTSTART;TZID=America/Los_Angeles:20261026T190000
+DTEND;TZID=America/Los_Angeles:20261026T210300
+SUMMARY:Colony
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4757701/
+DESCRIPTION:Run time: 123 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n
+ \nOur microcinema is going to the undead with horror master Yeon Sang-ho's
+  (Train to Busan) new Korean zombie thriller starring Gianna Jun and Koo K
+ yo-hwan.\n\nTickets: https://vidiotsfoundation.org/purchase/4757701/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/colony/
 END:VEVENT
 BEGIN:VEVENT
 UID:4675667@vidiotsfoundation.org
