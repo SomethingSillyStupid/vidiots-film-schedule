@@ -8,23 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4672308@vidiotsfoundation.org
-DTSTAMP:20261002T023000Z
-DTSTART;TZID=America/Los_Angeles:20261001T193000
-DTEND;TZID=America/Los_Angeles:20261001T210500
-SUMMARY:In the Mouth of Madness
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672308/
-DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Count
- down to Halloween\, Doors Open at 6\, In the Eagle\, Remembering Sam Neill
- \n\nDo you read Sutter Cane?\nOne of horror master John Carpenter's best f
- ilms outside of the 1980s\, this prophetic Lovecraftian mind-bender is a n
- ightmarish mystery that draws you into parallel universes of horror.\n\nTi
- ckets: https://vidiotsfoundation.org/purchase/4672308/\n\nDetails: https:/
- /vidiotsfoundation.org/movies/in-the-mouth-of-madness/
-END:VEVENT
-BEGIN:VEVENT
 UID:4677588@vidiotsfoundation.org
 DTSTAMP:20261002T233000Z
 DTSTART;TZID=America/Los_Angeles:20261002T163000
@@ -435,14 +418,16 @@ SUMMARY:The Rocky Horror Picture Show
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672345/
-DESCRIPTION:Run time: 100 min | Format: Digital | Rating: R\n\nSeries: Be I
- t!\, In the Eagle\, Interactive\, Remembering Tim Curry - Don't Dream It\,
-  What the Friday?!?\n\nVidiots remembers the iconic legacy of the great Ti
- m Curry with a special screening of this quintessential cult classic music
- al extravaganza!\nThis is an interactive screening. You can leave your pro
- ps at home (seriously\, no outside props)\, we've got a prop bag for every
- one!\n\nTickets: https://vidiotsfoundation.org/purchase/4672345/\n\nDetail
- s: https://vidiotsfoundation.org/movies/the-rocky-horror-picture-show/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital | Rating: R\n\nSeries: Be It!\, In the Eagle\, Interactive
+ \, Remembering Tim Curry - Don't Dream It\, What the Friday?!?\n\nVidiots 
+ remembers the iconic legacy of the great Tim Curry with a special screenin
+ g of this quintessential cult classic musical extravaganza!\nThis is an in
+ teractive screening. You can leave your props at home (seriously\, no outs
+ ide props)\, we've got a prop bag for everyone!\n\nTickets: https://vidiot
+ sfoundation.org/purchase/4672345/\n\nDetails: https://vidiotsfoundation.or
+ g/movies/the-rocky-horror-picture-show/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4677780@vidiotsfoundation.org
@@ -1488,18 +1473,20 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 BEGIN:VEVENT
-UID:4510150@vidiotsfoundation.org
-DTSTAMP:20261001T023000Z
-DTSTART;TZID=America/Los_Angeles:20260930T193000
-DTEND;TZID=America/Los_Angeles:20260930T214700
-SUMMARY:Terminator 2: Judgment Day
+UID:4672308@vidiotsfoundation.org
+DTSTAMP:20261002T023000Z
+DTSTART;TZID=America/Los_Angeles:20261001T193000
+DTEND;TZID=America/Los_Angeles:20261001T210500
+SUMMARY:In the Mouth of Madness
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4510150/
-DESCRIPTION:Run time: 137 min | Rating: R\n\nSeries: 35mm Film\, Doors Open
-  at 6\, In the Eagle\n\nOne bad-ass mother of a sequel!\n35th Anniversary 
- screening on 35mm Film! Encore Screening Added!\n\nTickets: https://vidiot
- sfoundation.org/purchase/4510150/\n\nDetails: https://vidiotsfoundation.or
- g/movies/terminator-2-judgment-day/
+URL:https://vidiotsfoundation.org/purchase/4672308/
+DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Count
+ down to Halloween\, Doors Open at 6\, In the Eagle\, Remembering Sam Neill
+ \n\nDo you read Sutter Cane?\nOne of horror master John Carpenter's best f
+ ilms outside of the 1980s\, this prophetic Lovecraftian mind-bender is a n
+ ightmarish mystery that draws you into parallel universes of horror.\n\nTi
+ ckets: https://vidiotsfoundation.org/purchase/4672308/\n\nDetails: https:/
+ /vidiotsfoundation.org/movies/in-the-mouth-of-madness/
 END:VEVENT
 END:VCALENDAR
