@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4672311@vidiotsfoundation.org
-DTSTAMP:20261002T224500Z
-DTSTART;TZID=America/Los_Angeles:20261002T154500
-DTEND;TZID=America/Los_Angeles:20261002T180200
-SUMMARY:Terminator 2: Judgment Day
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672311/
-DESCRIPTION:Run time: 137 min | Rating: R\n\nSeries: In the Eagle\n\nOne ba
- d-ass mother of a sequel!\n35th Anniversary screening on 35mm Film! Encore
-  Screening Added!\n\nTickets: https://vidiotsfoundation.org/purchase/46723
- 11/\n\nDetails: https://vidiotsfoundation.org/movies/terminator-2-judgment
- -day/
-END:VEVENT
-BEGIN:VEVENT
 UID:4677588@vidiotsfoundation.org
 DTSTAMP:20261002T233000Z
 DTSTART;TZID=America/Los_Angeles:20261002T163000
@@ -41,22 +26,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4672309@vidiotsfoundation.org
-DTSTAMP:20261003T020000Z
-DTSTART;TZID=America/Los_Angeles:20261002T190000
-DTEND;TZID=America/Los_Angeles:20261002T210000
-SUMMARY:Creepshow
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672309/
-DESCRIPTION:Run time: 120 min | Format: Digital | Rating: R\n\nSeries: Coun
- tdown to Halloween\, In the Eagle\n\nHorror titans Stephen King and George
-  Romero team up for the ultimate 80s horror anthology just in time to give
-  you the creeps for the whole month of October!\n\nTickets: https://vidiot
- sfoundation.org/purchase/4672309/\n\nDetails: https://vidiotsfoundation.or
- g/movies/creepshow/
-END:VEVENT
-BEGIN:VEVENT
 UID:4677597@vidiotsfoundation.org
 DTSTAMP:20261003T021500Z
 DTSTART;TZID=America/Los_Angeles:20261002T191500
@@ -72,42 +41,6 @@ DESCRIPTION:Run time: 102 min | Format: Digital\n\nSeries: Additional Shows
  ng portrait\, Barbara Forever !\n\nTickets: https://vidiotsfoundation.org/
  purchase/4677597/\n\nDetails: https://vidiotsfoundation.org/movies/barbara
  -forever/
-END:VEVENT
-BEGIN:VEVENT
-UID:4677540@vidiotsfoundation.org
-DTSTAMP:20261003T044500Z
-DTSTART;TZID=America/Los_Angeles:20261002T214500
-DTEND;TZID=America/Los_Angeles:20261002T234300
-SUMMARY:Train to Busan
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677540/
-DESCRIPTION:Run time: 118 min | Format: 4K Digital | Release year: 2016\n\n
- Series: Countdown to Halloween\, In the Eagle\n\nOne of the most well-roun
- ded of all zombie flicks\, Train to Busan is a genre-bending high-octane u
- ndead thrill ride with a supersized heart\, realistic characters\, and a d
- elicious spread of social commentary.\nTenth Anniversary Screening! New 4K
-  Restoration! With a video introduction and pre-recorded conversation with
-  director Yeon Sang-ho !\n\nTickets: https://vidiotsfoundation.org/purchas
- e/4677540/\n\nDetails: https://vidiotsfoundation.org/movies/train-to-busan
- /
-END:VEVENT
-BEGIN:VEVENT
-UID:4677600@vidiotsfoundation.org
-DTSTAMP:20261003T050000Z
-DTSTART;TZID=America/Los_Angeles:20261002T220000
-DTEND;TZID=America/Los_Angeles:20261002T233500
-SUMMARY:If I Go Will They Miss Me
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677600/
-DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\n\nA poetic\, emotionally expansive father-son s
- tory about Black family\, grace\, imagination\, and the hope that love can
-  transform even the most fragile relationships into something more healing
-  and beautiful.\n\nTickets: https://vidiotsfoundation.org/purchase/4677600
- /\n\nDetails: https://vidiotsfoundation.org/movies/if-i-go-will-they-miss-
- me/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672312@vidiotsfoundation.org
@@ -174,23 +107,6 @@ DESCRIPTION:Run time: 104 min | Format: Digital | Rating: R\n\nSeries: Coun
  t spending it with Vincent Price unaliving his critics with Shakespearean 
  twists?\n\nTickets: https://vidiotsfoundation.org/purchase/4672316/\n\nDet
  ails: https://vidiotsfoundation.org/movies/theater-of-blood/
-END:VEVENT
-BEGIN:VEVENT
-UID:4677613@vidiotsfoundation.org
-DTSTAMP:20261004T013000Z
-DTSTART;TZID=America/Los_Angeles:20261003T183000
-DTEND;TZID=America/Los_Angeles:20261003T200500
-SUMMARY:If I Go Will They Miss Me
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677613/
-DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\n\nA poetic\, emotionally expansive father-son s
- tory about Black family\, grace\, imagination\, and the hope that love can
-  transform even the most fragile relationships into something more healing
-  and beautiful.\n\nTickets: https://vidiotsfoundation.org/purchase/4677613
- /\n\nDetails: https://vidiotsfoundation.org/movies/if-i-go-will-they-miss-
- me/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672324@vidiotsfoundation.org
@@ -277,23 +193,6 @@ DESCRIPTION:Run time: 92 min | Format: Digital | Rating: All Ages\n\nSeries
  ion.org/movies/the-last-unicorn/
 END:VEVENT
 BEGIN:VEVENT
-UID:4677630@vidiotsfoundation.org
-DTSTAMP:20261004T223000Z
-DTSTART;TZID=America/Los_Angeles:20261004T153000
-DTEND;TZID=America/Los_Angeles:20261004T170500
-SUMMARY:If I Go Will They Miss Me
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677630/
-DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\n\nA poetic\, emotionally expansive father-son s
- tory about Black family\, grace\, imagination\, and the hope that love can
-  transform even the most fragile relationships into something more healing
-  and beautiful.\n\nTickets: https://vidiotsfoundation.org/purchase/4677630
- /\n\nDetails: https://vidiotsfoundation.org/movies/if-i-go-will-they-miss-
- me/
-END:VEVENT
-BEGIN:VEVENT
 UID:4672339@vidiotsfoundation.org
 DTSTAMP:20261004T230000Z
 DTSTART;TZID=America/Los_Angeles:20261004T160000
@@ -373,23 +272,6 @@ DESCRIPTION:Series: 35mm Film\, Doors Open at 6\, In the Eagle\n\nPsychedel
  cover from (in the best possible way)!\n\nTickets: https://vidiotsfoundati
  on.org/purchase/4698593/\n\nDetails: https://vidiotsfoundation.org/movies/
  physical-media-mind-melters-in-space/
-END:VEVENT
-BEGIN:VEVENT
-UID:4706316@vidiotsfoundation.org
-DTSTAMP:20261008T020000Z
-DTSTART;TZID=America/Los_Angeles:20261007T190000
-DTEND;TZID=America/Los_Angeles:20261007T203500
-SUMMARY:If I Go Will They Miss Me
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4706316/
-DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\n\nA poetic\, emotionally expansive father-son s
- tory about Black family\, grace\, imagination\, and the hope that love can
-  transform even the most fragile relationships into something more healing
-  and beautiful.\n\nTickets: https://vidiotsfoundation.org/purchase/4706316
- /\n\nDetails: https://vidiotsfoundation.org/movies/if-i-go-will-they-miss-
- me/
 END:VEVENT
 BEGIN:VEVENT
 UID:4645034@vidiotsfoundation.org
@@ -1560,20 +1442,70 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 BEGIN:VEVENT
-UID:4672308@vidiotsfoundation.org
-DTSTAMP:20261002T023000Z
-DTSTART;TZID=America/Los_Angeles:20261001T193000
-DTEND;TZID=America/Los_Angeles:20261001T210500
-SUMMARY:In the Mouth of Madness
+UID:4672311@vidiotsfoundation.org
+DTSTAMP:20261002T224500Z
+DTSTART;TZID=America/Los_Angeles:20261002T154500
+DTEND;TZID=America/Los_Angeles:20261002T180200
+SUMMARY:Terminator 2: Judgment Day
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672308/
-DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Count
- down to Halloween\, Doors Open at 6\, In the Eagle\, Remembering Sam Neill
- \n\nDo you read Sutter Cane?\nOne of horror master John Carpenter's best f
- ilms outside of the 1980s\, this prophetic Lovecraftian mind-bender is a n
- ightmarish mystery that draws you into parallel universes of horror.\n\nTi
- ckets: https://vidiotsfoundation.org/purchase/4672308/\n\nDetails: https:/
- /vidiotsfoundation.org/movies/in-the-mouth-of-madness/
+URL:https://vidiotsfoundation.org/purchase/4672311/
+DESCRIPTION:Run time: 137 min | Rating: R\n\nSeries: In the Eagle\n\nOne ba
+ d-ass mother of a sequel!\n35th Anniversary screening on 35mm Film! Encore
+  Screening Added!\n\nTickets: https://vidiotsfoundation.org/purchase/46723
+ 11/\n\nDetails: https://vidiotsfoundation.org/movies/terminator-2-judgment
+ -day/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672309@vidiotsfoundation.org
+DTSTAMP:20261003T020000Z
+DTSTART;TZID=America/Los_Angeles:20261002T190000
+DTEND;TZID=America/Los_Angeles:20261002T210000
+SUMMARY:Creepshow
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672309/
+DESCRIPTION:Run time: 120 min | Format: Digital | Rating: R\n\nSeries: Coun
+ tdown to Halloween\, In the Eagle\n\nHorror titans Stephen King and George
+  Romero team up for the ultimate 80s horror anthology just in time to give
+  you the creeps for the whole month of October!\n\nTickets: https://vidiot
+ sfoundation.org/purchase/4672309/\n\nDetails: https://vidiotsfoundation.or
+ g/movies/creepshow/
+END:VEVENT
+BEGIN:VEVENT
+UID:4677540@vidiotsfoundation.org
+DTSTAMP:20261003T044500Z
+DTSTART;TZID=America/Los_Angeles:20261002T214500
+DTEND;TZID=America/Los_Angeles:20261002T234300
+SUMMARY:Train to Busan
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677540/
+DESCRIPTION:Run time: 118 min | Format: 4K Digital | Release year: 2016\n\n
+ Series: Countdown to Halloween\, In the Eagle\n\nOne of the most well-roun
+ ded of all zombie flicks\, Train to Busan is a genre-bending high-octane u
+ ndead thrill ride with a supersized heart\, realistic characters\, and a d
+ elicious spread of social commentary.\nTenth Anniversary Screening! New 4K
+  Restoration! With a video introduction and pre-recorded conversation with
+  director Yeon Sang-ho !\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4677540/\n\nDetails: https://vidiotsfoundation.org/movies/train-to-busan
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:4677600@vidiotsfoundation.org
+DTSTAMP:20261003T050000Z
+DTSTART;TZID=America/Los_Angeles:20261002T220000
+DTEND;TZID=America/Los_Angeles:20261002T233500
+SUMMARY:If I Go Will They Miss Me
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677600/
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\n\nA poetic\, emotionally expansive father-son s
+ tory about Black family\, grace\, imagination\, and the hope that love can
+  transform even the most fragile relationships into something more healing
+  and beautiful.\n\nTickets: https://vidiotsfoundation.org/purchase/4677600
+ /\n\nDetails: https://vidiotsfoundation.org/movies/if-i-go-will-they-miss-
+ me/
 END:VEVENT
 END:VCALENDAR
