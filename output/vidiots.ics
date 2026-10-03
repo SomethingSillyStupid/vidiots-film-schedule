@@ -43,6 +43,24 @@ DESCRIPTION:Run time: 102 min | Format: Digital\n\nSeries: Additional Shows
  -forever/
 END:VEVENT
 BEGIN:VEVENT
+UID:4677613@vidiotsfoundation.org
+DTSTAMP:20261004T013000Z
+DTSTART;TZID=America/Los_Angeles:20261003T183000
+DTEND;TZID=America/Los_Angeles:20261003T200500
+SUMMARY:If I Go Will They Miss Me
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677613/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 95 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA 
+ poetic\, emotionally expansive father-son story about Black family\, grace
+ \, imagination\, and the hope that love can transform even the most fragil
+ e relationships into something more healing and beautiful.\n\nTickets: htt
+ ps://vidiotsfoundation.org/purchase/4677613/\n\nDetails: https://vidiotsfo
+ undation.org/movies/if-i-go-will-they-miss-me/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:4677614@vidiotsfoundation.org
 DTSTAMP:20261004T042000Z
 DTSTART;TZID=America/Los_Angeles:20261003T212000
@@ -86,12 +104,31 @@ SUMMARY:The Last Unicorn
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672338/
-DESCRIPTION:Run time: 92 min | Format: Digital | Rating: All Ages\n\nSeries
- : Films for Everyone\, In the Eagle\n\nOne of the great fever dreams of a 
- 1980s kids movie - this Rankin-Bass classic of sorcery and cryptozoology i
- s an epic and beautiful tale of resilience and magic.\n\nTickets: https://
- vidiotsfoundation.org/purchase/4672338/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/the-last-unicorn/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
+ ormat: Digital | Rating: All Ages\n\nSeries: Films for Everyone\, In the E
+ agle\n\nOne of the great fever dreams of a 1980s kids movie - this Rankin-
+ Bass classic of sorcery and cryptozoology is an epic and beautiful tale of
+  resilience and magic.\n\nTickets: https://vidiotsfoundation.org/purchase/
+ 4672338/\n\nDetails: https://vidiotsfoundation.org/movies/the-last-unicorn
+ /
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4677630@vidiotsfoundation.org
+DTSTAMP:20261004T223000Z
+DTSTART;TZID=America/Los_Angeles:20261004T153000
+DTEND;TZID=America/Los_Angeles:20261004T170500
+SUMMARY:If I Go Will They Miss Me
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677630/
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\n\nA poetic\, emotionally expansive father-son s
+ tory about Black family\, grace\, imagination\, and the hope that love can
+  transform even the most fragile relationships into something more healing
+  and beautiful.\n\nTickets: https://vidiotsfoundation.org/purchase/4677630
+ /\n\nDetails: https://vidiotsfoundation.org/movies/if-i-go-will-they-miss-
+ me/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672339@vidiotsfoundation.org
@@ -173,6 +210,23 @@ DESCRIPTION:Series: 35mm Film\, Doors Open at 6\, In the Eagle\n\nPsychedel
  cover from (in the best possible way)!\n\nTickets: https://vidiotsfoundati
  on.org/purchase/4698593/\n\nDetails: https://vidiotsfoundation.org/movies/
  physical-media-mind-melters-in-space/
+END:VEVENT
+BEGIN:VEVENT
+UID:4706316@vidiotsfoundation.org
+DTSTAMP:20261008T020000Z
+DTSTART;TZID=America/Los_Angeles:20261007T190000
+DTEND;TZID=America/Los_Angeles:20261007T203500
+SUMMARY:If I Go Will They Miss Me
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4706316/
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\n\nA poetic\, emotionally expansive father-son s
+ tory about Black family\, grace\, imagination\, and the hope that love can
+  transform even the most fragile relationships into something more healing
+  and beautiful.\n\nTickets: https://vidiotsfoundation.org/purchase/4706316
+ /\n\nDetails: https://vidiotsfoundation.org/movies/if-i-go-will-they-miss-
+ me/
 END:VEVENT
 BEGIN:VEVENT
 UID:4645034@vidiotsfoundation.org
