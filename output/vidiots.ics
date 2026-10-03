@@ -8,58 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4677588@vidiotsfoundation.org
-DTSTAMP:20261002T233000Z
-DTSTART;TZID=America/Los_Angeles:20261002T163000
-DTEND;TZID=America/Los_Angeles:20261002T181000
-SUMMARY:Filipiñana
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677588/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
- MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
- f the year and a masterwork of international cinema - Rafael Manuel's phen
- omenally composed deadpan social satire Filipiñana .\nEven more showtimes
-  added!\n\nTickets: https://vidiotsfoundation.org/purchase/4677588/\n\nDet
- ails: https://vidiotsfoundation.org/movies/filipinana/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4677597@vidiotsfoundation.org
-DTSTAMP:20261003T021500Z
-DTSTART;TZID=America/Los_Angeles:20261002T191500
-DTEND;TZID=America/Los_Angeles:20261002T205700
-SUMMARY:Barbara Forever
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677597/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 102 min | 
- Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
-  In the MUBI Microcinema\n\nJoin us in the microcinema to rediscover the i
- mmense legacy of groundbreaking lesbian filmmaker Barbara Hammer through B
- rydie O'Connor's phenomenal and award-winning portrait\, Barbara Forever !
- \n\nTickets: https://vidiotsfoundation.org/purchase/4677597/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/barbara-forever/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4672312@vidiotsfoundation.org
-DTSTAMP:20261003T200000Z
-DTSTART;TZID=America/Los_Angeles:20261003T130000
-DTEND;TZID=America/Los_Angeles:20261003T144400
-SUMMARY:Monsters University
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672312/
-DESCRIPTION:Run time: 104 min | Format: Digital | Rating: All Ages\n\nSerie
- s: Films for Everyone\, In the Eagle\n\nNo matter your level of furriness 
- or the number of eyes you have\, we're sure to have a place for you and yo
- ur little monsters at the head of the class!\n\nTickets: https://vidiotsfo
- undation.org/purchase/4672312/\n\nDetails: https://vidiotsfoundation.org/m
- ovies/monsters-university/
-END:VEVENT
-BEGIN:VEVENT
 UID:4677739@vidiotsfoundation.org
 DTSTAMP:20261003T201500Z
 DTSTART;TZID=America/Los_Angeles:20261003T131500
@@ -95,38 +43,6 @@ DESCRIPTION:Run time: 102 min | Format: Digital\n\nSeries: Additional Shows
  -forever/
 END:VEVENT
 BEGIN:VEVENT
-UID:4672316@vidiotsfoundation.org
-DTSTAMP:20261003T230000Z
-DTSTART;TZID=America/Los_Angeles:20261003T160000
-DTEND;TZID=America/Los_Angeles:20261003T174400
-SUMMARY:Theater of Blood
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672316/
-DESCRIPTION:Run time: 104 min | Format: Digital | Rating: R\n\nSeries: Coun
- tdown to Halloween\, In the Eagle\n\nIs it even spooky season if you're no
- t spending it with Vincent Price unaliving his critics with Shakespearean 
- twists?\n\nTickets: https://vidiotsfoundation.org/purchase/4672316/\n\nDet
- ails: https://vidiotsfoundation.org/movies/theater-of-blood/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672324@vidiotsfoundation.org
-DTSTAMP:20261004T020000Z
-DTSTART;TZID=America/Los_Angeles:20261003T190000
-DTEND;TZID=America/Los_Angeles:20261003T205000
-SUMMARY:9 to 5
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672324/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 110 min | 
- Format: Digital | Rating: PG\n\nSeries: Dolly Parton - We Will Always Love
-  You\, In the Eagle\n\nVidiots remembers its forever Goddess Dolly Parton 
- with a special screening of the iconic workplace revenge comedy 9 to 5 .\n
- Encore Screening Added!\n\nTickets: https://vidiotsfoundation.org/purchase
- /4672324/\n\nDetails: https://vidiotsfoundation.org/movies/nine-to-five/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4677614@vidiotsfoundation.org
 DTSTAMP:20261004T042000Z
 DTSTART;TZID=America/Los_Angeles:20261003T212000
@@ -143,22 +59,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
   added!\n\nTickets: https://vidiotsfoundation.org/purchase/4677614/\n\nDet
  ails: https://vidiotsfoundation.org/movies/filipinana/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4672325@vidiotsfoundation.org
-DTSTAMP:20261004T044500Z
-DTSTART;TZID=America/Los_Angeles:20261003T214500
-DTEND;TZID=America/Los_Angeles:20261003T232000
-SUMMARY:The Hole on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672325/
-DESCRIPTION:Run time: 95 min | Format: 35mm Film | Release year: 1998\n\nSe
- ries: 35mm Film\, In the Eagle\n\nYour Saturday night is about to get surr
- eal with Tsai Ming-liang's wholly original dystopian dark comedy The Hole 
- presented on a glorious brand new 35mm print!\n\nTickets: https://vidiotsf
- oundation.org/purchase/4672325/\n\nDetails: https://vidiotsfoundation.org/
- movies/the-hole/
 END:VEVENT
 BEGIN:VEVENT
 UID:4677631@vidiotsfoundation.org
@@ -290,22 +190,6 @@ DESCRIPTION:Run time: 83 min | Format: 4K Digital\n\nSeries: Community Part
  riotous New Queer Cinema treasure Chocolate Babies!\n\nTickets: https://vi
  diotsfoundation.org/purchase/4645034/\n\nDetails: https://vidiotsfoundatio
  n.org/movies/chocolate-babies/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672343@vidiotsfoundation.org
-DTSTAMP:20261009T230000Z
-DTSTART;TZID=America/Los_Angeles:20261009T160000
-DTEND;TZID=America/Los_Angeles:20261009T175000
-SUMMARY:9 to 5
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672343/
-DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: Dol
- ly Parton - We Will Always Love You\, In the Eagle\n\nVidiots remembers it
- s forever Goddess Dolly Parton with a special screening of the iconic work
- place revenge comedy 9 to 5 .\nEncore Screening Added!\n\nTickets: https:/
- /vidiotsfoundation.org/purchase/4672343/\n\nDetails: https://vidiotsfounda
- tion.org/movies/nine-to-five/
 END:VEVENT
 BEGIN:VEVENT
 UID:4677781@vidiotsfoundation.org
@@ -1445,70 +1329,67 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 BEGIN:VEVENT
-UID:4672311@vidiotsfoundation.org
-DTSTAMP:20261002T224500Z
-DTSTART;TZID=America/Los_Angeles:20261002T154500
-DTEND;TZID=America/Los_Angeles:20261002T180200
-SUMMARY:Terminator 2: Judgment Day
+UID:4672312@vidiotsfoundation.org
+DTSTAMP:20261003T200000Z
+DTSTART;TZID=America/Los_Angeles:20261003T130000
+DTEND;TZID=America/Los_Angeles:20261003T144400
+SUMMARY:Monsters University
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672311/
-DESCRIPTION:Run time: 137 min | Rating: R\n\nSeries: In the Eagle\n\nOne ba
- d-ass mother of a sequel!\n35th Anniversary screening on 35mm Film! Encore
-  Screening Added!\n\nTickets: https://vidiotsfoundation.org/purchase/46723
- 11/\n\nDetails: https://vidiotsfoundation.org/movies/terminator-2-judgment
- -day/
+URL:https://vidiotsfoundation.org/purchase/4672312/
+DESCRIPTION:Run time: 104 min | Format: Digital | Rating: All Ages\n\nSerie
+ s: Films for Everyone\, In the Eagle\n\nNo matter your level of furriness 
+ or the number of eyes you have\, we're sure to have a place for you and yo
+ ur little monsters at the head of the class!\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4672312/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/monsters-university/
 END:VEVENT
 BEGIN:VEVENT
-UID:4672309@vidiotsfoundation.org
-DTSTAMP:20261003T020000Z
-DTSTART;TZID=America/Los_Angeles:20261002T190000
-DTEND;TZID=America/Los_Angeles:20261002T210000
-SUMMARY:Creepshow
+UID:4672316@vidiotsfoundation.org
+DTSTAMP:20261003T230000Z
+DTSTART;TZID=America/Los_Angeles:20261003T160000
+DTEND;TZID=America/Los_Angeles:20261003T174400
+SUMMARY:Theater of Blood
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672309/
-DESCRIPTION:Run time: 120 min | Format: Digital | Rating: R\n\nSeries: Coun
- tdown to Halloween\, In the Eagle\n\nHorror titans Stephen King and George
-  Romero team up for the ultimate 80s horror anthology just in time to give
-  you the creeps for the whole month of October!\n\nTickets: https://vidiot
- sfoundation.org/purchase/4672309/\n\nDetails: https://vidiotsfoundation.or
- g/movies/creepshow/
+URL:https://vidiotsfoundation.org/purchase/4672316/
+DESCRIPTION:Run time: 104 min | Format: Digital | Rating: R\n\nSeries: Coun
+ tdown to Halloween\, In the Eagle\n\nIs it even spooky season if you're no
+ t spending it with Vincent Price unaliving his critics with Shakespearean 
+ twists?\n\nTickets: https://vidiotsfoundation.org/purchase/4672316/\n\nDet
+ ails: https://vidiotsfoundation.org/movies/theater-of-blood/
 END:VEVENT
 BEGIN:VEVENT
-UID:4677540@vidiotsfoundation.org
-DTSTAMP:20261003T044500Z
-DTSTART;TZID=America/Los_Angeles:20261002T214500
-DTEND;TZID=America/Los_Angeles:20261002T234300
-SUMMARY:Train to Busan
+UID:4672324@vidiotsfoundation.org
+DTSTAMP:20261004T020000Z
+DTSTART;TZID=America/Los_Angeles:20261003T190000
+DTEND;TZID=America/Los_Angeles:20261003T205000
+SUMMARY:9 to 5
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677540/
-DESCRIPTION:Run time: 118 min | Format: 4K Digital | Release year: 2016\n\n
- Series: Countdown to Halloween\, In the Eagle\n\nOne of the most well-roun
- ded of all zombie flicks\, Train to Busan is a genre-bending high-octane u
- ndead thrill ride with a supersized heart\, realistic characters\, and a d
- elicious spread of social commentary.\nTenth Anniversary Screening! New 4K
-  Restoration! With a video introduction and pre-recorded conversation with
-  director Yeon Sang-ho !\n\nTickets: https://vidiotsfoundation.org/purchas
- e/4677540/\n\nDetails: https://vidiotsfoundation.org/movies/train-to-busan
- /
+URL:https://vidiotsfoundation.org/purchase/4672324/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 110 min | 
+ Format: Digital | Rating: PG\n\nSeries: Dolly Parton - We Will Always Love
+  You\, In the Eagle\n\nVidiots remembers its forever Goddess Dolly Parton 
+ with a special screening of the iconic workplace revenge comedy 9 to 5 .\n
+ Encore Screening Added!\n\nTickets: https://vidiotsfoundation.org/purchase
+ /4672324/\n\nDetails: https://vidiotsfoundation.org/movies/nine-to-five/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4677600@vidiotsfoundation.org
-DTSTAMP:20261003T050000Z
-DTSTART;TZID=America/Los_Angeles:20261002T220000
-DTEND;TZID=America/Los_Angeles:20261002T233500
-SUMMARY:If I Go Will They Miss Me
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677600/
-DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\n\nA poetic\, emotionally expansive father-son s
- tory about Black family\, grace\, imagination\, and the hope that love can
-  transform even the most fragile relationships into something more healing
-  and beautiful.\n\nTickets: https://vidiotsfoundation.org/purchase/4677600
- /\n\nDetails: https://vidiotsfoundation.org/movies/if-i-go-will-they-miss-
- me/
+UID:4672325@vidiotsfoundation.org
+DTSTAMP:20261004T044500Z
+DTSTART;TZID=America/Los_Angeles:20261003T214500
+DTEND;TZID=America/Los_Angeles:20261003T232000
+SUMMARY:The Hole on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672325/
+DESCRIPTION:Run time: 95 min | Format: 35mm Film | Release year: 1998\n\nSe
+ ries: 35mm Film\, In the Eagle\n\nYour Saturday night is about to get surr
+ eal with Tsai Ming-liang's wholly original dystopian dark comedy The Hole 
+ presented on a glorious brand new 35mm print!\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4672325/\n\nDetails: https://vidiotsfoundation.org/
+ movies/the-hole/
 END:VEVENT
 END:VCALENDAR
