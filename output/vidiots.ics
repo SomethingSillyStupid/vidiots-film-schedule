@@ -8,112 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4677739@vidiotsfoundation.org
-DTSTAMP:20261003T201500Z
-DTSTART;TZID=America/Los_Angeles:20261003T131500
-DTEND;TZID=America/Los_Angeles:20261003T145500
-SUMMARY:Filipiñana
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677739/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
- MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
- f the year and a masterwork of international cinema - Rafael Manuel's phen
- omenally composed deadpan social satire Filipiñana .\nEven more showtimes
-  added!\n\nTickets: https://vidiotsfoundation.org/purchase/4677739/\n\nDet
- ails: https://vidiotsfoundation.org/movies/filipinana/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4677611@vidiotsfoundation.org
-DTSTAMP:20261003T224500Z
-DTSTART;TZID=America/Los_Angeles:20261003T154500
-DTEND;TZID=America/Los_Angeles:20261003T172700
-SUMMARY:Barbara Forever
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677611/
-DESCRIPTION:Run time: 102 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the 
- microcinema to rediscover the immense legacy of groundbreaking lesbian fil
- mmaker Barbara Hammer through Brydie O'Connor's phenomenal and award-winni
- ng portrait\, Barbara Forever !\n\nTickets: https://vidiotsfoundation.org/
- purchase/4677611/\n\nDetails: https://vidiotsfoundation.org/movies/barbara
- -forever/
-END:VEVENT
-BEGIN:VEVENT
-UID:4677613@vidiotsfoundation.org
-DTSTAMP:20261004T013000Z
-DTSTART;TZID=America/Los_Angeles:20261003T183000
-DTEND;TZID=America/Los_Angeles:20261003T200500
-SUMMARY:If I Go Will They Miss Me
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677613/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 95 min | F
- ormat: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA 
- poetic\, emotionally expansive father-son story about Black family\, grace
- \, imagination\, and the hope that love can transform even the most fragil
- e relationships into something more healing and beautiful.\n\nTickets: htt
- ps://vidiotsfoundation.org/purchase/4677613/\n\nDetails: https://vidiotsfo
- undation.org/movies/if-i-go-will-they-miss-me/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4677614@vidiotsfoundation.org
-DTSTAMP:20261004T042000Z
-DTSTART;TZID=America/Los_Angeles:20261003T212000
-DTEND;TZID=America/Los_Angeles:20261003T230000
-SUMMARY:Filipiñana
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677614/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
- MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
- f the year and a masterwork of international cinema - Rafael Manuel's phen
- omenally composed deadpan social satire Filipiñana .\nEven more showtimes
-  added!\n\nTickets: https://vidiotsfoundation.org/purchase/4677614/\n\nDet
- ails: https://vidiotsfoundation.org/movies/filipinana/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4677631@vidiotsfoundation.org
-DTSTAMP:20261004T194500Z
-DTSTART;TZID=America/Los_Angeles:20261004T124500
-DTEND;TZID=America/Los_Angeles:20261004T142700
-SUMMARY:Barbara Forever
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677631/
-DESCRIPTION:Run time: 102 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the 
- microcinema to rediscover the immense legacy of groundbreaking lesbian fil
- mmaker Barbara Hammer through Brydie O'Connor's phenomenal and award-winni
- ng portrait\, Barbara Forever !\n\nTickets: https://vidiotsfoundation.org/
- purchase/4677631/\n\nDetails: https://vidiotsfoundation.org/movies/barbara
- -forever/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672338@vidiotsfoundation.org
-DTSTAMP:20261004T200000Z
-DTSTART;TZID=America/Los_Angeles:20261004T130000
-DTEND;TZID=America/Los_Angeles:20261004T143200
-SUMMARY:The Last Unicorn
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672338/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
- ormat: Digital | Rating: All Ages\n\nSeries: Films for Everyone\, In the E
- agle\n\nOne of the great fever dreams of a 1980s kids movie - this Rankin-
- Bass classic of sorcery and cryptozoology is an epic and beautiful tale of
-  resilience and magic.\n\nTickets: https://vidiotsfoundation.org/purchase/
- 4672338/\n\nDetails: https://vidiotsfoundation.org/movies/the-last-unicorn
- /
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4677630@vidiotsfoundation.org
 DTSTAMP:20261004T223000Z
 DTSTART;TZID=America/Los_Angeles:20261004T153000
@@ -122,45 +16,14 @@ SUMMARY:If I Go Will They Miss Me
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4677630/
-DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\n\nA poetic\, emotionally expansive father-son s
- tory about Black family\, grace\, imagination\, and the hope that love can
-  transform even the most fragile relationships into something more healing
-  and beautiful.\n\nTickets: https://vidiotsfoundation.org/purchase/4677630
- /\n\nDetails: https://vidiotsfoundation.org/movies/if-i-go-will-they-miss-
- me/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672339@vidiotsfoundation.org
-DTSTAMP:20261004T230000Z
-DTSTART;TZID=America/Los_Angeles:20261004T160000
-DTEND;TZID=America/Los_Angeles:20261004T173900
-SUMMARY:The Uninvited
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672339/
-DESCRIPTION:Run time: 99 min | Format: Digital\n\nSeries: Countdown to Hall
- oween\, In the Eagle\n\nIf your spooky season plans call for a haunted hou
- se and a ghostly love story\, do yourself a favor and join us for one of t
- he best horror films of the 1940s and one of the great ghost stories of al
- l time.\n\nTickets: https://vidiotsfoundation.org/purchase/4672339/\n\nDet
- ails: https://vidiotsfoundation.org/movies/the-uninvited/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672342@vidiotsfoundation.org
-DTSTAMP:20261005T020000Z
-DTSTART;TZID=America/Los_Angeles:20261004T190000
-DTEND;TZID=America/Los_Angeles:20261004T210900
-SUMMARY:The Bodyguard
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672342/
-DESCRIPTION:Run time: 129 min | Format: Digital | Rating: R\n\nSeries: Doll
- y Parton - We Will Always Love You\, In the Eagle\n\nDon't miss all the mu
- sic (including Whitney's cover of Dolly Parton's "I Will Always Love You")
- \, the swoon-worthy romance\, and the showmanship of the Princess of Pop W
- hitney Houston!\n\nTickets: https://vidiotsfoundation.org/purchase/4672342
- /\n\nDetails: https://vidiotsfoundation.org/movies/the-bodyguard/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 95 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA 
+ poetic\, emotionally expansive father-son story about Black family\, grace
+ \, imagination\, and the hope that love can transform even the most fragil
+ e relationships into something more healing and beautiful.\n\nTickets: htt
+ ps://vidiotsfoundation.org/purchase/4677630/\n\nDetails: https://vidiotsfo
+ undation.org/movies/if-i-go-will-they-miss-me/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4677760@vidiotsfoundation.org
@@ -172,12 +35,12 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4677760/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, In the 
- MUBI Microcinema\n\nJoin us in the microcinema for one of the best films o
- f the year and a masterwork of international cinema - Rafael Manuel's phen
- omenally composed deadpan social satire Filipiñana .\nEven more showtimes
-  added!\n\nTickets: https://vidiotsfoundation.org/purchase/4677760/\n\nDet
- ails: https://vidiotsfoundation.org/movies/filipinana/
+ Format: Digital | Release year: 2026\n\nSeries: In the MUBI Microcinema\n\
+ nJoin us in the microcinema for one of the best films of the year and a ma
+ sterwork of international cinema - Rafael Manuel's phenomenally composed d
+ eadpan social satire Filipiñana .\nEven more showtimes added!\n\nTickets:
+  https://vidiotsfoundation.org/purchase/4677760/\n\nDetails: https://vidio
+ tsfoundation.org/movies/filipinana/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -1383,67 +1246,70 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 BEGIN:VEVENT
-UID:4672312@vidiotsfoundation.org
-DTSTAMP:20261003T200000Z
-DTSTART;TZID=America/Los_Angeles:20261003T130000
-DTEND;TZID=America/Los_Angeles:20261003T144400
-SUMMARY:Monsters University
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672312/
-DESCRIPTION:Run time: 104 min | Format: Digital | Rating: All Ages\n\nSerie
- s: Films for Everyone\, In the Eagle\n\nNo matter your level of furriness 
- or the number of eyes you have\, we're sure to have a place for you and yo
- ur little monsters at the head of the class!\n\nTickets: https://vidiotsfo
- undation.org/purchase/4672312/\n\nDetails: https://vidiotsfoundation.org/m
- ovies/monsters-university/
+UID:4677631@vidiotsfoundation.org
+DTSTAMP:20261004T194500Z
+DTSTART;TZID=America/Los_Angeles:20261004T124500
+DTEND;TZID=America/Los_Angeles:20261004T142700
+SUMMARY:Barbara Forever
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677631/
+DESCRIPTION:Run time: 102 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the 
+ microcinema to rediscover the immense legacy of groundbreaking lesbian fil
+ mmaker Barbara Hammer through Brydie O'Connor's phenomenal and award-winni
+ ng portrait\, Barbara Forever !\n\nTickets: https://vidiotsfoundation.org/
+ purchase/4677631/\n\nDetails: https://vidiotsfoundation.org/movies/barbara
+ -forever/
 END:VEVENT
 BEGIN:VEVENT
-UID:4672316@vidiotsfoundation.org
-DTSTAMP:20261003T230000Z
-DTSTART;TZID=America/Los_Angeles:20261003T160000
-DTEND;TZID=America/Los_Angeles:20261003T174400
-SUMMARY:Theater of Blood
+UID:4672338@vidiotsfoundation.org
+DTSTAMP:20261004T200000Z
+DTSTART;TZID=America/Los_Angeles:20261004T130000
+DTEND;TZID=America/Los_Angeles:20261004T143200
+SUMMARY:The Last Unicorn
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672316/
-DESCRIPTION:Run time: 104 min | Format: Digital | Rating: R\n\nSeries: Coun
- tdown to Halloween\, In the Eagle\n\nIs it even spooky season if you're no
- t spending it with Vincent Price unaliving his critics with Shakespearean 
- twists?\n\nTickets: https://vidiotsfoundation.org/purchase/4672316/\n\nDet
- ails: https://vidiotsfoundation.org/movies/theater-of-blood/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672324@vidiotsfoundation.org
-DTSTAMP:20261004T020000Z
-DTSTART;TZID=America/Los_Angeles:20261003T190000
-DTEND;TZID=America/Los_Angeles:20261003T205000
-SUMMARY:9 to 5
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672324/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 110 min | 
- Format: Digital | Rating: PG\n\nSeries: Dolly Parton - We Will Always Love
-  You\, In the Eagle\n\nVidiots remembers its forever Goddess Dolly Parton 
- with a special screening of the iconic workplace revenge comedy 9 to 5 .\n
- Encore Screening Added!\n\nTickets: https://vidiotsfoundation.org/purchase
- /4672324/\n\nDetails: https://vidiotsfoundation.org/movies/nine-to-five/
+URL:https://vidiotsfoundation.org/purchase/4672338/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
+ ormat: Digital | Rating: All Ages\n\nSeries: Films for Everyone\, In the E
+ agle\n\nOne of the great fever dreams of a 1980s kids movie - this Rankin-
+ Bass classic of sorcery and cryptozoology is an epic and beautiful tale of
+  resilience and magic.\n\nTickets: https://vidiotsfoundation.org/purchase/
+ 4672338/\n\nDetails: https://vidiotsfoundation.org/movies/the-last-unicorn
+ /
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4672325@vidiotsfoundation.org
-DTSTAMP:20261004T044500Z
-DTSTART;TZID=America/Los_Angeles:20261003T214500
-DTEND;TZID=America/Los_Angeles:20261003T232000
-SUMMARY:The Hole on 35mm
+UID:4672339@vidiotsfoundation.org
+DTSTAMP:20261004T230000Z
+DTSTART;TZID=America/Los_Angeles:20261004T160000
+DTEND;TZID=America/Los_Angeles:20261004T173900
+SUMMARY:The Uninvited
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672325/
-DESCRIPTION:Run time: 95 min | Format: 35mm Film | Release year: 1998\n\nSe
- ries: 35mm Film\, In the Eagle\n\nYour Saturday night is about to get surr
- eal with Tsai Ming-liang's wholly original dystopian dark comedy The Hole 
- presented on a glorious brand new 35mm print!\n\nTickets: https://vidiotsf
- oundation.org/purchase/4672325/\n\nDetails: https://vidiotsfoundation.org/
- movies/the-hole/
+URL:https://vidiotsfoundation.org/purchase/4672339/
+DESCRIPTION:Run time: 99 min | Format: Digital\n\nSeries: Countdown to Hall
+ oween\, In the Eagle\n\nIf your spooky season plans call for a haunted hou
+ se and a ghostly love story\, do yourself a favor and join us for one of t
+ he best horror films of the 1940s and one of the great ghost stories of al
+ l time.\n\nTickets: https://vidiotsfoundation.org/purchase/4672339/\n\nDet
+ ails: https://vidiotsfoundation.org/movies/the-uninvited/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672342@vidiotsfoundation.org
+DTSTAMP:20261005T020000Z
+DTSTART;TZID=America/Los_Angeles:20261004T190000
+DTEND;TZID=America/Los_Angeles:20261004T210900
+SUMMARY:The Bodyguard
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672342/
+DESCRIPTION:Run time: 129 min | Format: Digital | Rating: R\n\nSeries: Doll
+ y Parton - We Will Always Love You\, In the Eagle\n\nDon't miss all the mu
+ sic (including Whitney's cover of Dolly Parton's "I Will Always Love You")
+ \, the swoon-worthy romance\, and the showmanship of the Princess of Pop W
+ hitney Houston!\n\nTickets: https://vidiotsfoundation.org/purchase/4672342
+ /\n\nDetails: https://vidiotsfoundation.org/movies/the-bodyguard/
 END:VEVENT
 END:VCALENDAR
