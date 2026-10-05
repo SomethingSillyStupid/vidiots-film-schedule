@@ -8,57 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4677630@vidiotsfoundation.org
-DTSTAMP:20261004T223000Z
-DTSTART;TZID=America/Los_Angeles:20261004T153000
-DTEND;TZID=America/Los_Angeles:20261004T170500
-SUMMARY:If I Go Will They Miss Me
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677630/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 95 min | F
- ormat: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nA 
- poetic\, emotionally expansive father-son story about Black family\, grace
- \, imagination\, and the hope that love can transform even the most fragil
- e relationships into something more healing and beautiful.\n\nTickets: htt
- ps://vidiotsfoundation.org/purchase/4677630/\n\nDetails: https://vidiotsfo
- undation.org/movies/if-i-go-will-they-miss-me/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4677760@vidiotsfoundation.org
-DTSTAMP:20261006T020000Z
-DTSTART;TZID=America/Los_Angeles:20261005T190000
-DTEND;TZID=America/Los_Angeles:20261005T204000
-SUMMARY:Filipiñana
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677760/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Release year: 2026\n\nSeries: In the MUBI Microcinema\n\
- nJoin us in the microcinema for one of the best films of the year and a ma
- sterwork of international cinema - Rafael Manuel's phenomenally composed d
- eadpan social satire Filipiñana .\nEven more showtimes added!\n\nTickets:
-  https://vidiotsfoundation.org/purchase/4677760/\n\nDetails: https://vidio
- tsfoundation.org/movies/filipinana/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4675170@vidiotsfoundation.org
-DTSTAMP:20261006T023000Z
-DTSTART;TZID=America/Los_Angeles:20261005T193000
-DTEND;TZID=America/Los_Angeles:20261005T204800
-SUMMARY:Carnival of Souls
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4675170/
-DESCRIPTION:Run time: 78 min | Format: Digital | Rating: PG\n\nSeries: Coun
- tdown to Halloween\, Doors Open at 6\, In the Eagle\n\nLose yourself in th
- e surreal nightmare world of Herk Harvey's indie horror masterpiece Carniv
- al of Souls .\n\nTickets: https://vidiotsfoundation.org/purchase/4675170/\
- n\nDetails: https://vidiotsfoundation.org/movies/carnival-of-souls/
-END:VEVENT
-BEGIN:VEVENT
 UID:4698593@vidiotsfoundation.org
 DTSTAMP:20261007T023000Z
 DTSTART;TZID=America/Los_Angeles:20261006T193000
@@ -83,13 +32,12 @@ SUMMARY:If I Go Will They Miss Me
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4706316/
-DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\n\nA poetic\, emotionally expansive father-son s
- tory about Black family\, grace\, imagination\, and the hope that love can
-  transform even the most fragile relationships into something more healing
-  and beautiful.\n\nTickets: https://vidiotsfoundation.org/purchase/4706316
- /\n\nDetails: https://vidiotsfoundation.org/movies/if-i-go-will-they-miss-
- me/
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: In the MUBI Micro
+ cinema\n\nA poetic\, emotionally expansive father-son story about Black fa
+ mily\, grace\, imagination\, and the hope that love can transform even the
+  most fragile relationships into something more healing and beautiful.\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4706316/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/if-i-go-will-they-miss-me/
 END:VEVENT
 BEGIN:VEVENT
 UID:4645034@vidiotsfoundation.org
@@ -1246,70 +1194,36 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 BEGIN:VEVENT
-UID:4677631@vidiotsfoundation.org
-DTSTAMP:20261004T194500Z
-DTSTART;TZID=America/Los_Angeles:20261004T124500
-DTEND;TZID=America/Los_Angeles:20261004T142700
-SUMMARY:Barbara Forever
+UID:4677760@vidiotsfoundation.org
+DTSTAMP:20261006T020000Z
+DTSTART;TZID=America/Los_Angeles:20261005T190000
+DTEND;TZID=America/Los_Angeles:20261005T204000
+SUMMARY:Filipiñana
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677631/
-DESCRIPTION:Run time: 102 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us in the 
- microcinema to rediscover the immense legacy of groundbreaking lesbian fil
- mmaker Barbara Hammer through Brydie O'Connor's phenomenal and award-winni
- ng portrait\, Barbara Forever !\n\nTickets: https://vidiotsfoundation.org/
- purchase/4677631/\n\nDetails: https://vidiotsfoundation.org/movies/barbara
- -forever/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672338@vidiotsfoundation.org
-DTSTAMP:20261004T200000Z
-DTSTART;TZID=America/Los_Angeles:20261004T130000
-DTEND;TZID=America/Los_Angeles:20261004T143200
-SUMMARY:The Last Unicorn
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672338/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
- ormat: Digital | Rating: All Ages\n\nSeries: Films for Everyone\, In the E
- agle\n\nOne of the great fever dreams of a 1980s kids movie - this Rankin-
- Bass classic of sorcery and cryptozoology is an epic and beautiful tale of
-  resilience and magic.\n\nTickets: https://vidiotsfoundation.org/purchase/
- 4672338/\n\nDetails: https://vidiotsfoundation.org/movies/the-last-unicorn
- /
+URL:https://vidiotsfoundation.org/purchase/4677760/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
+ Format: Digital | Release year: 2026\n\nSeries: In the MUBI Microcinema\n\
+ nJoin us in the microcinema for one of the best films of the year and a ma
+ sterwork of international cinema - Rafael Manuel's phenomenally composed d
+ eadpan social satire Filipiñana .\nEven more showtimes added!\n\nTickets:
+  https://vidiotsfoundation.org/purchase/4677760/\n\nDetails: https://vidio
+ tsfoundation.org/movies/filipinana/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4672339@vidiotsfoundation.org
-DTSTAMP:20261004T230000Z
-DTSTART;TZID=America/Los_Angeles:20261004T160000
-DTEND;TZID=America/Los_Angeles:20261004T173900
-SUMMARY:The Uninvited
+UID:4675170@vidiotsfoundation.org
+DTSTAMP:20261006T023000Z
+DTSTART;TZID=America/Los_Angeles:20261005T193000
+DTEND;TZID=America/Los_Angeles:20261005T204800
+SUMMARY:Carnival of Souls
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672339/
-DESCRIPTION:Run time: 99 min | Format: Digital\n\nSeries: Countdown to Hall
- oween\, In the Eagle\n\nIf your spooky season plans call for a haunted hou
- se and a ghostly love story\, do yourself a favor and join us for one of t
- he best horror films of the 1940s and one of the great ghost stories of al
- l time.\n\nTickets: https://vidiotsfoundation.org/purchase/4672339/\n\nDet
- ails: https://vidiotsfoundation.org/movies/the-uninvited/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672342@vidiotsfoundation.org
-DTSTAMP:20261005T020000Z
-DTSTART;TZID=America/Los_Angeles:20261004T190000
-DTEND;TZID=America/Los_Angeles:20261004T210900
-SUMMARY:The Bodyguard
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672342/
-DESCRIPTION:Run time: 129 min | Format: Digital | Rating: R\n\nSeries: Doll
- y Parton - We Will Always Love You\, In the Eagle\n\nDon't miss all the mu
- sic (including Whitney's cover of Dolly Parton's "I Will Always Love You")
- \, the swoon-worthy romance\, and the showmanship of the Princess of Pop W
- hitney Houston!\n\nTickets: https://vidiotsfoundation.org/purchase/4672342
- /\n\nDetails: https://vidiotsfoundation.org/movies/the-bodyguard/
+URL:https://vidiotsfoundation.org/purchase/4675170/
+DESCRIPTION:Run time: 78 min | Format: Digital | Rating: PG\n\nSeries: Coun
+ tdown to Halloween\, Doors Open at 6\, In the Eagle\n\nLose yourself in th
+ e surreal nightmare world of Herk Harvey's indie horror masterpiece Carniv
+ al of Souls .\n\nTickets: https://vidiotsfoundation.org/purchase/4675170/\
+ n\nDetails: https://vidiotsfoundation.org/movies/carnival-of-souls/
 END:VEVENT
 END:VCALENDAR
