@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4698593@vidiotsfoundation.org
-DTSTAMP:20261007T023000Z
-DTSTART;TZID=America/Los_Angeles:20261006T193000
-DTEND;TZID=America/Los_Angeles:20261006T213000
-SUMMARY:Physical Media Mind-Melters: Vidiots in Space!
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4698593/
-DESCRIPTION:Series: 35mm Film\, Doors Open at 6\, In the Eagle\, TeenTix LA
- \n\nPsychedelic\, funny\, weird\, and all in celebration of physical media
-  and the endless worlds beyond our reach\, this is one night your eyeballs
-  may never recover from (in the best possible way)!\n\nTickets: https://vi
- diotsfoundation.org/purchase/4698593/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/physical-media-mind-melters-in-space/
-END:VEVENT
-BEGIN:VEVENT
 UID:4706316@vidiotsfoundation.org
 DTSTAMP:20261008T020000Z
 DTSTART;TZID=America/Los_Angeles:20261007T190000
@@ -193,7 +177,8 @@ URL:https://vidiotsfoundation.org/purchase/4672348/
 DESCRIPTION:Run time: 94 min | Format: Digital | Rating: PG-13\n\nSeries: I
  n the Eagle\, TeenTix LA\n\nTop That! Behold the magic\, the music\, the h
  airspray\, the tutus\, and the rap battles of this cheese-tastic spectacle
-  of 80s awesomeness!\n\nTickets: https://vidiotsfoundation.org/purchase/46
+  of 80s awesomeness!\nWith a special introduction from actor/rapper extrao
+ rdinaire Noah Blake!\n\nTickets: https://vidiotsfoundation.org/purchase/46
  72348/\n\nDetails: https://vidiotsfoundation.org/movies/teen-witch/
 END:VEVENT
 BEGIN:VEVENT
@@ -750,13 +735,13 @@ URL:https://vidiotsfoundation.org/purchase/4672393/
 DESCRIPTION:Run time: 104 min | Format: Digital | Rating: PG-13\n\nSeries: 
  Countdown to Halloween\, Doors Open at 6\, In the Eagle\, Live DJ Set\n\nB
  ring your best frenemies and get ready for Vidiots annual Halloween Shindi
- g! We'll be kicking off the night with extra spooky tunes from DJ Jeli and
-  creeped out vibes before diving into the everlasting classic dark comedy 
- Death Becomes Her\, followed by more Halloweenie revelry and plenty of spo
- oky Vidiots fun. So\, put on your costumes\, bring your besties\, and come
-  for one killer party!\n\nTickets: https://vidiotsfoundation.org/purchase/
- 4672393/\n\nDetails: https://vidiotsfoundation.org/movies/death-becomes-he
- r/
+ g! We'll be kicking off the night with extra spooky tunes from DJ Jéli\, 
+ Tarot Card Readings\, and creeped out vibes before diving into the everlas
+ ting classic dark comedy Death Becomes Her\, followed by more Halloweenie 
+ revelry and plenty of spooky Vidiots fun. So\, put on your costumes\, brin
+ g your besties\, and come for one killer party!\n\nTickets: https://vidiot
+ sfoundation.org/purchase/4672393/\n\nDetails: https://vidiotsfoundation.or
+ g/movies/death-becomes-her/
 END:VEVENT
 BEGIN:VEVENT
 UID:4703169@vidiotsfoundation.org
@@ -1249,36 +1234,19 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 BEGIN:VEVENT
-UID:4677760@vidiotsfoundation.org
-DTSTAMP:20261006T020000Z
-DTSTART;TZID=America/Los_Angeles:20261005T190000
-DTEND;TZID=America/Los_Angeles:20261005T204000
-SUMMARY:Filipiñana
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677760/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Release year: 2026\n\nSeries: In the MUBI Microcinema\n\
- nJoin us in the microcinema for one of the best films of the year and a ma
- sterwork of international cinema - Rafael Manuel's phenomenally composed d
- eadpan social satire Filipiñana .\nEven more showtimes added!\n\nTickets:
-  https://vidiotsfoundation.org/purchase/4677760/\n\nDetails: https://vidio
- tsfoundation.org/movies/filipinana/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4675170@vidiotsfoundation.org
-DTSTAMP:20261006T023000Z
-DTSTART;TZID=America/Los_Angeles:20261005T193000
-DTEND;TZID=America/Los_Angeles:20261005T204800
-SUMMARY:Carnival of Souls
+UID:4698593@vidiotsfoundation.org
+DTSTAMP:20261007T023000Z
+DTSTART;TZID=America/Los_Angeles:20261006T193000
+DTEND;TZID=America/Los_Angeles:20261006T213000
+SUMMARY:Physical Media Mind-Melters: Vidiots in Space!
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4675170/
-DESCRIPTION:Run time: 78 min | Format: Digital | Rating: PG\n\nSeries: Coun
- tdown to Halloween\, Doors Open at 6\, In the Eagle\n\nLose yourself in th
- e surreal nightmare world of Herk Harvey's indie horror masterpiece Carniv
- al of Souls .\n\nTickets: https://vidiotsfoundation.org/purchase/4675170/\
- n\nDetails: https://vidiotsfoundation.org/movies/carnival-of-souls/
+URL:https://vidiotsfoundation.org/purchase/4698593/
+DESCRIPTION:Series: 35mm Film\, Doors Open at 6\, In the Eagle\, TeenTix LA
+ \n\nPsychedelic\, funny\, weird\, and all in celebration of physical media
+  and the endless worlds beyond our reach\, this is one night your eyeballs
+  may never recover from (in the best possible way)!\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4698593/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/physical-media-mind-melters-in-space/
 END:VEVENT
 END:VCALENDAR
