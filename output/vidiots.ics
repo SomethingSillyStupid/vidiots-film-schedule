@@ -16,12 +16,12 @@ SUMMARY:Physical Media Mind-Melters: Vidiots in Space!
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4698593/
-DESCRIPTION:Series: 35mm Film\, Doors Open at 6\, In the Eagle\n\nPsychedel
- ic\, funny\, weird\, and all in celebration of physical media and the endl
- ess worlds beyond our reach\, this is one night your eyeballs may never re
- cover from (in the best possible way)!\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4698593/\n\nDetails: https://vidiotsfoundation.org/movies/
- physical-media-mind-melters-in-space/
+DESCRIPTION:Series: 35mm Film\, Doors Open at 6\, In the Eagle\, TeenTix LA
+ \n\nPsychedelic\, funny\, weird\, and all in celebration of physical media
+  and the endless worlds beyond our reach\, this is one night your eyeballs
+  may never recover from (in the best possible way)!\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4698593/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/physical-media-mind-melters-in-space/
 END:VEVENT
 BEGIN:VEVENT
 UID:4706316@vidiotsfoundation.org
@@ -49,12 +49,28 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4645034/
 DESCRIPTION:Run time: 83 min | Format: 4K Digital\n\nSeries: Community Part
- ners\, Doors Open at 6\, In the Eagle\, Special Guests in Attendance\n\nVi
- diots and One Institute are thrilled to welcome writer/director Stephen Wi
- nter for a special screening of the new 4K Restoration of the radical and 
- riotous New Queer Cinema treasure Chocolate Babies!\n\nTickets: https://vi
- diotsfoundation.org/purchase/4645034/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/chocolate-babies/
+ ners\, Doors Open at 6\, In the Eagle\, Special Guests in Attendance\, Tee
+ nTix LA\n\nVidiots and One Institute are thrilled to welcome writer/direct
+ or Stephen Winter for a special screening of the new 4K Restoration of the
+  radical and riotous New Queer Cinema treasure Chocolate Babies!\n\nTicket
+ s: https://vidiotsfoundation.org/purchase/4645034/\n\nDetails: https://vid
+ iotsfoundation.org/movies/chocolate-babies/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672343@vidiotsfoundation.org
+DTSTAMP:20261009T230000Z
+DTSTART;TZID=America/Los_Angeles:20261009T160000
+DTEND;TZID=America/Los_Angeles:20261009T175000
+SUMMARY:9 to 5
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672343/
+DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: Dol
+ ly Parton - We Will Always Love You\, In the Eagle\n\nVidiots remembers it
+ s forever Goddess Dolly Parton with a special screening of the iconic work
+ place revenge comedy 9 to 5 .\nEncore Screening Added!\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4672343/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/nine-to-five/
 END:VEVENT
 BEGIN:VEVENT
 UID:4677781@vidiotsfoundation.org
@@ -86,11 +102,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672344/
 DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R\n\nSeries: Coun
- tdown to Halloween\, In the Eagle\n\nDanny Boyle breathes new life into th
- e world of the undead with this gritty\, frenetic\, and fantastically bloo
- dy journey through a zombie-infested\, post-apocalyptic UK.\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4672344/\n\nDetails: https://vidiotsf
- oundation.org/movies/28-days-later/
+ tdown to Halloween\, In the Eagle\, TeenTix LA\n\nDanny Boyle breathes new
+  life into the world of the undead with this gritty\, frenetic\, and fanta
+ stically bloody journey through a zombie-infested\, post-apocalyptic UK.\n
+ \nTickets: https://vidiotsfoundation.org/purchase/4672344/\n\nDetails: htt
+ ps://vidiotsfoundation.org/movies/28-days-later/
 END:VEVENT
 BEGIN:VEVENT
 UID:4677779@vidiotsfoundation.org
@@ -175,10 +191,10 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672348/
 DESCRIPTION:Run time: 94 min | Format: Digital | Rating: PG-13\n\nSeries: I
- n the Eagle\n\nTop That! Behold the magic\, the music\, the hairspray\, th
- e tutus\, and the rap battles of this cheese-tastic spectacle of 80s aweso
- meness!\n\nTickets: https://vidiotsfoundation.org/purchase/4672348/\n\nDet
- ails: https://vidiotsfoundation.org/movies/teen-witch/
+ n the Eagle\, TeenTix LA\n\nTop That! Behold the magic\, the music\, the h
+ airspray\, the tutus\, and the rap battles of this cheese-tastic spectacle
+  of 80s awesomeness!\n\nTickets: https://vidiotsfoundation.org/purchase/46
+ 72348/\n\nDetails: https://vidiotsfoundation.org/movies/teen-witch/
 END:VEVENT
 BEGIN:VEVENT
 UID:4677783@vidiotsfoundation.org
@@ -242,11 +258,12 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672353/
 DESCRIPTION:Run time: 119 min | Format: Digital | Rating: R | Release year:
-  2001\n\nSeries: Countdown to Halloween\, In the Eagle\n\nKiyoshi Kurosawa
- ’s shattering masterpiece from 2001 is beyond liminality\, beyond dimens
- ion\, giving us a despair and isolation decades ahead of its time.\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4672353/\n\nDetails: https://v
- idiotsfoundation.org/movies/pulse/
+  2001\n\nSeries: Countdown to Halloween\, In the Eagle\, TeenTix LA\n\nKiy
+ oshi Kurosawa’s shattering masterpiece from 2001 is beyond liminality\, 
+ beyond dimension\, giving us a despair and isolation decades ahead of its 
+ time.\nWith an introduction by Founding Member Bret Berg from American Gen
+ re Film Archive.\n\nTickets: https://vidiotsfoundation.org/purchase/467235
+ 3/\n\nDetails: https://vidiotsfoundation.org/movies/pulse/
 END:VEVENT
 BEGIN:VEVENT
 UID:4677791@vidiotsfoundation.org
@@ -278,10 +295,10 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4729814/
 DESCRIPTION:Run time: 85 min | Format: Digital | Rating: All Ages\n\nSeries
- : Films for Everyone\, In the Eagle\n\nSee through another’s eyes\, feel
-  through another's heart\, and discover the meaning of brotherhood.\n\nTic
- kets: https://vidiotsfoundation.org/purchase/4729814/\n\nDetails: https://
- vidiotsfoundation.org/movies/brother-bear/
+ : Films for Everyone\, In the Eagle\, TeenTix LA\n\nSee through another’
+ s eyes\, feel through another's heart\, and discover the meaning of brothe
+ rhood.\n\nTickets: https://vidiotsfoundation.org/purchase/4729814/\n\nDeta
+ ils: https://vidiotsfoundation.org/movies/brother-bear/
 END:VEVENT
 BEGIN:VEVENT
 UID:4677809@vidiotsfoundation.org
@@ -313,10 +330,10 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
 URL:https://vidiotsfoundation.org/purchase/4672357/
 DESCRIPTION:Run time: 127 min | Format: Digital | Rating: PG\n\nSeries: Fil
  ms for Everyone\, In the Eagle\, Remembering Tim Curry - Don't Dream It\, 
- Be It!\n\nVidiots remembers the great Tim Curry with a special screening o
- f the musical bonanza Annie for Tim Curry lovers of all ages!\n\nTickets: 
- https://vidiotsfoundation.org/purchase/4672357/\n\nDetails: https://vidiot
- sfoundation.org/movies/annie/
+ Be It!\, TeenTix LA\n\nVidiots remembers the great Tim Curry with a specia
+ l screening of the musical bonanza Annie for Tim Curry lovers of all ages!
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4672357/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/annie/
 END:VEVENT
 BEGIN:VEVENT
 UID:4677808@vidiotsfoundation.org
@@ -372,6 +389,23 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:4726856@vidiotsfoundation.org
+DTSTAMP:20261013T023000Z
+DTSTART;TZID=America/Los_Angeles:20261012T193000
+DTEND;TZID=America/Los_Angeles:20261012T205800
+SUMMARY:Powwow People
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4726856/
+DESCRIPTION:Run time: 88 min | Format: Digital\n\nSeries: Community Partner
+ s\, Free Events\, In the Eagle\, Special Guests in Attendance\n\nVidiots\,
+  Mezzanine\, and Cousins Collective invite you to special screening of Sky
+  Hopinka's new documentary Powwow People followed by a conversation with S
+ ky Hopinka moderated by Micah Gottlieb of Mezzanine and the Los Angeles Fe
+ stival of Movies.\n\nTickets: https://vidiotsfoundation.org/purchase/47268
+ 56/\n\nDetails: https://vidiotsfoundation.org/movies/powwow-people/
+END:VEVENT
+BEGIN:VEVENT
 UID:4729511@vidiotsfoundation.org
 DTSTAMP:20261013T030000Z
 DTSTART;TZID=America/Los_Angeles:20261012T200000
@@ -420,11 +454,13 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4735523/
 DESCRIPTION:Run time: 100 min | Format: Digital | Rating: R\n\nSeries: Coun
- tdown to Halloween\, Doors Open at 6\, In the Eagle\n\nLet the hypnotic Ph
- ilip Glass score draw you into a haunting and menacing nightmare about gen
- trification and systemic racism\, perfectly helmed by Tony Todd's iconic p
- erformance.\n\nTickets: https://vidiotsfoundation.org/purchase/4735523/\n\
- nDetails: https://vidiotsfoundation.org/movies/candyman/
+ tdown to Halloween\, Doors Open at 6\, In the Eagle\, Special Guests in At
+ tendance\n\nVidiots is dying to welcome screen icon Virginia Madsen for a 
+ buzzworthy screening of Bernard Rose's horror masterpiece Candyman !\nLet 
+ the hypnotic Philip Glass score draw you into a haunting and menacing nigh
+ tmare about gentrification and systemic racism\, perfectly helmed by Tony 
+ Todd's iconic performance.\n\nTickets: https://vidiotsfoundation.org/purch
+ ase/4735523/\n\nDetails: https://vidiotsfoundation.org/movies/candyman/
 END:VEVENT
 BEGIN:VEVENT
 UID:4679430@vidiotsfoundation.org
@@ -529,10 +565,24 @@ DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Count
  dation.org/movies/videodrome/
 END:VEVENT
 BEGIN:VEVENT
-UID:4735498@vidiotsfoundation.org
+UID:4672379@vidiotsfoundation.org
 DTSTAMP:20261018T043000Z
 DTSTART;TZID=America/Los_Angeles:20261017T213000
-DTEND;TZID=America/Los_Angeles:20261017T225400
+DTEND;TZID=America/Los_Angeles:20261017T233400
+SUMMARY:Akira
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672379/
+DESCRIPTION:Run time: 124 min | Format: Digital | Rating: R | Release year:
+  1988\n\nSeries: In the Eagle\n\nNeo-Tokyo is about to E·X·P·L·O·D·E
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4672379/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/akira/
+END:VEVENT
+BEGIN:VEVENT
+UID:4735498@vidiotsfoundation.org
+DTSTAMP:20261018T044500Z
+DTSTART;TZID=America/Los_Angeles:20261017T214500
+DTEND;TZID=America/Los_Angeles:20261017T230900
 SUMMARY:Outpost
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
@@ -606,14 +656,16 @@ SUMMARY:The History of Concrete
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4735519/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOne part docume
- ntary\, one part camcorder video essay\, and one part the driest yet funni
- est of comedies\, John Wilson extends his unique genre-bending style from 
- the small screen to the big with this magnificently absurd examination of 
- the literal ground below our feet.\nMore Screenings added by Popular Deman
- d!\n\nTickets: https://vidiotsfoundation.org/purchase/4735519/\n\nDetails:
-  https://vidiotsfoundation.org/movies/the-history-of-concrete/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nOne part documentary\, one part camcorder vide
+ o essay\, and one part the driest yet funniest of comedies\, John Wilson e
+ xtends his unique genre-bending style from the small screen to the big wit
+ h this magnificently absurd examination of the literal ground below our fe
+ et.\nMore Screenings added by Popular Demand!\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4735519/\n\nDetails: https://vidiotsfoundation.org/
+ movies/the-history-of-concrete/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4751221@vidiotsfoundation.org
@@ -660,11 +712,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
 URL:https://vidiotsfoundation.org/purchase/4679487/
 DESCRIPTION:Run time: 96 min | Format: 35mm Film | Rating: R\n\nSeries: 35m
  m Film\, Countdown to Halloween\, Doors Open at 6\, In the Eagle\, Special
-  Guests in Attendance\n\nVidiots is dying to welcome back legendary direct
- or Ernest R. Dickerson for a special screening of his cult classic horror 
- starring Snoop Dogg - Bones on glorious 35mm celluloid!\n\nTickets: https:
- //vidiotsfoundation.org/purchase/4679487/\n\nDetails: https://vidiotsfound
- ation.org/movies/bones/
+  Guests in Attendance\, TeenTix LA\n\nVidiots is dying to welcome back leg
+ endary director Ernest R. Dickerson for a special screening of his cult cl
+ assic horror starring Snoop Dogg - Bones on glorious 35mm celluloid!\n\nTi
+ ckets: https://vidiotsfoundation.org/purchase/4679487/\n\nDetails: https:/
+ /vidiotsfoundation.org/movies/bones/
 END:VEVENT
 BEGIN:VEVENT
 UID:4703150@vidiotsfoundation.org
@@ -765,12 +817,12 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4679845/
 DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Coun
- tdown to Halloween\, In the Eagle\, What the Friday?!?\n\nDon't bug out - 
- we've got the creature feature your Friday night has been missing - a Guil
- lermo del Toro giant mutant cockroach movie starring Mira Sorvino and inte
- rnational superstar Giancarlo Giannini!\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4679845/\n\nDetails: https://vidiotsfoundation.org/movies
- /mimic/
+ tdown to Halloween\, In the Eagle\, TeenTix LA\, What the Friday?!?\n\nDon
+ 't bug out - we've got the creature feature your Friday night has been mis
+ sing - a Guillermo del Toro giant mutant cockroach movie starring Mira Sor
+ vino and international superstar Giancarlo Giannini!\n\nTickets: https://v
+ idiotsfoundation.org/purchase/4679845/\n\nDetails: https://vidiotsfoundati
+ on.org/movies/mimic/
 END:VEVENT
 BEGIN:VEVENT
 UID:4757612@vidiotsfoundation.org
@@ -884,11 +936,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4698519/
 DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Count
- down to Halloween\, In the Eagle\n\nOne of the best films to be released o
- n Troma's label\, James Bond III's Def by Temptation is a smart\, slick\, 
- and stylish tale of faith\, temptation\, and demons!\n\nTickets: https://v
- idiotsfoundation.org/purchase/4698519/\n\nDetails: https://vidiotsfoundati
- on.org/movies/def-by-temptation/
+ down to Halloween\, In the Eagle\, TeenTix LA\n\nOne of the best films to 
+ be released on Troma's label\, James Bond III's Def by Temptation is a sma
+ rt\, slick\, and stylish tale of faith\, temptation\, and demons!\n\nTicke
+ ts: https://vidiotsfoundation.org/purchase/4698519/\n\nDetails: https://vi
+ diotsfoundation.org/movies/def-by-temptation/
 END:VEVENT
 BEGIN:VEVENT
 UID:4698559@vidiotsfoundation.org
@@ -915,9 +967,9 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
 URL:https://vidiotsfoundation.org/purchase/4672403/
 DESCRIPTION:Run time: 105 min | Format: Digital | Rating: All Ages | Releas
  e year: 2017\n\nSeries: Día de los Muertos Celebration\, Films for Everyo
- ne\, In the Eagle\n\nCelebrate Día De Los Muertos with Coco!\nSpecial Dis
- counted Tickets!\n\nTickets: https://vidiotsfoundation.org/purchase/467240
- 3/\n\nDetails: https://vidiotsfoundation.org/movies/coco/
+ ne\, In the Eagle\, TeenTix LA\n\nCelebrate Día De Los Muertos with Coco!
+ \nSpecial Discounted Tickets!\n\nTickets: https://vidiotsfoundation.org/pu
+ rchase/4672403/\n\nDetails: https://vidiotsfoundation.org/movies/coco/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672401@vidiotsfoundation.org
@@ -1155,11 +1207,12 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4675363/
 DESCRIPTION:Run time: 75 min | Format: Digital\n\nSeries: Countdown to Hall
- oween\, In the Eagle\n\nOpenly queer film director James Whale's gothic ma
- sterpiece weaves the artistic style of German Expressionism\, a distinctly
-  camp sensibility\, and a story of otherness that resonates throughout his
- tory.\n\nTickets: https://vidiotsfoundation.org/purchase/4675363/\n\nDetai
- ls: https://vidiotsfoundation.org/movies/bride-of-frankenstein/
+ oween\, In the Eagle\, TeenTix LA\n\nOpenly queer film director James Whal
+ e's gothic masterpiece weaves the artistic style of German Expressionism\,
+  a distinctly camp sensibility\, and a story of otherness that resonates t
+ hroughout history.\n\nTickets: https://vidiotsfoundation.org/purchase/4675
+ 363/\n\nDetails: https://vidiotsfoundation.org/movies/bride-of-frankenstei
+ n/
 END:VEVENT
 BEGIN:VEVENT
 UID:4675239@vidiotsfoundation.org
