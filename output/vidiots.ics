@@ -8,39 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4706316@vidiotsfoundation.org
-DTSTAMP:20261008T020000Z
-DTSTART;TZID=America/Los_Angeles:20261007T190000
-DTEND;TZID=America/Los_Angeles:20261007T203500
-SUMMARY:If I Go Will They Miss Me
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4706316/
-DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: In the MUBI Micro
- cinema\n\nA poetic\, emotionally expansive father-son story about Black fa
- mily\, grace\, imagination\, and the hope that love can transform even the
-  most fragile relationships into something more healing and beautiful.\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4706316/\n\nDetails: https
- ://vidiotsfoundation.org/movies/if-i-go-will-they-miss-me/
-END:VEVENT
-BEGIN:VEVENT
-UID:4645034@vidiotsfoundation.org
-DTSTAMP:20261008T023000Z
-DTSTART;TZID=America/Los_Angeles:20261007T193000
-DTEND;TZID=America/Los_Angeles:20261007T205300
-SUMMARY:Chocolate Babies
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4645034/
-DESCRIPTION:Run time: 83 min | Format: 4K Digital\n\nSeries: Community Part
- ners\, Doors Open at 6\, In the Eagle\, Special Guests in Attendance\, Tee
- nTix LA\n\nVidiots and One Institute are thrilled to welcome writer/direct
- or Stephen Winter for a special screening of the new 4K Restoration of the
-  radical and riotous New Queer Cinema treasure Chocolate Babies!\n\nTicket
- s: https://vidiotsfoundation.org/purchase/4645034/\n\nDetails: https://vid
- iotsfoundation.org/movies/chocolate-babies/
-END:VEVENT
-BEGIN:VEVENT
 UID:4672343@vidiotsfoundation.org
 DTSTAMP:20261009T230000Z
 DTSTART;TZID=America/Los_Angeles:20261009T160000
@@ -667,14 +634,16 @@ SUMMARY:The History of Concrete
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4751221/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOne part docume
- ntary\, one part camcorder video essay\, and one part the driest yet funni
- est of comedies\, John Wilson extends his unique genre-bending style from 
- the small screen to the big with this magnificently absurd examination of 
- the literal ground below our feet.\nMore Screenings added by Popular Deman
- d!\n\nTickets: https://vidiotsfoundation.org/purchase/4751221/\n\nDetails:
-  https://vidiotsfoundation.org/movies/the-history-of-concrete/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nOne part documentary\, one part camcorder vide
+ o essay\, and one part the driest yet funniest of comedies\, John Wilson e
+ xtends his unique genre-bending style from the small screen to the big wit
+ h this magnificently absurd examination of the literal ground below our fe
+ et.\nMore Screenings added by Popular Demand!\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4751221/\n\nDetails: https://vidiotsfoundation.org/
+ movies/the-history-of-concrete/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4751215@vidiotsfoundation.org
@@ -1238,19 +1207,36 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 BEGIN:VEVENT
-UID:4698593@vidiotsfoundation.org
-DTSTAMP:20261007T023000Z
-DTSTART;TZID=America/Los_Angeles:20261006T193000
-DTEND;TZID=America/Los_Angeles:20261006T213000
-SUMMARY:Physical Media Mind-Melters: Vidiots in Space!
+UID:4706316@vidiotsfoundation.org
+DTSTAMP:20261008T020000Z
+DTSTART;TZID=America/Los_Angeles:20261007T190000
+DTEND;TZID=America/Los_Angeles:20261007T203500
+SUMMARY:If I Go Will They Miss Me
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4706316/
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: In the MUBI Micro
+ cinema\n\nA poetic\, emotionally expansive father-son story about Black fa
+ mily\, grace\, imagination\, and the hope that love can transform even the
+  most fragile relationships into something more healing and beautiful.\n\n
+ Tickets: https://vidiotsfoundation.org/purchase/4706316/\n\nDetails: https
+ ://vidiotsfoundation.org/movies/if-i-go-will-they-miss-me/
+END:VEVENT
+BEGIN:VEVENT
+UID:4645034@vidiotsfoundation.org
+DTSTAMP:20261008T023000Z
+DTSTART;TZID=America/Los_Angeles:20261007T193000
+DTEND;TZID=America/Los_Angeles:20261007T205300
+SUMMARY:Chocolate Babies
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4698593/
-DESCRIPTION:Series: 35mm Film\, Doors Open at 6\, In the Eagle\, TeenTix LA
- \n\nPsychedelic\, funny\, weird\, and all in celebration of physical media
-  and the endless worlds beyond our reach\, this is one night your eyeballs
-  may never recover from (in the best possible way)!\n\nTickets: https://vi
- diotsfoundation.org/purchase/4698593/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/physical-media-mind-melters-in-space/
+URL:https://vidiotsfoundation.org/purchase/4645034/
+DESCRIPTION:Run time: 83 min | Format: 4K Digital\n\nSeries: Community Part
+ ners\, Doors Open at 6\, In the Eagle\, Special Guests in Attendance\, Tee
+ nTix LA\n\nVidiots and One Institute are thrilled to welcome writer/direct
+ or Stephen Winter for a special screening of the new 4K Restoration of the
+  radical and riotous New Queer Cinema treasure Chocolate Babies!\n\nTicket
+ s: https://vidiotsfoundation.org/purchase/4645034/\n\nDetails: https://vid
+ iotsfoundation.org/movies/chocolate-babies/
 END:VEVENT
 END:VCALENDAR
