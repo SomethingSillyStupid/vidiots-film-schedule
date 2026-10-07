@@ -1125,6 +1125,23 @@ DESCRIPTION:Run time: 104 min | Format: Digital | Rating: PG-13\n\nSeries:
  Details: https://vidiotsfoundation.org/movies/practical-magic/
 END:VEVENT
 BEGIN:VEVENT
+UID:4757991@vidiotsfoundation.org
+DTSTAMP:20261031T023000Z
+DTSTART;TZID=America/Los_Angeles:20261030T193000
+DTEND;TZID=America/Los_Angeles:20261030T210000
+SUMMARY:The Restoration at Grayson Manor
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4757991/
+DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
+ , Countdown to Halloween\, In the MUBI Microcinema\n\nThis campy queer hor
+ ror film is a morbidly entertaining combination of classic Hollywood\, got
+ hic terror\, and high-pitched melodrama\, featuring a one-of-a-kind perfor
+ mance from Chris Colfer!\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4757991/\n\nDetails: https://vidiotsfoundation.org/movies/the-restoratio
+ n-at-grayson-manor/
+END:VEVENT
+BEGIN:VEVENT
 UID:4672425@vidiotsfoundation.org
 DTSTAMP:20261031T044500Z
 DTSTART;TZID=America/Los_Angeles:20261030T214500
@@ -1191,6 +1208,23 @@ DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: Count
  iotsfoundation.org/movies/halloween/
 END:VEVENT
 BEGIN:VEVENT
+UID:4758023@vidiotsfoundation.org
+DTSTAMP:20261101T022000Z
+DTSTART;TZID=America/Los_Angeles:20261031T192000
+DTEND;TZID=America/Los_Angeles:20261031T205000
+SUMMARY:The Restoration at Grayson Manor
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4758023/
+DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
+ , Countdown to Halloween\, In the MUBI Microcinema\n\nThis campy queer hor
+ ror film is a morbidly entertaining combination of classic Hollywood\, got
+ hic terror\, and high-pitched melodrama\, featuring a one-of-a-kind perfor
+ mance from Chris Colfer!\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4758023/\n\nDetails: https://vidiotsfoundation.org/movies/the-restoratio
+ n-at-grayson-manor/
+END:VEVENT
+BEGIN:VEVENT
 UID:4675360@vidiotsfoundation.org
 DTSTAMP:20261101T044500Z
 DTSTART;TZID=America/Los_Angeles:20261031T214500
@@ -1205,6 +1239,23 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
   and few films since have matched its levels of visceral torture.\n\nTicke
  ts: https://vidiotsfoundation.org/purchase/4675360/\n\nDetails: https://vi
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
+END:VEVENT
+BEGIN:VEVENT
+UID:4788983@vidiotsfoundation.org
+DTSTAMP:20261102T033000Z
+DTSTART;TZID=America/Los_Angeles:20261101T193000
+DTEND;TZID=America/Los_Angeles:20261101T210000
+SUMMARY:The Restoration at Grayson Manor
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4788983/
+DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
+ , Countdown to Halloween\, In the MUBI Microcinema\n\nThis campy queer hor
+ ror film is a morbidly entertaining combination of classic Hollywood\, got
+ hic terror\, and high-pitched melodrama\, featuring a one-of-a-kind perfor
+ mance from Chris Colfer!\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4788983/\n\nDetails: https://vidiotsfoundation.org/movies/the-restoratio
+ n-at-grayson-manor/
 END:VEVENT
 BEGIN:VEVENT
 UID:4706316@vidiotsfoundation.org
