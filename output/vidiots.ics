@@ -1258,37 +1258,4 @@ DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
  e/4788983/\n\nDetails: https://vidiotsfoundation.org/movies/the-restoratio
  n-at-grayson-manor/
 END:VEVENT
-BEGIN:VEVENT
-UID:4706316@vidiotsfoundation.org
-DTSTAMP:20261008T020000Z
-DTSTART;TZID=America/Los_Angeles:20261007T190000
-DTEND;TZID=America/Los_Angeles:20261007T203500
-SUMMARY:If I Go Will They Miss Me
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4706316/
-DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: In the MUBI Micro
- cinema\n\nA poetic\, emotionally expansive father-son story about Black fa
- mily\, grace\, imagination\, and the hope that love can transform even the
-  most fragile relationships into something more healing and beautiful.\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4706316/\n\nDetails: https
- ://vidiotsfoundation.org/movies/if-i-go-will-they-miss-me/
-END:VEVENT
-BEGIN:VEVENT
-UID:4645034@vidiotsfoundation.org
-DTSTAMP:20261008T023000Z
-DTSTART;TZID=America/Los_Angeles:20261007T193000
-DTEND;TZID=America/Los_Angeles:20261007T205300
-SUMMARY:Chocolate Babies
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4645034/
-DESCRIPTION:Run time: 83 min | Format: 4K Digital\n\nSeries: Community Part
- ners\, Doors Open at 6\, In the Eagle\, Special Guests in Attendance\, Tee
- nTix LA\n\nVidiots and One Institute are thrilled to welcome writer/direct
- or Stephen Winter for a special screening of the new 4K Restoration of the
-  radical and riotous New Queer Cinema treasure Chocolate Babies!\n\nTicket
- s: https://vidiotsfoundation.org/purchase/4645034/\n\nDetails: https://vid
- iotsfoundation.org/movies/chocolate-babies/
-END:VEVENT
 END:VCALENDAR
