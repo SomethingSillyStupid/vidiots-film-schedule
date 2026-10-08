@@ -1242,6 +1242,24 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 BEGIN:VEVENT
+UID:4788988@vidiotsfoundation.org
+DTSTAMP:20261102T001500Z
+DTSTART;TZID=America/Los_Angeles:20261101T161500
+DTEND;TZID=America/Los_Angeles:20261101T181100
+SUMMARY:Remake
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4788988/
+DESCRIPTION:Run time: 116 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in th
+ e microcinema for one of the most profound documentary experiences of the 
+ year\, legendary game-changing documentarian Ross McElwee's beautifully he
+ artbreaking triumph Remake .\nWith a special introduction from non-fiction
+  filmmaking legend Ross McElwee at the Sunday\, November 1st screening!\n\
+ nTickets: https://vidiotsfoundation.org/purchase/4788988/\n\nDetails: http
+ s://vidiotsfoundation.org/movies/remake/
+END:VEVENT
+BEGIN:VEVENT
 UID:4788983@vidiotsfoundation.org
 DTSTAMP:20261102T033000Z
 DTSTART;TZID=America/Los_Angeles:20261101T193000
