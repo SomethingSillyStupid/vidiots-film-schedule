@@ -8,6 +8,62 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
+UID:4677783@vidiotsfoundation.org
+DTSTAMP:20261010T231500Z
+DTSTART;TZID=America/Los_Angeles:20261010T161500
+DTEND;TZID=America/Los_Angeles:20261010T174200
+SUMMARY:Bird in Hand
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677783/
+DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
+  microcinema for Melody Roscher's bitingly comic feature film debut that w
+ eaves themes of race\, belonging\, and family into a mercurial journey.\nW
+ riter/Director Melody C. Roscher in person at all screenings!\n\nTickets: 
+ https://vidiotsfoundation.org/purchase/4677783/\n\nDetails: https://vidiot
+ sfoundation.org/movies/bird-in-hand/
+END:VEVENT
+BEGIN:VEVENT
+UID:4677784@vidiotsfoundation.org
+DTSTAMP:20261011T014500Z
+DTSTART;TZID=America/Los_Angeles:20261010T184500
+DTEND;TZID=America/Los_Angeles:20261010T203000
+SUMMARY:First They Came for My College
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677784/
+DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests i
+ n Attendance\n\nWhen Florida Governor Ron DeSantis stages a coup at New Co
+ llege\, the state’s beloved public honors college\, students and profess
+ ors confront a new reality: their campus is ground zero in an unprecedente
+ d nationwide assault on academic freedom and diversity.\nFollowed by a con
+ versation with director Patrick Bresnan at both screenings!\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4677784/\n\nDetails: https://vidiotsf
+ oundation.org/movies/first-they-came-for-my-college/
+END:VEVENT
+BEGIN:VEVENT
+UID:4677791@vidiotsfoundation.org
+DTSTAMP:20261011T050000Z
+DTSTART;TZID=America/Los_Angeles:20261010T220000
+DTEND;TZID=America/Los_Angeles:20261010T234100
+SUMMARY:The History of Concrete
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677791/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Gr
+ oundbreaking Non-Fiction\n\nOne part documentary\, one part camcorder vide
+ o essay\, and one part the driest yet funniest of comedies\, John Wilson e
+ xtends his unique genre-bending style from the small screen to the big wit
+ h this magnificently absurd examination of the literal ground below our fe
+ et.\nMore Screenings added by Popular Demand!\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4677791/\n\nDetails: https://vidiotsfoundation.org/
+ movies/the-history-of-concrete/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:4729814@vidiotsfoundation.org
 DTSTAMP:20261011T194500Z
 DTSTART;TZID=America/Los_Angeles:20261011T124500
@@ -21,6 +77,25 @@ DESCRIPTION:Run time: 85 min | Format: Digital | Rating: All Ages\n\nSeries
  s eyes\, feel through another's heart\, and discover the meaning of brothe
  rhood.\n\nTickets: https://vidiotsfoundation.org/purchase/4729814/\n\nDeta
  ils: https://vidiotsfoundation.org/movies/brother-bear/
+END:VEVENT
+BEGIN:VEVENT
+UID:4677809@vidiotsfoundation.org
+DTSTAMP:20261011T203000Z
+DTSTART;TZID=America/Los_Angeles:20261011T133000
+DTEND;TZID=America/Los_Angeles:20261011T151500
+SUMMARY:First They Came for My College
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677809/
+DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests i
+ n Attendance\n\nWhen Florida Governor Ron DeSantis stages a coup at New Co
+ llege\, the state’s beloved public honors college\, students and profess
+ ors confront a new reality: their campus is ground zero in an unprecedente
+ d nationwide assault on academic freedom and diversity.\nFollowed by a con
+ versation with director Patrick Bresnan at both screenings!\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4677809/\n\nDetails: https://vidiotsf
+ oundation.org/movies/first-they-came-for-my-college/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672357@vidiotsfoundation.org
@@ -39,6 +114,23 @@ DESCRIPTION:Run time: 127 min | Format: Digital | Rating: PG\n\nSeries: Fil
  ttps://vidiotsfoundation.org/movies/annie/
 END:VEVENT
 BEGIN:VEVENT
+UID:4677808@vidiotsfoundation.org
+DTSTAMP:20261011T233000Z
+DTSTART;TZID=America/Los_Angeles:20261011T163000
+DTEND;TZID=America/Los_Angeles:20261011T175700
+SUMMARY:Bird in Hand
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677808/
+DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
+  microcinema for Melody Roscher's bitingly comic feature film debut that w
+ eaves themes of race\, belonging\, and family into a mercurial journey.\nW
+ riter/Director Melody C. Roscher in person at all screenings!\n\nTickets: 
+ https://vidiotsfoundation.org/purchase/4677808/\n\nDetails: https://vidiot
+ sfoundation.org/movies/bird-in-hand/
+END:VEVENT
+BEGIN:VEVENT
 UID:4751212@vidiotsfoundation.org
 DTSTAMP:20261012T020000Z
 DTSTART;TZID=America/Los_Angeles:20261011T190000
@@ -53,6 +145,26 @@ DESCRIPTION:Run time: 102 min | Format: Digital | Rating: R\n\nSeries: Coun
  al measures as it steers you through the disquieting mind as it unravels i
  nto madness.\n\nTickets: https://vidiotsfoundation.org/purchase/4751212/\n
  \nDetails: https://vidiotsfoundation.org/movies/american-psycho/
+END:VEVENT
+BEGIN:VEVENT
+UID:4677807@vidiotsfoundation.org
+DTSTAMP:20261012T023000Z
+DTSTART;TZID=America/Los_Angeles:20261011T193000
+DTEND;TZID=America/Los_Angeles:20261011T211100
+SUMMARY:The History of Concrete
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677807/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Gr
+ oundbreaking Non-Fiction\n\nOne part documentary\, one part camcorder vide
+ o essay\, and one part the driest yet funniest of comedies\, John Wilson e
+ xtends his unique genre-bending style from the small screen to the big wit
+ h this magnificently absurd examination of the literal ground below our fe
+ et.\nMore Screenings added by Popular Demand!\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4677807/\n\nDetails: https://vidiotsfoundation.org/
+ movies/the-history-of-concrete/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4726856@vidiotsfoundation.org
@@ -71,6 +183,26 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
  ottlieb of Mezzanine and the Los Angeles Festival of Movies.\n\nTickets: h
  ttps://vidiotsfoundation.org/purchase/4726856/\n\nDetails: https://vidiots
  foundation.org/movies/powwow-people/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4729511@vidiotsfoundation.org
+DTSTAMP:20261013T030000Z
+DTSTART;TZID=America/Los_Angeles:20261012T200000
+DTEND;TZID=America/Los_Angeles:20261012T214100
+SUMMARY:The History of Concrete
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4729511/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Gr
+ oundbreaking Non-Fiction\n\nOne part documentary\, one part camcorder vide
+ o essay\, and one part the driest yet funniest of comedies\, John Wilson e
+ xtends his unique genre-bending style from the small screen to the big wit
+ h this magnificently absurd examination of the literal ground below our fe
+ et.\nMore Screenings added by Popular Demand!\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4729511/\n\nDetails: https://vidiotsfoundation.org/
+ movies/the-history-of-concrete/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -176,6 +308,26 @@ DESCRIPTION:Run time: 101 min\n\nSeries: In the Eagle\, Special Guests in A
  ls: https://vidiotsfoundation.org/movies/breaking-away/
 END:VEVENT
 BEGIN:VEVENT
+UID:4735493@vidiotsfoundation.org
+DTSTAMP:20261018T013000Z
+DTSTART;TZID=America/Los_Angeles:20261017T183000
+DTEND;TZID=America/Los_Angeles:20261017T201100
+SUMMARY:The History of Concrete
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4735493/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Gr
+ oundbreaking Non-Fiction\n\nOne part documentary\, one part camcorder vide
+ o essay\, and one part the driest yet funniest of comedies\, John Wilson e
+ xtends his unique genre-bending style from the small screen to the big wit
+ h this magnificently absurd examination of the literal ground below our fe
+ et.\nMore Screenings added by Popular Demand!\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4735493/\n\nDetails: https://vidiotsfoundation.org/
+ movies/the-history-of-concrete/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:4672378@vidiotsfoundation.org
 DTSTAMP:20261018T020000Z
 DTSTART;TZID=America/Los_Angeles:20261017T190000
@@ -240,6 +392,26 @@ DESCRIPTION:Run time: 97 min | Format: Digital | Rating: All Ages\n\nSeries
  o-witch-mountain/
 END:VEVENT
 BEGIN:VEVENT
+UID:4735518@vidiotsfoundation.org
+DTSTAMP:20261018T193000Z
+DTSTART;TZID=America/Los_Angeles:20261018T123000
+DTEND;TZID=America/Los_Angeles:20261018T141100
+SUMMARY:The History of Concrete
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4735518/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Gr
+ oundbreaking Non-Fiction\n\nOne part documentary\, one part camcorder vide
+ o essay\, and one part the driest yet funniest of comedies\, John Wilson e
+ xtends his unique genre-bending style from the small screen to the big wit
+ h this magnificently absurd examination of the literal ground below our fe
+ et.\nMore Screenings added by Popular Demand!\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4735518/\n\nDetails: https://vidiotsfoundation.org/
+ movies/the-history-of-concrete/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:4761798@vidiotsfoundation.org
 DTSTAMP:20261018T220000Z
 DTSTART;TZID=America/Los_Angeles:20261018T150000
@@ -256,6 +428,46 @@ DESCRIPTION:Run time: 120 min | Format: Digital\n\nSeries: Community Partne
  04-94c6-4c3c-8961-963f363d7a45/events/vevt:d56171e1-fa9d-4dda-b762-c0a7179
  13bf3/home/story\n\nDetails: https://vidiotsfoundation.org/movies/a-tribut
  e-to-treehouse-of-horror/
+END:VEVENT
+BEGIN:VEVENT
+UID:4735519@vidiotsfoundation.org
+DTSTAMP:20261018T223000Z
+DTSTART;TZID=America/Los_Angeles:20261018T153000
+DTEND;TZID=America/Los_Angeles:20261018T171100
+SUMMARY:The History of Concrete
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4735519/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Gr
+ oundbreaking Non-Fiction\n\nOne part documentary\, one part camcorder vide
+ o essay\, and one part the driest yet funniest of comedies\, John Wilson e
+ xtends his unique genre-bending style from the small screen to the big wit
+ h this magnificently absurd examination of the literal ground below our fe
+ et.\nMore Screenings added by Popular Demand!\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4735519/\n\nDetails: https://vidiotsfoundation.org/
+ movies/the-history-of-concrete/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4751221@vidiotsfoundation.org
+DTSTAMP:20261021T020000Z
+DTSTART;TZID=America/Los_Angeles:20261020T190000
+DTEND;TZID=America/Los_Angeles:20261020T204100
+SUMMARY:The History of Concrete
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4751221/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Gr
+ oundbreaking Non-Fiction\n\nOne part documentary\, one part camcorder vide
+ o essay\, and one part the driest yet funniest of comedies\, John Wilson e
+ xtends his unique genre-bending style from the small screen to the big wit
+ h this magnificently absurd examination of the literal ground below our fe
+ et.\nMore Screenings added by Popular Demand!\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4751221/\n\nDetails: https://vidiotsfoundation.org/
+ movies/the-history-of-concrete/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4751215@vidiotsfoundation.org
@@ -317,16 +529,17 @@ SUMMARY:Death Becomes Her + Vidiots Halloween Party
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672393/
-DESCRIPTION:Run time: 104 min | Format: Digital | Rating: PG-13\n\nSeries: 
- Countdown to Halloween\, Doors Open at 6\, In the Eagle\, Live DJ Set\n\nB
- ring your best frenemies and get ready for Vidiots annual Halloween Shindi
- g! We'll be kicking off the night with extra spooky tunes from DJ Jéli\, 
- Tarot Card Readings\, and creeped out vibes before diving into the everlas
- ting classic dark comedy Death Becomes Her\, followed by more Halloweenie 
- revelry and plenty of spooky Vidiots fun. So\, put on your costumes\, brin
- g your besties\, and come for one killer party!\n\nTickets: https://vidiot
- sfoundation.org/purchase/4672393/\n\nDetails: https://vidiotsfoundation.or
- g/movies/death-becomes-her/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 104 min | 
+ Format: Digital | Rating: PG-13\n\nSeries: Countdown to Halloween\, Doors 
+ Open at 6\, In the Eagle\, Live DJ Set\n\nBring your best frenemies and ge
+ t ready for Vidiots annual Halloween Shindig! We'll be kicking off the nig
+ ht with extra spooky tunes from DJ Jéli\, Tarot Card Readings\, and creep
+ ed out vibes before diving into the everlasting classic dark comedy Death 
+ Becomes Her\, followed by more Halloweenie revelry and plenty of spooky Vi
+ diots fun. So\, put on your costumes\, bring your besties\, and come for o
+ ne killer party!\n\nTickets: https://vidiotsfoundation.org/purchase/467239
+ 3/\n\nDetails: https://vidiotsfoundation.org/movies/death-becomes-her/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4703169@vidiotsfoundation.org
@@ -397,6 +610,24 @@ DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Coun
  on.org/movies/mimic/
 END:VEVENT
 BEGIN:VEVENT
+UID:4757612@vidiotsfoundation.org
+DTSTAMP:20261024T051500Z
+DTSTART;TZID=America/Los_Angeles:20261023T221500
+DTEND;TZID=America/Los_Angeles:20261023T235600
+SUMMARY:The History of Concrete
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4757612/
+DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\, Groundbreaking Non-Fiction\n\nOne part docume
+ ntary\, one part camcorder video essay\, and one part the driest yet funni
+ est of comedies\, John Wilson extends his unique genre-bending style from 
+ the small screen to the big with this magnificently absurd examination of 
+ the literal ground below our feet.\nMore Screenings added by Popular Deman
+ d!\n\nTickets: https://vidiotsfoundation.org/purchase/4757612/\n\nDetails:
+  https://vidiotsfoundation.org/movies/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
 UID:4672394@vidiotsfoundation.org
 DTSTAMP:20261024T201500Z
 DTSTART;TZID=America/Los_Angeles:20261024T131500
@@ -455,13 +686,14 @@ SUMMARY:The Shining on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672395/
-DESCRIPTION:Run time: 144 min | Format: 35mm Film | Rating: R\n\nSeries: 35
- mm Film\, Countdown to Halloween\, In the Eagle\n\nThis Stephen King adapt
- ation crawls with atmospheric dread from the opening scene to the closing 
- credits\, inhabiting a special place in the psyche of all those who have w
- itnessed its bloody\, psychotic mastery.\n\nTickets: https://vidiotsfounda
- tion.org/purchase/4672395/\n\nDetails: https://vidiotsfoundation.org/movie
- s/the-shining/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 144 min | 
+ Format: 35mm Film | Rating: R\n\nSeries: 35mm Film\, Countdown to Hallowee
+ n\, In the Eagle\n\nThis Stephen King adaptation crawls with atmospheric d
+ read from the opening scene to the closing credits\, inhabiting a special 
+ place in the psyche of all those who have witnessed its bloody\, psychotic
+  mastery.\n\nTickets: https://vidiotsfoundation.org/purchase/4672395/\n\nD
+ etails: https://vidiotsfoundation.org/movies/the-shining/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4757625@vidiotsfoundation.org
@@ -901,25 +1133,6 @@ DESCRIPTION:Run time: 94 min | Format: Digital | Rating: PG-13\n\nSeries: I
  uction from actor/rapper extraordinaire Noah Blake!\n\nTickets: https://vi
  diotsfoundation.org/purchase/4672348/\n\nDetails: https://vidiotsfoundatio
  n.org/movies/teen-witch/
-END:VEVENT
-BEGIN:VEVENT
-UID:4677784@vidiotsfoundation.org
-DTSTAMP:20261011T014500Z
-DTSTART;TZID=America/Los_Angeles:20261010T184500
-DTEND;TZID=America/Los_Angeles:20261010T203000
-SUMMARY:First They Came for My College
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677784/
-DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests i
- n Attendance\n\nWhen Florida Governor Ron DeSantis stages a coup at New Co
- llege\, the state’s beloved public honors college\, students and profess
- ors confront a new reality: their campus is ground zero in an unprecedente
- d nationwide assault on academic freedom and diversity.\nFollowed by a con
- versation with director Patrick Bresnan at both screenings!\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4677784/\n\nDetails: https://vidiotsf
- oundation.org/movies/first-they-came-for-my-college/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672349@vidiotsfoundation.org
