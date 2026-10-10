@@ -8,92 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4672347@vidiotsfoundation.org
-DTSTAMP:20261010T200000Z
-DTSTART;TZID=America/Los_Angeles:20261010T130000
-DTEND;TZID=America/Los_Angeles:20261010T142700
-SUMMARY:Frankenweenie
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672347/
-DESCRIPTION:Run time: 87 min | Format: Digital | Rating: PG\n\nSeries: Film
- s for Everyone\, In the Eagle\, Remembering Catherine O'Hara\n\nRe-animate
-  your weekend with Tim Burton's adorably oddball animated send-off to horr
- or\, with enough goofs and gaffs for the whole family.\n\nTickets: https:/
- /vidiotsfoundation.org/purchase/4672347/\n\nDetails: https://vidiotsfounda
- tion.org/movies/frankenweenie/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672348@vidiotsfoundation.org
-DTSTAMP:20261010T230000Z
-DTSTART;TZID=America/Los_Angeles:20261010T160000
-DTEND;TZID=America/Los_Angeles:20261010T173400
-SUMMARY:Teen Witch
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672348/
-DESCRIPTION:Run time: 94 min | Format: Digital | Rating: PG-13\n\nSeries: I
- n the Eagle\, Special Guests in Attendance\, TeenTix LA\n\nTop That! Behol
- d the magic\, the music\, the hairspray\, the tutus\, and the rap battles 
- of this cheese-tastic spectacle of 80s awesomeness!\nWith a special introd
- uction from actor/rapper extraordinaire Noah Blake!\n\nTickets: https://vi
- diotsfoundation.org/purchase/4672348/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/teen-witch/
-END:VEVENT
-BEGIN:VEVENT
-UID:4677784@vidiotsfoundation.org
-DTSTAMP:20261011T014500Z
-DTSTART;TZID=America/Los_Angeles:20261010T184500
-DTEND;TZID=America/Los_Angeles:20261010T203000
-SUMMARY:First They Came for My College
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677784/
-DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests i
- n Attendance\n\nWhen Florida Governor Ron DeSantis stages a coup at New Co
- llege\, the state’s beloved public honors college\, students and profess
- ors confront a new reality: their campus is ground zero in an unprecedente
- d nationwide assault on academic freedom and diversity.\nFollowed by a con
- versation with director Patrick Bresnan at both screenings!\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4677784/\n\nDetails: https://vidiotsf
- oundation.org/movies/first-they-came-for-my-college/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672349@vidiotsfoundation.org
-DTSTAMP:20261011T020000Z
-DTSTART;TZID=America/Los_Angeles:20261010T190000
-DTEND;TZID=America/Los_Angeles:20261010T203400
-SUMMARY:Clue
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672349/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 94 min | F
- ormat: Digital | Rating: PG\n\nSeries: In the Eagle\, Remembering Tim Curr
- y - Don't Dream It\, Be It!\n\nVidiots remembers the iconic legacy of the 
- great Tim Curry with a special screening of the mirthful murder mystery Cl
- ue!\n\nTickets: https://vidiotsfoundation.org/purchase/4672349/\n\nDetails
- : https://vidiotsfoundation.org/movies/clue-1985/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4672353@vidiotsfoundation.org
-DTSTAMP:20261011T044500Z
-DTSTART;TZID=America/Los_Angeles:20261010T214500
-DTEND;TZID=America/Los_Angeles:20261010T234400
-SUMMARY:Pulse
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672353/
-DESCRIPTION:Run time: 119 min | Format: Digital | Rating: R | Release year:
-  2001\n\nSeries: Countdown to Halloween\, In the Eagle\, TeenTix LA\n\nKiy
- oshi Kurosawa’s shattering masterpiece from 2001 is beyond liminality\, 
- beyond dimension\, giving us a despair and isolation decades ahead of its 
- time.\nWith an introduction by Founding Member Bret Berg from American Gen
- re Film Archive.\n\nTickets: https://vidiotsfoundation.org/purchase/467235
- 3/\n\nDetails: https://vidiotsfoundation.org/movies/pulse/
-END:VEVENT
-BEGIN:VEVENT
 UID:4729814@vidiotsfoundation.org
 DTSTAMP:20261011T194500Z
 DTSTART;TZID=America/Los_Angeles:20261011T124500
@@ -107,25 +21,6 @@ DESCRIPTION:Run time: 85 min | Format: Digital | Rating: All Ages\n\nSeries
  s eyes\, feel through another's heart\, and discover the meaning of brothe
  rhood.\n\nTickets: https://vidiotsfoundation.org/purchase/4729814/\n\nDeta
  ils: https://vidiotsfoundation.org/movies/brother-bear/
-END:VEVENT
-BEGIN:VEVENT
-UID:4677809@vidiotsfoundation.org
-DTSTAMP:20261011T203000Z
-DTSTART;TZID=America/Los_Angeles:20261011T133000
-DTEND;TZID=America/Los_Angeles:20261011T151500
-SUMMARY:First They Came for My College
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677809/
-DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests i
- n Attendance\n\nWhen Florida Governor Ron DeSantis stages a coup at New Co
- llege\, the state’s beloved public honors college\, students and profess
- ors confront a new reality: their campus is ground zero in an unprecedente
- d nationwide assault on academic freedom and diversity.\nFollowed by a con
- versation with director Patrick Bresnan at both screenings!\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4677809/\n\nDetails: https://vidiotsf
- oundation.org/movies/first-they-came-for-my-college/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672357@vidiotsfoundation.org
@@ -975,112 +870,89 @@ DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
  n-at-grayson-manor/
 END:VEVENT
 BEGIN:VEVENT
-UID:4672343@vidiotsfoundation.org
-DTSTAMP:20261009T230000Z
-DTSTART;TZID=America/Los_Angeles:20261009T160000
-DTEND;TZID=America/Los_Angeles:20261009T175000
-SUMMARY:9 to 5
+UID:4672347@vidiotsfoundation.org
+DTSTAMP:20261010T200000Z
+DTSTART;TZID=America/Los_Angeles:20261010T130000
+DTEND;TZID=America/Los_Angeles:20261010T142700
+SUMMARY:Frankenweenie
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672343/
-DESCRIPTION:Run time: 110 min | Format: Digital | Rating: PG\n\nSeries: Dol
- ly Parton - We Will Always Love You\, In the Eagle\n\nVidiots remembers it
- s forever Goddess Dolly Parton with a special screening of the iconic work
- place revenge comedy 9 to 5 .\nEncore Screening Added!\n\nTickets: https:/
- /vidiotsfoundation.org/purchase/4672343/\n\nDetails: https://vidiotsfounda
- tion.org/movies/nine-to-five/
+URL:https://vidiotsfoundation.org/purchase/4672347/
+DESCRIPTION:Run time: 87 min | Format: Digital | Rating: PG\n\nSeries: Film
+ s for Everyone\, In the Eagle\, Remembering Catherine O'Hara\n\nRe-animate
+  your weekend with Tim Burton's adorably oddball animated send-off to horr
+ or\, with enough goofs and gaffs for the whole family.\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4672347/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/frankenweenie/
 END:VEVENT
 BEGIN:VEVENT
-UID:4677781@vidiotsfoundation.org
-DTSTAMP:20261009T233000Z
-DTSTART;TZID=America/Los_Angeles:20261009T163000
-DTEND;TZID=America/Los_Angeles:20261009T181100
-SUMMARY:The History of Concrete
+UID:4672348@vidiotsfoundation.org
+DTSTAMP:20261010T230000Z
+DTSTART;TZID=America/Los_Angeles:20261010T160000
+DTEND;TZID=America/Los_Angeles:20261010T173400
+SUMMARY:Teen Witch
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672348/
+DESCRIPTION:Run time: 94 min | Format: Digital | Rating: PG-13\n\nSeries: I
+ n the Eagle\, Special Guests in Attendance\, TeenTix LA\n\nTop That! Behol
+ d the magic\, the music\, the hairspray\, the tutus\, and the rap battles 
+ of this cheese-tastic spectacle of 80s awesomeness!\nWith a special introd
+ uction from actor/rapper extraordinaire Noah Blake!\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4672348/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/teen-witch/
+END:VEVENT
+BEGIN:VEVENT
+UID:4677784@vidiotsfoundation.org
+DTSTAMP:20261011T014500Z
+DTSTART;TZID=America/Los_Angeles:20261010T184500
+DTEND;TZID=America/Los_Angeles:20261010T203000
+SUMMARY:First They Came for My College
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677781/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
-  In the MUBI Microcinema\n\nOne part documentary\, one part camcorder vide
- o essay\, and one part the driest yet funniest of comedies\, John Wilson e
- xtends his unique genre-bending style from the small screen to the big wit
- h this magnificently absurd examination of the literal ground below our fe
- et.\nMore Screenings added by Popular Demand!\n\nTickets: https://vidiotsf
- oundation.org/purchase/4677781/\n\nDetails: https://vidiotsfoundation.org/
- movies/the-history-of-concrete/
+URL:https://vidiotsfoundation.org/purchase/4677784/
+DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests i
+ n Attendance\n\nWhen Florida Governor Ron DeSantis stages a coup at New Co
+ llege\, the state’s beloved public honors college\, students and profess
+ ors confront a new reality: their campus is ground zero in an unprecedente
+ d nationwide assault on academic freedom and diversity.\nFollowed by a con
+ versation with director Patrick Bresnan at both screenings!\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4677784/\n\nDetails: https://vidiotsf
+ oundation.org/movies/first-they-came-for-my-college/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672349@vidiotsfoundation.org
+DTSTAMP:20261011T020000Z
+DTSTART;TZID=America/Los_Angeles:20261010T190000
+DTEND;TZID=America/Los_Angeles:20261010T203400
+SUMMARY:Clue
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4672349/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 94 min | F
+ ormat: Digital | Rating: PG\n\nSeries: In the Eagle\, Remembering Tim Curr
+ y - Don't Dream It\, Be It!\n\nVidiots remembers the iconic legacy of the 
+ great Tim Curry with a special screening of the mirthful murder mystery Cl
+ ue!\n\nTickets: https://vidiotsfoundation.org/purchase/4672349/\n\nDetails
+ : https://vidiotsfoundation.org/movies/clue-1985/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4672344@vidiotsfoundation.org
-DTSTAMP:20261010T020000Z
-DTSTART;TZID=America/Los_Angeles:20261009T190000
-DTEND;TZID=America/Los_Angeles:20261009T205300
-SUMMARY:28 Days Later
+UID:4672353@vidiotsfoundation.org
+DTSTAMP:20261011T044500Z
+DTSTART;TZID=America/Los_Angeles:20261010T214500
+DTEND;TZID=America/Los_Angeles:20261010T234400
+SUMMARY:Pulse
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672344/
-DESCRIPTION:Run time: 113 min | Format: Digital | Rating: R\n\nSeries: Coun
- tdown to Halloween\, In the Eagle\, TeenTix LA\n\nDanny Boyle breathes new
-  life into the world of the undead with this gritty\, frenetic\, and fanta
- stically bloody journey through a zombie-infested\, post-apocalyptic UK.\n
- \nTickets: https://vidiotsfoundation.org/purchase/4672344/\n\nDetails: htt
- ps://vidiotsfoundation.org/movies/28-days-later/
-END:VEVENT
-BEGIN:VEVENT
-UID:4677779@vidiotsfoundation.org
-DTSTAMP:20261010T022000Z
-DTSTART;TZID=America/Los_Angeles:20261009T192000
-DTEND;TZID=America/Los_Angeles:20261009T204700
-SUMMARY:Bird in Hand
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677779/
-DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
-  microcinema for Melody Roscher's bitingly comic feature film debut that w
- eaves themes of race\, belonging\, and family into a mercurial journey.\nW
- riter/Director Melody C. Roscher in person at all screenings!\n\nTickets: 
- https://vidiotsfoundation.org/purchase/4677779/\n\nDetails: https://vidiot
- sfoundation.org/movies/bird-in-hand/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672345@vidiotsfoundation.org
-DTSTAMP:20261010T044500Z
-DTSTART;TZID=America/Los_Angeles:20261009T214500
-DTEND;TZID=America/Los_Angeles:20261009T232500
-SUMMARY:The Rocky Horror Picture Show
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672345/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Rating: R\n\nSeries: Be It!\, In the Eagle\, Interactive
- \, Remembering Tim Curry - Don't Dream It\, What the Friday?!?\n\nVidiots 
- remembers the iconic legacy of the great Tim Curry with a special screenin
- g of this quintessential cult classic musical extravaganza!\nThis is an in
- teractive screening. You can leave your props at home (seriously\, no outs
- ide props)\, we've got a prop bag for everyone!\n\nTickets: https://vidiot
- sfoundation.org/purchase/4672345/\n\nDetails: https://vidiotsfoundation.or
- g/movies/the-rocky-horror-picture-show/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4677780@vidiotsfoundation.org
-DTSTAMP:20261010T050000Z
-DTSTART;TZID=America/Los_Angeles:20261009T220000
-DTEND;TZID=America/Los_Angeles:20261009T234100
-SUMMARY:The History of Concrete
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677780/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
-  In the MUBI Microcinema\n\nOne part documentary\, one part camcorder vide
- o essay\, and one part the driest yet funniest of comedies\, John Wilson e
- xtends his unique genre-bending style from the small screen to the big wit
- h this magnificently absurd examination of the literal ground below our fe
- et.\nMore Screenings added by Popular Demand!\n\nTickets: https://vidiotsf
- oundation.org/purchase/4677780/\n\nDetails: https://vidiotsfoundation.org/
- movies/the-history-of-concrete/
-STATUS:TENTATIVE
+URL:https://vidiotsfoundation.org/purchase/4672353/
+DESCRIPTION:Run time: 119 min | Format: Digital | Rating: R | Release year:
+  2001\n\nSeries: Countdown to Halloween\, In the Eagle\, TeenTix LA\n\nKiy
+ oshi Kurosawa’s shattering masterpiece from 2001 is beyond liminality\, 
+ beyond dimension\, giving us a despair and isolation decades ahead of its 
+ time.\nWith an introduction by Founding Member Bret Berg from American Gen
+ re Film Archive.\n\nTickets: https://vidiotsfoundation.org/purchase/467235
+ 3/\n\nDetails: https://vidiotsfoundation.org/movies/pulse/
 END:VEVENT
 END:VCALENDAR
