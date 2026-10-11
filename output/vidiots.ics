@@ -8,145 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4677783@vidiotsfoundation.org
-DTSTAMP:20261010T231500Z
-DTSTART;TZID=America/Los_Angeles:20261010T161500
-DTEND;TZID=America/Los_Angeles:20261010T174200
-SUMMARY:Bird in Hand
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677783/
-DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
-  microcinema for Melody Roscher's bitingly comic feature film debut that w
- eaves themes of race\, belonging\, and family into a mercurial journey.\nW
- riter/Director Melody C. Roscher in person at all screenings!\n\nTickets: 
- https://vidiotsfoundation.org/purchase/4677783/\n\nDetails: https://vidiot
- sfoundation.org/movies/bird-in-hand/
-END:VEVENT
-BEGIN:VEVENT
-UID:4677784@vidiotsfoundation.org
-DTSTAMP:20261011T014500Z
-DTSTART;TZID=America/Los_Angeles:20261010T184500
-DTEND;TZID=America/Los_Angeles:20261010T203000
-SUMMARY:First They Came for My College
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677784/
-DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests i
- n Attendance\n\nWhen Florida Governor Ron DeSantis stages a coup at New Co
- llege\, the state’s beloved public honors college\, students and profess
- ors confront a new reality: their campus is ground zero in an unprecedente
- d nationwide assault on academic freedom and diversity.\nFollowed by a con
- versation with director Patrick Bresnan at both screenings!\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4677784/\n\nDetails: https://vidiotsf
- oundation.org/movies/first-they-came-for-my-college/
-END:VEVENT
-BEGIN:VEVENT
-UID:4677791@vidiotsfoundation.org
-DTSTAMP:20261011T050000Z
-DTSTART;TZID=America/Los_Angeles:20261010T220000
-DTEND;TZID=America/Los_Angeles:20261010T234100
-SUMMARY:The History of Concrete
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677791/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Gr
- oundbreaking Non-Fiction\n\nOne part documentary\, one part camcorder vide
- o essay\, and one part the driest yet funniest of comedies\, John Wilson e
- xtends his unique genre-bending style from the small screen to the big wit
- h this magnificently absurd examination of the literal ground below our fe
- et.\nMore Screenings added by Popular Demand!\n\nTickets: https://vidiotsf
- oundation.org/purchase/4677791/\n\nDetails: https://vidiotsfoundation.org/
- movies/the-history-of-concrete/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4729814@vidiotsfoundation.org
-DTSTAMP:20261011T194500Z
-DTSTART;TZID=America/Los_Angeles:20261011T124500
-DTEND;TZID=America/Los_Angeles:20261011T141000
-SUMMARY:Brother Bear
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4729814/
-DESCRIPTION:Run time: 85 min | Format: Digital | Rating: All Ages\n\nSeries
- : Films for Everyone\, In the Eagle\, TeenTix LA\n\nSee through another’
- s eyes\, feel through another's heart\, and discover the meaning of brothe
- rhood.\n\nTickets: https://vidiotsfoundation.org/purchase/4729814/\n\nDeta
- ils: https://vidiotsfoundation.org/movies/brother-bear/
-END:VEVENT
-BEGIN:VEVENT
-UID:4677809@vidiotsfoundation.org
-DTSTAMP:20261011T203000Z
-DTSTART;TZID=America/Los_Angeles:20261011T133000
-DTEND;TZID=America/Los_Angeles:20261011T151500
-SUMMARY:First They Came for My College
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677809/
-DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests i
- n Attendance\n\nWhen Florida Governor Ron DeSantis stages a coup at New Co
- llege\, the state’s beloved public honors college\, students and profess
- ors confront a new reality: their campus is ground zero in an unprecedente
- d nationwide assault on academic freedom and diversity.\nFollowed by a con
- versation with director Patrick Bresnan at both screenings!\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4677809/\n\nDetails: https://vidiotsf
- oundation.org/movies/first-they-came-for-my-college/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672357@vidiotsfoundation.org
-DTSTAMP:20261011T223000Z
-DTSTART;TZID=America/Los_Angeles:20261011T153000
-DTEND;TZID=America/Los_Angeles:20261011T173700
-SUMMARY:Annie
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672357/
-DESCRIPTION:Run time: 127 min | Format: Digital | Rating: PG\n\nSeries: Fil
- ms for Everyone\, In the Eagle\, Remembering Tim Curry - Don't Dream It\, 
- Be It!\, TeenTix LA\n\nVidiots remembers the great Tim Curry with a specia
- l screening of the musical bonanza Annie for Tim Curry lovers of all ages!
- \n\nTickets: https://vidiotsfoundation.org/purchase/4672357/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/annie/
-END:VEVENT
-BEGIN:VEVENT
-UID:4677808@vidiotsfoundation.org
-DTSTAMP:20261011T233000Z
-DTSTART;TZID=America/Los_Angeles:20261011T163000
-DTEND;TZID=America/Los_Angeles:20261011T175700
-SUMMARY:Bird in Hand
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4677808/
-DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
-  microcinema for Melody Roscher's bitingly comic feature film debut that w
- eaves themes of race\, belonging\, and family into a mercurial journey.\nW
- riter/Director Melody C. Roscher in person at all screenings!\n\nTickets: 
- https://vidiotsfoundation.org/purchase/4677808/\n\nDetails: https://vidiot
- sfoundation.org/movies/bird-in-hand/
-END:VEVENT
-BEGIN:VEVENT
-UID:4751212@vidiotsfoundation.org
-DTSTAMP:20261012T020000Z
-DTSTART;TZID=America/Los_Angeles:20261011T190000
-DTEND;TZID=America/Los_Angeles:20261011T204200
-SUMMARY:American Psycho
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4751212/
-DESCRIPTION:Run time: 102 min | Format: Digital | Rating: R\n\nSeries: Coun
- tdown to Halloween\, In the Eagle\n\nAdapted from Bret Easton Ellis' notor
- ious novel\, American Psycho continues to make you laugh and shriek in equ
- al measures as it steers you through the disquieting mind as it unravels i
- nto madness.\n\nTickets: https://vidiotsfoundation.org/purchase/4751212/\n
- \nDetails: https://vidiotsfoundation.org/movies/american-psycho/
-END:VEVENT
-BEGIN:VEVENT
 UID:4677807@vidiotsfoundation.org
 DTSTAMP:20261012T023000Z
 DTSTART;TZID=America/Los_Angeles:20261011T193000
@@ -156,8 +17,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4677807/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Gr
- oundbreaking Non-Fiction\n\nOne part documentary\, one part camcorder vide
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nOne part documentary\, one part camcorder vide
  o essay\, and one part the driest yet funniest of comedies\, John Wilson e
  xtends his unique genre-bending style from the small screen to the big wit
  h this magnificently absurd examination of the literal ground below our fe
@@ -195,8 +56,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4729511/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Gr
- oundbreaking Non-Fiction\n\nOne part documentary\, one part camcorder vide
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nOne part documentary\, one part camcorder vide
  o essay\, and one part the driest yet funniest of comedies\, John Wilson e
  xtends his unique genre-bending style from the small screen to the big wit
  h this magnificently absurd examination of the literal ground below our fe
@@ -317,8 +178,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4735493/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Gr
- oundbreaking Non-Fiction\n\nOne part documentary\, one part camcorder vide
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nOne part documentary\, one part camcorder vide
  o essay\, and one part the driest yet funniest of comedies\, John Wilson e
  xtends his unique genre-bending style from the small screen to the big wit
  h this magnificently absurd examination of the literal ground below our fe
@@ -401,8 +262,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4735518/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Gr
- oundbreaking Non-Fiction\n\nOne part documentary\, one part camcorder vide
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nOne part documentary\, one part camcorder vide
  o essay\, and one part the driest yet funniest of comedies\, John Wilson e
  xtends his unique genre-bending style from the small screen to the big wit
  h this magnificently absurd examination of the literal ground below our fe
@@ -439,8 +300,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4735519/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Gr
- oundbreaking Non-Fiction\n\nOne part documentary\, one part camcorder vide
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nOne part documentary\, one part camcorder vide
  o essay\, and one part the driest yet funniest of comedies\, John Wilson e
  xtends his unique genre-bending style from the small screen to the big wit
  h this magnificently absurd examination of the literal ground below our fe
@@ -459,8 +320,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4751221/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Gr
- oundbreaking Non-Fiction\n\nOne part documentary\, one part camcorder vide
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nOne part documentary\, one part camcorder vide
  o essay\, and one part the driest yet funniest of comedies\, John Wilson e
  xtends his unique genre-bending style from the small screen to the big wit
  h this magnificently absurd examination of the literal ground below our fe
@@ -619,7 +480,7 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4757612/
 DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Additional Shows
- \, In the MUBI Microcinema\, Groundbreaking Non-Fiction\n\nOne part docume
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nOne part docume
  ntary\, one part camcorder video essay\, and one part the driest yet funni
  est of comedies\, John Wilson extends his unique genre-bending style from 
  the small screen to the big with this magnificently absurd examination of 
@@ -1102,70 +963,86 @@ DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
  n-at-grayson-manor/
 END:VEVENT
 BEGIN:VEVENT
-UID:4672347@vidiotsfoundation.org
-DTSTAMP:20261010T200000Z
-DTSTART;TZID=America/Los_Angeles:20261010T130000
-DTEND;TZID=America/Los_Angeles:20261010T142700
-SUMMARY:Frankenweenie
+UID:4729814@vidiotsfoundation.org
+DTSTAMP:20261011T194500Z
+DTSTART;TZID=America/Los_Angeles:20261011T124500
+DTEND;TZID=America/Los_Angeles:20261011T141000
+SUMMARY:Brother Bear
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672347/
-DESCRIPTION:Run time: 87 min | Format: Digital | Rating: PG\n\nSeries: Film
- s for Everyone\, In the Eagle\, Remembering Catherine O'Hara\n\nRe-animate
-  your weekend with Tim Burton's adorably oddball animated send-off to horr
- or\, with enough goofs and gaffs for the whole family.\n\nTickets: https:/
- /vidiotsfoundation.org/purchase/4672347/\n\nDetails: https://vidiotsfounda
- tion.org/movies/frankenweenie/
+URL:https://vidiotsfoundation.org/purchase/4729814/
+DESCRIPTION:Run time: 85 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\, TeenTix LA\n\nSee through another’
+ s eyes\, feel through another's heart\, and discover the meaning of brothe
+ rhood.\n\nTickets: https://vidiotsfoundation.org/purchase/4729814/\n\nDeta
+ ils: https://vidiotsfoundation.org/movies/brother-bear/
 END:VEVENT
 BEGIN:VEVENT
-UID:4672348@vidiotsfoundation.org
-DTSTAMP:20261010T230000Z
-DTSTART;TZID=America/Los_Angeles:20261010T160000
-DTEND;TZID=America/Los_Angeles:20261010T173400
-SUMMARY:Teen Witch
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672348/
-DESCRIPTION:Run time: 94 min | Format: Digital | Rating: PG-13\n\nSeries: I
- n the Eagle\, Special Guests in Attendance\, TeenTix LA\n\nTop That! Behol
- d the magic\, the music\, the hairspray\, the tutus\, and the rap battles 
- of this cheese-tastic spectacle of 80s awesomeness!\nWith a special introd
- uction from actor/rapper extraordinaire Noah Blake!\n\nTickets: https://vi
- diotsfoundation.org/purchase/4672348/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/teen-witch/
+UID:4677809@vidiotsfoundation.org
+DTSTAMP:20261011T203000Z
+DTSTART;TZID=America/Los_Angeles:20261011T133000
+DTEND;TZID=America/Los_Angeles:20261011T151500
+SUMMARY:First They Came for My College
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677809/
+DESCRIPTION:Run time: 105 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests i
+ n Attendance\n\nWhen Florida Governor Ron DeSantis stages a coup at New Co
+ llege\, the state’s beloved public honors college\, students and profess
+ ors confront a new reality: their campus is ground zero in an unprecedente
+ d nationwide assault on academic freedom and diversity.\nFollowed by a con
+ versation with director Patrick Bresnan at both screenings!\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4677809/\n\nDetails: https://vidiotsf
+ oundation.org/movies/first-they-came-for-my-college/
 END:VEVENT
 BEGIN:VEVENT
-UID:4672349@vidiotsfoundation.org
-DTSTAMP:20261011T020000Z
-DTSTART;TZID=America/Los_Angeles:20261010T190000
-DTEND;TZID=America/Los_Angeles:20261010T203400
-SUMMARY:Clue
+UID:4672357@vidiotsfoundation.org
+DTSTAMP:20261011T223000Z
+DTSTART;TZID=America/Los_Angeles:20261011T153000
+DTEND;TZID=America/Los_Angeles:20261011T173700
+SUMMARY:Annie
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672349/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 94 min | F
- ormat: Digital | Rating: PG\n\nSeries: In the Eagle\, Remembering Tim Curr
- y - Don't Dream It\, Be It!\n\nVidiots remembers the iconic legacy of the 
- great Tim Curry with a special screening of the mirthful murder mystery Cl
- ue!\n\nTickets: https://vidiotsfoundation.org/purchase/4672349/\n\nDetails
- : https://vidiotsfoundation.org/movies/clue-1985/
-STATUS:TENTATIVE
+URL:https://vidiotsfoundation.org/purchase/4672357/
+DESCRIPTION:Run time: 127 min | Format: Digital | Rating: PG\n\nSeries: Fil
+ ms for Everyone\, In the Eagle\, Remembering Tim Curry - Don't Dream It\, 
+ Be It!\, TeenTix LA\n\nVidiots remembers the great Tim Curry with a specia
+ l screening of the musical bonanza Annie for Tim Curry lovers of all ages!
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4672357/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/annie/
 END:VEVENT
 BEGIN:VEVENT
-UID:4672353@vidiotsfoundation.org
-DTSTAMP:20261011T044500Z
-DTSTART;TZID=America/Los_Angeles:20261010T214500
-DTEND;TZID=America/Los_Angeles:20261010T234400
-SUMMARY:Pulse
+UID:4677808@vidiotsfoundation.org
+DTSTAMP:20261011T233000Z
+DTSTART;TZID=America/Los_Angeles:20261011T163000
+DTEND;TZID=America/Los_Angeles:20261011T175700
+SUMMARY:Bird in Hand
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4677808/
+DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
+  microcinema for Melody Roscher's bitingly comic feature film debut that w
+ eaves themes of race\, belonging\, and family into a mercurial journey.\nW
+ riter/Director Melody C. Roscher in person at all screenings!\n\nTickets: 
+ https://vidiotsfoundation.org/purchase/4677808/\n\nDetails: https://vidiot
+ sfoundation.org/movies/bird-in-hand/
+END:VEVENT
+BEGIN:VEVENT
+UID:4751212@vidiotsfoundation.org
+DTSTAMP:20261012T020000Z
+DTSTART;TZID=America/Los_Angeles:20261011T190000
+DTEND;TZID=America/Los_Angeles:20261011T204200
+SUMMARY:American Psycho
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672353/
-DESCRIPTION:Run time: 119 min | Format: Digital | Rating: R | Release year:
-  2001\n\nSeries: Countdown to Halloween\, In the Eagle\, TeenTix LA\n\nKiy
- oshi Kurosawa’s shattering masterpiece from 2001 is beyond liminality\, 
- beyond dimension\, giving us a despair and isolation decades ahead of its 
- time.\nWith an introduction by Founding Member Bret Berg from American Gen
- re Film Archive.\n\nTickets: https://vidiotsfoundation.org/purchase/467235
- 3/\n\nDetails: https://vidiotsfoundation.org/movies/pulse/
+URL:https://vidiotsfoundation.org/purchase/4751212/
+DESCRIPTION:Run time: 102 min | Format: Digital | Rating: R\n\nSeries: Coun
+ tdown to Halloween\, In the Eagle\n\nAdapted from Bret Easton Ellis' notor
+ ious novel\, American Psycho continues to make you laugh and shriek in equ
+ al measures as it steers you through the disquieting mind as it unravels i
+ nto madness.\n\nTickets: https://vidiotsfoundation.org/purchase/4751212/\n
+ \nDetails: https://vidiotsfoundation.org/movies/american-psycho/
 END:VEVENT
 END:VCALENDAR
