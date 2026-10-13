@@ -8,45 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4729511@vidiotsfoundation.org
-DTSTAMP:20261013T030000Z
-DTSTART;TZID=America/Los_Angeles:20261012T200000
-DTEND;TZID=America/Los_Angeles:20261012T214100
-SUMMARY:The History of Concrete
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4729511/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital\n\nSeries: Groundbreaking Non-Fiction\, In the MUBI Microc
- inema\, Additional Shows\n\nOne part documentary\, one part camcorder vide
- o essay\, and one part the driest yet funniest of comedies\, John Wilson e
- xtends his unique genre-bending style from the small screen to the big wit
- h this magnificently absurd examination of the literal ground below our fe
- et.\nMore Screenings added by Popular Demand!\n\nTickets: https://vidiotsf
- oundation.org/purchase/4729511/\n\nDetails: https://vidiotsfoundation.org/
- movies/the-history-of-concrete/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4672363@vidiotsfoundation.org
-DTSTAMP:20261014T023000Z
-DTSTART;TZID=America/Los_Angeles:20261013T193000
-DTEND;TZID=America/Los_Angeles:20261013T205800
-SUMMARY:The Rental
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672363/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
- ormat: Digital | Rating: R\n\nSeries: Countdown to Halloween\, Doors Open 
- at 6\, In the Eagle\, Special Guests in Attendance\n\nVidiots is dying to 
- welcome writer/director Dave Franco \, as well as cast members Alison Brie
- \, Dan Stevens and Jeremy Allen White for a long overdue theatrical screen
- ing of their sinister thriller The Rental .\n\nTickets: https://vidiotsfou
- ndation.org/purchase/4672363/\n\nDetails: https://vidiotsfoundation.org/mo
- vies/the-rental/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4735523@vidiotsfoundation.org
 DTSTAMP:20261015T023000Z
 DTSTART;TZID=America/Los_Angeles:20261014T193000
@@ -138,14 +99,16 @@ SUMMARY:The History of Concrete
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4735493/
-DESCRIPTION:Run time: 101 min | Format: Digital\n\nSeries: Groundbreaking N
- on-Fiction\, In the MUBI Microcinema\, Additional Shows\n\nOne part docume
- ntary\, one part camcorder video essay\, and one part the driest yet funni
- est of comedies\, John Wilson extends his unique genre-bending style from 
- the small screen to the big with this magnificently absurd examination of 
- the literal ground below our feet.\nMore Screenings added by Popular Deman
- d!\n\nTickets: https://vidiotsfoundation.org/purchase/4735493/\n\nDetails:
-  https://vidiotsfoundation.org/movies/the-history-of-concrete/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nOne part documentary\, one part camcorder vide
+ o essay\, and one part the driest yet funniest of comedies\, John Wilson e
+ xtends his unique genre-bending style from the small screen to the big wit
+ h this magnificently absurd examination of the literal ground below our fe
+ et.\nMore Screenings added by Popular Demand!\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4735493/\n\nDetails: https://vidiotsfoundation.org/
+ movies/the-history-of-concrete/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4672378@vidiotsfoundation.org
@@ -221,8 +184,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4735518/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital\n\nSeries: Groundbreaking Non-Fiction\, In the MUBI Microc
- inema\, Additional Shows\n\nOne part documentary\, one part camcorder vide
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nOne part documentary\, one part camcorder vide
  o essay\, and one part the driest yet funniest of comedies\, John Wilson e
  xtends his unique genre-bending style from the small screen to the big wit
  h this magnificently absurd examination of the literal ground below our fe
@@ -259,8 +222,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4735519/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital\n\nSeries: Groundbreaking Non-Fiction\, In the MUBI Microc
- inema\, Additional Shows\n\nOne part documentary\, one part camcorder vide
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nOne part documentary\, one part camcorder vide
  o essay\, and one part the driest yet funniest of comedies\, John Wilson e
  xtends his unique genre-bending style from the small screen to the big wit
  h this magnificently absurd examination of the literal ground below our fe
@@ -279,8 +242,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4751221/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital\n\nSeries: Groundbreaking Non-Fiction\, In the MUBI Microc
- inema\, Additional Shows\n\nOne part documentary\, one part camcorder vide
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nOne part documentary\, one part camcorder vide
  o essay\, and one part the driest yet funniest of comedies\, John Wilson e
  xtends his unique genre-bending style from the small screen to the big wit
  h this magnificently absurd examination of the literal ground below our fe
@@ -439,8 +402,8 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4757612/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital\n\nSeries: Groundbreaking Non-Fiction\, In the MUBI Microc
- inema\, Additional Shows\n\nOne part documentary\, one part camcorder vide
+ Format: Digital\n\nSeries: Additional Shows\, Groundbreaking Non-Fiction\,
+  In the MUBI Microcinema\n\nOne part documentary\, one part camcorder vide
  o essay\, and one part the driest yet funniest of comedies\, John Wilson e
  xtends his unique genre-bending style from the small screen to the big wit
  h this magnificently absurd examination of the literal ground below our fe
@@ -925,22 +888,22 @@ DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
  n-at-grayson-manor/
 END:VEVENT
 BEGIN:VEVENT
-UID:4726856@vidiotsfoundation.org
-DTSTAMP:20261013T023000Z
-DTSTART;TZID=America/Los_Angeles:20261012T193000
-DTEND;TZID=America/Los_Angeles:20261012T205800
-SUMMARY:Powwow People
+UID:4672363@vidiotsfoundation.org
+DTSTAMP:20261014T023000Z
+DTSTART;TZID=America/Los_Angeles:20261013T193000
+DTEND;TZID=America/Los_Angeles:20261013T205800
+SUMMARY:The Rental
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4726856/
+URL:https://vidiotsfoundation.org/purchase/4672363/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
- ormat: Digital\n\nSeries: Community Partners\, Free Events\, In the Eagle\
- , Special Guests in Attendance\n\nVidiots\, Mezzanine\, and Cousins Collec
- tive invite you to special screening of Sky Hopinka's new documentary Poww
- ow People followed by a conversation with Sky Hopinka moderated by Micah G
- ottlieb of Mezzanine and the Los Angeles Festival of Movies.\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4726856/\n\nDetails: https://vidiots
- foundation.org/movies/powwow-people/
+ ormat: Digital | Rating: R\n\nSeries: Countdown to Halloween\, Doors Open 
+ at 6\, In the Eagle\, Special Guests in Attendance\n\nVidiots is dying to 
+ welcome writer/director Dave Franco \, as well as cast members Alison Brie
+ \, Dan Stevens and Jeremy Allen White for a long overdue theatrical screen
+ ing of their sinister thriller The Rental .\n\nTickets: https://vidiotsfou
+ ndation.org/purchase/4672363/\n\nDetails: https://vidiotsfoundation.org/mo
+ vies/the-rental/
 STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
