@@ -38,9 +38,9 @@ DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Additional Shows\
  , Countdown to Halloween\, In the MUBI Microcinema\, Special Guests in Att
  endance\n\nJoin us in the microcinema for Joe Lo Truglio's nail-biting nig
  htmare of the darkness that lurks in the woods and inside us.\nWith writer
- /director Joe Lo Truglio in person for the October 15th screening!\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4679430/\n\nDetails: https://v
- idiotsfoundation.org/movies/outpost/
+ /director Joe Lo Truglio and star Beth Dover in person for the October 15t
+ h screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4679430/\n
+ \nDetails: https://vidiotsfoundation.org/movies/outpost/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672364@vidiotsfoundation.org
@@ -154,9 +154,9 @@ DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Additional Shows\
  , Countdown to Halloween\, In the MUBI Microcinema\, Special Guests in Att
  endance\n\nJoin us in the microcinema for Joe Lo Truglio's nail-biting nig
  htmare of the darkness that lurks in the woods and inside us.\nWith writer
- /director Joe Lo Truglio in person for the October 15th screening!\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4735498/\n\nDetails: https://v
- idiotsfoundation.org/movies/outpost/
+ /director Joe Lo Truglio and star Beth Dover in person for the October 15t
+ h screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4735498/\n
+ \nDetails: https://vidiotsfoundation.org/movies/outpost/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672385@vidiotsfoundation.org
@@ -231,6 +231,18 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min |
  oundation.org/purchase/4735519/\n\nDetails: https://vidiotsfoundation.org/
  movies/the-history-of-concrete/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4794553@vidiotsfoundation.org
+DTSTAMP:20261019T023000Z
+DTSTART;TZID=America/Los_Angeles:20261018T193000
+DTEND;TZID=America/Los_Angeles:20261018T211500
+SUMMARY:Wicker
+LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+URL:https://events.humanitix.com/kcrw-partner-screening-wicker
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nMarriage mat
+ erial.\n\nTickets: https://events.humanitix.com/kcrw-partner-screening-wic
+ ker\n\nDetails: https://vidiotsfoundation.org/movies/wicker/
 END:VEVENT
 BEGIN:VEVENT
 UID:4751221@vidiotsfoundation.org
@@ -323,6 +335,23 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 104 min |
  ne killer party!\n\nTickets: https://vidiotsfoundation.org/purchase/467239
  3/\n\nDetails: https://vidiotsfoundation.org/movies/death-becomes-her/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4679491@vidiotsfoundation.org
+DTSTAMP:20261023T223000Z
+DTSTART;TZID=America/Los_Angeles:20261023T153000
+DTEND;TZID=America/Los_Angeles:20261023T175400
+SUMMARY:The Shining
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4679491/
+DESCRIPTION:Run time: 144 min | Rating: R\n\nSeries: 35mm Film\, In the Eag
+ le\, Countdown to Halloween\n\nThis Stephen King adaptation crawls with at
+ mospheric dread from the opening scene to the closing credits\, inhabiting
+  a special place in the psyche of all those who have witnessed its bloody\
+ , psychotic mastery.\nAdditional Screening Added!\n\nTickets: https://vidi
+ otsfoundation.org/purchase/4679491/\n\nDetails: https://vidiotsfoundation.
+ org/movies/the-shining/
 END:VEVENT
 BEGIN:VEVENT
 UID:4703169@vidiotsfoundation.org
@@ -467,18 +496,17 @@ UID:4672395@vidiotsfoundation.org
 DTSTAMP:20261025T013000Z
 DTSTART;TZID=America/Los_Angeles:20261024T183000
 DTEND;TZID=America/Los_Angeles:20261024T205400
-SUMMARY:The Shining on 35mm
+SUMMARY:The Shining
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672395/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 144 min | 
- Format: 35mm Film | Rating: R\n\nSeries: 35mm Film\, Countdown to Hallowee
- n\, In the Eagle\n\nThis Stephen King adaptation crawls with atmospheric d
- read from the opening scene to the closing credits\, inhabiting a special 
- place in the psyche of all those who have witnessed its bloody\, psychotic
-  mastery.\n\nTickets: https://vidiotsfoundation.org/purchase/4672395/\n\nD
- etails: https://vidiotsfoundation.org/movies/the-shining/
-STATUS:TENTATIVE
+DESCRIPTION:Run time: 144 min | Rating: R\n\nSeries: 35mm Film\, In the Eag
+ le\, Countdown to Halloween\n\nThis Stephen King adaptation crawls with at
+ mospheric dread from the opening scene to the closing credits\, inhabiting
+  a special place in the psyche of all those who have witnessed its bloody\
+ , psychotic mastery.\nAdditional Screening Added!\n\nTickets: https://vidi
+ otsfoundation.org/purchase/4672395/\n\nDetails: https://vidiotsfoundation.
+ org/movies/the-shining/
 END:VEVENT
 BEGIN:VEVENT
 UID:4757625@vidiotsfoundation.org
@@ -871,6 +899,21 @@ DESCRIPTION:Run time: 116 min | Format: Digital\n\nSeries: Additional Shows
  s://vidiotsfoundation.org/movies/remake/
 END:VEVENT
 BEGIN:VEVENT
+UID:4788977@vidiotsfoundation.org
+DTSTAMP:20261102T030000Z
+DTSTART;TZID=America/Los_Angeles:20261101T190000
+DTEND;TZID=America/Los_Angeles:20261101T203100
+SUMMARY:Macario
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4788977/
+DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 1960\n\nSeri
+ es: Día de los Muertos Celebration\, In the Eagle\n\nVidiots is celebrati
+ ng Día de los Muertos with a special screening of the haunting Mexican ma
+ sterpiece Macario .\n\nTickets: https://vidiotsfoundation.org/purchase/478
+ 8977/\n\nDetails: https://vidiotsfoundation.org/movies/macario/
+END:VEVENT
+BEGIN:VEVENT
 UID:4788983@vidiotsfoundation.org
 DTSTAMP:20261102T033000Z
 DTSTART;TZID=America/Los_Angeles:20261101T193000
@@ -886,6 +929,154 @@ DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
  mance from Chris Colfer!\n\nTickets: https://vidiotsfoundation.org/purchas
  e/4788983/\n\nDetails: https://vidiotsfoundation.org/movies/the-restoratio
  n-at-grayson-manor/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815373@vidiotsfoundation.org
+DTSTAMP:20261107T203000Z
+DTSTART;TZID=America/Los_Angeles:20261107T123000
+DTEND;TZID=America/Los_Angeles:20261107T140300
+SUMMARY:Porco Rosso (English Dubbed)
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815373/
+DESCRIPTION:Run time: 93 min | Format: Digital | Rating: PG | Release year:
+  1992\n\nSeries: Films for Everyone\, In the Eagle\n\nCan a pig really fly
+ ?\n\nTickets: https://vidiotsfoundation.org/purchase/4815373/\n\nDetails: 
+ https://vidiotsfoundation.org/movies/porco-rosso-english-dubbed/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815598@vidiotsfoundation.org
+DTSTAMP:20261114T001500Z
+DTSTART;TZID=America/Los_Angeles:20261113T161500
+DTEND;TZID=America/Los_Angeles:20261113T174800
+SUMMARY:Porco Rosso (Japanese with English Subtitles)
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815598/
+DESCRIPTION:Run time: 93 min | Format: Digital | Rating: PG | Release year:
+  1992\n\nSeries: In the Eagle\n\nCan a pig really fly?\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4815598/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/porco-rosso-japanese-with-english-subtitles/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815600@vidiotsfoundation.org
+DTSTAMP:20261114T030000Z
+DTSTART;TZID=America/Los_Angeles:20261113T190000
+DTEND;TZID=America/Los_Angeles:20261113T203700
+SUMMARY:Blood Simple
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815600/
+DESCRIPTION:Run time: 97 min | Format: Digital | Rating: R\n\nSeries: In th
+ e Eagle\n\nSexy\, smart\, and smoldering\, this shocking neo-noir shot the
+  Coen brothers into the upper echelons of filmmakers right off the bat.\n\
+ nTickets: https://vidiotsfoundation.org/purchase/4815600/\n\nDetails: http
+ s://vidiotsfoundation.org/movies/blood-simple/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815625@vidiotsfoundation.org
+DTSTAMP:20261115T054500Z
+DTSTART;TZID=America/Los_Angeles:20261114T214500
+DTEND;TZID=America/Los_Angeles:20261114T231300
+SUMMARY:Stop Making Sense
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815625/
+DESCRIPTION:Run time: 88 min | Format: 4K Digital\n\nSeries: In the Eagle\,
+  Interactive\n\nWe're bringing the party back to the big screen to kick of
+ f our birthday weekend like rock stars!\n\nTickets: https://vidiotsfoundat
+ ion.org/purchase/4815625/\n\nDetails: https://vidiotsfoundation.org/movies
+ /stop-making-sense-1984/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815635@vidiotsfoundation.org
+DTSTAMP:20261115T210000Z
+DTSTART;TZID=America/Los_Angeles:20261115T130000
+DTEND;TZID=America/Los_Angeles:20261115T141600
+SUMMARY:The Care Bears Movie
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815635/
+DESCRIPTION:Run time: 76 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nJoin hands and form the circle of f
+ riendship with your favorite cuddly toy-turned-cartoon characters.\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4815635/\n\nDetails: https://v
+ idiotsfoundation.org/movies/the-care-bears-movie/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815520@vidiotsfoundation.org
+DTSTAMP:20261122T024500Z
+DTSTART;TZID=America/Los_Angeles:20261121T184500
+DTEND;TZID=America/Los_Angeles:20261121T211000
+SUMMARY:Paris\, Texas
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815520/
+DESCRIPTION:Run time: 145 min | Format: 4K Digital\n\nSeries: In the Eagle\
+ n\nA place for dreams. A place for heartbreak. A place to pick up the piec
+ es.\n4K Restoration\n\nTickets: https://vidiotsfoundation.org/purchase/481
+ 5520/\n\nDetails: https://vidiotsfoundation.org/movies/paris-texas/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815443@vidiotsfoundation.org
+DTSTAMP:20261125T033000Z
+DTSTART;TZID=America/Los_Angeles:20261124T193000
+DTEND;TZID=America/Los_Angeles:20261124T212700
+SUMMARY:The Last Waltz
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815443/
+DESCRIPTION:Run time: 117 min | Format: Digital\n\nSeries: Doors Open at 6\
+ , In the Eagle\n\nIt's our favorite time of year again\, time to rock out 
+ with The Band and a cavalcade of musical superstars in Scorsese's electrif
+ ying concert film.\n\nTickets: https://vidiotsfoundation.org/purchase/4815
+ 443/\n\nDetails: https://vidiotsfoundation.org/movies/the-last-waltz/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815406@vidiotsfoundation.org
+DTSTAMP:20261128T030000Z
+DTSTART;TZID=America/Los_Angeles:20261127T190000
+DTEND;TZID=America/Los_Angeles:20261127T204400
+SUMMARY:Desperately Seeking Susan
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815406/
+DESCRIPTION:Run time: 104 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\n\nSusan Seidelman's fresh and stylish New York fairy tale - 
+ with an effervescent young Madonna in her first film role - is the fun 80s
+  romp you need this Black Friday!\n\nTickets: https://vidiotsfoundation.or
+ g/purchase/4815406/\n\nDetails: https://vidiotsfoundation.org/movies/despe
+ rately-seeking-susan/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815407@vidiotsfoundation.org
+DTSTAMP:20261128T054500Z
+DTSTART;TZID=America/Los_Angeles:20261127T214500
+DTEND;TZID=America/Los_Angeles:20261127T232700
+SUMMARY:Enter the Dragon
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815407/
+DESCRIPTION:Run time: 102 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nBruce Lee kicks all the ass in the ultimate martial arts actio
+ n masterpiece!\n\nTickets: https://vidiotsfoundation.org/purchase/4815407/
+ \n\nDetails: https://vidiotsfoundation.org/movies/enter-the-dragon/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815432@vidiotsfoundation.org
+DTSTAMP:20261129T030000Z
+DTSTART;TZID=America/Los_Angeles:20261128T190000
+DTEND;TZID=America/Los_Angeles:20261128T205300
+SUMMARY:Twister
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815432/
+DESCRIPTION:Run time: 113 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\n\nMore fun than an airborne cow\, with the perfect delirious
+  blend of thrills and schmaltz\, this is one high-flying adventure that re
+ ally gets off the ground — and stays there!\n\nTickets: https://vidiotsf
+ oundation.org/purchase/4815432/\n\nDetails: https://vidiotsfoundation.org/
+ movies/twister/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672363@vidiotsfoundation.org
