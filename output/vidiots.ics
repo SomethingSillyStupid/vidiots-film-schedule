@@ -913,6 +913,21 @@ DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
  n-at-grayson-manor/
 END:VEVENT
 BEGIN:VEVENT
+UID:4815359@vidiotsfoundation.org
+DTSTAMP:20261104T033000Z
+DTSTART;TZID=America/Los_Angeles:20261103T193000
+DTEND;TZID=America/Los_Angeles:20261103T213000
+SUMMARY:Interstellar Sound Immersion – A Sci-Fi Sound Bath
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815359/
+DESCRIPTION:Series: Doors Open at 6\, In the Eagle\, Live Show\n\nJoin us f
+ or a mind-blowing sonic adventure into a universe of immersive sound with 
+ cosmic composers Stephen James Taylor and Chuck Jonkey!\n\nTickets: https:
+ //vidiotsfoundation.org/purchase/4815359/\n\nDetails: https://vidiotsfound
+ ation.org/special_events/interstellar-sound-immersion-a-sci-fi-sound-bath/
+END:VEVENT
+BEGIN:VEVENT
 UID:4815373@vidiotsfoundation.org
 DTSTAMP:20261107T203000Z
 DTSTART;TZID=America/Los_Angeles:20261107T123000
