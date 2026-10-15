@@ -922,13 +922,14 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
 URL:https://vidiotsfoundation.org/purchase/4788988/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 116 min | 
  Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Sp
- ecial Guests in Attendance\n\nJoin us in the microcinema for one of the mo
- st profound documentary experiences of the year\, legendary game-changing 
- documentarian Ross McElwee's beautifully heartbreaking triumph Remake .\nW
- ith a special introduction from non-fiction filmmaking legend Ross McElwee
-  at the Sunday\, November 1st screening!\n\nTickets: https://vidiotsfounda
- tion.org/purchase/4788988/\n\nDetails: https://vidiotsfoundation.org/movie
- s/remake/
+ ecial Guests in Attendance\, Groundbreaking Non-Fiction\n\nJoin us in the 
+ microcinema for one of the most profound documentary experiences of the ye
+ ar\, legendary game-changing documentarian Ross McElwee's beautifully hear
+ tbreaking triumph Remake .\nWith a special introduction from non-fiction f
+ ilmmaking legend Ross McElwee at the Sunday\, November 1st screening!\nEnc
+ ore screening added (no guests) - November 3rd\n\nTickets: https://vidiots
+ foundation.org/purchase/4788988/\n\nDetails: https://vidiotsfoundation.org
+ /movies/remake/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -964,6 +965,25 @@ DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
  n-at-grayson-manor/
 END:VEVENT
 BEGIN:VEVENT
+UID:4815360@vidiotsfoundation.org
+DTSTAMP:20261104T030000Z
+DTSTART;TZID=America/Los_Angeles:20261103T190000
+DTEND;TZID=America/Los_Angeles:20261103T205600
+SUMMARY:Remake
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815360/
+DESCRIPTION:Run time: 116 min | Format: Digital\n\nSeries: Additional Shows
+ \, In the MUBI Microcinema\, Special Guests in Attendance\, Groundbreaking
+  Non-Fiction\n\nJoin us in the microcinema for one of the most profound do
+ cumentary experiences of the year\, legendary game-changing documentarian 
+ Ross McElwee's beautifully heartbreaking triumph Remake .\nWith a special 
+ introduction from non-fiction filmmaking legend Ross McElwee at the Sunday
+ \, November 1st screening!\nEncore screening added (no guests) - November 
+ 3rd\n\nTickets: https://vidiotsfoundation.org/purchase/4815360/\n\nDetails
+ : https://vidiotsfoundation.org/movies/remake/
+END:VEVENT
+BEGIN:VEVENT
 UID:4815359@vidiotsfoundation.org
 DTSTAMP:20261104T033000Z
 DTSTART;TZID=America/Los_Angeles:20261103T193000
@@ -977,6 +997,34 @@ DESCRIPTION:Series: Doors Open at 6\, In the Eagle\, Live Show\n\nJoin us f
  cosmic composers Stephen James Taylor and Chuck Jonkey!\n\nTickets: https:
  //vidiotsfoundation.org/purchase/4815359/\n\nDetails: https://vidiotsfound
  ation.org/special_events/interstellar-sound-immersion-a-sci-fi-sound-bath/
+END:VEVENT
+BEGIN:VEVENT
+UID:4823527@vidiotsfoundation.org
+DTSTAMP:20261105T033000Z
+DTSTART;TZID=America/Los_Angeles:20261104T193000
+DTEND;TZID=America/Los_Angeles:20261104T212000
+SUMMARY:Primetime
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4823527/
+DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nAre you ready to make television
+  history?\n\nTickets: https://vidiotsfoundation.org/purchase/4823527/\n\nD
+ etails: https://vidiotsfoundation.org/movies/primetime/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815364@vidiotsfoundation.org
+DTSTAMP:20261106T033000Z
+DTSTART;TZID=America/Los_Angeles:20261105T193000
+DTEND;TZID=America/Los_Angeles:20261105T215700
+SUMMARY:Woman in the Dunes on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815364/
+DESCRIPTION:Run time: 147 min | Format: 35mm Film | Release year: 1964\n\nS
+ eries: 35mm Film\, Doors Open at 6\, In the Eagle\n\nHaunting. Erotic. Unf
+ orgettable.\n\nTickets: https://vidiotsfoundation.org/purchase/4815364/\n\
+ nDetails: https://vidiotsfoundation.org/movies/woman-in-the-dunes/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815373@vidiotsfoundation.org
@@ -1002,11 +1050,39 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4815376/
 DESCRIPTION:Run time: 129 min | Format: Digital\n\nSeries: Community Partne
- rs\, In the Eagle\n\nVidiots and the Eagle Rock Historical Society are cel
- ebrating 100 Years of Route 66 with a special screening of John Ford's cla
- ssic Steinbeck adaptation The Grapes of Wrath.\n\nTickets: https://vidiots
- foundation.org/purchase/4815376/\n\nDetails: https://vidiotsfoundation.org
- /movies/the-grapes-of-wrath/
+ rs\, In the Eagle\n\nVidiots and the Eagle Rock Valley Historical Society 
+ are celebrating 100 Years of Route 66 with a special screening of John For
+ d's classic Steinbeck adaptation The Grapes of Wrath.\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4815376/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/the-grapes-of-wrath/
+END:VEVENT
+BEGIN:VEVENT
+UID:4823531@vidiotsfoundation.org
+DTSTAMP:20261108T003000Z
+DTSTART;TZID=America/Los_Angeles:20261107T163000
+DTEND;TZID=America/Los_Angeles:20261107T182000
+SUMMARY:Primetime
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4823531/
+DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nAre you ready to make television
+  history?\n\nTickets: https://vidiotsfoundation.org/purchase/4823531/\n\nD
+ etails: https://vidiotsfoundation.org/movies/primetime/
+END:VEVENT
+BEGIN:VEVENT
+UID:4823533@vidiotsfoundation.org
+DTSTAMP:20261108T060000Z
+DTSTART;TZID=America/Los_Angeles:20261107T220000
+DTEND;TZID=America/Los_Angeles:20261107T235000
+SUMMARY:Primetime
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4823533/
+DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nAre you ready to make television
+  history?\n\nTickets: https://vidiotsfoundation.org/purchase/4823533/\n\nD
+ etails: https://vidiotsfoundation.org/movies/primetime/
 END:VEVENT
 BEGIN:VEVENT
 UID:4823339@vidiotsfoundation.org
@@ -1021,6 +1097,20 @@ DESCRIPTION:Run time: 97 min | Format: Digital\n\nSeries: In the Eagle\n\nG
  et ready for some Noir in November with Jacques Tourneur's double crossing
   classic!\n\nTickets: https://vidiotsfoundation.org/purchase/4823339/\n\nD
  etails: https://vidiotsfoundation.org/movies/out-of-the-past/
+END:VEVENT
+BEGIN:VEVENT
+UID:4823676@vidiotsfoundation.org
+DTSTAMP:20261109T033000Z
+DTSTART;TZID=America/Los_Angeles:20261108T193000
+DTEND;TZID=America/Los_Angeles:20261108T212000
+SUMMARY:Primetime
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4823676/
+DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nAre you ready to make television
+  history?\n\nTickets: https://vidiotsfoundation.org/purchase/4823676/\n\nD
+ etails: https://vidiotsfoundation.org/movies/primetime/
 END:VEVENT
 BEGIN:VEVENT
 UID:4823341@vidiotsfoundation.org
@@ -1133,16 +1223,80 @@ UID:4815638@vidiotsfoundation.org
 DTSTAMP:20261115T234500Z
 DTSTART;TZID=America/Los_Angeles:20261115T154500
 DTEND;TZID=America/Los_Angeles:20261115T175000
-SUMMARY:Imitation of Life (1959)
+SUMMARY:Imitation of Life (1959) on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4815638/
-DESCRIPTION:Run time: 125 min | Format: Digital\n\nSeries: In the Eagle\n\n
- With incredible female characters and actors\, that gorgeous Sirkian Techn
- icolor touch\, and a story of race that was decades ahead of its time\, th
- is classic melodrama is ready to pull you in and give you all the feels!\n
- \nTickets: https://vidiotsfoundation.org/purchase/4815638/\n\nDetails: htt
- ps://vidiotsfoundation.org/movies/imitation-of-life-1959/
+DESCRIPTION:Run time: 125 min | Format: 35mm Film\n\nSeries: 35mm Film\, In
+  the Eagle\n\nWith incredible female characters and actors\, that gorgeous
+  Sirkian Technicolor touch\, and a story of race that was decades ahead of
+  its time\, this classic melodrama is ready to pull you in and give you al
+ l the feels!\n\nTickets: https://vidiotsfoundation.org/purchase/4815638/\n
+ \nDetails: https://vidiotsfoundation.org/movies/imitation-of-life-1959/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815640@vidiotsfoundation.org
+DTSTAMP:20261116T030000Z
+DTSTART;TZID=America/Los_Angeles:20261115T190000
+DTEND;TZID=America/Los_Angeles:20261115T203800
+SUMMARY:Josie and the Pussycats
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815640/
+DESCRIPTION:Run time: 98 min | Format: Digital | Rating: PG-13\n\nSeries: I
+ n the Eagle\, Special Guests in Attendance\n\nRock Out with The Pussycats!
+ \nWriter/Directors Deborah Kaplan and Harry Elfont in person!\n\nTickets: 
+ https://vidiotsfoundation.org/purchase/4815640/\n\nDetails: https://vidiot
+ sfoundation.org/movies/josie-and-the-pussycats/
+END:VEVENT
+BEGIN:VEVENT
+UID:4823631@vidiotsfoundation.org
+DTSTAMP:20261119T033000Z
+DTSTART;TZID=America/Los_Angeles:20261118T193000
+DTEND;TZID=America/Los_Angeles:20261118T212500
+SUMMARY:Tampopo
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4823631/
+DESCRIPTION:Run time: 115 min | Format: 4K Digital | Release year: 1985\n\n
+ Series: Doors Open at 6\, In the Eagle\n\nWe're serving up the ultimate ci
+ nematic feast\, Juzo Itami's delectable "ramen western\," just in time for
+  feasting season!\nAnd come hungry\, our concessions stand will have delic
+ ious ramen to slurp during the film!\n\nTickets: https://vidiotsfoundation
+ .org/purchase/4823631/\n\nDetails: https://vidiotsfoundation.org/movies/ta
+ mpopo/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815665@vidiotsfoundation.org
+DTSTAMP:20261121T030000Z
+DTSTART;TZID=America/Los_Angeles:20261120T190000
+DTEND;TZID=America/Los_Angeles:20261120T210500
+SUMMARY:Wild at Heart
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815665/
+DESCRIPTION:Run time: 125 min | Format: 4K Digital | Rating: R\n\nSeries: 1
+ 00 Years of Harry Dean Stanton\, In the Eagle\, The Lynchian Legacy\n\nIll
+ -fated lovers Sailor and Lula (Nicolas Cage and Laura Dern) hit the road t
+ o escape a hit man and end up in an absurdly nightmarish landscape in Davi
+ d Lynch's dark romantic fairy tale that earned the Palme d'Or.\nNew 4K Res
+ toration!\n\nTickets: https://vidiotsfoundation.org/purchase/4815665/\n\nD
+ etails: https://vidiotsfoundation.org/movies/wild-at-heart/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815666@vidiotsfoundation.org
+DTSTAMP:20261121T193000Z
+DTSTART;TZID=America/Los_Angeles:20261121T113000
+DTEND;TZID=America/Los_Angeles:20261121T130100
+SUMMARY:Cookie Queens
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815666/
+DESCRIPTION:Run time: 91 min | Format: Digital | Rating: G\n\nSeries: Films
+  for Everyone\, Groundbreaking Non-Fiction\, In the Eagle\n\nIt's cookie t
+ ime at Vidiots\, so bring your troop for one sweet treat of a documentary!
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4815666/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/cookie-queens/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815520@vidiotsfoundation.org
@@ -1153,10 +1307,26 @@ SUMMARY:Paris\, Texas
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4815520/
-DESCRIPTION:Run time: 145 min | Format: 4K Digital\n\nSeries: In the Eagle\
- n\nA place for dreams. A place for heartbreak. A place to pick up the piec
- es.\n4K Restoration\n\nTickets: https://vidiotsfoundation.org/purchase/481
- 5520/\n\nDetails: https://vidiotsfoundation.org/movies/paris-texas/
+DESCRIPTION:Run time: 145 min | Format: 4K Digital\n\nSeries: 100 Years of 
+ Harry Dean Stanton\, In the Eagle\n\nA place for dreams. A place for heart
+ break. A place to pick up the pieces.\n4K Restoration\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4815520/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/paris-texas/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815669@vidiotsfoundation.org
+DTSTAMP:20261122T055500Z
+DTSTART;TZID=America/Los_Angeles:20261121T215500
+DTEND;TZID=America/Los_Angeles:20261121T231200
+SUMMARY:Alucarda
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815669/
+DESCRIPTION:Run time: 77 min | Format: Digital\n\nSeries: In the Eagle\n\nA
+  jaw-dropping deep cut of Satanic Cinema\, Juan López Moctezuma's Alucard
+ a is treasure of Mexican Horror dying to be rediscovered at large.\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4815669/\n\nDetails: https://v
+ idiotsfoundation.org/movies/alucarda/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815443@vidiotsfoundation.org
@@ -1204,6 +1374,22 @@ DESCRIPTION:Run time: 102 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/enter-the-dragon/
 END:VEVENT
 BEGIN:VEVENT
+UID:4823438@vidiotsfoundation.org
+DTSTAMP:20261129T001500Z
+DTSTART;TZID=America/Los_Angeles:20261128T161500
+DTEND;TZID=America/Los_Angeles:20261128T174500
+SUMMARY:Cléo from 5 to 7
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4823438/
+DESCRIPTION:Run time: 90 min | Format: Digital | Release year: 1962\n\nSeri
+ es: In the Eagle\n\nOne of the most delightful films of the French New Wav
+ e\, iconic filmmaker Agnès Varda eloquently captures Paris in the sixties
+  with this real-time portrait of a singer set adrift in the city.\n\nTicke
+ ts: https://vidiotsfoundation.org/purchase/4823438/\n\nDetails: https://vi
+ diotsfoundation.org/movies/cleo-from-5-to-7/
+END:VEVENT
+BEGIN:VEVENT
 UID:4815432@vidiotsfoundation.org
 DTSTAMP:20261129T030000Z
 DTSTART;TZID=America/Los_Angeles:20261128T190000
@@ -1218,6 +1404,22 @@ DESCRIPTION:Run time: 113 min | Format: Digital | Rating: PG-13\n\nSeries:
  ally gets off the ground — and stays there!\n\nTickets: https://vidiotsf
  oundation.org/purchase/4815432/\n\nDetails: https://vidiotsfoundation.org/
  movies/twister/
+END:VEVENT
+BEGIN:VEVENT
+UID:4823440@vidiotsfoundation.org
+DTSTAMP:20261129T054500Z
+DTSTART;TZID=America/Los_Angeles:20261128T214500
+DTEND;TZID=America/Los_Angeles:20261128T235900
+SUMMARY:Oldboy
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4823440/
+DESCRIPTION:Run time: 134 min | Format: 4K Digital | Rating: R | Release ye
+ ar: 2003\n\nSeries: In the Eagle\n\nOne of the greatest - and most twisted
+  - revenge thrillers of all time\, this visceral thrill ride from Park Cha
+ n-wook never gets old\, restored and remastered in 4K.\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4823440/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/oldboy/
 END:VEVENT
 BEGIN:VEVENT
 UID:4679430@vidiotsfoundation.org
