@@ -8,39 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4679430@vidiotsfoundation.org
-DTSTAMP:20261016T020000Z
-DTSTART;TZID=America/Los_Angeles:20261015T190000
-DTEND;TZID=America/Los_Angeles:20261015T202400
-SUMMARY:Outpost
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4679430/
-DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Additional Shows\
- , Countdown to Halloween\, In the MUBI Microcinema\, Special Guests in Att
- endance\n\nJoin us in the microcinema for Joe Lo Truglio's nail-biting nig
- htmare of the darkness that lurks in the woods and inside us.\nWith writer
- /director Joe Lo Truglio and star Beth Dover in person for the October 15t
- h screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4679430/\n
- \nDetails: https://vidiotsfoundation.org/movies/outpost/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672364@vidiotsfoundation.org
-DTSTAMP:20261016T023000Z
-DTSTART;TZID=America/Los_Angeles:20261015T193000
-DTEND;TZID=America/Los_Angeles:20261015T212800
-SUMMARY:The Witches of Eastwick
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672364/
-DESCRIPTION:Run time: 118 min | Format: Digital | Rating: R\n\nSeries: Coun
- tdown to Halloween\, Doors Open at 6\, In the Eagle\n\nWith an iconic cast
- \, fiercely funny dialogue\, and tons of witchy fun\, you'll want to gathe
- r up your coven and get ready for all the sexy and savage sorcery!\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4672364/\n\nDetails: https://v
- idiotsfoundation.org/movies/the-witches-of-eastwick/
-END:VEVENT
-BEGIN:VEVENT
 UID:4672376@vidiotsfoundation.org
 DTSTAMP:20261017T200000Z
 DTSTART;TZID=America/Los_Angeles:20261017T130000
@@ -122,23 +89,6 @@ DESCRIPTION:Run time: 124 min | Format: Digital | Rating: R | Release year:
   1988\n\nSeries: In the Eagle\n\nNeo-Tokyo is about to E·X·P·L·O·D·E
  \n\nTickets: https://vidiotsfoundation.org/purchase/4672379/\n\nDetails: h
  ttps://vidiotsfoundation.org/movies/akira/
-END:VEVENT
-BEGIN:VEVENT
-UID:4735498@vidiotsfoundation.org
-DTSTAMP:20261018T044500Z
-DTSTART;TZID=America/Los_Angeles:20261017T214500
-DTEND;TZID=America/Los_Angeles:20261017T230900
-SUMMARY:Outpost
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4735498/
-DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Additional Shows\
- , Countdown to Halloween\, In the MUBI Microcinema\, Special Guests in Att
- endance\n\nJoin us in the microcinema for Joe Lo Truglio's nail-biting nig
- htmare of the darkness that lurks in the woods and inside us.\nWith writer
- /director Joe Lo Truglio and star Beth Dover in person for the October 15t
- h screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4735498/\n
- \nDetails: https://vidiotsfoundation.org/movies/outpost/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672385@vidiotsfoundation.org
@@ -1080,23 +1030,36 @@ DESCRIPTION:Run time: 113 min | Format: Digital | Rating: PG-13\n\nSeries:
  movies/twister/
 END:VEVENT
 BEGIN:VEVENT
-UID:4735523@vidiotsfoundation.org
-DTSTAMP:20261015T023000Z
-DTSTART;TZID=America/Los_Angeles:20261014T193000
-DTEND;TZID=America/Los_Angeles:20261014T211000
-SUMMARY:Candyman
+UID:4679430@vidiotsfoundation.org
+DTSTAMP:20261016T020000Z
+DTSTART;TZID=America/Los_Angeles:20261015T190000
+DTEND;TZID=America/Los_Angeles:20261015T202400
+SUMMARY:Outpost
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4679430/
+DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Additional Shows\
+ , Countdown to Halloween\, In the MUBI Microcinema\, Special Guests in Att
+ endance\n\nJoin us in the microcinema for Joe Lo Truglio's nail-biting nig
+ htmare of the darkness that lurks in the woods and inside us.\nWith writer
+ /director Joe Lo Truglio and star Beth Dover in person for the October 15t
+ h screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4679430/\n
+ \nDetails: https://vidiotsfoundation.org/movies/outpost/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672364@vidiotsfoundation.org
+DTSTAMP:20261016T023000Z
+DTSTART;TZID=America/Los_Angeles:20261015T193000
+DTEND;TZID=America/Los_Angeles:20261015T212800
+SUMMARY:The Witches of Eastwick
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4735523/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital | Rating: R\n\nSeries: Countdown to Halloween\, Doors Open
-  at 6\, In the Eagle\, Special Guests in Attendance\n\nVidiots is dying to
-  welcome screen icon Virginia Madsen for a buzzworthy screening of Bernard
-  Rose's horror masterpiece Candyman !\nLet the hypnotic Philip Glass score
-  draw you into a haunting and menacing nightmare about gentrification and 
- systemic racism\, perfectly helmed by Tony Todd's iconic performance.\n\nT
- ickets: https://vidiotsfoundation.org/purchase/4735523/\n\nDetails: https:
- //vidiotsfoundation.org/movies/candyman/
-STATUS:TENTATIVE
+URL:https://vidiotsfoundation.org/purchase/4672364/
+DESCRIPTION:Run time: 118 min | Format: Digital | Rating: R\n\nSeries: Coun
+ tdown to Halloween\, Doors Open at 6\, In the Eagle\n\nWith an iconic cast
+ \, fiercely funny dialogue\, and tons of witchy fun\, you'll want to gathe
+ r up your coven and get ready for all the sexy and savage sorcery!\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4672364/\n\nDetails: https://v
+ idiotsfoundation.org/movies/the-witches-of-eastwick/
 END:VEVENT
 END:VCALENDAR
