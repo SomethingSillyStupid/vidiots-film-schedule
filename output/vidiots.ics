@@ -619,6 +619,22 @@ DESCRIPTION:Run time: 127 min | Format: Digital | Release year: 1975\n\nSer
  deep-red/
 END:VEVENT
 BEGIN:VEVENT
+UID:4757974@vidiotsfoundation.org
+DTSTAMP:20261029T020000Z
+DTSTART;TZID=America/Los_Angeles:20261028T190000
+DTEND;TZID=America/Los_Angeles:20261028T203000
+SUMMARY:Sweet 16mm: Halloween Haunts
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4757974/
+DESCRIPTION:Run time: 90 min\n\nSeries: Countdown to Halloween\, In the MUB
+ I Microcinema\, Sweet 16mm\n\n16mm Spookiness just in time for Halloween! 
+ A ghostly night of obscure\, rare\, goofy\, and haunting short films and c
+ artoons all on 16mm celluloid.\nAdditional Screening Added!\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4757974/\n\nDetails: https://vidiotsf
+ oundation.org/movies/sweet-16mm-halloween-haunts/
+END:VEVENT
+BEGIN:VEVENT
 UID:4672423@vidiotsfoundation.org
 DTSTAMP:20261029T023000Z
 DTSTART;TZID=America/Los_Angeles:20261028T193000
@@ -647,8 +663,9 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min\n\n
  Series: Countdown to Halloween\, In the MUBI Microcinema\, Sweet 16mm\n\n1
  6mm Spookiness just in time for Halloween! A ghostly night of obscure\, ra
  re\, goofy\, and haunting short films and cartoons all on 16mm celluloid.\
- n\nTickets: https://vidiotsfoundation.org/purchase/4675860/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/sweet-16mm-halloween-haunts/
+ nAdditional Screening Added!\n\nTickets: https://vidiotsfoundation.org/pur
+ chase/4675860/\n\nDetails: https://vidiotsfoundation.org/movies/sweet-16mm
+ -halloween-haunts/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -683,6 +700,22 @@ DESCRIPTION:Run time: 76 min | Format: Digital | Rating: PG\n\nSeries: Film
  of ghoulfriends.\n\nTickets: https://vidiotsfoundation.org/purchase/467241
  9/\n\nDetails: https://vidiotsfoundation.org/movies/the-nightmare-before-c
  hristmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:4757982@vidiotsfoundation.org
+DTSTAMP:20261030T234500Z
+DTSTART;TZID=America/Los_Angeles:20261030T164500
+DTEND;TZID=America/Los_Angeles:20261030T182000
+SUMMARY:Resident Evil (2026)
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4757982/
+DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n\nHave a b
+ loody good time in our microcinema as Zach Cregger's newest horror triumph
+  takes over for Halloween Weekend!\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4757982/\n\nDetails: https://vidiotsfoundation.org/movies/resi
+ dent-evil-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672424@vidiotsfoundation.org
@@ -733,6 +766,22 @@ DESCRIPTION:Run time: 115 min | Format: Digital | Release year: 2000\n\nSer
  ://vidiotsfoundation.org/movies/audition/
 END:VEVENT
 BEGIN:VEVENT
+UID:4757992@vidiotsfoundation.org
+DTSTAMP:20261031T051500Z
+DTSTART;TZID=America/Los_Angeles:20261030T221500
+DTEND;TZID=America/Los_Angeles:20261030T235000
+SUMMARY:Resident Evil (2026)
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4757992/
+DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n\nHave a b
+ loody good time in our microcinema as Zach Cregger's newest horror triumph
+  takes over for Halloween Weekend!\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4757992/\n\nDetails: https://vidiotsfoundation.org/movies/resi
+ dent-evil-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:4675365@vidiotsfoundation.org
 DTSTAMP:20261031T180000Z
 DTSTART;TZID=America/Los_Angeles:20261031T110000
@@ -764,6 +813,22 @@ DESCRIPTION:Run time: 75 min | Format: Digital\n\nSeries: Countdown to Hall
  hroughout history.\n\nTickets: https://vidiotsfoundation.org/purchase/4675
  363/\n\nDetails: https://vidiotsfoundation.org/movies/bride-of-frankenstei
  n/
+END:VEVENT
+BEGIN:VEVENT
+UID:4758022@vidiotsfoundation.org
+DTSTAMP:20261031T234500Z
+DTSTART;TZID=America/Los_Angeles:20261031T164500
+DTEND;TZID=America/Los_Angeles:20261031T182000
+SUMMARY:Resident Evil (2026)
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4758022/
+DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n\nHave a b
+ loody good time in our microcinema as Zach Cregger's newest horror triumph
+  takes over for Halloween Weekend!\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4758022/\n\nDetails: https://vidiotsfoundation.org/movies/resi
+ dent-evil-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:4675239@vidiotsfoundation.org
@@ -813,6 +878,38 @@ DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
   and few films since have matched its levels of visceral torture.\n\nTicke
  ts: https://vidiotsfoundation.org/purchase/4675360/\n\nDetails: https://vi
  diotsfoundation.org/movies/the-texas-chain-saw-massacre/
+END:VEVENT
+BEGIN:VEVENT
+UID:4758024@vidiotsfoundation.org
+DTSTAMP:20261101T050000Z
+DTSTART;TZID=America/Los_Angeles:20261031T220000
+DTEND;TZID=America/Los_Angeles:20261031T233500
+SUMMARY:Resident Evil (2026)
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4758024/
+DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n\nHave a b
+ loody good time in our microcinema as Zach Cregger's newest horror triumph
+  takes over for Halloween Weekend!\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4758024/\n\nDetails: https://vidiotsfoundation.org/movies/resi
+ dent-evil-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:4788987@vidiotsfoundation.org
+DTSTAMP:20261101T213000Z
+DTSTART;TZID=America/Los_Angeles:20261101T133000
+DTEND;TZID=America/Los_Angeles:20261101T150500
+SUMMARY:Resident Evil (2026)
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4788987/
+DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n\nHave a b
+ loody good time in our microcinema as Zach Cregger's newest horror triumph
+  takes over for Halloween Weekend!\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4788987/\n\nDetails: https://vidiotsfoundation.org/movies/resi
+ dent-evil-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:4788988@vidiotsfoundation.org
@@ -896,6 +993,52 @@ DESCRIPTION:Run time: 93 min | Format: Digital | Rating: PG | Release year:
  https://vidiotsfoundation.org/movies/porco-rosso-english-dubbed/
 END:VEVENT
 BEGIN:VEVENT
+UID:4815376@vidiotsfoundation.org
+DTSTAMP:20261107T233000Z
+DTSTART;TZID=America/Los_Angeles:20261107T153000
+DTEND;TZID=America/Los_Angeles:20261107T173900
+SUMMARY:The Grapes of Wrath
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815376/
+DESCRIPTION:Run time: 129 min | Format: Digital\n\nSeries: Community Partne
+ rs\, In the Eagle\n\nVidiots and the Eagle Rock Historical Society are cel
+ ebrating 100 Years of Route 66 with a special screening of John Ford's cla
+ ssic Steinbeck adaptation The Grapes of Wrath.\n\nTickets: https://vidiots
+ foundation.org/purchase/4815376/\n\nDetails: https://vidiotsfoundation.org
+ /movies/the-grapes-of-wrath/
+END:VEVENT
+BEGIN:VEVENT
+UID:4823339@vidiotsfoundation.org
+DTSTAMP:20261109T030000Z
+DTSTART;TZID=America/Los_Angeles:20261108T190000
+DTEND;TZID=America/Los_Angeles:20261108T203700
+SUMMARY:Out of the Past
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4823339/
+DESCRIPTION:Run time: 97 min | Format: Digital\n\nSeries: In the Eagle\n\nG
+ et ready for some Noir in November with Jacques Tourneur's double crossing
+  classic!\n\nTickets: https://vidiotsfoundation.org/purchase/4823339/\n\nD
+ etails: https://vidiotsfoundation.org/movies/out-of-the-past/
+END:VEVENT
+BEGIN:VEVENT
+UID:4823341@vidiotsfoundation.org
+DTSTAMP:20261112T033000Z
+DTSTART;TZID=America/Los_Angeles:20261111T193000
+DTEND;TZID=America/Los_Angeles:20261111T212600
+SUMMARY:Grace of My Heart
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4823341/
+DESCRIPTION:Run time: 116 min | Format: Digital | Rating: R\n\nSeries: Door
+ s Open at 6\, In the Eagle\, Special Guests in Attendance\n\nVidiots is th
+ rilled to welcome cinema legends Alison Anders and Illeana Douglas for a s
+ pecial 30th Anniversary Screening of Grace of my Heart!\n\nTickets: https:
+ //vidiotsfoundation.org/purchase/4823341/\n\nDetails: https://vidiotsfound
+ ation.org/movies/grace-of-my-heart/
+END:VEVENT
+BEGIN:VEVENT
 UID:4815598@vidiotsfoundation.org
 DTSTAMP:20261114T001500Z
 DTSTART;TZID=America/Los_Angeles:20261113T161500
@@ -923,6 +1066,37 @@ DESCRIPTION:Run time: 97 min | Format: Digital | Rating: R\n\nSeries: In th
   Coen brothers into the upper echelons of filmmakers right off the bat.\n\
  nTickets: https://vidiotsfoundation.org/purchase/4815600/\n\nDetails: http
  s://vidiotsfoundation.org/movies/blood-simple/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815618@vidiotsfoundation.org
+DTSTAMP:20261114T054500Z
+DTSTART;TZID=America/Los_Angeles:20261113T214500
+DTEND;TZID=America/Los_Angeles:20261113T231600
+SUMMARY:The Return of the Living Dead
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815618/
+DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: In th
+ e Eagle\, What the Friday?!?\n\nA total blast from start to finish\, this 
+ monster bash features killer special effects\, a rockin' soundtrack\, and 
+ one of scream queen Linnea Quigley's most iconic moments. You'd be a ghoul
+  to miss it!\n\nTickets: https://vidiotsfoundation.org/purchase/4815618/\n
+ \nDetails: https://vidiotsfoundation.org/movies/the-return-of-the-living-d
+ ead/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815623@vidiotsfoundation.org
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=America/Los_Angeles:20261114T160000
+DTEND;TZID=America/Los_Angeles:20261114T174800
+SUMMARY:On the Waterfront
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815623/
+DESCRIPTION:Run time: 108 min | Format: Digital\n\nSeries: In the Eagle\, R
+ emembering Eva Marie Saint\n\nFor all the contenders out there.\n\nTickets
+ : https://vidiotsfoundation.org/purchase/4815623/\n\nDetails: https://vidi
+ otsfoundation.org/movies/on-the-waterfront/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815625@vidiotsfoundation.org
@@ -953,6 +1127,22 @@ DESCRIPTION:Run time: 76 min | Format: Digital | Rating: All Ages\n\nSeries
  riendship with your favorite cuddly toy-turned-cartoon characters.\n\nTick
  ets: https://vidiotsfoundation.org/purchase/4815635/\n\nDetails: https://v
  idiotsfoundation.org/movies/the-care-bears-movie/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815638@vidiotsfoundation.org
+DTSTAMP:20261115T234500Z
+DTSTART;TZID=America/Los_Angeles:20261115T154500
+DTEND;TZID=America/Los_Angeles:20261115T175000
+SUMMARY:Imitation of Life (1959)
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815638/
+DESCRIPTION:Run time: 125 min | Format: Digital\n\nSeries: In the Eagle\n\n
+ With incredible female characters and actors\, that gorgeous Sirkian Techn
+ icolor touch\, and a story of race that was decades ahead of its time\, th
+ is classic melodrama is ready to pull you in and give you all the feels!\n
+ \nTickets: https://vidiotsfoundation.org/purchase/4815638/\n\nDetails: htt
+ ps://vidiotsfoundation.org/movies/imitation-of-life-1959/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815520@vidiotsfoundation.org
