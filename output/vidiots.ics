@@ -94,6 +94,21 @@ DESCRIPTION:Run time: 124 min | Format: Digital | Rating: R | Release year:
  ttps://vidiotsfoundation.org/movies/akira/
 END:VEVENT
 BEGIN:VEVENT
+UID:4735498@vidiotsfoundation.org
+DTSTAMP:20261018T044500Z
+DTSTART;TZID=America/Los_Angeles:20261017T214500
+DTEND;TZID=America/Los_Angeles:20261017T230900
+SUMMARY:Outpost
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4735498/
+DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Countdown to Hall
+ oween\, In the MUBI Microcinema\n\nJoin us in the microcinema for Joe Lo T
+ ruglio's nail-biting nightmare of the darkness that lurks in the woods and
+  inside us.\n\nTickets: https://vidiotsfoundation.org/purchase/4735498/\n\
+ nDetails: https://vidiotsfoundation.org/movies/outpost/
+END:VEVENT
+BEGIN:VEVENT
 UID:4672385@vidiotsfoundation.org
 DTSTAMP:20261018T190000Z
 DTSTART;TZID=America/Los_Angeles:20261018T120000
@@ -485,11 +500,11 @@ DTEND;TZID=America/Los_Angeles:20261025T130000
 SUMMARY:Día de los Muertos Celebration
 LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
 URL:https://vidiotsfoundation.org/purchase/4698559/
-DESCRIPTION:Series: Free Events\n\nVidiots invites you to join us for our t
- hird annual Día de los Muertos Celebration - a special community event in
-  remembrance of our loved ones.\n\nTickets: https://vidiotsfoundation.org/
- purchase/4698559/\n\nDetails: https://vidiotsfoundation.org/movies/dia-de-
- los-muertos-celebration/
+DESCRIPTION:Run time: 120 min\n\nSeries: Free Events\n\nVidiots invites you
+  to join us for our third annual Día de los Muertos Celebration - a speci
+ al community event in remembrance of our loved ones.\n\nTickets: https://v
+ idiotsfoundation.org/purchase/4698559/\n\nDetails: https://vidiotsfoundati
+ on.org/movies/dia-de-los-muertos-celebration/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672403@vidiotsfoundation.org
@@ -1088,6 +1103,20 @@ DESCRIPTION:Run time: 91 min | Format: Digital | Rating: PG\n\nSeries: Comm
  ears of Route 66 with a special screening of Pee-Wee's Big Adventure!\n\nT
  ickets: https://vidiotsfoundation.org/purchase/4815381/\n\nDetails: https:
  //vidiotsfoundation.org/movies/pee-wees-big-adventure/
+END:VEVENT
+BEGIN:VEVENT
+UID:4826532@vidiotsfoundation.org
+DTSTAMP:20261108T054500Z
+DTSTART;TZID=America/Los_Angeles:20261107T214500
+DTEND;TZID=America/Los_Angeles:20261107T231700
+SUMMARY:Repo Man
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4826532/
+DESCRIPTION:Run time: 92 min | Format: Digital | Rating: R\n\nSeries: 100 Y
+ ears of Harry Dean Stanton\, In the Eagle\n\nIt’s 4 a.m. Do you know whe
+ re your car is?\n\nTickets: https://vidiotsfoundation.org/purchase/4826532
+ /\n\nDetails: https://vidiotsfoundation.org/movies/repo-man/
 END:VEVENT
 BEGIN:VEVENT
 UID:4823533@vidiotsfoundation.org
