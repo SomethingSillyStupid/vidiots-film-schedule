@@ -1503,37 +1503,4 @@ DESCRIPTION:Run time: 134 min | Format: 4K Digital | Rating: R | Release ye
  /vidiotsfoundation.org/purchase/4823440/\n\nDetails: https://vidiotsfounda
  tion.org/movies/oldboy/
 END:VEVENT
-BEGIN:VEVENT
-UID:4679430@vidiotsfoundation.org
-DTSTAMP:20261016T020000Z
-DTSTART;TZID=America/Los_Angeles:20261015T190000
-DTEND;TZID=America/Los_Angeles:20261015T202400
-SUMMARY:Outpost
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4679430/
-DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Additional Shows\
- , Countdown to Halloween\, In the MUBI Microcinema\, Special Guests in Att
- endance\n\nJoin us in the microcinema for Joe Lo Truglio's nail-biting nig
- htmare of the darkness that lurks in the woods and inside us.\nWith writer
- /director Joe Lo Truglio and star Beth Dover in person for the October 15t
- h screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4679430/\n
- \nDetails: https://vidiotsfoundation.org/movies/outpost/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672364@vidiotsfoundation.org
-DTSTAMP:20261016T023000Z
-DTSTART;TZID=America/Los_Angeles:20261015T193000
-DTEND;TZID=America/Los_Angeles:20261015T212800
-SUMMARY:The Witches of Eastwick
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672364/
-DESCRIPTION:Run time: 118 min | Format: Digital | Rating: R\n\nSeries: Coun
- tdown to Halloween\, Doors Open at 6\, In the Eagle\n\nWith an iconic cast
- \, fiercely funny dialogue\, and tons of witchy fun\, you'll want to gathe
- r up your coven and get ready for all the sexy and savage sorcery!\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4672364/\n\nDetails: https://v
- idiotsfoundation.org/movies/the-witches-of-eastwick/
-END:VEVENT
 END:VCALENDAR
