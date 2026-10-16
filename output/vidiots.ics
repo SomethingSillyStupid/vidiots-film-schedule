@@ -33,11 +33,13 @@ SUMMARY:Breaking Away
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672377/
-DESCRIPTION:Run time: 101 min\n\nSeries: In the Eagle\, Special Guests in A
- ttendance\n\nThe movie that tells you exactly what you can do with your hi
- gh school diploma!\nWith a special introduction from the legendary Paul Do
- oley!\n\nTickets: https://vidiotsfoundation.org/purchase/4672377/\n\nDetai
- ls: https://vidiotsfoundation.org/movies/breaking-away/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min\n\
+ nSeries: In the Eagle\, Special Guests in Attendance\n\nThe movie that tel
+ ls you exactly what you can do with your high school diploma!\nWith a spec
+ ial introduction from the legendary Paul Dooley!\n\nTickets: https://vidio
+ tsfoundation.org/purchase/4672377/\n\nDetails: https://vidiotsfoundation.o
+ rg/movies/breaking-away/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4735493@vidiotsfoundation.org
@@ -68,13 +70,14 @@ SUMMARY:Videodrome
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672378/
-DESCRIPTION:Run time: 88 min | Format: Digital | Rating: R\n\nSeries: Count
- down to Halloween\, In the Eagle\, Video Store Day!\n\nWe're celebrating V
- ideo Store Day with horror maestro David Cronenberg's VCR-centric classic 
- Videodrome!\nA viscerally disturbing treatise on voyeurism\, sleaze\, and 
- the pursuit of the deepest of underground entertainment.\n\nTickets: https
- ://vidiotsfoundation.org/purchase/4672378/\n\nDetails: https://vidiotsfoun
- dation.org/movies/videodrome/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
+ ormat: Digital | Rating: R\n\nSeries: Countdown to Halloween\, In the Eagl
+ e\, Video Store Day!\n\nWe're celebrating Video Store Day with horror maes
+ tro David Cronenberg's VCR-centric classic Videodrome!\nA viscerally distu
+ rbing treatise on voyeurism\, sleaze\, and the pursuit of the deepest of u
+ nderground entertainment.\n\nTickets: https://vidiotsfoundation.org/purcha
+ se/4672378/\n\nDetails: https://vidiotsfoundation.org/movies/videodrome/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4672379@vidiotsfoundation.org
@@ -1071,6 +1074,22 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: Addi
  etails: https://vidiotsfoundation.org/movies/primetime/
 END:VEVENT
 BEGIN:VEVENT
+UID:4815381@vidiotsfoundation.org
+DTSTAMP:20261108T030000Z
+DTSTART;TZID=America/Los_Angeles:20261107T190000
+DTEND;TZID=America/Los_Angeles:20261107T203100
+SUMMARY:Pee-wee’s Big Adventure
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815381/
+DESCRIPTION:Run time: 91 min | Format: Digital | Rating: PG\n\nSeries: Comm
+ unity Partners\, In the Eagle\n\nPaging Mr. Herman\, Mr. Pee-Wee Herman.\n
+ Vidiots and the Eagle Rock Valley Historical Society are celebrating 100 Y
+ ears of Route 66 with a special screening of Pee-Wee's Big Adventure!\n\nT
+ ickets: https://vidiotsfoundation.org/purchase/4815381/\n\nDetails: https:
+ //vidiotsfoundation.org/movies/pee-wees-big-adventure/
+END:VEVENT
+BEGIN:VEVENT
 UID:4823533@vidiotsfoundation.org
 DTSTAMP:20261108T060000Z
 DTSTART;TZID=America/Los_Angeles:20261107T220000
@@ -1187,6 +1206,22 @@ DESCRIPTION:Run time: 108 min | Format: Digital\n\nSeries: In the Eagle\, R
  emembering Eva Marie Saint\n\nFor all the contenders out there.\n\nTickets
  : https://vidiotsfoundation.org/purchase/4815623/\n\nDetails: https://vidi
  otsfoundation.org/movies/on-the-waterfront/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815624@vidiotsfoundation.org
+DTSTAMP:20261115T030000Z
+DTSTART;TZID=America/Los_Angeles:20261114T190000
+DTEND;TZID=America/Los_Angeles:20261114T203700
+SUMMARY:Pretty in Pink
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815624/
+DESCRIPTION:Run time: 97 min | Format: Digital | Rating: PG-13\n\nSeries: 1
+ 00 Years of Harry Dean Stanton\, In the Eagle\n\nPut on your dancing shoes
+  and get ready for this all-time teen classic of high school romance\, jea
+ lousy\, resourcefulness\, and classism.\n\nTickets: https://vidiotsfoundat
+ ion.org/purchase/4815624/\n\nDetails: https://vidiotsfoundation.org/movies
+ /pretty-in-pink/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815625@vidiotsfoundation.org
@@ -1342,6 +1377,53 @@ DESCRIPTION:Run time: 117 min | Format: Digital\n\nSeries: Doors Open at 6\
  with The Band and a cavalcade of musical superstars in Scorsese's electrif
  ying concert film.\n\nTickets: https://vidiotsfoundation.org/purchase/4815
  443/\n\nDetails: https://vidiotsfoundation.org/movies/the-last-waltz/
+END:VEVENT
+BEGIN:VEVENT
+UID:4824021@vidiotsfoundation.org
+DTSTAMP:20261126T033000Z
+DTSTART;TZID=America/Los_Angeles:20261125T193000
+DTEND;TZID=America/Los_Angeles:20261125T210200
+SUMMARY:Planes\, Trains and Automobiles
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4824021/
+DESCRIPTION:Run time: 92 min | Format: Digital | Rating: R\n\nSeries: Doors
+  Open at 6\, In the Eagle\n\nWhat he really wanted was to spend Thanksgivi
+ ng with his family. What he got was three days with the turkey.\n\nTickets
+ : https://vidiotsfoundation.org/purchase/4824021/\n\nDetails: https://vidi
+ otsfoundation.org/movies/planes-trains-and-automobiles/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815404@vidiotsfoundation.org
+DTSTAMP:20261127T203000Z
+DTSTART;TZID=America/Los_Angeles:20261127T123000
+DTEND;TZID=America/Los_Angeles:20261127T141300
+SUMMARY:Singin’ in the Rain
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815404/
+DESCRIPTION:Run time: 103 min | Format: Digital\n\nSeries: In the Eagle\n\n
+ Arguably the greatest movie musical ever made\, and considered by many to 
+ be one of the greatest films of all time\, Singin' in the Rain remains a s
+ ingular masterpiece of music\, comedy\, romance\, and dance\, set against 
+ a breathtaking Technicolor backdrop of imagination and artistry.\n\nTicket
+ s: https://vidiotsfoundation.org/purchase/4815404/\n\nDetails: https://vid
+ iotsfoundation.org/movies/singin-in-the-rain/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815405@vidiotsfoundation.org
+DTSTAMP:20261127T233000Z
+DTSTART;TZID=America/Los_Angeles:20261127T153000
+DTEND;TZID=America/Los_Angeles:20261127T174600
+SUMMARY:North by Northwest
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815405/
+DESCRIPTION:Run time: 136 min | Format: Digital\n\nSeries: In the Eagle\, R
+ emembering Eva Marie Saint\n\nThe ultimate Hitchcock thrill ride starring 
+ a luminous Eva Marie Saint!\n\nTickets: https://vidiotsfoundation.org/purc
+ hase/4815405/\n\nDetails: https://vidiotsfoundation.org/movies/north-by-no
+ rthwest/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815406@vidiotsfoundation.org
