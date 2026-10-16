@@ -1031,18 +1031,21 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: Addi
  etails: https://vidiotsfoundation.org/movies/primetime/
 END:VEVENT
 BEGIN:VEVENT
-UID:4815364@vidiotsfoundation.org
-DTSTAMP:20261106T033000Z
-DTSTART;TZID=America/Los_Angeles:20261105T193000
-DTEND;TZID=America/Los_Angeles:20261105T215700
-SUMMARY:Woman in the Dunes on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815364/
-DESCRIPTION:Run time: 147 min | Format: 35mm Film | Release year: 1964\n\nS
- eries: 35mm Film\, Doors Open at 6\, In the Eagle\n\nHaunting. Erotic. Unf
- orgettable.\n\nTickets: https://vidiotsfoundation.org/purchase/4815364/\n\
- nDetails: https://vidiotsfoundation.org/movies/woman-in-the-dunes/
+UID:4823529@vidiotsfoundation.org
+DTSTAMP:20261106T030000Z
+DTSTART;TZID=America/Los_Angeles:20261105T190000
+DTEND;TZID=America/Los_Angeles:20261105T202400
+SUMMARY:I Hate Myself and Want to Die
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4823529/
+DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
+  microcinema for a refreshing dark comedy that will give you life - J. Dav
+ is' acerbically hilarious I Hate Myself and Want to Die .\nCast and/or Cre
+ w in person at all screenings!\n\nTickets: https://vidiotsfoundation.org/p
+ urchase/4823529/\n\nDetails: https://vidiotsfoundation.org/movies/i-hate-m
+ yself-and-want-to-die/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815373@vidiotsfoundation.org
@@ -1105,6 +1108,23 @@ DESCRIPTION:Run time: 91 min | Format: Digital | Rating: PG\n\nSeries: Comm
  //vidiotsfoundation.org/movies/pee-wees-big-adventure/
 END:VEVENT
 BEGIN:VEVENT
+UID:4823532@vidiotsfoundation.org
+DTSTAMP:20261108T033000Z
+DTSTART;TZID=America/Los_Angeles:20261107T193000
+DTEND;TZID=America/Los_Angeles:20261107T205400
+SUMMARY:I Hate Myself and Want to Die
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4823532/
+DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
+  microcinema for a refreshing dark comedy that will give you life - J. Dav
+ is' acerbically hilarious I Hate Myself and Want to Die .\nCast and/or Cre
+ w in person at all screenings!\n\nTickets: https://vidiotsfoundation.org/p
+ urchase/4823532/\n\nDetails: https://vidiotsfoundation.org/movies/i-hate-m
+ yself-and-want-to-die/
+END:VEVENT
+BEGIN:VEVENT
 UID:4826532@vidiotsfoundation.org
 DTSTAMP:20261108T054500Z
 DTSTART;TZID=America/Los_Angeles:20261107T214500
@@ -1131,6 +1151,23 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: Addi
  tional Shows\, In the MUBI Microcinema\n\nAre you ready to make television
   history?\n\nTickets: https://vidiotsfoundation.org/purchase/4823533/\n\nD
  etails: https://vidiotsfoundation.org/movies/primetime/
+END:VEVENT
+BEGIN:VEVENT
+UID:4823675@vidiotsfoundation.org
+DTSTAMP:20261109T003000Z
+DTSTART;TZID=America/Los_Angeles:20261108T163000
+DTEND;TZID=America/Los_Angeles:20261108T175400
+SUMMARY:I Hate Myself and Want to Die
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4823675/
+DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
+  microcinema for a refreshing dark comedy that will give you life - J. Dav
+ is' acerbically hilarious I Hate Myself and Want to Die .\nCast and/or Cre
+ w in person at all screenings!\n\nTickets: https://vidiotsfoundation.org/p
+ urchase/4823675/\n\nDetails: https://vidiotsfoundation.org/movies/i-hate-m
+ yself-and-want-to-die/
 END:VEVENT
 BEGIN:VEVENT
 UID:4823339@vidiotsfoundation.org
