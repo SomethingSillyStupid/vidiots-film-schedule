@@ -344,11 +344,13 @@ SUMMARY:E.T. the Extra-Terrestrial on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672401/
-DESCRIPTION:Run time: 115 min | Format: 35mm Film | Rating: All Ages\n\nSer
- ies: 35mm Film\, Films for Everyone\, In the Eagle\n\nEveryone's favorite 
- wig-wearing\, Reese's Pieces-eating alien is back on our big screen!\n\nTi
- ckets: https://vidiotsfoundation.org/purchase/4672401/\n\nDetails: https:/
- /vidiotsfoundation.org/movies/e-t-the-extra-terrestrial/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 115 min | 
+ Format: 35mm Film | Rating: All Ages\n\nSeries: 35mm Film\, Films for Ever
+ yone\, In the Eagle\n\nEveryone's favorite wig-wearing\, Reese's Pieces-ea
+ ting alien is back on our big screen!\n\nTickets: https://vidiotsfoundatio
+ n.org/purchase/4672401/\n\nDetails: https://vidiotsfoundation.org/movies/e
+ -t-the-extra-terrestrial/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4757646@vidiotsfoundation.org
@@ -795,6 +797,21 @@ DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
  mance from Chris Colfer!\n\nTickets: https://vidiotsfoundation.org/purchas
  e/4788983/\n\nDetails: https://vidiotsfoundation.org/movies/the-restoratio
  n-at-grayson-manor/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815343@vidiotsfoundation.org
+DTSTAMP:20261103T033000Z
+DTSTART;TZID=America/Los_Angeles:20261102T193000
+DTEND;TZID=America/Los_Angeles:20261102T210300
+SUMMARY:Rushmore
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815343/
+DESCRIPTION:Run time: 93 min | Format: Digital | Rating: R\n\nSeries: Doors
+  Open at 6\, In the Eagle\n\nVidiots is heading back to school with Wes An
+ derson's beloved offbeat comedy and the cult of Max Fischer.\n\nTickets: h
+ ttps://vidiotsfoundation.org/purchase/4815343/\n\nDetails: https://vidiots
+ foundation.org/movies/rushmore/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815360@vidiotsfoundation.org
@@ -1340,6 +1357,21 @@ DESCRIPTION:Run time: 102 min | Format: Digital | Rating: R\n\nSeries: In t
  \n\nDetails: https://vidiotsfoundation.org/movies/enter-the-dragon/
 END:VEVENT
 BEGIN:VEVENT
+UID:4823436@vidiotsfoundation.org
+DTSTAMP:20261128T204500Z
+DTSTART;TZID=America/Los_Angeles:20261128T124500
+DTEND;TZID=America/Los_Angeles:20261128T144900
+SUMMARY:Fantasia on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4823436/
+DESCRIPTION:Run time: 124 min | Format: 35mm Film | Rating: All Ages\n\nSer
+ ies: 35mm Film\, Films for Everyone\, In the Eagle\n\nWalt Disney's timele
+ ss masterpiece is a breathtaking extravaganza of sight and sound!\n\nTicke
+ ts: https://vidiotsfoundation.org/purchase/4823436/\n\nDetails: https://vi
+ diotsfoundation.org/movies/fantasia/
+END:VEVENT
+BEGIN:VEVENT
 UID:4823438@vidiotsfoundation.org
 DTSTAMP:20261129T001500Z
 DTSTART;TZID=America/Los_Angeles:20261128T161500
@@ -1386,5 +1418,36 @@ DESCRIPTION:Run time: 134 min | Format: 4K Digital | Rating: R | Release ye
  n-wook never gets old\, restored and remastered in 4K.\n\nTickets: https:/
  /vidiotsfoundation.org/purchase/4823440/\n\nDetails: https://vidiotsfounda
  tion.org/movies/oldboy/
+END:VEVENT
+BEGIN:VEVENT
+UID:4843402@vidiotsfoundation.org
+DTSTAMP:20261129T210000Z
+DTSTART;TZID=America/Los_Angeles:20261129T130000
+DTEND;TZID=America/Los_Angeles:20261129T144200
+SUMMARY:Frozen Sing Along
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4843402/
+DESCRIPTION:Run time: 102 min | Format: Digital | Rating: All Ages\n\nSerie
+ s: Films for Everyone\, In the Eagle\, Interactive\n\nIt's time to Let it 
+ Go with everyone's favorite musical saga of a duo of iconic ice princesses
+ .\n\nTickets: https://vidiotsfoundation.org/purchase/4843402/\n\nDetails: 
+ https://vidiotsfoundation.org/movies/frozen/
+END:VEVENT
+BEGIN:VEVENT
+UID:4843407@vidiotsfoundation.org
+DTSTAMP:20261130T030000Z
+DTSTART;TZID=America/Los_Angeles:20261129T190000
+DTEND;TZID=America/Los_Angeles:20261129T211100
+SUMMARY:The Twilight Saga: New Moon
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4843407/
+DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\n\nWe couldn't stop at one serving of the Twilight Saga\, we 
+ had to bring you the next installment of this supernatural tortured teenag
+ ed romantic emo epic!\n\nTickets: https://vidiotsfoundation.org/purchase/4
+ 843407/\n\nDetails: https://vidiotsfoundation.org/movies/the-twilight-saga
+ -new-moon/
 END:VEVENT
 END:VCALENDAR
