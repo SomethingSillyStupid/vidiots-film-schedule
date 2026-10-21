@@ -120,18 +120,18 @@ BEGIN:VEVENT
 UID:4679845@vidiotsfoundation.org
 DTSTAMP:20261024T044500Z
 DTSTART;TZID=America/Los_Angeles:20261023T214500
-DTEND;TZID=America/Los_Angeles:20261023T233000
+DTEND;TZID=America/Los_Angeles:20261023T233700
 SUMMARY:Mimic
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4679845/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Coun
+DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Coun
  tdown to Halloween\, In the Eagle\, TeenTix LA\, What the Friday?!?\n\nDon
  't bug out - we've got the creature feature your Friday night has been mis
  sing - a Guillermo del Toro giant mutant cockroach movie starring Mira Sor
- vino and international superstar Giancarlo Giannini!\n\nTickets: https://v
- idiotsfoundation.org/purchase/4679845/\n\nDetails: https://vidiotsfoundati
- on.org/movies/mimic/
+ vino and international superstar Giancarlo Giannini!\nDirector's Cut\n\nTi
+ ckets: https://vidiotsfoundation.org/purchase/4679845/\n\nDetails: https:/
+ /vidiotsfoundation.org/movies/mimic/
 END:VEVENT
 BEGIN:VEVENT
 UID:4757612@vidiotsfoundation.org
@@ -324,13 +324,12 @@ SUMMARY:The Exorcist on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672391/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 132 min | 
- Format: 35mm Film | Rating: R\n\nSeries: 35mm Film\, Countdown to Hallowee
- n\, In the Eagle\n\nGrab your crucifix and hold your loved ones close as V
- idiots delves into the depths of demonic horror on glorious celluloid!\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4672391/\n\nDetails: https
- ://vidiotsfoundation.org/movies/the-exorcist/
-STATUS:TENTATIVE
+DESCRIPTION:Run time: 132 min | Format: 35mm Film | Rating: R\n\nSeries: 35
+ mm Film\, Countdown to Halloween\, In the Eagle\n\nGrab your crucifix and 
+ hold your loved ones close as Vidiots delves into the depths of demonic ho
+ rror on glorious celluloid!\n\nTickets: https://vidiotsfoundation.org/purc
+ hase/4672391/\n\nDetails: https://vidiotsfoundation.org/movies/the-exorcis
+ t/
 END:VEVENT
 BEGIN:VEVENT
 UID:4757649@vidiotsfoundation.org
@@ -723,10 +722,12 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4788977/
 DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 1960\n\nSeri
- es: Día de los Muertos Celebration\, In the Eagle\n\nVidiots is celebrati
- ng Día de los Muertos with a special screening of the haunting Mexican ma
- sterpiece Macario .\n\nTickets: https://vidiotsfoundation.org/purchase/478
- 8977/\n\nDetails: https://vidiotsfoundation.org/movies/macario/
+ es: Community Partners\, Día de los Muertos Celebration\, In the Eagle\, 
+ Live DJ Set\n\nVidiots and Hello Stranger are celebrating Día de los Muer
+ tos with a special screening of the haunting Mexican masterpiece Macario\,
+  with live DJ sets from DJ Joey T and Thunder One from the Tohono O'odham 
+ Nation and more festivities.\n\nTickets: https://vidiotsfoundation.org/pur
+ chase/4788977/\n\nDetails: https://vidiotsfoundation.org/movies/macario/
 END:VEVENT
 BEGIN:VEVENT
 UID:4788983@vidiotsfoundation.org
@@ -823,6 +824,21 @@ DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Additional Shows\
  w in person at all screenings!\n\nTickets: https://vidiotsfoundation.org/p
  urchase/4823529/\n\nDetails: https://vidiotsfoundation.org/movies/i-hate-m
  yself-and-want-to-die/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815364@vidiotsfoundation.org
+DTSTAMP:20261106T033000Z
+DTSTART;TZID=America/Los_Angeles:20261105T193000
+DTEND;TZID=America/Los_Angeles:20261105T210800
+SUMMARY:Fallen Angels
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815364/
+DESCRIPTION:Run time: 98 min | Format: Digital | Release year: 1995\n\nSeri
+ es: Doors Open at 6\, In the Eagle\n\nLost souls reach out for human conne
+ ction amid a glimmering Hong Kong in Wong Kar Wai’s hallucinatory\, neon
+ -soaked nocturne.\n\nTickets: https://vidiotsfoundation.org/purchase/48153
+ 64/\n\nDetails: https://vidiotsfoundation.org/movies/fallen-angels/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815373@vidiotsfoundation.org
@@ -1041,6 +1057,21 @@ DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: In th
  ead/
 END:VEVENT
 BEGIN:VEVENT
+UID:4815622@vidiotsfoundation.org
+DTSTAMP:20261114T210000Z
+DTSTART;TZID=America/Los_Angeles:20261114T130000
+DTEND;TZID=America/Los_Angeles:20261114T144200
+SUMMARY:Big Hero 6
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815622/
+DESCRIPTION:Run time: 102 min | Format: Digital | Rating: All Ages\n\nSerie
+ s: Films for Everyone\, In the Eagle\n\nDisney meets Marvel in this thrill
+ ing and charming tale of robotic friendship and fighting for what's right.
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4815622/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/big-hero-6/
+END:VEVENT
+BEGIN:VEVENT
 UID:4815623@vidiotsfoundation.org
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=America/Los_Angeles:20261114T160000
@@ -1126,10 +1157,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4815640/
 DESCRIPTION:Run time: 98 min | Format: Digital | Rating: PG-13\n\nSeries: I
- n the Eagle\, Special Guests in Attendance\n\nRock Out with The Pussycats!
- \nWriter/Directors Deborah Kaplan and Harry Elfont in person!\n\nTickets: 
- https://vidiotsfoundation.org/purchase/4815640/\n\nDetails: https://vidiot
- sfoundation.org/movies/josie-and-the-pussycats/
+ n the Eagle\, Live DJ Set\, Special Guests in Attendance\n\nRock Out with 
+ The Pussycats!\nWriter/Directors Deborah Kaplan and Harry Elfont in person
+ ! Plus\, ultra-millennial DJ sets before and after the screening!\n\nTicke
+ ts: https://vidiotsfoundation.org/purchase/4815640/\n\nDetails: https://vi
+ diotsfoundation.org/movies/josie-and-the-pussycats/
 END:VEVENT
 BEGIN:VEVENT
 UID:4823631@vidiotsfoundation.org
@@ -1379,6 +1411,20 @@ DESCRIPTION:Run time: 102 min | Format: Digital | Rating: All Ages\n\nSerie
  Go with everyone's favorite musical saga of a duo of iconic ice princesses
  .\n\nTickets: https://vidiotsfoundation.org/purchase/4843402/\n\nDetails: 
  https://vidiotsfoundation.org/movies/frozen/
+END:VEVENT
+BEGIN:VEVENT
+UID:4843406@vidiotsfoundation.org
+DTSTAMP:20261130T000000Z
+DTSTART;TZID=America/Los_Angeles:20261129T160000
+DTEND;TZID=America/Los_Angeles:20261129T175300
+SUMMARY:The Asphalt Jungle on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4843406/
+DESCRIPTION:Run time: 113 min | Format: 35mm Film\n\nSeries: In the Eagle\n
+ \nJoin us for John Huston's crime classic with Marilyn Monroe in one of he
+ r first roles.\n\nTickets: https://vidiotsfoundation.org/purchase/4843406/
+ \n\nDetails: https://vidiotsfoundation.org/movies/the-asphalt-jungle/
 END:VEVENT
 BEGIN:VEVENT
 UID:4843407@vidiotsfoundation.org
