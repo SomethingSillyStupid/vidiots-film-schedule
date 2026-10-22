@@ -8,6 +8,24 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
+UID:4703150@vidiotsfoundation.org
+DTSTAMP:20261023T020000Z
+DTSTART;TZID=America/Los_Angeles:20261022T190000
+DTEND;TZID=America/Los_Angeles:20261022T202700
+SUMMARY:The Oldest Person in the World
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4703150/
+DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, Special Guests in Attendance\, Groundbreaking 
+ Non-Fiction\n\nJoin us in the microcinema for an-all-too-human triumph of 
+ documentary filmmaking\, Sam Greene's profound and entertaining affirmatio
+ n of life.\nWith director Sam Green in person at the Thursday\, October 22
+ nd and Saturday\, October 24th screenings.\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4703150/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/the-oldest-person-in-the-world/
+END:VEVENT
+BEGIN:VEVENT
 UID:4679491@vidiotsfoundation.org
 DTSTAMP:20261023T223000Z
 DTSTART;TZID=America/Los_Angeles:20261023T153000
@@ -23,6 +41,24 @@ DESCRIPTION:Run time: 144 min | Rating: R\n\nSeries: 35mm Film\, In the Eag
  , psychotic mastery.\nAdditional Screening Added!\n\nTickets: https://vidi
  otsfoundation.org/purchase/4679491/\n\nDetails: https://vidiotsfoundation.
  org/movies/the-shining/
+END:VEVENT
+BEGIN:VEVENT
+UID:4703169@vidiotsfoundation.org
+DTSTAMP:20261023T233000Z
+DTSTART;TZID=America/Los_Angeles:20261023T163000
+DTEND;TZID=America/Los_Angeles:20261023T175700
+SUMMARY:The Oldest Person in the World
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4703169/
+DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, Special Guests in Attendance\, Groundbreaking 
+ Non-Fiction\n\nJoin us in the microcinema for an-all-too-human triumph of 
+ documentary filmmaking\, Sam Greene's profound and entertaining affirmatio
+ n of life.\nWith director Sam Green in person at the Thursday\, October 22
+ nd and Saturday\, October 24th screenings.\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4703169/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/the-oldest-person-in-the-world/
 END:VEVENT
 BEGIN:VEVENT
 UID:4679492@vidiotsfoundation.org
@@ -125,6 +161,24 @@ DESCRIPTION:Run time: 76 min | Format: Digital | Rating: PG\n\nSeries: Film
  of ghoulfriends.\n\nTickets: https://vidiotsfoundation.org/purchase/467239
  6/\n\nDetails: https://vidiotsfoundation.org/movies/the-nightmare-before-c
  hristmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:4703178@vidiotsfoundation.org
+DTSTAMP:20261025T003000Z
+DTSTART;TZID=America/Los_Angeles:20261024T173000
+DTEND;TZID=America/Los_Angeles:20261024T185700
+SUMMARY:The Oldest Person in the World
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4703178/
+DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, Special Guests in Attendance\, Groundbreaking 
+ Non-Fiction\n\nJoin us in the microcinema for an-all-too-human triumph of 
+ documentary filmmaking\, Sam Greene's profound and entertaining affirmatio
+ n of life.\nWith director Sam Green in person at the Thursday\, October 22
+ nd and Saturday\, October 24th screenings.\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4703178/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/the-oldest-person-in-the-world/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672395@vidiotsfoundation.org
@@ -363,14 +417,12 @@ SUMMARY:Sweet 16mm: Halloween Haunts
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4675860/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min\n\n
- Series: Countdown to Halloween\, In the MUBI Microcinema\, Sweet 16mm\n\n1
- 6mm Spookiness just in time for Halloween! A ghostly night of obscure\, ra
- re\, goofy\, and haunting short films and cartoons all on 16mm celluloid.\
- nAdditional Screening Added!\n\nTickets: https://vidiotsfoundation.org/pur
- chase/4675860/\n\nDetails: https://vidiotsfoundation.org/movies/sweet-16mm
- -halloween-haunts/
-STATUS:TENTATIVE
+DESCRIPTION:Run time: 90 min\n\nSeries: Countdown to Halloween\, In the MUB
+ I Microcinema\, Sweet 16mm\n\n16mm Spookiness just in time for Halloween! 
+ A ghostly night of obscure\, rare\, goofy\, and haunting short films and c
+ artoons all on 16mm celluloid.\nAdditional Screening Added!\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4675860/\n\nDetails: https://vidiotsf
+ oundation.org/movies/sweet-16mm-halloween-haunts/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672421@vidiotsfoundation.org
@@ -917,6 +969,22 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: Addi
  etails: https://vidiotsfoundation.org/movies/primetime/
 END:VEVENT
 BEGIN:VEVENT
+UID:4851312@vidiotsfoundation.org
+DTSTAMP:20261111T033000Z
+DTSTART;TZID=America/Los_Angeles:20261110T193000
+DTEND;TZID=America/Los_Angeles:20261110T212200
+SUMMARY:Talk to Her on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4851312/
+DESCRIPTION:Run time: 112 min | Format: 35mm Film | Rating: R | Release yea
+ r: 2002\n\nSeries: 35mm Film\, Doors Open at 6\, In the Eagle\n\nFrom maes
+ tro Pedro Almodóvar come this surprising\, altogether original and quietl
+ y moving story of the spoken and unspoken bonds that unite the lives and l
+ oves of two couples.\n\nTickets: https://vidiotsfoundation.org/purchase/48
+ 51312/\n\nDetails: https://vidiotsfoundation.org/movies/talk-to-her/
+END:VEVENT
+BEGIN:VEVENT
 UID:4823341@vidiotsfoundation.org
 DTSTAMP:20261112T033000Z
 DTSTART;TZID=America/Los_Angeles:20261111T193000
@@ -1167,6 +1235,23 @@ DESCRIPTION:Run time: 77 min | Format: Digital\n\nSeries: In the Eagle\n\nA
  idiotsfoundation.org/movies/alucarda/
 END:VEVENT
 BEGIN:VEVENT
+UID:4848952@vidiotsfoundation.org
+DTSTAMP:20261124T033000Z
+DTSTART;TZID=America/Los_Angeles:20261123T193000
+DTEND;TZID=America/Los_Angeles:20261123T212900
+SUMMARY:The Host
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4848952/
+DESCRIPTION:Run time: 119 min | Format: 4K Digital | Release year: 2006\n\n
+ Series: Doors Open at 6\, In the Eagle\n\nThis hilarious and heartfelt cre
+ ature feature from Korean master Bong Joon-ho is as delightful and frightf
+ ul as a horror film can be.\n20th Anniversary! New 4K Restoration plus a b
+ onus pre-recorded conversation with Bong Joon-ho!\n\nTickets: https://vidi
+ otsfoundation.org/purchase/4848952/\n\nDetails: https://vidiotsfoundation.
+ org/movies/the-host/
+END:VEVENT
+BEGIN:VEVENT
 UID:4815443@vidiotsfoundation.org
 DTSTAMP:20261125T033000Z
 DTSTART;TZID=America/Los_Angeles:20261124T193000
@@ -1365,26 +1450,6 @@ DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries:
  ed romantic emo epic!\n\nTickets: https://vidiotsfoundation.org/purchase/4
  843407/\n\nDetails: https://vidiotsfoundation.org/movies/the-twilight-saga
  -new-moon/
-END:VEVENT
-BEGIN:VEVENT
-UID:4703150@vidiotsfoundation.org
-DTSTAMP:20261023T020000Z
-DTSTART;TZID=America/Los_Angeles:20261022T190000
-DTEND;TZID=America/Los_Angeles:20261022T202700
-SUMMARY:The Oldest Person in the World
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4703150/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 87 min | F
- ormat: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Spe
- cial Guests in Attendance\, Groundbreaking Non-Fiction\n\nJoin us in the m
- icrocinema for an-all-too-human triumph of documentary filmmaking\, Sam Gr
- eene's profound and entertaining affirmation of life.\nWith director Sam G
- reen in conversation with Dominic Willsdon \, Executive Director of IDA af
- ter the October 22nd screening!\n\nTickets: https://vidiotsfoundation.org/
- purchase/4703150/\n\nDetails: https://vidiotsfoundation.org/movies/the-old
- est-person-in-the-world/
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4672393@vidiotsfoundation.org
