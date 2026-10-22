@@ -8,47 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4703150@vidiotsfoundation.org
-DTSTAMP:20261023T020000Z
-DTSTART;TZID=America/Los_Angeles:20261022T190000
-DTEND;TZID=America/Los_Angeles:20261022T202700
-SUMMARY:The Oldest Person in the World
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4703150/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 87 min | F
- ormat: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Spe
- cial Guests in Attendance\, Groundbreaking Non-Fiction\n\nJoin us in the m
- icrocinema for an-all-too-human triumph of documentary filmmaking\, Sam Gr
- eene's profound and entertaining affirmation of life.\nWith director Sam G
- reen in conversation with Dominic Willsdon \, Executive Director of IDA af
- ter the October 22nd screening!\n\nTickets: https://vidiotsfoundation.org/
- purchase/4703150/\n\nDetails: https://vidiotsfoundation.org/movies/the-old
- est-person-in-the-world/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4672393@vidiotsfoundation.org
-DTSTAMP:20261023T023000Z
-DTSTART;TZID=America/Los_Angeles:20261022T193000
-DTEND;TZID=America/Los_Angeles:20261022T211400
-SUMMARY:Death Becomes Her + Vidiots Halloween Party
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672393/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 104 min | 
- Format: Digital | Rating: PG-13\n\nSeries: Countdown to Halloween\, Doors 
- Open at 6\, In the Eagle\, Live DJ Set\n\nBring your best frenemies and ge
- t ready for Vidiots annual Halloween Shindig! We'll be kicking off the nig
- ht with extra spooky tunes from DJ Jéli\, Tarot Card Readings\, and creep
- ed out vibes before diving into the everlasting classic dark comedy Death 
- Becomes Her\, followed by more Halloweenie revelry and plenty of spooky Vi
- diots fun. So\, put on your costumes\, bring your besties\, and come for o
- ne killer party!\n\nTickets: https://vidiotsfoundation.org/purchase/467239
- 3/\n\nDetails: https://vidiotsfoundation.org/movies/death-becomes-her/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4679491@vidiotsfoundation.org
 DTSTAMP:20261023T223000Z
 DTSTART;TZID=America/Los_Angeles:20261023T153000
@@ -64,24 +23,6 @@ DESCRIPTION:Run time: 144 min | Rating: R\n\nSeries: 35mm Film\, In the Eag
  , psychotic mastery.\nAdditional Screening Added!\n\nTickets: https://vidi
  otsfoundation.org/purchase/4679491/\n\nDetails: https://vidiotsfoundation.
  org/movies/the-shining/
-END:VEVENT
-BEGIN:VEVENT
-UID:4703169@vidiotsfoundation.org
-DTSTAMP:20261023T233000Z
-DTSTART;TZID=America/Los_Angeles:20261023T163000
-DTEND;TZID=America/Los_Angeles:20261023T175700
-SUMMARY:The Oldest Person in the World
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4703169/
-DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, Special Guests in Attendance\, Groundbreaking 
- Non-Fiction\n\nJoin us in the microcinema for an-all-too-human triumph of 
- documentary filmmaking\, Sam Greene's profound and entertaining affirmatio
- n of life.\nWith director Sam Green in conversation with Dominic Willsdon 
- \, Executive Director of IDA after the October 22nd screening!\n\nTickets:
-  https://vidiotsfoundation.org/purchase/4703169/\n\nDetails: https://vidio
- tsfoundation.org/movies/the-oldest-person-in-the-world/
 END:VEVENT
 BEGIN:VEVENT
 UID:4679492@vidiotsfoundation.org
@@ -184,24 +125,6 @@ DESCRIPTION:Run time: 76 min | Format: Digital | Rating: PG\n\nSeries: Film
  of ghoulfriends.\n\nTickets: https://vidiotsfoundation.org/purchase/467239
  6/\n\nDetails: https://vidiotsfoundation.org/movies/the-nightmare-before-c
  hristmas/
-END:VEVENT
-BEGIN:VEVENT
-UID:4703178@vidiotsfoundation.org
-DTSTAMP:20261025T003000Z
-DTSTART;TZID=America/Los_Angeles:20261024T173000
-DTEND;TZID=America/Los_Angeles:20261024T185700
-SUMMARY:The Oldest Person in the World
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4703178/
-DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, Special Guests in Attendance\, Groundbreaking 
- Non-Fiction\n\nJoin us in the microcinema for an-all-too-human triumph of 
- documentary filmmaking\, Sam Greene's profound and entertaining affirmatio
- n of life.\nWith director Sam Green in conversation with Dominic Willsdon 
- \, Executive Director of IDA after the October 22nd screening!\n\nTickets:
-  https://vidiotsfoundation.org/purchase/4703178/\n\nDetails: https://vidio
- tsfoundation.org/movies/the-oldest-person-in-the-world/
 END:VEVENT
 BEGIN:VEVENT
 UID:4672395@vidiotsfoundation.org
@@ -1444,20 +1367,44 @@ DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries:
  -new-moon/
 END:VEVENT
 BEGIN:VEVENT
-UID:4679487@vidiotsfoundation.org
-DTSTAMP:20261022T023000Z
-DTSTART;TZID=America/Los_Angeles:20261021T193000
-DTEND;TZID=America/Los_Angeles:20261021T210600
-SUMMARY:Bones on 35mm
+UID:4703150@vidiotsfoundation.org
+DTSTAMP:20261023T020000Z
+DTSTART;TZID=America/Los_Angeles:20261022T190000
+DTEND;TZID=America/Los_Angeles:20261022T202700
+SUMMARY:The Oldest Person in the World
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4703150/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 87 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Spe
+ cial Guests in Attendance\, Groundbreaking Non-Fiction\n\nJoin us in the m
+ icrocinema for an-all-too-human triumph of documentary filmmaking\, Sam Gr
+ eene's profound and entertaining affirmation of life.\nWith director Sam G
+ reen in conversation with Dominic Willsdon \, Executive Director of IDA af
+ ter the October 22nd screening!\n\nTickets: https://vidiotsfoundation.org/
+ purchase/4703150/\n\nDetails: https://vidiotsfoundation.org/movies/the-old
+ est-person-in-the-world/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4672393@vidiotsfoundation.org
+DTSTAMP:20261023T023000Z
+DTSTART;TZID=America/Los_Angeles:20261022T193000
+DTEND;TZID=America/Los_Angeles:20261022T211400
+SUMMARY:Death Becomes Her + Vidiots Halloween Party
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4679487/
-DESCRIPTION:Run time: 96 min | Format: 35mm Film | Rating: R\n\nSeries: 35m
- m Film\, Countdown to Halloween\, Doors Open at 6\, In the Eagle\, Special
-  Guests in Attendance\, TeenTix LA\n\nVidiots is dying to welcome back leg
- endary director Ernest R. Dickerson for a special screening of his cult cl
- assic horror starring Snoop Dogg - Bones on glorious 35mm celluloid!\n\nTi
- ckets: https://vidiotsfoundation.org/purchase/4679487/\n\nDetails: https:/
- /vidiotsfoundation.org/movies/bones/
+URL:https://vidiotsfoundation.org/purchase/4672393/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 104 min | 
+ Format: Digital | Rating: PG-13\n\nSeries: Countdown to Halloween\, Doors 
+ Open at 6\, In the Eagle\, Live DJ Set\n\nBring your best frenemies and ge
+ t ready for Vidiots annual Halloween Shindig! We'll be kicking off the nig
+ ht with extra spooky tunes from DJ Jéli\, Tarot Card Readings\, and creep
+ ed out vibes before diving into the everlasting classic dark comedy Death 
+ Becomes Her\, followed by more Halloweenie revelry and plenty of spooky Vi
+ diots fun. So\, put on your costumes\, bring your besties\, and come for o
+ ne killer party!\n\nTickets: https://vidiotsfoundation.org/purchase/467239
+ 3/\n\nDetails: https://vidiotsfoundation.org/movies/death-becomes-her/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
