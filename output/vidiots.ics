@@ -8,43 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4703150@vidiotsfoundation.org
-DTSTAMP:20261023T020000Z
-DTSTART;TZID=America/Los_Angeles:20261022T190000
-DTEND;TZID=America/Los_Angeles:20261022T202700
-SUMMARY:The Oldest Person in the World
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4703150/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 87 min | F
- ormat: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Spe
- cial Guests in Attendance\, Groundbreaking Non-Fiction\n\nJoin us in the m
- icrocinema for an-all-too-human triumph of documentary filmmaking\, Sam Gr
- eene's profound and entertaining affirmation of life.\nWith director Sam G
- reen in person at the Thursday\, October 22nd and Saturday\, October 24th 
- screenings.\n\nTickets: https://vidiotsfoundation.org/purchase/4703150/\n\
- nDetails: https://vidiotsfoundation.org/movies/the-oldest-person-in-the-wo
- rld/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4679491@vidiotsfoundation.org
-DTSTAMP:20261023T223000Z
-DTSTART;TZID=America/Los_Angeles:20261023T153000
-DTEND;TZID=America/Los_Angeles:20261023T175400
-SUMMARY:The Shining
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4679491/
-DESCRIPTION:Run time: 144 min | Rating: R\n\nSeries: 35mm Film\, In the Eag
- le\, Countdown to Halloween\n\nThis Stephen King adaptation crawls with at
- mospheric dread from the opening scene to the closing credits\, inhabiting
-  a special place in the psyche of all those who have witnessed its bloody\
- , psychotic mastery.\nAdditional Screening Added!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4679491/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-shining/
-END:VEVENT
-BEGIN:VEVENT
 UID:4703169@vidiotsfoundation.org
 DTSTAMP:20261023T233000Z
 DTSTART;TZID=America/Los_Angeles:20261023T163000
@@ -54,85 +17,13 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4703169/
 DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, Special Guests in Attendance\, Groundbreaking 
- Non-Fiction\n\nJoin us in the microcinema for an-all-too-human triumph of 
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests in
+  Attendance\n\nJoin us in the microcinema for an-all-too-human triumph of 
  documentary filmmaking\, Sam Greene's profound and entertaining affirmatio
  n of life.\nWith director Sam Green in person at the Thursday\, October 22
  nd and Saturday\, October 24th screenings.\n\nTickets: https://vidiotsfoun
  dation.org/purchase/4703169/\n\nDetails: https://vidiotsfoundation.org/mov
  ies/the-oldest-person-in-the-world/
-END:VEVENT
-BEGIN:VEVENT
-UID:4679492@vidiotsfoundation.org
-DTSTAMP:20261024T020000Z
-DTSTART;TZID=America/Los_Angeles:20261023T190000
-DTEND;TZID=America/Los_Angeles:20261023T203100
-SUMMARY:A Nightmare on Elm Street
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4679492/
-DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: Count
- down to Halloween\, In the Eagle\n\nOne\, two... Freddy's coming for you!\
- nWes Craven's original nightmare and the start of a monstrous 20-year fran
- chise\, this first installment of Freddy remains the most terrifying of th
- e series and is considered one of the best horror movies of all time.\n\nT
- ickets: https://vidiotsfoundation.org/purchase/4679492/\n\nDetails: https:
- //vidiotsfoundation.org/movies/a-nightmare-on-elm-street/
-END:VEVENT
-BEGIN:VEVENT
-UID:4757608@vidiotsfoundation.org
-DTSTAMP:20261024T022000Z
-DTSTART;TZID=America/Los_Angeles:20261023T192000
-DTEND;TZID=America/Los_Angeles:20261023T212300
-SUMMARY:Colony
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4757608/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 123 min | 
- Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, Countdo
- wn to Halloween\, In the MUBI Microcinema\n\nOur microcinema is going to t
- he undead with horror master Yeon Sang-ho's (Train to Busan) new Korean zo
- mbie thriller starring Gianna Jun and Koo Kyo-hwan.\n\nTickets: https://vi
- diotsfoundation.org/purchase/4757608/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/colony/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4679845@vidiotsfoundation.org
-DTSTAMP:20261024T044500Z
-DTSTART;TZID=America/Los_Angeles:20261023T214500
-DTEND;TZID=America/Los_Angeles:20261023T233700
-SUMMARY:Mimic
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4679845/
-DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Coun
- tdown to Halloween\, In the Eagle\, TeenTix LA\, What the Friday?!?\n\nDon
- 't bug out - we've got the creature feature your Friday night has been mis
- sing - a Guillermo del Toro giant mutant cockroach movie starring Mira Sor
- vino and international superstar Giancarlo Giannini!\nDirector's Cut\n\nTi
- ckets: https://vidiotsfoundation.org/purchase/4679845/\n\nDetails: https:/
- /vidiotsfoundation.org/movies/mimic/
-END:VEVENT
-BEGIN:VEVENT
-UID:4757612@vidiotsfoundation.org
-DTSTAMP:20261024T051500Z
-DTSTART;TZID=America/Los_Angeles:20261023T221500
-DTEND;TZID=America/Los_Angeles:20261023T235600
-SUMMARY:The History of Concrete
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4757612/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nO
- ne part documentary\, one part camcorder video essay\, and one part the dr
- iest yet funniest of comedies\, John Wilson extends his unique genre-bendi
- ng style from the small screen to the big with this magnificently absurd e
- xamination of the literal ground below our feet.\nMore Screenings added by
-  Popular Demand!\n\nTickets: https://vidiotsfoundation.org/purchase/475761
- 2/\n\nDetails: https://vidiotsfoundation.org/movies/the-history-of-concret
- e/
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4672394@vidiotsfoundation.org
@@ -176,47 +67,13 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4703178/
 DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, Special Guests in Attendance\, Groundbreaking 
- Non-Fiction\n\nJoin us in the microcinema for an-all-too-human triumph of 
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests in
+  Attendance\n\nJoin us in the microcinema for an-all-too-human triumph of 
  documentary filmmaking\, Sam Greene's profound and entertaining affirmatio
  n of life.\nWith director Sam Green in person at the Thursday\, October 22
  nd and Saturday\, October 24th screenings.\n\nTickets: https://vidiotsfoun
  dation.org/purchase/4703178/\n\nDetails: https://vidiotsfoundation.org/mov
  ies/the-oldest-person-in-the-world/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672395@vidiotsfoundation.org
-DTSTAMP:20261025T013000Z
-DTSTART;TZID=America/Los_Angeles:20261024T183000
-DTEND;TZID=America/Los_Angeles:20261024T205400
-SUMMARY:The Shining
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672395/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 144 min | 
- Rating: R\n\nSeries: 35mm Film\, In the Eagle\, Countdown to Halloween\n\n
- This Stephen King adaptation crawls with atmospheric dread from the openin
- g scene to the closing credits\, inhabiting a special place in the psyche 
- of all those who have witnessed its bloody\, psychotic mastery.\nAdditiona
- l Screening Added!\n\nTickets: https://vidiotsfoundation.org/purchase/4672
- 395/\n\nDetails: https://vidiotsfoundation.org/movies/the-shining/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4757625@vidiotsfoundation.org
-DTSTAMP:20261025T030000Z
-DTSTART;TZID=America/Los_Angeles:20261024T200000
-DTEND;TZID=America/Los_Angeles:20261024T220300
-SUMMARY:Colony
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4757625/
-DESCRIPTION:Run time: 123 min | Format: Digital | Release year: 2026\n\nSer
- ies: Additional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n
- \nOur microcinema is going to the undead with horror master Yeon Sang-ho's
-  (Train to Busan) new Korean zombie thriller starring Gianna Jun and Koo K
- yo-hwan.\n\nTickets: https://vidiotsfoundation.org/purchase/4757625/\n\nDe
- tails: https://vidiotsfoundation.org/movies/colony/
 END:VEVENT
 BEGIN:VEVENT
 UID:4698519@vidiotsfoundation.org
@@ -281,22 +138,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 115 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4757646@vidiotsfoundation.org
-DTSTAMP:20261025T233000Z
-DTSTART;TZID=America/Los_Angeles:20261025T163000
-DTEND;TZID=America/Los_Angeles:20261025T183300
-SUMMARY:Colony
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4757646/
-DESCRIPTION:Run time: 123 min | Format: Digital | Release year: 2026\n\nSer
- ies: Additional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n
- \nOur microcinema is going to the undead with horror master Yeon Sang-ho's
-  (Train to Busan) new Korean zombie thriller starring Gianna Jun and Koo K
- yo-hwan.\n\nTickets: https://vidiotsfoundation.org/purchase/4757646/\n\nDe
- tails: https://vidiotsfoundation.org/movies/colony/
-END:VEVENT
-BEGIN:VEVENT
 UID:4672391@vidiotsfoundation.org
 DTSTAMP:20261026T020000Z
 DTSTART;TZID=America/Los_Angeles:20261025T190000
@@ -312,38 +153,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 132 min |
  Tickets: https://vidiotsfoundation.org/purchase/4672391/\n\nDetails: https
  ://vidiotsfoundation.org/movies/the-exorcist/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4757649@vidiotsfoundation.org
-DTSTAMP:20261026T023000Z
-DTSTART;TZID=America/Los_Angeles:20261025T193000
-DTEND;TZID=America/Los_Angeles:20261025T213300
-SUMMARY:Colony
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4757649/
-DESCRIPTION:Run time: 123 min | Format: Digital | Release year: 2026\n\nSer
- ies: Additional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n
- \nOur microcinema is going to the undead with horror master Yeon Sang-ho's
-  (Train to Busan) new Korean zombie thriller starring Gianna Jun and Koo K
- yo-hwan.\n\nTickets: https://vidiotsfoundation.org/purchase/4757649/\n\nDe
- tails: https://vidiotsfoundation.org/movies/colony/
-END:VEVENT
-BEGIN:VEVENT
-UID:4757701@vidiotsfoundation.org
-DTSTAMP:20261027T020000Z
-DTSTART;TZID=America/Los_Angeles:20261026T190000
-DTEND;TZID=America/Los_Angeles:20261026T210300
-SUMMARY:Colony
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4757701/
-DESCRIPTION:Run time: 123 min | Format: Digital | Release year: 2026\n\nSer
- ies: Additional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n
- \nOur microcinema is going to the undead with horror master Yeon Sang-ho's
-  (Train to Busan) new Korean zombie thriller starring Gianna Jun and Koo K
- yo-hwan.\n\nTickets: https://vidiotsfoundation.org/purchase/4757701/\n\nDe
- tails: https://vidiotsfoundation.org/movies/colony/
 END:VEVENT
 BEGIN:VEVENT
 UID:4675667@vidiotsfoundation.org
@@ -1456,24 +1265,92 @@ DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries:
  -new-moon/
 END:VEVENT
 BEGIN:VEVENT
-UID:4672393@vidiotsfoundation.org
-DTSTAMP:20261023T023000Z
-DTSTART;TZID=America/Los_Angeles:20261022T193000
-DTEND;TZID=America/Los_Angeles:20261022T211400
-SUMMARY:Death Becomes Her + Vidiots Halloween Party
+UID:4679491@vidiotsfoundation.org
+DTSTAMP:20261023T223000Z
+DTSTART;TZID=America/Los_Angeles:20261023T153000
+DTEND;TZID=America/Los_Angeles:20261023T175400
+SUMMARY:The Shining
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672393/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 104 min | 
- Format: Digital | Rating: PG-13\n\nSeries: Countdown to Halloween\, Doors 
- Open at 6\, In the Eagle\, Live DJ Set\n\nBring your best frenemies and ge
- t ready for Vidiots annual Halloween Shindig! We'll be kicking off the nig
- ht with extra spooky tunes from DJ Jéli\, Tarot Card Readings\, and creep
- ed out vibes before diving into the everlasting classic dark comedy Death 
- Becomes Her\, followed by more Halloweenie revelry and plenty of spooky Vi
- diots fun. So\, put on your costumes\, bring your besties\, and come for o
- ne killer party!\n\nTickets: https://vidiotsfoundation.org/purchase/467239
- 3/\n\nDetails: https://vidiotsfoundation.org/movies/death-becomes-her/
+URL:https://vidiotsfoundation.org/purchase/4679491/
+DESCRIPTION:Run time: 144 min | Rating: R\n\nSeries: 35mm Film\, In the Eag
+ le\, Countdown to Halloween\n\nThis Stephen King adaptation crawls with at
+ mospheric dread from the opening scene to the closing credits\, inhabiting
+  a special place in the psyche of all those who have witnessed its bloody\
+ , psychotic mastery.\nAdditional Screening Added!\n\nTickets: https://vidi
+ otsfoundation.org/purchase/4679491/\n\nDetails: https://vidiotsfoundation.
+ org/movies/the-shining/
+END:VEVENT
+BEGIN:VEVENT
+UID:4679492@vidiotsfoundation.org
+DTSTAMP:20261024T020000Z
+DTSTART;TZID=America/Los_Angeles:20261023T190000
+DTEND;TZID=America/Los_Angeles:20261023T203100
+SUMMARY:A Nightmare on Elm Street
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4679492/
+DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: Count
+ down to Halloween\, In the Eagle\n\nOne\, two... Freddy's coming for you!\
+ nWes Craven's original nightmare and the start of a monstrous 20-year fran
+ chise\, this first installment of Freddy remains the most terrifying of th
+ e series and is considered one of the best horror movies of all time.\n\nT
+ ickets: https://vidiotsfoundation.org/purchase/4679492/\n\nDetails: https:
+ //vidiotsfoundation.org/movies/a-nightmare-on-elm-street/
+END:VEVENT
+BEGIN:VEVENT
+UID:4757608@vidiotsfoundation.org
+DTSTAMP:20261024T022000Z
+DTSTART;TZID=America/Los_Angeles:20261023T192000
+DTEND;TZID=America/Los_Angeles:20261023T212300
+SUMMARY:Colony
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4757608/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 123 min | 
+ Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, Countdo
+ wn to Halloween\, In the MUBI Microcinema\n\nOur microcinema is going to t
+ he undead with horror master Yeon Sang-ho's (Train to Busan) new Korean zo
+ mbie thriller starring Gianna Jun and Koo Kyo-hwan.\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4757608/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/colony/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4679845@vidiotsfoundation.org
+DTSTAMP:20261024T044500Z
+DTSTART;TZID=America/Los_Angeles:20261023T214500
+DTEND;TZID=America/Los_Angeles:20261023T233700
+SUMMARY:Mimic
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4679845/
+DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Coun
+ tdown to Halloween\, In the Eagle\, TeenTix LA\, What the Friday?!?\n\nDon
+ 't bug out - we've got the creature feature your Friday night has been mis
+ sing - a Guillermo del Toro giant mutant cockroach movie starring Mira Sor
+ vino and international superstar Giancarlo Giannini!\nDirector's Cut\n\nTi
+ ckets: https://vidiotsfoundation.org/purchase/4679845/\n\nDetails: https:/
+ /vidiotsfoundation.org/movies/mimic/
+END:VEVENT
+BEGIN:VEVENT
+UID:4757612@vidiotsfoundation.org
+DTSTAMP:20261024T051500Z
+DTSTART;TZID=America/Los_Angeles:20261023T221500
+DTEND;TZID=America/Los_Angeles:20261023T235600
+SUMMARY:The History of Concrete
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4757612/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nO
+ ne part documentary\, one part camcorder video essay\, and one part the dr
+ iest yet funniest of comedies\, John Wilson extends his unique genre-bendi
+ ng style from the small screen to the big with this magnificently absurd e
+ xamination of the literal ground below our feet.\nMore Screenings added by
+  Popular Demand!\n\nTickets: https://vidiotsfoundation.org/purchase/475761
+ 2/\n\nDetails: https://vidiotsfoundation.org/movies/the-history-of-concret
+ e/
 STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
