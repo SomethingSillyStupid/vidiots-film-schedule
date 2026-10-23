@@ -20,10 +20,28 @@ DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
  , Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests in
   Attendance\n\nJoin us in the microcinema for an-all-too-human triumph of 
  documentary filmmaking\, Sam Greene's profound and entertaining affirmatio
- n of life.\nWith director Sam Green in person at the Thursday\, October 22
- nd and Saturday\, October 24th screenings.\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4703169/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/the-oldest-person-in-the-world/
+ n of life.\nWith director Sam Green in person at the Saturday\, October 24
+ th screening.\n\nTickets: https://vidiotsfoundation.org/purchase/4703169/\
+ n\nDetails: https://vidiotsfoundation.org/movies/the-oldest-person-in-the-
+ world/
+END:VEVENT
+BEGIN:VEVENT
+UID:4757608@vidiotsfoundation.org
+DTSTAMP:20261024T022000Z
+DTSTART;TZID=America/Los_Angeles:20261023T192000
+DTEND;TZID=America/Los_Angeles:20261023T212300
+SUMMARY:Colony
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4757608/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 123 min | 
+ Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, Countdo
+ wn to Halloween\, In the MUBI Microcinema\n\nOur microcinema is going to t
+ he undead with horror master Yeon Sang-ho's (Train to Busan) new Korean zo
+ mbie thriller starring Gianna Jun and Koo Kyo-hwan.\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4757608/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/colony/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4672394@vidiotsfoundation.org
@@ -49,13 +67,14 @@ SUMMARY:The Nightmare Before Christmas
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672396/
-DESCRIPTION:Run time: 76 min | Format: Digital | Rating: PG\n\nSeries: Film
- s for Everyone\, In the Eagle\, Remembering Catherine O'Hara\, Countdown t
- o Halloween\n\nGet in the spooky spirit with a trip to the delightful nigh
- tmare world of Halloween Town with Jack Skellington and his gruesome band 
- of ghoulfriends.\n\nTickets: https://vidiotsfoundation.org/purchase/467239
- 6/\n\nDetails: https://vidiotsfoundation.org/movies/the-nightmare-before-c
- hristmas/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 76 min | F
+ ormat: Digital | Rating: PG\n\nSeries: Films for Everyone\, In the Eagle\,
+  Remembering Catherine O'Hara\, Countdown to Halloween\n\nGet in the spook
+ y spirit with a trip to the delightful nightmare world of Halloween Town w
+ ith Jack Skellington and his gruesome band of ghoulfriends.\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4672396/\n\nDetails: https://vidiotsf
+ oundation.org/movies/the-nightmare-before-christmas/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4703178@vidiotsfoundation.org
@@ -70,10 +89,26 @@ DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
  , Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests in
   Attendance\n\nJoin us in the microcinema for an-all-too-human triumph of 
  documentary filmmaking\, Sam Greene's profound and entertaining affirmatio
- n of life.\nWith director Sam Green in person at the Thursday\, October 22
- nd and Saturday\, October 24th screenings.\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4703178/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/the-oldest-person-in-the-world/
+ n of life.\nWith director Sam Green in person at the Saturday\, October 24
+ th screening.\n\nTickets: https://vidiotsfoundation.org/purchase/4703178/\
+ n\nDetails: https://vidiotsfoundation.org/movies/the-oldest-person-in-the-
+ world/
+END:VEVENT
+BEGIN:VEVENT
+UID:4757625@vidiotsfoundation.org
+DTSTAMP:20261025T030000Z
+DTSTART;TZID=America/Los_Angeles:20261024T200000
+DTEND;TZID=America/Los_Angeles:20261024T220300
+SUMMARY:Colony
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4757625/
+DESCRIPTION:Run time: 123 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n
+ \nOur microcinema is going to the undead with horror master Yeon Sang-ho's
+  (Train to Busan) new Korean zombie thriller starring Gianna Jun and Koo K
+ yo-hwan.\n\nTickets: https://vidiotsfoundation.org/purchase/4757625/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/colony/
 END:VEVENT
 BEGIN:VEVENT
 UID:4698519@vidiotsfoundation.org
@@ -138,6 +173,22 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 115 min |
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:4757646@vidiotsfoundation.org
+DTSTAMP:20261025T233000Z
+DTSTART;TZID=America/Los_Angeles:20261025T163000
+DTEND;TZID=America/Los_Angeles:20261025T183300
+SUMMARY:Colony
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4757646/
+DESCRIPTION:Run time: 123 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n
+ \nOur microcinema is going to the undead with horror master Yeon Sang-ho's
+  (Train to Busan) new Korean zombie thriller starring Gianna Jun and Koo K
+ yo-hwan.\n\nTickets: https://vidiotsfoundation.org/purchase/4757646/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/colony/
+END:VEVENT
+BEGIN:VEVENT
 UID:4672391@vidiotsfoundation.org
 DTSTAMP:20261026T020000Z
 DTSTART;TZID=America/Los_Angeles:20261025T190000
@@ -153,6 +204,38 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 132 min |
  Tickets: https://vidiotsfoundation.org/purchase/4672391/\n\nDetails: https
  ://vidiotsfoundation.org/movies/the-exorcist/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4757649@vidiotsfoundation.org
+DTSTAMP:20261026T023000Z
+DTSTART;TZID=America/Los_Angeles:20261025T193000
+DTEND;TZID=America/Los_Angeles:20261025T213300
+SUMMARY:Colony
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4757649/
+DESCRIPTION:Run time: 123 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n
+ \nOur microcinema is going to the undead with horror master Yeon Sang-ho's
+  (Train to Busan) new Korean zombie thriller starring Gianna Jun and Koo K
+ yo-hwan.\n\nTickets: https://vidiotsfoundation.org/purchase/4757649/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/colony/
+END:VEVENT
+BEGIN:VEVENT
+UID:4757701@vidiotsfoundation.org
+DTSTAMP:20261027T020000Z
+DTSTART;TZID=America/Los_Angeles:20261026T190000
+DTEND;TZID=America/Los_Angeles:20261026T210300
+SUMMARY:Colony
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4757701/
+DESCRIPTION:Run time: 123 min | Format: Digital | Release year: 2026\n\nSer
+ ies: Additional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n
+ \nOur microcinema is going to the undead with horror master Yeon Sang-ho's
+  (Train to Busan) new Korean zombie thriller starring Gianna Jun and Koo K
+ yo-hwan.\n\nTickets: https://vidiotsfoundation.org/purchase/4757701/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/colony/
 END:VEVENT
 BEGIN:VEVENT
 UID:4675667@vidiotsfoundation.org
@@ -1048,6 +1131,21 @@ DESCRIPTION:Run time: 77 min | Format: Digital\n\nSeries: In the Eagle\n\nA
  idiotsfoundation.org/movies/alucarda/
 END:VEVENT
 BEGIN:VEVENT
+UID:4848951@vidiotsfoundation.org
+DTSTAMP:20261123T020000Z
+DTSTART;TZID=America/Los_Angeles:20261122T180000
+DTEND;TZID=America/Los_Angeles:20261122T210600
+SUMMARY:RRR
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4848951/
+DESCRIPTION:Run time: 186 min | Format: Digital | Release year: 2022\n\nSer
+ ies: In the Eagle\n\nRise\, Roar\, Revolt.\nCan't stop! Won't Stop! We can
+  never get enough of this modern epic!\n\nTickets: https://vidiotsfoundati
+ on.org/purchase/4848951/\n\nDetails: https://vidiotsfoundation.org/movies/
+ rrr/
+END:VEVENT
+BEGIN:VEVENT
 UID:4848952@vidiotsfoundation.org
 DTSTAMP:20261124T033000Z
 DTSTART;TZID=America/Los_Angeles:20261123T193000
@@ -1297,24 +1395,6 @@ DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: Count
  e series and is considered one of the best horror movies of all time.\n\nT
  ickets: https://vidiotsfoundation.org/purchase/4679492/\n\nDetails: https:
  //vidiotsfoundation.org/movies/a-nightmare-on-elm-street/
-END:VEVENT
-BEGIN:VEVENT
-UID:4757608@vidiotsfoundation.org
-DTSTAMP:20261024T022000Z
-DTSTART;TZID=America/Los_Angeles:20261023T192000
-DTEND;TZID=America/Los_Angeles:20261023T212300
-SUMMARY:Colony
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4757608/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 123 min | 
- Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, Countdo
- wn to Halloween\, In the MUBI Microcinema\n\nOur microcinema is going to t
- he undead with horror master Yeon Sang-ho's (Train to Busan) new Korean zo
- mbie thriller starring Gianna Jun and Koo Kyo-hwan.\n\nTickets: https://vi
- diotsfoundation.org/purchase/4757608/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/colony/
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4679845@vidiotsfoundation.org
