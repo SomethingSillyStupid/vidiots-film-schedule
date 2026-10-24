@@ -8,93 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4703169@vidiotsfoundation.org
-DTSTAMP:20261023T233000Z
-DTSTART;TZID=America/Los_Angeles:20261023T163000
-DTEND;TZID=America/Los_Angeles:20261023T175700
-SUMMARY:The Oldest Person in the World
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4703169/
-DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests in
-  Attendance\n\nJoin us in the microcinema for an-all-too-human triumph of 
- documentary filmmaking\, Sam Greene's profound and entertaining affirmatio
- n of life.\nWith director Sam Green in person at the Saturday\, October 24
- th screening.\n\nTickets: https://vidiotsfoundation.org/purchase/4703169/\
- n\nDetails: https://vidiotsfoundation.org/movies/the-oldest-person-in-the-
- world/
-END:VEVENT
-BEGIN:VEVENT
-UID:4757608@vidiotsfoundation.org
-DTSTAMP:20261024T022000Z
-DTSTART;TZID=America/Los_Angeles:20261023T192000
-DTEND;TZID=America/Los_Angeles:20261023T212300
-SUMMARY:Colony
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4757608/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 123 min | 
- Format: Digital | Release year: 2026\n\nSeries: Additional Shows\, Countdo
- wn to Halloween\, In the MUBI Microcinema\n\nOur microcinema is going to t
- he undead with horror master Yeon Sang-ho's (Train to Busan) new Korean zo
- mbie thriller starring Gianna Jun and Koo Kyo-hwan.\n\nTickets: https://vi
- diotsfoundation.org/purchase/4757608/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/colony/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4672394@vidiotsfoundation.org
-DTSTAMP:20261024T201500Z
-DTSTART;TZID=America/Los_Angeles:20261024T131500
-DTEND;TZID=America/Los_Angeles:20261024T144600
-SUMMARY:Hotel Transylvania
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672394/
-DESCRIPTION:Run time: 91 min | Format: Digital | Rating: All Ages\n\nSeries
- : Films for Everyone\, In the Eagle\n\nPack a bag\, grab the family\, and 
- head to Vidiots for the vacation of your deathtime!\n\nTickets: https://vi
- diotsfoundation.org/purchase/4672394/\n\nDetails: https://vidiotsfoundatio
- n.org/movies/hotel-transylvania/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672396@vidiotsfoundation.org
-DTSTAMP:20261024T230000Z
-DTSTART;TZID=America/Los_Angeles:20261024T160000
-DTEND;TZID=America/Los_Angeles:20261024T171600
-SUMMARY:The Nightmare Before Christmas
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672396/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 76 min | F
- ormat: Digital | Rating: PG\n\nSeries: Films for Everyone\, In the Eagle\,
-  Remembering Catherine O'Hara\, Countdown to Halloween\n\nGet in the spook
- y spirit with a trip to the delightful nightmare world of Halloween Town w
- ith Jack Skellington and his gruesome band of ghoulfriends.\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4672396/\n\nDetails: https://vidiotsf
- oundation.org/movies/the-nightmare-before-christmas/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4703178@vidiotsfoundation.org
-DTSTAMP:20261025T003000Z
-DTSTART;TZID=America/Los_Angeles:20261024T173000
-DTEND;TZID=America/Los_Angeles:20261024T185700
-SUMMARY:The Oldest Person in the World
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4703178/
-DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests in
-  Attendance\n\nJoin us in the microcinema for an-all-too-human triumph of 
- documentary filmmaking\, Sam Greene's profound and entertaining affirmatio
- n of life.\nWith director Sam Green in person at the Saturday\, October 24
- th screening.\n\nTickets: https://vidiotsfoundation.org/purchase/4703178/\
- n\nDetails: https://vidiotsfoundation.org/movies/the-oldest-person-in-the-
- world/
-END:VEVENT
-BEGIN:VEVENT
 UID:4757625@vidiotsfoundation.org
 DTSTAMP:20261025T030000Z
 DTSTART;TZID=America/Los_Angeles:20261024T200000
@@ -109,22 +22,6 @@ DESCRIPTION:Run time: 123 min | Format: Digital | Release year: 2026\n\nSer
   (Train to Busan) new Korean zombie thriller starring Gianna Jun and Koo K
  yo-hwan.\n\nTickets: https://vidiotsfoundation.org/purchase/4757625/\n\nDe
  tails: https://vidiotsfoundation.org/movies/colony/
-END:VEVENT
-BEGIN:VEVENT
-UID:4698519@vidiotsfoundation.org
-DTSTAMP:20261025T044500Z
-DTSTART;TZID=America/Los_Angeles:20261024T214500
-DTEND;TZID=America/Los_Angeles:20261024T232000
-SUMMARY:Def by Temptation
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4698519/
-DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Count
- down to Halloween\, In the Eagle\, TeenTix LA\n\nOne of the best films to 
- be released on Troma's label\, James Bond III's Def by Temptation is a sma
- rt\, slick\, and stylish tale of faith\, temptation\, and demons!\n\nTicke
- ts: https://vidiotsfoundation.org/purchase/4698519/\n\nDetails: https://vi
- diotsfoundation.org/movies/def-by-temptation/
 END:VEVENT
 BEGIN:VEVENT
 UID:4698559@vidiotsfoundation.org
@@ -336,23 +233,6 @@ DESCRIPTION:Run time: 97 min | Format: Digital | Rating: R\n\nSeries: Count
  is classic as fresh as it was 45 years ago!\n\nTickets: https://vidiotsfou
  ndation.org/purchase/4672421/\n\nDetails: https://vidiotsfoundation.org/mo
  vies/an-american-werewolf-in-london/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672419@vidiotsfoundation.org
-DTSTAMP:20261030T233000Z
-DTSTART;TZID=America/Los_Angeles:20261030T163000
-DTEND;TZID=America/Los_Angeles:20261030T174600
-SUMMARY:The Nightmare Before Christmas
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672419/
-DESCRIPTION:Run time: 76 min | Format: Digital | Rating: PG\n\nSeries: Film
- s for Everyone\, In the Eagle\, Remembering Catherine O'Hara\, Countdown t
- o Halloween\n\nGet in the spooky spirit with a trip to the delightful nigh
- tmare world of Halloween Town with Jack Skellington and his gruesome band 
- of ghoulfriends.\n\nTickets: https://vidiotsfoundation.org/purchase/467241
- 9/\n\nDetails: https://vidiotsfoundation.org/movies/the-nightmare-before-c
- hristmas/
 END:VEVENT
 BEGIN:VEVENT
 UID:4757982@vidiotsfoundation.org
@@ -1364,74 +1244,70 @@ DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries:
  -new-moon/
 END:VEVENT
 BEGIN:VEVENT
-UID:4679491@vidiotsfoundation.org
-DTSTAMP:20261023T223000Z
-DTSTART;TZID=America/Los_Angeles:20261023T153000
-DTEND;TZID=America/Los_Angeles:20261023T175400
-SUMMARY:The Shining
+UID:4672394@vidiotsfoundation.org
+DTSTAMP:20261024T201500Z
+DTSTART;TZID=America/Los_Angeles:20261024T131500
+DTEND;TZID=America/Los_Angeles:20261024T144600
+SUMMARY:Hotel Transylvania
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4679491/
-DESCRIPTION:Run time: 144 min | Rating: R\n\nSeries: 35mm Film\, In the Eag
- le\, Countdown to Halloween\n\nThis Stephen King adaptation crawls with at
- mospheric dread from the opening scene to the closing credits\, inhabiting
-  a special place in the psyche of all those who have witnessed its bloody\
- , psychotic mastery.\nAdditional Screening Added!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4679491/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-shining/
+URL:https://vidiotsfoundation.org/purchase/4672394/
+DESCRIPTION:Run time: 91 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nPack a bag\, grab the family\, and 
+ head to Vidiots for the vacation of your deathtime!\n\nTickets: https://vi
+ diotsfoundation.org/purchase/4672394/\n\nDetails: https://vidiotsfoundatio
+ n.org/movies/hotel-transylvania/
 END:VEVENT
 BEGIN:VEVENT
-UID:4679492@vidiotsfoundation.org
-DTSTAMP:20261024T020000Z
-DTSTART;TZID=America/Los_Angeles:20261023T190000
-DTEND;TZID=America/Los_Angeles:20261023T203100
-SUMMARY:A Nightmare on Elm Street
+UID:4672396@vidiotsfoundation.org
+DTSTAMP:20261024T230000Z
+DTSTART;TZID=America/Los_Angeles:20261024T160000
+DTEND;TZID=America/Los_Angeles:20261024T171600
+SUMMARY:The Nightmare Before Christmas
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4679492/
-DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: Count
- down to Halloween\, In the Eagle\n\nOne\, two... Freddy's coming for you!\
- nWes Craven's original nightmare and the start of a monstrous 20-year fran
- chise\, this first installment of Freddy remains the most terrifying of th
- e series and is considered one of the best horror movies of all time.\n\nT
- ickets: https://vidiotsfoundation.org/purchase/4679492/\n\nDetails: https:
- //vidiotsfoundation.org/movies/a-nightmare-on-elm-street/
+URL:https://vidiotsfoundation.org/purchase/4672396/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 76 min | F
+ ormat: Digital | Rating: PG\n\nSeries: Films for Everyone\, In the Eagle\,
+  Remembering Catherine O'Hara\, Countdown to Halloween\n\nGet in the spook
+ y spirit with a trip to the delightful nightmare world of Halloween Town w
+ ith Jack Skellington and his gruesome band of ghoulfriends.\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4672396/\n\nDetails: https://vidiotsf
+ oundation.org/movies/the-nightmare-before-christmas/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4679845@vidiotsfoundation.org
-DTSTAMP:20261024T044500Z
-DTSTART;TZID=America/Los_Angeles:20261023T214500
-DTEND;TZID=America/Los_Angeles:20261023T233700
-SUMMARY:Mimic
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4679845/
-DESCRIPTION:Run time: 112 min | Format: Digital | Rating: R\n\nSeries: Coun
- tdown to Halloween\, In the Eagle\, TeenTix LA\, What the Friday?!?\n\nDon
- 't bug out - we've got the creature feature your Friday night has been mis
- sing - a Guillermo del Toro giant mutant cockroach movie starring Mira Sor
- vino and international superstar Giancarlo Giannini!\nDirector's Cut\n\nTi
- ckets: https://vidiotsfoundation.org/purchase/4679845/\n\nDetails: https:/
- /vidiotsfoundation.org/movies/mimic/
-END:VEVENT
-BEGIN:VEVENT
-UID:4757612@vidiotsfoundation.org
-DTSTAMP:20261024T051500Z
-DTSTART;TZID=America/Los_Angeles:20261023T221500
-DTEND;TZID=America/Los_Angeles:20261023T235600
-SUMMARY:The History of Concrete
+UID:4703178@vidiotsfoundation.org
+DTSTAMP:20261025T003000Z
+DTSTART;TZID=America/Los_Angeles:20261024T173000
+DTEND;TZID=America/Los_Angeles:20261024T185700
+SUMMARY:The Oldest Person in the World
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
-URL:https://vidiotsfoundation.org/purchase/4757612/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 101 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\n\nO
- ne part documentary\, one part camcorder video essay\, and one part the dr
- iest yet funniest of comedies\, John Wilson extends his unique genre-bendi
- ng style from the small screen to the big with this magnificently absurd e
- xamination of the literal ground below our feet.\nMore Screenings added by
-  Popular Demand!\n\nTickets: https://vidiotsfoundation.org/purchase/475761
- 2/\n\nDetails: https://vidiotsfoundation.org/movies/the-history-of-concret
- e/
-STATUS:TENTATIVE
+URL:https://vidiotsfoundation.org/purchase/4703178/
+DESCRIPTION:Run time: 87 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\, Special Guests in
+  Attendance\n\nJoin us in the microcinema for an-all-too-human triumph of 
+ documentary filmmaking\, Sam Greene's profound and entertaining affirmatio
+ n of life.\nWith director Sam Green in person at the Saturday\, October 24
+ th screening.\n\nTickets: https://vidiotsfoundation.org/purchase/4703178/\
+ n\nDetails: https://vidiotsfoundation.org/movies/the-oldest-person-in-the-
+ world/
+END:VEVENT
+BEGIN:VEVENT
+UID:4698519@vidiotsfoundation.org
+DTSTAMP:20261025T044500Z
+DTSTART;TZID=America/Los_Angeles:20261024T214500
+DTEND;TZID=America/Los_Angeles:20261024T232000
+SUMMARY:Def by Temptation
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4698519/
+DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Count
+ down to Halloween\, In the Eagle\, TeenTix LA\n\nOne of the best films to 
+ be released on Troma's label\, James Bond III's Def by Temptation is a sma
+ rt\, slick\, and stylish tale of faith\, temptation\, and demons!\n\nTicke
+ ts: https://vidiotsfoundation.org/purchase/4698519/\n\nDetails: https://vi
+ diotsfoundation.org/movies/def-by-temptation/
 END:VEVENT
 END:VCALENDAR
