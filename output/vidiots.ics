@@ -16,16 +16,15 @@ SUMMARY:Italo-Disco Horror Night – Argento’s Deep Red
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4675405/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 127 min | 
- Format: Digital | Release year: 1975\n\nSeries: Countdown to Halloween\, D
- oors Open at 6\, In the Eagle\, Live DJ Set\n\nGet on your boogie shoes an
- d join us for a night of sick tunes and even sicker horror when we crank u
- p the Italo-Disco and slaughter the big screen with Dario Argento's gore-g
- iously demented masterpiece Deep Red. With DJ Sindri spinning Italo-Disco 
- tunes before and after the screening/screaming!\n\nTickets: https://vidiot
- sfoundation.org/purchase/4675405/\n\nDetails: https://vidiotsfoundation.or
- g/movies/italo-disco-horror-night-argentos-deep-red/
-STATUS:TENTATIVE
+DESCRIPTION:Run time: 127 min | Format: Digital | Release year: 1975\n\nSer
+ ies: Countdown to Halloween\, Doors Open at 6\, In the Eagle\, Live DJ Set
+ \n\nGet on your boogie shoes and join us for a night of sick tunes and eve
+ n sicker horror when we crank up the Italo-Disco and slaughter the big scr
+ een with Dario Argento's gore-giously demented masterpiece Deep Red. With 
+ DJ Sindri spinning Italo-Disco tunes before and after the screening/scream
+ ing!\n\nTickets: https://vidiotsfoundation.org/purchase/4675405/\n\nDetail
+ s: https://vidiotsfoundation.org/movies/italo-disco-horror-night-argentos-
+ deep-red/
 END:VEVENT
 BEGIN:VEVENT
 UID:4757974@vidiotsfoundation.org
@@ -614,11 +613,12 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4851312/
 DESCRIPTION:Run time: 112 min | Format: 35mm Film | Rating: R | Release yea
- r: 2002\n\nSeries: 35mm Film\, Doors Open at 6\, In the Eagle\n\nFrom maes
- tro Pedro Almodóvar come this surprising\, altogether original and quietl
- y moving story of the spoken and unspoken bonds that unite the lives and l
- oves of two couples.\n\nTickets: https://vidiotsfoundation.org/purchase/48
- 51312/\n\nDetails: https://vidiotsfoundation.org/movies/talk-to-her/
+ r: 2002\n\nSeries: 35mm Film\, Doors Open at 6\, In the Eagle\n\nOne of ma
+ estro Pedro Almodóvar's most-complicated and lauded masterpieces\, this e
+ xquisitely shot meditation on loyalty and obsession earned Almodóvar the 
+ Oscar for Best Original Screenplay.\n\nTickets: https://vidiotsfoundation.
+ org/purchase/4851312/\n\nDetails: https://vidiotsfoundation.org/movies/tal
+ k-to-her/
 END:VEVENT
 BEGIN:VEVENT
 UID:4823341@vidiotsfoundation.org
@@ -631,10 +631,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
 URL:https://vidiotsfoundation.org/purchase/4823341/
 DESCRIPTION:Run time: 116 min | Format: Digital | Rating: R\n\nSeries: Door
  s Open at 6\, In the Eagle\, Special Guests in Attendance\n\nVidiots is th
- rilled to welcome cinema legends Alison Anders and Illeana Douglas for a s
- pecial 30th Anniversary Screening of Grace of my Heart!\n\nTickets: https:
- //vidiotsfoundation.org/purchase/4823341/\n\nDetails: https://vidiotsfound
- ation.org/movies/grace-of-my-heart/
+ rilled to welcome cinema legends Alison Anders and Illeana Douglas \, plus
+  music supervisor Karyn Rachtman\, and music producer Larry Klein for a sp
+ ecial 30th Anniversary Screening of Grace of my Heart!\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4823341/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/grace-of-my-heart/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815598@vidiotsfoundation.org
@@ -776,6 +777,23 @@ DESCRIPTION:Run time: 125 min | Format: 35mm Film\n\nSeries: 35mm Film\, In
  \nDetails: https://vidiotsfoundation.org/movies/imitation-of-life-1959/
 END:VEVENT
 BEGIN:VEVENT
+UID:4851767@vidiotsfoundation.org
+DTSTAMP:20261116T004500Z
+DTSTART;TZID=America/Los_Angeles:20261115T164500
+DTEND;TZID=America/Los_Angeles:20261115T180200
+SUMMARY:CIANI/ORKEST
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4851767/
+DESCRIPTION:Run time: 77 min | Format: Digital\n\nSeries: In the MUBI Micro
+ cinema\, Special Guests in Attendance\n\nVidiots is electrified to welcome
+  Electronic music pioneer and five-time Grammy nominee Suzanne Ciani to ou
+ r microcinema for two screenings of CIANI/ORKEST\, a live quadrophonic con
+ cert film with the Metropole Orkest.\n\nTickets: https://vidiotsfoundation
+ .org/purchase/4851767/\n\nDetails: https://vidiotsfoundation.org/movies/ci
+ ani-orkest/
+END:VEVENT
+BEGIN:VEVENT
 UID:4815640@vidiotsfoundation.org
 DTSTAMP:20261116T030000Z
 DTSTART;TZID=America/Los_Angeles:20261115T190000
@@ -792,6 +810,23 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 98 min | F
  /vidiotsfoundation.org/purchase/4815640/\n\nDetails: https://vidiotsfounda
  tion.org/movies/josie-and-the-pussycats/
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4851766@vidiotsfoundation.org
+DTSTAMP:20261116T033000Z
+DTSTART;TZID=America/Los_Angeles:20261115T193000
+DTEND;TZID=America/Los_Angeles:20261115T204700
+SUMMARY:CIANI/ORKEST
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4851766/
+DESCRIPTION:Run time: 77 min | Format: Digital\n\nSeries: In the MUBI Micro
+ cinema\, Special Guests in Attendance\n\nVidiots is electrified to welcome
+  Electronic music pioneer and five-time Grammy nominee Suzanne Ciani to ou
+ r microcinema for two screenings of CIANI/ORKEST\, a live quadrophonic con
+ cert film with the Metropole Orkest.\n\nTickets: https://vidiotsfoundation
+ .org/purchase/4851766/\n\nDetails: https://vidiotsfoundation.org/movies/ci
+ ani-orkest/
 END:VEVENT
 BEGIN:VEVENT
 UID:4823631@vidiotsfoundation.org
@@ -1084,9 +1119,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4843406/
 DESCRIPTION:Run time: 113 min | Format: 35mm Film\n\nSeries: In the Eagle\n
- \nJoin us for John Huston's crime classic with Marilyn Monroe in one of he
- r first roles.\n\nTickets: https://vidiotsfoundation.org/purchase/4843406/
- \n\nDetails: https://vidiotsfoundation.org/movies/the-asphalt-jungle/
+ \nA taut and satisfying thriller with equal measure paid to the characters
+  as well as the crime\, Huston paved the way for a new kind of crime cinem
+ a that's still as entertaining and influential as ever.\n\nTickets: https:
+ //vidiotsfoundation.org/purchase/4843406/\n\nDetails: https://vidiotsfound
+ ation.org/movies/the-asphalt-jungle/
 END:VEVENT
 BEGIN:VEVENT
 UID:4843407@vidiotsfoundation.org
@@ -1098,11 +1135,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4843407/
 DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\n\nWe couldn't stop at one serving of the Twilight Saga\, we 
- had to bring you the next installment of this supernatural tortured teenag
- ed romantic emo epic!\n\nTickets: https://vidiotsfoundation.org/purchase/4
- 843407/\n\nDetails: https://vidiotsfoundation.org/movies/the-twilight-saga
- -new-moon/
+ In the Eagle\n\nThe Twilight saga continues at Vidiots! Join us for more s
+ exy vampires\, some new sexy werewolves\, and the supernatural love triang
+ le that launched a thousand fanfics!\n\nTickets: https://vidiotsfoundation
+ .org/purchase/4843407/\n\nDetails: https://vidiotsfoundation.org/movies/th
+ e-twilight-saga-new-moon/
 END:VEVENT
 BEGIN:VEVENT
 UID:4757701@vidiotsfoundation.org
