@@ -8,26 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4675405@vidiotsfoundation.org
-DTSTAMP:20261028T023000Z
-DTSTART;TZID=America/Los_Angeles:20261027T193000
-DTEND;TZID=America/Los_Angeles:20261027T213700
-SUMMARY:Italo-Disco Horror Night – Argento’s Deep Red
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4675405/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 127 min | 
- Format: Digital | Release year: 1975\n\nSeries: Countdown to Halloween\, D
- oors Open at 6\, In the Eagle\, Live DJ Set\n\nGet on your boogie shoes an
- d join us for a night of sick tunes and even sicker horror when we crank u
- p the Italo-Disco and slaughter the big screen with Dario Argento's gore-g
- iously demented masterpiece Deep Red. With DJ Sindri spinning Italo-Disco 
- tunes before and after the screening/screaming!\n\nTickets: https://vidiot
- sfoundation.org/purchase/4675405/\n\nDetails: https://vidiotsfoundation.or
- g/movies/italo-disco-horror-night-argentos-deep-red/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4757974@vidiotsfoundation.org
 DTSTAMP:20261029T020000Z
 DTSTART;TZID=America/Los_Angeles:20261028T190000
@@ -1144,35 +1124,23 @@ DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries:
  e-twilight-saga-new-moon/
 END:VEVENT
 BEGIN:VEVENT
-UID:4757701@vidiotsfoundation.org
-DTSTAMP:20261027T020000Z
-DTSTART;TZID=America/Los_Angeles:20261026T190000
-DTEND;TZID=America/Los_Angeles:20261026T210300
-SUMMARY:Colony
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4757701/
-DESCRIPTION:Run time: 123 min | Format: Digital | Release year: 2026\n\nSer
- ies: Additional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n
- \nOur microcinema is going to the undead with horror master Yeon Sang-ho's
-  (Train to Busan) new Korean zombie thriller starring Gianna Jun and Koo K
- yo-hwan.\n\nTickets: https://vidiotsfoundation.org/purchase/4757701/\n\nDe
- tails: https://vidiotsfoundation.org/movies/colony/
-END:VEVENT
-BEGIN:VEVENT
-UID:4675667@vidiotsfoundation.org
-DTSTAMP:20261027T023000Z
-DTSTART;TZID=America/Los_Angeles:20261026T193000
-DTEND;TZID=America/Los_Angeles:20261026T210500
-SUMMARY:Insiang
+UID:4675405@vidiotsfoundation.org
+DTSTAMP:20261028T023000Z
+DTSTART;TZID=America/Los_Angeles:20261027T193000
+DTEND;TZID=America/Los_Angeles:20261027T213700
+SUMMARY:Italo-Disco Horror Night – Argento’s Deep Red
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4675667/
-DESCRIPTION:Run time: 95 min | Format: Digital | Release year: 1976\n\nSeri
- es: Community Partners\, Doors Open at 6\, In the Eagle\n\nVidiots\, The C
- inegogue\, and A Bunch of Savages are thrilled to present an ultra-rare sc
- reening of Lino Brocka's masterful melodrama Insiang.\n\nTickets: https://
- vidiotsfoundation.org/purchase/4675667/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/insiang/
+URL:https://vidiotsfoundation.org/purchase/4675405/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 127 min | 
+ Format: Digital | Release year: 1975\n\nSeries: Countdown to Halloween\, D
+ oors Open at 6\, In the Eagle\, Live DJ Set\n\nGet on your boogie shoes an
+ d join us for a night of sick tunes and even sicker horror when we crank u
+ p the Italo-Disco and slaughter the big screen with Dario Argento's gore-g
+ iously demented masterpiece Deep Red. With DJ Sindri spinning Italo-Disco 
+ tunes before and after the screening/screaming!\n\nTickets: https://vidiot
+ sfoundation.org/purchase/4675405/\n\nDetails: https://vidiotsfoundation.or
+ g/movies/italo-disco-horror-night-argentos-deep-red/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
