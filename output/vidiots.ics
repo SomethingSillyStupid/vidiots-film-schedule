@@ -433,6 +433,52 @@ DESCRIPTION:Run time: 98 min | Format: Digital | Release year: 1995\n\nSeri
  64/\n\nDetails: https://vidiotsfoundation.org/movies/fallen-angels/
 END:VEVENT
 BEGIN:VEVENT
+UID:4875236@vidiotsfoundation.org
+DTSTAMP:20261106T233000Z
+DTSTART;TZID=America/Los_Angeles:20261106T153000
+DTEND;TZID=America/Los_Angeles:20261106T170400
+SUMMARY:GuadaLAjara Film Festival – Shorts Block 2: IN GOOD COMPANY
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://glaff2026.eventive.org/schedule/6abfec57c8262f378263b0ff
+DESCRIPTION:Run time: 94 min\n\nSeries: In the Eagle\n\nFrom unconventional
+  friendships to shared obsessions\, these shorts explore the unexpected bu
+ t fascinating ways people connect. Each story offers a glimpse into a comm
+ unity\, a relationship\, or a world where shared experience is what brings
+  people together.\n\nTickets: https://glaff2026.eventive.org/schedule/6abf
+ ec57c8262f378263b0ff\n\nDetails: https://vidiotsfoundation.org/movies/guad
+ alajara-film-festival-shorts-block-2-in-good-company/
+END:VEVENT
+BEGIN:VEVENT
+UID:4875283@vidiotsfoundation.org
+DTSTAMP:20261107T023000Z
+DTSTART;TZID=America/Los_Angeles:20261106T183000
+DTEND;TZID=America/Los_Angeles:20261106T201000
+SUMMARY:GuadaLAjara Film Festival – CENTERPIECE GALA: 14th
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://glaff2026.eventive.org/schedule/6abfc47a75241ad761c0ec62
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: In the Eagle\, S
+ pecial Guests in Attendance\n\nThe screening will be followed by a convers
+ ation with director and producer Ava DuVernay.\n\nTickets: https://glaff20
+ 26.eventive.org/schedule/6abfc47a75241ad761c0ec62\n\nDetails: https://vidi
+ otsfoundation.org/movies/guadalajara-film-festival-centerpiece-gala-14th/
+END:VEVENT
+BEGIN:VEVENT
+UID:4875260@vidiotsfoundation.org
+DTSTAMP:20261107T050000Z
+DTSTART;TZID=America/Los_Angeles:20261106T210000
+DTEND;TZID=America/Los_Angeles:20261106T225500
+SUMMARY:GuadaLAjara Film Festival – Paper Tiger
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://glaff2026.eventive.org/schedule/6ad6319df9d9cfca0b8a6e72
+DESCRIPTION:Run time: 115 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nAll debts are paid in blood.\n\nTickets: https://glaff2026.eve
+ ntive.org/schedule/6ad6319df9d9cfca0b8a6e72\n\nDetails: https://vidiotsfou
+ ndation.org/movies/paper-tiger/
+END:VEVENT
+BEGIN:VEVENT
 UID:4815373@vidiotsfoundation.org
 DTSTAMP:20261107T203000Z
 DTSTART;TZID=America/Los_Angeles:20261107T123000
