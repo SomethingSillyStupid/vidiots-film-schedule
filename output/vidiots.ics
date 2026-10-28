@@ -66,12 +66,14 @@ SUMMARY:An American Werewolf in London
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4672421/
-DESCRIPTION:Run time: 97 min | Format: Digital | Rating: R\n\nSeries: Count
- down to Halloween\, Doors Open at 6\, In the Eagle\n\nSurreal visions\, fa
- bulous practical special effects\, and a grim sense of humor still keep th
- is classic as fresh as it was 45 years ago!\n\nTickets: https://vidiotsfou
- ndation.org/purchase/4672421/\n\nDetails: https://vidiotsfoundation.org/mo
- vies/an-american-werewolf-in-london/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 97 min | F
+ ormat: Digital | Rating: R\n\nSeries: Countdown to Halloween\, Doors Open 
+ at 6\, In the Eagle\n\nSurreal visions\, fabulous practical special effect
+ s\, and a grim sense of humor still keep this classic as fresh as it was 4
+ 5 years ago!\n\nTickets: https://vidiotsfoundation.org/purchase/4672421/\n
+ \nDetails: https://vidiotsfoundation.org/movies/an-american-werewolf-in-lo
+ ndon/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4757982@vidiotsfoundation.org
@@ -370,21 +372,6 @@ DESCRIPTION:Run time: 116 min | Format: Digital\n\nSeries: Additional Shows
  introduction from non-fiction filmmaking legend Ross McElwee before both s
  creenings!\n\nTickets: https://vidiotsfoundation.org/purchase/4815360/\n\n
  Details: https://vidiotsfoundation.org/movies/remake/
-END:VEVENT
-BEGIN:VEVENT
-UID:4815359@vidiotsfoundation.org
-DTSTAMP:20261104T033000Z
-DTSTART;TZID=America/Los_Angeles:20261103T193000
-DTEND;TZID=America/Los_Angeles:20261103T213000
-SUMMARY:Interstellar Sound Immersion – A Sci-Fi Sound Bath
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815359/
-DESCRIPTION:Series: Doors Open at 6\, In the Eagle\, Live Show\n\nJoin us f
- or a mind-blowing sonic adventure into a universe of immersive sound with 
- cosmic composers Stephen James Taylor and Chuck Jonkey!\n\nTickets: https:
- //vidiotsfoundation.org/purchase/4815359/\n\nDetails: https://vidiotsfound
- ation.org/special_events/interstellar-sound-immersion-a-sci-fi-sound-bath/
 END:VEVENT
 BEGIN:VEVENT
 UID:4823527@vidiotsfoundation.org
@@ -871,6 +858,20 @@ DESCRIPTION:Run time: 115 min | Format: 4K Digital | Release year: 1985\n\n
  ious ramen to slurp during the film!\n\nTickets: https://vidiotsfoundation
  .org/purchase/4823631/\n\nDetails: https://vidiotsfoundation.org/movies/ta
  mpopo/
+END:VEVENT
+BEGIN:VEVENT
+UID:4875235@vidiotsfoundation.org
+DTSTAMP:20261120T033000Z
+DTSTART;TZID=America/Los_Angeles:20261119T193000
+DTEND;TZID=America/Los_Angeles:20261119T205700
+SUMMARY:The Daytrippers
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4875235/
+DESCRIPTION:Run time: 87 min | Format: Digital | Rating: R\n\nSeries: Doors
+  Open at 6\, In the Eagle\n\nIt's a family affair.\n\nTickets: https://vid
+ iotsfoundation.org/purchase/4875235/\n\nDetails: https://vidiotsfoundation
+ .org/movies/the-daytrippers/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815665@vidiotsfoundation.org
