@@ -8,56 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4757974@vidiotsfoundation.org
-DTSTAMP:20261029T020000Z
-DTSTART;TZID=America/Los_Angeles:20261028T190000
-DTEND;TZID=America/Los_Angeles:20261028T203000
-SUMMARY:Sweet 16mm: Halloween Haunts
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4757974/
-DESCRIPTION:Run time: 90 min\n\nSeries: Countdown to Halloween\, In the MUB
- I Microcinema\, Sweet 16mm\n\n16mm Spookiness just in time for Halloween! 
- A ghostly night of obscure\, rare\, goofy\, and haunting short films and c
- artoons all on 16mm celluloid.\nAdditional Screening Added!\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4757974/\n\nDetails: https://vidiotsf
- oundation.org/movies/sweet-16mm-halloween-haunts/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672423@vidiotsfoundation.org
-DTSTAMP:20261029T023000Z
-DTSTART;TZID=America/Los_Angeles:20261028T193000
-DTEND;TZID=America/Los_Angeles:20261028T211800
-SUMMARY:Ginger Snaps
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672423/
-DESCRIPTION:Run time: 108 min | Format: Digital\n\nSeries: Countdown to Hal
- loween\, Doors Open at 6\, In the Eagle\n\nA teen horror for the true weir
- dos - Ginger Snaps is not only one of the best werewolf films of the new m
- illennium\, it's also one of its best Coming-of-Age classics as well!\n\nT
- ickets: https://vidiotsfoundation.org/purchase/4672423/\n\nDetails: https:
- //vidiotsfoundation.org/movies/ginger-snaps/
-END:VEVENT
-BEGIN:VEVENT
-UID:4675860@vidiotsfoundation.org
-DTSTAMP:20261030T020000Z
-DTSTART;TZID=America/Los_Angeles:20261029T190000
-DTEND;TZID=America/Los_Angeles:20261029T203000
-SUMMARY:Sweet 16mm: Halloween Haunts
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4675860/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 90 min\n\n
- Series: Countdown to Halloween\, In the MUBI Microcinema\, Sweet 16mm\n\n1
- 6mm Spookiness just in time for Halloween! A ghostly night of obscure\, ra
- re\, goofy\, and haunting short films and cartoons all on 16mm celluloid.\
- nAdditional Screening Added!\n\nTickets: https://vidiotsfoundation.org/pur
- chase/4675860/\n\nDetails: https://vidiotsfoundation.org/movies/sweet-16mm
- -halloween-haunts/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4672421@vidiotsfoundation.org
 DTSTAMP:20261030T023000Z
 DTSTART;TZID=America/Los_Angeles:20261029T193000
@@ -1171,23 +1121,35 @@ DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries:
  e-twilight-saga-new-moon/
 END:VEVENT
 BEGIN:VEVENT
-UID:4675405@vidiotsfoundation.org
-DTSTAMP:20261028T023000Z
-DTSTART;TZID=America/Los_Angeles:20261027T193000
-DTEND;TZID=America/Los_Angeles:20261027T213700
-SUMMARY:Italo-Disco Horror Night – Argento’s Deep Red
+UID:4757974@vidiotsfoundation.org
+DTSTAMP:20261029T020000Z
+DTSTART;TZID=America/Los_Angeles:20261028T190000
+DTEND;TZID=America/Los_Angeles:20261028T203000
+SUMMARY:Sweet 16mm: Halloween Haunts
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4757974/
+DESCRIPTION:Run time: 90 min\n\nSeries: Countdown to Halloween\, In the MUB
+ I Microcinema\, Sweet 16mm\n\n16mm Spookiness just in time for Halloween! 
+ A ghostly night of obscure\, rare\, goofy\, and haunting short films and c
+ artoons all on 16mm celluloid.\nAdditional Screening Added!\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4757974/\n\nDetails: https://vidiotsf
+ oundation.org/movies/sweet-16mm-halloween-haunts/
+END:VEVENT
+BEGIN:VEVENT
+UID:4672423@vidiotsfoundation.org
+DTSTAMP:20261029T023000Z
+DTSTART;TZID=America/Los_Angeles:20261028T193000
+DTEND;TZID=America/Los_Angeles:20261028T211800
+SUMMARY:Ginger Snaps
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4675405/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 127 min | 
- Format: Digital | Release year: 1975\n\nSeries: Countdown to Halloween\, D
- oors Open at 6\, In the Eagle\, Live DJ Set\n\nGet on your boogie shoes an
- d join us for a night of sick tunes and even sicker horror when we crank u
- p the Italo-Disco and slaughter the big screen with Dario Argento's gore-g
- iously demented masterpiece Deep Red. With DJ Sindri spinning Italo-Disco 
- tunes before and after the screening/screaming!\n\nTickets: https://vidiot
- sfoundation.org/purchase/4675405/\n\nDetails: https://vidiotsfoundation.or
- g/movies/italo-disco-horror-night-argentos-deep-red/
-STATUS:TENTATIVE
+URL:https://vidiotsfoundation.org/purchase/4672423/
+DESCRIPTION:Run time: 108 min | Format: Digital\n\nSeries: Countdown to Hal
+ loween\, Doors Open at 6\, In the Eagle\n\nA teen horror for the true weir
+ dos - Ginger Snaps is not only one of the best werewolf films of the new m
+ illennium\, it's also one of its best Coming-of-Age classics as well!\n\nT
+ ickets: https://vidiotsfoundation.org/purchase/4672423/\n\nDetails: https:
+ //vidiotsfoundation.org/movies/ginger-snaps/
 END:VEVENT
 END:VCALENDAR
