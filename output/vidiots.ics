@@ -568,6 +568,22 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: Addi
  etails: https://vidiotsfoundation.org/movies/primetime/
 END:VEVENT
 BEGIN:VEVENT
+UID:4880352@vidiotsfoundation.org
+DTSTAMP:20261110T033000Z
+DTSTART;TZID=America/Los_Angeles:20261109T193000
+DTEND;TZID=America/Los_Angeles:20261109T213800
+SUMMARY:Wings of Desire
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4880352/
+DESCRIPTION:Run time: 128 min | Format: Digital | Release year: 1987\n\nSer
+ ies: Doors Open at 6\, In the Eagle\n\nLike an ethereal dream\, Wim Wender
+ s' poetic masterpiece is both a visual marvel and a universal story of the
+  transformative power of love\, even for the immortal.\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4880352/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/wings-of-desire/
+END:VEVENT
+BEGIN:VEVENT
 UID:4851312@vidiotsfoundation.org
 DTSTAMP:20261111T033000Z
 DTSTART;TZID=America/Los_Angeles:20261110T193000
@@ -850,10 +866,12 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4815666/
 DESCRIPTION:Run time: 91 min | Format: Digital | Rating: G\n\nSeries: Films
-  for Everyone\, Groundbreaking Non-Fiction\, In the Eagle\n\nIt's cookie t
- ime at Vidiots\, so bring your troop for one sweet treat of a documentary!
- \n\nTickets: https://vidiotsfoundation.org/purchase/4815666/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/cookie-queens/
+  for Everyone\, Groundbreaking Non-Fiction\, In the Eagle\, Special Guests
+  in Attendance\n\nIt's cookie time at Vidiots\, so bring your troop for on
+ e sweet treat of a documentary!\nWith director Alysa Nahmias and film part
+ icipants Ara\, Nikki\, Nala\, and Nyah in attendance!\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4815666/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/cookie-queens/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815520@vidiotsfoundation.org
