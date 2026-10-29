@@ -80,12 +80,13 @@ SUMMARY:Resident Evil (2026)
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4757992/
-DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n\nHave a b
- loody good time in our microcinema as Zach Cregger's newest horror triumph
-  takes over for Halloween Weekend!\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4757992/\n\nDetails: https://vidiotsfoundation.org/movies/resi
- dent-evil-2026/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 95 min | F
+ ormat: Digital | Rating: R\n\nSeries: Additional Shows\, Countdown to Hall
+ oween\, In the MUBI Microcinema\n\nHave a bloody good time in our microcin
+ ema as Zach Cregger's newest horror triumph takes over for Halloween Weeke
+ nd!\n\nTickets: https://vidiotsfoundation.org/purchase/4757992/\n\nDetails
+ : https://vidiotsfoundation.org/movies/resident-evil-2026/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4675365@vidiotsfoundation.org
@@ -146,12 +147,14 @@ SUMMARY:Halloween
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4675239/
-DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: Count
- down to Halloween\, In the Eagle\n\nIt wouldn't be Halloween without a vis
- it from Michael Myers - the monster that made the holiday - stalking our b
- ig screen with masked terror in the slasher that started it all!\n\nTicket
- s: https://vidiotsfoundation.org/purchase/4675239/\n\nDetails: https://vid
- iotsfoundation.org/movies/halloween/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
+ ormat: Digital | Rating: R\n\nSeries: Countdown to Halloween\, In the Eagl
+ e\n\nIt wouldn't be Halloween without a visit from Michael Myers - the mon
+ ster that made the holiday - stalking our big screen with masked terror in
+  the slasher that started it all!\n\nTickets: https://vidiotsfoundation.or
+ g/purchase/4675239/\n\nDetails: https://vidiotsfoundation.org/movies/hallo
+ ween/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4758023@vidiotsfoundation.org
@@ -839,6 +842,21 @@ DESCRIPTION:Run time: 125 min | Format: 4K Digital | Rating: R\n\nSeries: 1
  etails: https://vidiotsfoundation.org/movies/wild-at-heart/
 END:VEVENT
 BEGIN:VEVENT
+UID:4883005@vidiotsfoundation.org
+DTSTAMP:20261121T055500Z
+DTSTART;TZID=America/Los_Angeles:20261120T215500
+DTEND;TZID=America/Los_Angeles:20261120T233200
+SUMMARY:Johnny Mnemonic
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883005/
+DESCRIPTION:Run time: 97 min | Format: Digital | Rating: R\n\nSeries: In th
+ e Eagle\, What the Friday?!?\n\nWe know you can't get Keanu out of your he
+ ad\, even when he's storing all your data inside his own brain!\n\nTickets
+ : https://vidiotsfoundation.org/purchase/4883005/\n\nDetails: https://vidi
+ otsfoundation.org/movies/johnny-mnemonic/
+END:VEVENT
+BEGIN:VEVENT
 UID:4815666@vidiotsfoundation.org
 DTSTAMP:20261121T193000Z
 DTSTART;TZID=America/Los_Angeles:20261121T113000
@@ -916,6 +934,25 @@ DESCRIPTION:Run time: 119 min | Format: 4K Digital | Release year: 2006\n\n
  onus pre-recorded conversation with Bong Joon-ho!\n\nTickets: https://vidi
  otsfoundation.org/purchase/4848952/\n\nDetails: https://vidiotsfoundation.
  org/movies/the-host/
+END:VEVENT
+BEGIN:VEVENT
+UID:4883126@vidiotsfoundation.org
+DTSTAMP:20261125T030000Z
+DTSTART;TZID=America/Los_Angeles:20261124T190000
+DTEND;TZID=America/Los_Angeles:20261124T203000
+SUMMARY:Sweet 16mm: The Future of Technology from Yesteryear
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883126/
+DESCRIPTION:Run time: 90 min\n\nSeries: In the MUBI Microcinema\, Sweet 16m
+ m\n\nTurn off your Apple 2C and get ready for some obsolete technology on 
+ celluloid as this month's 16mm foray into celluloid weirdness delves into 
+ vintage animation\, educational films\, trippy trailers\, antiquated adver
+ tisements\, Sci Fi rarities and more from the 1950s through the 1980s hera
+ lding the “coming” world of robots\, time and space travel\, and the h
+ ome computer explosion.\n\nTickets: https://vidiotsfoundation.org/purchase
+ /4883126/\n\nDetails: https://vidiotsfoundation.org/movies/sweet-16mm-the-
+ future-of-technology-from-yesteryear/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815443@vidiotsfoundation.org
