@@ -8,24 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4672421@vidiotsfoundation.org
-DTSTAMP:20261030T023000Z
-DTSTART;TZID=America/Los_Angeles:20261029T193000
-DTEND;TZID=America/Los_Angeles:20261029T210700
-SUMMARY:An American Werewolf in London
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672421/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 97 min | F
- ormat: Digital | Rating: R\n\nSeries: Countdown to Halloween\, Doors Open 
- at 6\, In the Eagle\n\nSurreal visions\, fabulous practical special effect
- s\, and a grim sense of humor still keep this classic as fresh as it was 4
- 5 years ago!\n\nTickets: https://vidiotsfoundation.org/purchase/4672421/\n
- \nDetails: https://vidiotsfoundation.org/movies/an-american-werewolf-in-lo
- ndon/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4757982@vidiotsfoundation.org
 DTSTAMP:20261030T234500Z
 DTSTART;TZID=America/Los_Angeles:20261030T164500
@@ -1139,35 +1121,21 @@ DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries:
  e-twilight-saga-new-moon/
 END:VEVENT
 BEGIN:VEVENT
-UID:4757974@vidiotsfoundation.org
-DTSTAMP:20261029T020000Z
-DTSTART;TZID=America/Los_Angeles:20261028T190000
-DTEND;TZID=America/Los_Angeles:20261028T203000
-SUMMARY:Sweet 16mm: Halloween Haunts
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4757974/
-DESCRIPTION:Run time: 90 min\n\nSeries: Countdown to Halloween\, In the MUB
- I Microcinema\, Sweet 16mm\n\n16mm Spookiness just in time for Halloween! 
- A ghostly night of obscure\, rare\, goofy\, and haunting short films and c
- artoons all on 16mm celluloid.\nAdditional Screening Added!\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4757974/\n\nDetails: https://vidiotsf
- oundation.org/movies/sweet-16mm-halloween-haunts/
-END:VEVENT
-BEGIN:VEVENT
-UID:4672423@vidiotsfoundation.org
-DTSTAMP:20261029T023000Z
-DTSTART;TZID=America/Los_Angeles:20261028T193000
-DTEND;TZID=America/Los_Angeles:20261028T211800
-SUMMARY:Ginger Snaps
+UID:4672421@vidiotsfoundation.org
+DTSTAMP:20261030T023000Z
+DTSTART;TZID=America/Los_Angeles:20261029T193000
+DTEND;TZID=America/Los_Angeles:20261029T210700
+SUMMARY:An American Werewolf in London
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672423/
-DESCRIPTION:Run time: 108 min | Format: Digital\n\nSeries: Countdown to Hal
- loween\, Doors Open at 6\, In the Eagle\n\nA teen horror for the true weir
- dos - Ginger Snaps is not only one of the best werewolf films of the new m
- illennium\, it's also one of its best Coming-of-Age classics as well!\n\nT
- ickets: https://vidiotsfoundation.org/purchase/4672423/\n\nDetails: https:
- //vidiotsfoundation.org/movies/ginger-snaps/
+URL:https://vidiotsfoundation.org/purchase/4672421/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 97 min | F
+ ormat: Digital | Rating: R\n\nSeries: Countdown to Halloween\, Doors Open 
+ at 6\, In the Eagle\n\nSurreal visions\, fabulous practical special effect
+ s\, and a grim sense of humor still keep this classic as fresh as it was 4
+ 5 years ago!\n\nTickets: https://vidiotsfoundation.org/purchase/4672421/\n
+ \nDetails: https://vidiotsfoundation.org/movies/an-american-werewolf-in-lo
+ ndon/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
