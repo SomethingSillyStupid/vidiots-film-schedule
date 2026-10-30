@@ -16,12 +16,13 @@ SUMMARY:Resident Evil (2026)
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4757982/
-DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n\nHave a b
- loody good time in our microcinema as Zach Cregger's newest horror triumph
-  takes over for Halloween Weekend!\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4757982/\n\nDetails: https://vidiotsfoundation.org/movies/resi
- dent-evil-2026/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 95 min | F
+ ormat: Digital | Rating: R\n\nSeries: Additional Shows\, Countdown to Hall
+ oween\, In the MUBI Microcinema\n\nHave a bloody good time in our microcin
+ ema as Zach Cregger's newest horror triumph takes over for Halloween Weeke
+ nd!\n\nTickets: https://vidiotsfoundation.org/purchase/4757982/\n\nDetails
+ : https://vidiotsfoundation.org/movies/resident-evil-2026/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4672424@vidiotsfoundation.org
@@ -220,6 +221,22 @@ DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Addit
   takes over for Halloween Weekend!\n\nTickets: https://vidiotsfoundation.o
  rg/purchase/4788987/\n\nDetails: https://vidiotsfoundation.org/movies/resi
  dent-evil-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815356@vidiotsfoundation.org
+DTSTAMP:20261101T223000Z
+DTSTART;TZID=America/Los_Angeles:20261101T143000
+DTEND;TZID=America/Los_Angeles:20261101T161400
+SUMMARY:Hoppers
+LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815356/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 104 min | 
+ Format: Digital | Rating: PG\n\nVidiots and Pixar invite you to a special 
+ screening of Hoppers followed by a conversation with Writer/Director Danie
+ l Chong\, Producer Nicole Grindle Paradis\, p.g.a.\, and cast members Pipe
+ r Curda and Dave Franco!\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4815356/\n\nDetails: https://vidiotsfoundation.org/movies/hoppers/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4788988@vidiotsfoundation.org
@@ -825,6 +842,22 @@ DESCRIPTION:Run time: 87 min | Format: Digital | Rating: R\n\nSeries: Doors
  .org/movies/the-daytrippers/
 END:VEVENT
 BEGIN:VEVENT
+UID:4883429@vidiotsfoundation.org
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=America/Los_Angeles:20261120T160000
+DTEND;TZID=America/Los_Angeles:20261120T173800
+SUMMARY:Josie and the Pussycats
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883429/
+DESCRIPTION:Run time: 98 min | Format: Digital | Rating: PG-13\n\nSeries: I
+ n the Eagle\, Live DJ Set\, Special Guests in Attendance\n\nRock Out with 
+ The Pussycats!\nWriter/Directors Deborah Kaplan and Harry Elfont in person
+ ! Plus\, ultra-millennial DJ sets from DJ Vick Jagger before and after the
+  screening!\n\nTickets: https://vidiotsfoundation.org/purchase/4883429/\n\
+ nDetails: https://vidiotsfoundation.org/movies/josie-and-the-pussycats/
+END:VEVENT
+BEGIN:VEVENT
 UID:4815665@vidiotsfoundation.org
 DTSTAMP:20261121T030000Z
 DTSTART;TZID=America/Los_Angeles:20261120T190000
@@ -846,15 +879,15 @@ UID:4883005@vidiotsfoundation.org
 DTSTAMP:20261121T055500Z
 DTSTART;TZID=America/Los_Angeles:20261120T215500
 DTEND;TZID=America/Los_Angeles:20261120T233200
-SUMMARY:Johnny Mnemonic
+SUMMARY:Johnny Mnemonic on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4883005/
-DESCRIPTION:Run time: 97 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\, What the Friday?!?\n\nWe know you can't get Keanu out of your he
- ad\, even when he's storing all your data inside his own brain!\n\nTickets
- : https://vidiotsfoundation.org/purchase/4883005/\n\nDetails: https://vidi
- otsfoundation.org/movies/johnny-mnemonic/
+DESCRIPTION:Run time: 97 min | Format: 35mm Film | Rating: R\n\nSeries: 35m
+ m Film\, In the Eagle\, What the Friday?!?\n\nWe know you can't get Keanu 
+ out of your head\, even when he's storing all your data inside his own bra
+ in!\n\nTickets: https://vidiotsfoundation.org/purchase/4883005/\n\nDetails
+ : https://vidiotsfoundation.org/movies/johnny-mnemonic/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815666@vidiotsfoundation.org
