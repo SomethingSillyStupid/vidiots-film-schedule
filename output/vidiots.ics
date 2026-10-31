@@ -236,13 +236,15 @@ SUMMARY:Macario
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4788977/
-DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 1960\n\nSeri
- es: Community Partners\, Día de los Muertos Celebration\, In the Eagle\, 
- Live DJ Set\n\nVidiots and Hello Stranger are celebrating Día de los Muer
- tos with a special screening of the haunting Mexican masterpiece Macario\,
-  with live DJ sets from DJ Joey T and Thunder One from the Tohono O'odham 
- Nation and more festivities.\n\nTickets: https://vidiotsfoundation.org/pur
- chase/4788977/\n\nDetails: https://vidiotsfoundation.org/movies/macario/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
+ ormat: Digital | Release year: 1960\n\nSeries: Community Partners\, Día d
+ e los Muertos Celebration\, In the Eagle\, Live DJ Set\n\nVidiots and Hell
+ o Stranger are celebrating Día de los Muertos with a special screening of
+  the haunting Mexican masterpiece Macario\, with live DJ sets from DJ Joey
+  T and Thunder One from the Tohono O'odham Nation and more festivities.\n\
+ nTickets: https://vidiotsfoundation.org/purchase/4788977/\n\nDetails: http
+ s://vidiotsfoundation.org/movies/macario/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4788983@vidiotsfoundation.org
@@ -285,14 +287,29 @@ SUMMARY:Remake
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4815360/
-DESCRIPTION:Run time: 116 min | Format: Digital\n\nSeries: Additional Shows
- \, In the MUBI Microcinema\, Special Guests in Attendance\, Groundbreaking
-  Non-Fiction\n\nJoin us in the microcinema for one of the most profound do
- cumentary experiences of the year\, legendary game-changing documentarian 
- Ross McElwee's beautifully heartbreaking triumph Remake .\nWith a special 
- introduction from non-fiction filmmaking legend Ross McElwee before both s
- creenings!\n\nTickets: https://vidiotsfoundation.org/purchase/4815360/\n\n
- Details: https://vidiotsfoundation.org/movies/remake/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 116 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Sp
+ ecial Guests in Attendance\, Groundbreaking Non-Fiction\n\nJoin us in the 
+ microcinema for one of the most profound documentary experiences of the ye
+ ar\, legendary game-changing documentarian Ross McElwee's beautifully hear
+ tbreaking triumph Remake .\nWith a special introduction from non-fiction f
+ ilmmaking legend Ross McElwee before both screenings!\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4815360/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/remake/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4845508@vidiotsfoundation.org
+DTSTAMP:20261105T030000Z
+DTSTART;TZID=America/Los_Angeles:20261104T190000
+DTEND;TZID=America/Los_Angeles:20261104T210700
+SUMMARY:Being Heumann
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4845508/
+DESCRIPTION:Run time: 127 min\n\nSeries: Free Events\, In the Eagle\n\nBase
+ d on a true revolution.\n\nTickets: https://vidiotsfoundation.org/purchase
+ /4845508/\n\nDetails: https://vidiotsfoundation.org/movies/being-heumann/
 END:VEVENT
 BEGIN:VEVENT
 UID:4823527@vidiotsfoundation.org
@@ -303,10 +320,12 @@ SUMMARY:Primetime
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4823527/
-DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nAre you ready to make television
-  history?\n\nTickets: https://vidiotsfoundation.org/purchase/4823527/\n\nD
- etails: https://vidiotsfoundation.org/movies/primetime/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 110 min | 
+ Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
+ ocinema\n\nAre you ready to make television history?\n\nTickets: https://v
+ idiotsfoundation.org/purchase/4823527/\n\nDetails: https://vidiotsfoundati
+ on.org/movies/primetime/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4823529@vidiotsfoundation.org
