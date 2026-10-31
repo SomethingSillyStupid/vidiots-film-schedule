@@ -8,91 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4757982@vidiotsfoundation.org
-DTSTAMP:20261030T234500Z
-DTSTART;TZID=America/Los_Angeles:20261030T164500
-DTEND;TZID=America/Los_Angeles:20261030T182000
-SUMMARY:Resident Evil (2026)
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4757982/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 95 min | F
- ormat: Digital | Rating: R\n\nSeries: Additional Shows\, Countdown to Hall
- oween\, In the MUBI Microcinema\n\nHave a bloody good time in our microcin
- ema as Zach Cregger's newest horror triumph takes over for Halloween Weeke
- nd!\n\nTickets: https://vidiotsfoundation.org/purchase/4757982/\n\nDetails
- : https://vidiotsfoundation.org/movies/resident-evil-2026/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4757991@vidiotsfoundation.org
-DTSTAMP:20261031T023000Z
-DTSTART;TZID=America/Los_Angeles:20261030T193000
-DTEND;TZID=America/Los_Angeles:20261030T210000
-SUMMARY:The Restoration at Grayson Manor
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4757991/
-DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
- , Countdown to Halloween\, In the MUBI Microcinema\n\nThis campy queer hor
- ror film is a morbidly entertaining combination of classic Hollywood\, got
- hic terror\, and high-pitched melodrama\, featuring a one-of-a-kind perfor
- mance from Chris Colfer!\n\nTickets: https://vidiotsfoundation.org/purchas
- e/4757991/\n\nDetails: https://vidiotsfoundation.org/movies/the-restoratio
- n-at-grayson-manor/
-END:VEVENT
-BEGIN:VEVENT
-UID:4757992@vidiotsfoundation.org
-DTSTAMP:20261031T051500Z
-DTSTART;TZID=America/Los_Angeles:20261030T221500
-DTEND;TZID=America/Los_Angeles:20261030T235000
-SUMMARY:Resident Evil (2026)
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4757992/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 95 min | F
- ormat: Digital | Rating: R\n\nSeries: Additional Shows\, Countdown to Hall
- oween\, In the MUBI Microcinema\n\nHave a bloody good time in our microcin
- ema as Zach Cregger's newest horror triumph takes over for Halloween Weeke
- nd!\n\nTickets: https://vidiotsfoundation.org/purchase/4757992/\n\nDetails
- : https://vidiotsfoundation.org/movies/resident-evil-2026/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4675365@vidiotsfoundation.org
-DTSTAMP:20261031T180000Z
-DTSTART;TZID=America/Los_Angeles:20261031T110000
-DTEND;TZID=America/Los_Angeles:20261031T140000
-SUMMARY:Vidiots Annual “Unscary” Halloween
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4675365/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 180 min\n\
- nSeries: Films for Everyone\, Free Events\, In the Eagle\, Interactive\n\n
- A free\, sensory-friendly all-ages Halloweenie community event\nPumpkin ca
- rving\, costume parade\, trick or treating\, Halloweenie cartoons!\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4675365/\n\nDetails: https://v
- idiotsfoundation.org/movies/unscary-halloween-open-house/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4675363@vidiotsfoundation.org
-DTSTAMP:20261031T231500Z
-DTSTART;TZID=America/Los_Angeles:20261031T161500
-DTEND;TZID=America/Los_Angeles:20261031T173000
-SUMMARY:Bride of Frankenstein
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4675363/
-DESCRIPTION:Run time: 75 min | Format: Digital\n\nSeries: Countdown to Hall
- oween\, In the Eagle\, TeenTix LA\n\nOpenly queer film director James Whal
- e's gothic masterpiece weaves the artistic style of German Expressionism\,
-  a distinctly camp sensibility\, and a story of otherness that resonates t
- hroughout history.\n\nTickets: https://vidiotsfoundation.org/purchase/4675
- 363/\n\nDetails: https://vidiotsfoundation.org/movies/bride-of-frankenstei
- n/
-END:VEVENT
-BEGIN:VEVENT
 UID:4758022@vidiotsfoundation.org
 DTSTAMP:20261031T234500Z
 DTSTART;TZID=America/Los_Angeles:20261031T164500
@@ -107,24 +22,6 @@ DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Addit
   takes over for Halloween Weekend!\n\nTickets: https://vidiotsfoundation.o
  rg/purchase/4758022/\n\nDetails: https://vidiotsfoundation.org/movies/resi
  dent-evil-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:4675239@vidiotsfoundation.org
-DTSTAMP:20261101T020000Z
-DTSTART;TZID=America/Los_Angeles:20261031T190000
-DTEND;TZID=America/Los_Angeles:20261031T203100
-SUMMARY:Halloween
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4675239/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital | Rating: R\n\nSeries: Countdown to Halloween\, In the Eagl
- e\n\nIt wouldn't be Halloween without a visit from Michael Myers - the mon
- ster that made the holiday - stalking our big screen with masked terror in
-  the slasher that started it all!\n\nTickets: https://vidiotsfoundation.or
- g/purchase/4675239/\n\nDetails: https://vidiotsfoundation.org/movies/hallo
- ween/
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4758023@vidiotsfoundation.org
@@ -142,22 +39,6 @@ DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
  mance from Chris Colfer!\n\nTickets: https://vidiotsfoundation.org/purchas
  e/4758023/\n\nDetails: https://vidiotsfoundation.org/movies/the-restoratio
  n-at-grayson-manor/
-END:VEVENT
-BEGIN:VEVENT
-UID:4675360@vidiotsfoundation.org
-DTSTAMP:20261101T044500Z
-DTSTART;TZID=America/Los_Angeles:20261031T214500
-DTEND;TZID=America/Los_Angeles:20261031T230800
-SUMMARY:The Texas Chain Saw Massacre
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4675360/
-DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
- down to Halloween\, In the Eagle\n\n52 years ago Tobe Hooper set a new hig
- h-water mark for horror with this brutal and gruesome exercise in terror\,
-  and few films since have matched its levels of visceral torture.\n\nTicke
- ts: https://vidiotsfoundation.org/purchase/4675360/\n\nDetails: https://vi
- diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 BEGIN:VEVENT
 UID:4758024@vidiotsfoundation.org
@@ -1179,34 +1060,71 @@ DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries:
  e-twilight-saga-new-moon/
 END:VEVENT
 BEGIN:VEVENT
-UID:4672424@vidiotsfoundation.org
-DTSTAMP:20261031T020000Z
-DTSTART;TZID=America/Los_Angeles:20261030T190000
-DTEND;TZID=America/Los_Angeles:20261030T204400
-SUMMARY:Practical Magic
+UID:4675365@vidiotsfoundation.org
+DTSTAMP:20261031T180000Z
+DTSTART;TZID=America/Los_Angeles:20261031T110000
+DTEND;TZID=America/Los_Angeles:20261031T140000
+SUMMARY:Vidiots Annual “Unscary” Halloween
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672424/
-DESCRIPTION:Run time: 104 min | Format: Digital | Rating: PG-13\n\nSeries: 
- Countdown to Halloween\, In the Eagle\n\nWitchcraft feels good in a place 
- like this.\n\nTickets: https://vidiotsfoundation.org/purchase/4672424/\n\n
- Details: https://vidiotsfoundation.org/movies/practical-magic/
+URL:https://vidiotsfoundation.org/purchase/4675365/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 180 min\n\
+ nSeries: Films for Everyone\, Free Events\, In the Eagle\, Interactive\n\n
+ A free\, sensory-friendly all-ages Halloweenie community event\nPumpkin ca
+ rving\, costume parade\, trick or treating\, Halloweenie cartoons!\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4675365/\n\nDetails: https://v
+ idiotsfoundation.org/movies/unscary-halloween-open-house/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4672425@vidiotsfoundation.org
-DTSTAMP:20261031T044500Z
-DTSTART;TZID=America/Los_Angeles:20261030T214500
-DTEND;TZID=America/Los_Angeles:20261030T234000
-SUMMARY:Audition
+UID:4675363@vidiotsfoundation.org
+DTSTAMP:20261031T231500Z
+DTSTART;TZID=America/Los_Angeles:20261031T161500
+DTEND;TZID=America/Los_Angeles:20261031T173000
+SUMMARY:Bride of Frankenstein
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4672425/
-DESCRIPTION:Run time: 115 min | Format: Digital | Release year: 2000\n\nSer
- ies: Countdown to Halloween\, In the Eagle\, What the Friday?!?\n\nSteerin
- g away from jump scares and cheap gore and into avenues of absolute tortur
- e and terror\, Takashi Miike's breakthrough nightmare is the kind of rare 
- horror film that affects you viscerally and haunts you in your psyche.\n\n
- Tickets: https://vidiotsfoundation.org/purchase/4672425/\n\nDetails: https
- ://vidiotsfoundation.org/movies/audition/
+URL:https://vidiotsfoundation.org/purchase/4675363/
+DESCRIPTION:Run time: 75 min | Format: Digital\n\nSeries: Countdown to Hall
+ oween\, In the Eagle\, TeenTix LA\n\nOpenly queer film director James Whal
+ e's gothic masterpiece weaves the artistic style of German Expressionism\,
+  a distinctly camp sensibility\, and a story of otherness that resonates t
+ hroughout history.\n\nTickets: https://vidiotsfoundation.org/purchase/4675
+ 363/\n\nDetails: https://vidiotsfoundation.org/movies/bride-of-frankenstei
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:4675239@vidiotsfoundation.org
+DTSTAMP:20261101T020000Z
+DTSTART;TZID=America/Los_Angeles:20261031T190000
+DTEND;TZID=America/Los_Angeles:20261031T203100
+SUMMARY:Halloween
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4675239/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
+ ormat: Digital | Rating: R\n\nSeries: Countdown to Halloween\, In the Eagl
+ e\n\nIt wouldn't be Halloween without a visit from Michael Myers - the mon
+ ster that made the holiday - stalking our big screen with masked terror in
+  the slasher that started it all!\n\nTickets: https://vidiotsfoundation.or
+ g/purchase/4675239/\n\nDetails: https://vidiotsfoundation.org/movies/hallo
+ ween/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4675360@vidiotsfoundation.org
+DTSTAMP:20261101T044500Z
+DTSTART;TZID=America/Los_Angeles:20261031T214500
+DTEND;TZID=America/Los_Angeles:20261031T230800
+SUMMARY:The Texas Chain Saw Massacre
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4675360/
+DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
+ down to Halloween\, In the Eagle\n\n52 years ago Tobe Hooper set a new hig
+ h-water mark for horror with this brutal and gruesome exercise in terror\,
+  and few films since have matched its levels of visceral torture.\n\nTicke
+ ts: https://vidiotsfoundation.org/purchase/4675360/\n\nDetails: https://vi
+ diotsfoundation.org/movies/the-texas-chain-saw-massacre/
 END:VEVENT
 END:VCALENDAR
