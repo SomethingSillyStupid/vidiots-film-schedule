@@ -8,6 +8,26 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
+UID:4788988@vidiotsfoundation.org
+DTSTAMP:20261102T001500Z
+DTSTART;TZID=America/Los_Angeles:20261101T161500
+DTEND;TZID=America/Los_Angeles:20261101T181100
+SUMMARY:Remake
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4788988/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 116 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Sp
+ ecial Guests in Attendance\, Groundbreaking Non-Fiction\n\nJoin us in the 
+ microcinema for one of the most profound documentary experiences of the ye
+ ar\, legendary game-changing documentarian Ross McElwee's beautifully hear
+ tbreaking triumph Remake .\nWith a special introduction from non-fiction f
+ ilmmaking legend Ross McElwee before both screenings!\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4788988/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/remake/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:4815343@vidiotsfoundation.org
 DTSTAMP:20261103T033000Z
 DTSTART;TZID=America/Los_Angeles:20261102T193000
@@ -21,6 +41,26 @@ DESCRIPTION:Run time: 93 min | Format: Digital | Rating: R\n\nSeries: Doors
  derson's beloved offbeat comedy and the cult of Max Fischer.\n\nTickets: h
  ttps://vidiotsfoundation.org/purchase/4815343/\n\nDetails: https://vidiots
  foundation.org/movies/rushmore/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815360@vidiotsfoundation.org
+DTSTAMP:20261104T030000Z
+DTSTART;TZID=America/Los_Angeles:20261103T190000
+DTEND;TZID=America/Los_Angeles:20261103T205600
+SUMMARY:Remake
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815360/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 116 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Sp
+ ecial Guests in Attendance\, Groundbreaking Non-Fiction\n\nJoin us in the 
+ microcinema for one of the most profound documentary experiences of the ye
+ ar\, legendary game-changing documentarian Ross McElwee's beautifully hear
+ tbreaking triumph Remake .\nWith a special introduction from non-fiction f
+ ilmmaking legend Ross McElwee before both screenings!\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4815360/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/remake/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4845508@vidiotsfoundation.org
@@ -932,26 +972,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 104 min |
  l Chong\, Producer Nicole Grindle Paradis\, p.g.a.\, and cast members Pipe
  r Curda and Dave Franco!\n\nTickets: https://vidiotsfoundation.org/purchas
  e/4815356/\n\nDetails: https://vidiotsfoundation.org/movies/hoppers/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4788988@vidiotsfoundation.org
-DTSTAMP:20261102T001500Z
-DTSTART;TZID=America/Los_Angeles:20261101T161500
-DTEND;TZID=America/Los_Angeles:20261101T181100
-SUMMARY:Remake
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4788988/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 116 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Sp
- ecial Guests in Attendance\, Groundbreaking Non-Fiction\n\nJoin us in the 
- microcinema for one of the most profound documentary experiences of the ye
- ar\, legendary game-changing documentarian Ross McElwee's beautifully hear
- tbreaking triumph Remake .\nWith a special introduction from non-fiction f
- ilmmaking legend Ross McElwee before both screenings!\n\nTickets: https://
- vidiotsfoundation.org/purchase/4788988/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/remake/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
