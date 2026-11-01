@@ -8,143 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4758022@vidiotsfoundation.org
-DTSTAMP:20261031T234500Z
-DTSTART;TZID=America/Los_Angeles:20261031T164500
-DTEND;TZID=America/Los_Angeles:20261031T182000
-SUMMARY:Resident Evil (2026)
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4758022/
-DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n\nHave a b
- loody good time in our microcinema as Zach Cregger's newest horror triumph
-  takes over for Halloween Weekend!\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4758022/\n\nDetails: https://vidiotsfoundation.org/movies/resi
- dent-evil-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:4758023@vidiotsfoundation.org
-DTSTAMP:20261101T022000Z
-DTSTART;TZID=America/Los_Angeles:20261031T192000
-DTEND;TZID=America/Los_Angeles:20261031T205000
-SUMMARY:The Restoration at Grayson Manor
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4758023/
-DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
- , Countdown to Halloween\, In the MUBI Microcinema\n\nThis campy queer hor
- ror film is a morbidly entertaining combination of classic Hollywood\, got
- hic terror\, and high-pitched melodrama\, featuring a one-of-a-kind perfor
- mance from Chris Colfer!\n\nTickets: https://vidiotsfoundation.org/purchas
- e/4758023/\n\nDetails: https://vidiotsfoundation.org/movies/the-restoratio
- n-at-grayson-manor/
-END:VEVENT
-BEGIN:VEVENT
-UID:4758024@vidiotsfoundation.org
-DTSTAMP:20261101T050000Z
-DTSTART;TZID=America/Los_Angeles:20261031T220000
-DTEND;TZID=America/Los_Angeles:20261031T233500
-SUMMARY:Resident Evil (2026)
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4758024/
-DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n\nHave a b
- loody good time in our microcinema as Zach Cregger's newest horror triumph
-  takes over for Halloween Weekend!\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4758024/\n\nDetails: https://vidiotsfoundation.org/movies/resi
- dent-evil-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:4788987@vidiotsfoundation.org
-DTSTAMP:20261101T213000Z
-DTSTART;TZID=America/Los_Angeles:20261101T133000
-DTEND;TZID=America/Los_Angeles:20261101T150500
-SUMMARY:Resident Evil (2026)
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4788987/
-DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n\nHave a b
- loody good time in our microcinema as Zach Cregger's newest horror triumph
-  takes over for Halloween Weekend!\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4788987/\n\nDetails: https://vidiotsfoundation.org/movies/resi
- dent-evil-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:4815356@vidiotsfoundation.org
-DTSTAMP:20261101T223000Z
-DTSTART;TZID=America/Los_Angeles:20261101T143000
-DTEND;TZID=America/Los_Angeles:20261101T161400
-SUMMARY:Hoppers
-LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815356/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 104 min | 
- Format: Digital | Rating: PG\n\nVidiots and Pixar invite you to a special 
- screening of Hoppers followed by a conversation with Writer/Director Danie
- l Chong\, Producer Nicole Grindle Paradis\, p.g.a.\, and cast members Pipe
- r Curda and Dave Franco!\n\nTickets: https://vidiotsfoundation.org/purchas
- e/4815356/\n\nDetails: https://vidiotsfoundation.org/movies/hoppers/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4788988@vidiotsfoundation.org
-DTSTAMP:20261102T001500Z
-DTSTART;TZID=America/Los_Angeles:20261101T161500
-DTEND;TZID=America/Los_Angeles:20261101T181100
-SUMMARY:Remake
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4788988/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 116 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Sp
- ecial Guests in Attendance\, Groundbreaking Non-Fiction\n\nJoin us in the 
- microcinema for one of the most profound documentary experiences of the ye
- ar\, legendary game-changing documentarian Ross McElwee's beautifully hear
- tbreaking triumph Remake .\nWith a special introduction from non-fiction f
- ilmmaking legend Ross McElwee before both screenings!\n\nTickets: https://
- vidiotsfoundation.org/purchase/4788988/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/remake/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4788977@vidiotsfoundation.org
-DTSTAMP:20261102T030000Z
-DTSTART;TZID=America/Los_Angeles:20261101T190000
-DTEND;TZID=America/Los_Angeles:20261101T203100
-SUMMARY:Macario
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4788977/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital | Release year: 1960\n\nSeries: Community Partners\, Día d
- e los Muertos Celebration\, In the Eagle\, Live DJ Set\n\nVidiots and Hell
- o Stranger are celebrating Día de los Muertos with a special screening of
-  the haunting Mexican masterpiece Macario\, with live DJ sets from DJ Joey
-  T and Thunder One from the Tohono O'odham Nation and more festivities.\n\
- nTickets: https://vidiotsfoundation.org/purchase/4788977/\n\nDetails: http
- s://vidiotsfoundation.org/movies/macario/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4788983@vidiotsfoundation.org
-DTSTAMP:20261102T033000Z
-DTSTART;TZID=America/Los_Angeles:20261101T193000
-DTEND;TZID=America/Los_Angeles:20261101T210000
-SUMMARY:The Restoration at Grayson Manor
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4788983/
-DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
- , Countdown to Halloween\, In the MUBI Microcinema\n\nThis campy queer hor
- ror film is a morbidly entertaining combination of classic Hollywood\, got
- hic terror\, and high-pitched melodrama\, featuring a one-of-a-kind perfor
- mance from Chris Colfer!\n\nTickets: https://vidiotsfoundation.org/purchas
- e/4788983/\n\nDetails: https://vidiotsfoundation.org/movies/the-restoratio
- n-at-grayson-manor/
-END:VEVENT
-BEGIN:VEVENT
 UID:4815343@vidiotsfoundation.org
 DTSTAMP:20261103T033000Z
 DTSTART;TZID=America/Los_Angeles:20261102T193000
@@ -158,26 +21,6 @@ DESCRIPTION:Run time: 93 min | Format: Digital | Rating: R\n\nSeries: Doors
  derson's beloved offbeat comedy and the cult of Max Fischer.\n\nTickets: h
  ttps://vidiotsfoundation.org/purchase/4815343/\n\nDetails: https://vidiots
  foundation.org/movies/rushmore/
-END:VEVENT
-BEGIN:VEVENT
-UID:4815360@vidiotsfoundation.org
-DTSTAMP:20261104T030000Z
-DTSTART;TZID=America/Los_Angeles:20261103T190000
-DTEND;TZID=America/Los_Angeles:20261103T205600
-SUMMARY:Remake
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815360/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 116 min | 
- Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Sp
- ecial Guests in Attendance\, Groundbreaking Non-Fiction\n\nJoin us in the 
- microcinema for one of the most profound documentary experiences of the ye
- ar\, legendary game-changing documentarian Ross McElwee's beautifully hear
- tbreaking triumph Remake .\nWith a special introduction from non-fiction f
- ilmmaking legend Ross McElwee before both screenings!\n\nTickets: https://
- vidiotsfoundation.org/purchase/4815360/\n\nDetails: https://vidiotsfoundat
- ion.org/movies/remake/
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4845508@vidiotsfoundation.org
@@ -1060,71 +903,91 @@ DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries:
  e-twilight-saga-new-moon/
 END:VEVENT
 BEGIN:VEVENT
-UID:4675365@vidiotsfoundation.org
-DTSTAMP:20261031T180000Z
-DTSTART;TZID=America/Los_Angeles:20261031T110000
-DTEND;TZID=America/Los_Angeles:20261031T140000
-SUMMARY:Vidiots Annual “Unscary” Halloween
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4675365/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 180 min\n\
- nSeries: Films for Everyone\, Free Events\, In the Eagle\, Interactive\n\n
- A free\, sensory-friendly all-ages Halloweenie community event\nPumpkin ca
- rving\, costume parade\, trick or treating\, Halloweenie cartoons!\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4675365/\n\nDetails: https://v
- idiotsfoundation.org/movies/unscary-halloween-open-house/
+UID:4788987@vidiotsfoundation.org
+DTSTAMP:20261101T213000Z
+DTSTART;TZID=America/Los_Angeles:20261101T133000
+DTEND;TZID=America/Los_Angeles:20261101T150500
+SUMMARY:Resident Evil (2026)
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4788987/
+DESCRIPTION:Run time: 95 min | Format: Digital | Rating: R\n\nSeries: Addit
+ ional Shows\, Countdown to Halloween\, In the MUBI Microcinema\n\nHave a b
+ loody good time in our microcinema as Zach Cregger's newest horror triumph
+  takes over for Halloween Weekend!\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4788987/\n\nDetails: https://vidiotsfoundation.org/movies/resi
+ dent-evil-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815356@vidiotsfoundation.org
+DTSTAMP:20261101T223000Z
+DTSTART;TZID=America/Los_Angeles:20261101T143000
+DTEND;TZID=America/Los_Angeles:20261101T161400
+SUMMARY:Hoppers
+LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815356/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 104 min | 
+ Format: Digital | Rating: PG\n\nVidiots and Pixar invite you to a special 
+ screening of Hoppers followed by a conversation with Writer/Director Danie
+ l Chong\, Producer Nicole Grindle Paradis\, p.g.a.\, and cast members Pipe
+ r Curda and Dave Franco!\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4815356/\n\nDetails: https://vidiotsfoundation.org/movies/hoppers/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4675363@vidiotsfoundation.org
-DTSTAMP:20261031T231500Z
-DTSTART;TZID=America/Los_Angeles:20261031T161500
-DTEND;TZID=America/Los_Angeles:20261031T173000
-SUMMARY:Bride of Frankenstein
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4675363/
-DESCRIPTION:Run time: 75 min | Format: Digital\n\nSeries: Countdown to Hall
- oween\, In the Eagle\, TeenTix LA\n\nOpenly queer film director James Whal
- e's gothic masterpiece weaves the artistic style of German Expressionism\,
-  a distinctly camp sensibility\, and a story of otherness that resonates t
- hroughout history.\n\nTickets: https://vidiotsfoundation.org/purchase/4675
- 363/\n\nDetails: https://vidiotsfoundation.org/movies/bride-of-frankenstei
- n/
+UID:4788988@vidiotsfoundation.org
+DTSTAMP:20261102T001500Z
+DTSTART;TZID=America/Los_Angeles:20261101T161500
+DTEND;TZID=America/Los_Angeles:20261101T181100
+SUMMARY:Remake
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4788988/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 116 min | 
+ Format: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Sp
+ ecial Guests in Attendance\, Groundbreaking Non-Fiction\n\nJoin us in the 
+ microcinema for one of the most profound documentary experiences of the ye
+ ar\, legendary game-changing documentarian Ross McElwee's beautifully hear
+ tbreaking triumph Remake .\nWith a special introduction from non-fiction f
+ ilmmaking legend Ross McElwee before both screenings!\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4788988/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/remake/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4675239@vidiotsfoundation.org
-DTSTAMP:20261101T020000Z
-DTSTART;TZID=America/Los_Angeles:20261031T190000
-DTEND;TZID=America/Los_Angeles:20261031T203100
-SUMMARY:Halloween
+UID:4788977@vidiotsfoundation.org
+DTSTAMP:20261102T030000Z
+DTSTART;TZID=America/Los_Angeles:20261101T190000
+DTEND;TZID=America/Los_Angeles:20261101T203100
+SUMMARY:Macario
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4675239/
+URL:https://vidiotsfoundation.org/purchase/4788977/
 DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 91 min | F
- ormat: Digital | Rating: R\n\nSeries: Countdown to Halloween\, In the Eagl
- e\n\nIt wouldn't be Halloween without a visit from Michael Myers - the mon
- ster that made the holiday - stalking our big screen with masked terror in
-  the slasher that started it all!\n\nTickets: https://vidiotsfoundation.or
- g/purchase/4675239/\n\nDetails: https://vidiotsfoundation.org/movies/hallo
- ween/
+ ormat: Digital | Release year: 1960\n\nSeries: Community Partners\, Día d
+ e los Muertos Celebration\, In the Eagle\, Live DJ Set\n\nVidiots and Hell
+ o Stranger are celebrating Día de los Muertos with a special screening of
+  the haunting Mexican masterpiece Macario\, with live DJ sets from DJ Joey
+  T and Thunder One from the Tohono O'odham Nation and more festivities.\n\
+ nTickets: https://vidiotsfoundation.org/purchase/4788977/\n\nDetails: http
+ s://vidiotsfoundation.org/movies/macario/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4675360@vidiotsfoundation.org
-DTSTAMP:20261101T044500Z
-DTSTART;TZID=America/Los_Angeles:20261031T214500
-DTEND;TZID=America/Los_Angeles:20261031T230800
-SUMMARY:The Texas Chain Saw Massacre
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4675360/
-DESCRIPTION:Run time: 83 min | Format: Digital | Rating: R\n\nSeries: Count
- down to Halloween\, In the Eagle\n\n52 years ago Tobe Hooper set a new hig
- h-water mark for horror with this brutal and gruesome exercise in terror\,
-  and few films since have matched its levels of visceral torture.\n\nTicke
- ts: https://vidiotsfoundation.org/purchase/4675360/\n\nDetails: https://vi
- diotsfoundation.org/movies/the-texas-chain-saw-massacre/
+UID:4788983@vidiotsfoundation.org
+DTSTAMP:20261102T033000Z
+DTSTART;TZID=America/Los_Angeles:20261101T193000
+DTEND;TZID=America/Los_Angeles:20261101T210000
+SUMMARY:The Restoration at Grayson Manor
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4788983/
+DESCRIPTION:Run time: 90 min | Format: Digital\n\nSeries: Additional Shows\
+ , Countdown to Halloween\, In the MUBI Microcinema\n\nThis campy queer hor
+ ror film is a morbidly entertaining combination of classic Hollywood\, got
+ hic terror\, and high-pitched melodrama\, featuring a one-of-a-kind perfor
+ mance from Chris Colfer!\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4788983/\n\nDetails: https://vidiotsfoundation.org/movies/the-restoratio
+ n-at-grayson-manor/
 END:VEVENT
 END:VCALENDAR
