@@ -310,11 +310,12 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4903322/
 DESCRIPTION:Run time: 89 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nJoin us in the microcinema for Al
- ex Prager's stylish dystopian satire DreamQuil - an unsettling science fic
- tion mystery starring Elizabeth Banks\, John C. Reilly\, and Juliette Lewi
- s.\n\nTickets: https://vidiotsfoundation.org/purchase/4903322/\n\nDetails:
-  https://vidiotsfoundation.org/movies/dreamquil/
+ ional Shows\, In the MUBI Microcinema\, Special Guests in Attendance\n\nJo
+ in us in the microcinema for Alex Prager's stylish dystopian satire DreamQ
+ uil - an unsettling science fiction mystery starring Elizabeth Banks\, Joh
+ n C. Reilly\, and Juliette Lewis.\nFilmmaker Alex Prager in Person!\n\nTic
+ kets: https://vidiotsfoundation.org/purchase/4903322/\n\nDetails: https://
+ vidiotsfoundation.org/movies/dreamquil/
 END:VEVENT
 BEGIN:VEVENT
 UID:4851312@vidiotsfoundation.org
@@ -343,11 +344,12 @@ LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4903331/
 DESCRIPTION:Run time: 89 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\n\nJoin us in the microcinema for Al
- ex Prager's stylish dystopian satire DreamQuil - an unsettling science fic
- tion mystery starring Elizabeth Banks\, John C. Reilly\, and Juliette Lewi
- s.\n\nTickets: https://vidiotsfoundation.org/purchase/4903331/\n\nDetails:
-  https://vidiotsfoundation.org/movies/dreamquil/
+ ional Shows\, In the MUBI Microcinema\, Special Guests in Attendance\n\nJo
+ in us in the microcinema for Alex Prager's stylish dystopian satire DreamQ
+ uil - an unsettling science fiction mystery starring Elizabeth Banks\, Joh
+ n C. Reilly\, and Juliette Lewis.\nFilmmaker Alex Prager in Person!\n\nTic
+ kets: https://vidiotsfoundation.org/purchase/4903331/\n\nDetails: https://
+ vidiotsfoundation.org/movies/dreamquil/
 END:VEVENT
 BEGIN:VEVENT
 UID:4823341@vidiotsfoundation.org
@@ -400,6 +402,21 @@ DESCRIPTION:Run time: 93 min | Format: Digital | Rating: PG | Release year:
  titles/
 END:VEVENT
 BEGIN:VEVENT
+UID:4883128@vidiotsfoundation.org
+DTSTAMP:20261114T003000Z
+DTSTART;TZID=America/Los_Angeles:20261113T163000
+DTEND;TZID=America/Los_Angeles:20261113T181500
+SUMMARY:Wicker
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883128/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nAn audacious comedic fable about
+  sex\, marriage\, and the absurdities of social convention\n\nTickets: htt
+ ps://vidiotsfoundation.org/purchase/4883128/\n\nDetails: https://vidiotsfo
+ undation.org/movies/wicker/
+END:VEVENT
+BEGIN:VEVENT
 UID:4815600@vidiotsfoundation.org
 DTSTAMP:20261114T030000Z
 DTSTART;TZID=America/Los_Angeles:20261113T190000
@@ -413,6 +430,21 @@ DESCRIPTION:Run time: 97 min | Format: Digital | Rating: R\n\nSeries: In th
   Coen brothers into the upper echelons of filmmakers right off the bat.\n\
  nTickets: https://vidiotsfoundation.org/purchase/4815600/\n\nDetails: http
  s://vidiotsfoundation.org/movies/blood-simple/
+END:VEVENT
+BEGIN:VEVENT
+UID:4883129@vidiotsfoundation.org
+DTSTAMP:20261114T032000Z
+DTSTART;TZID=America/Los_Angeles:20261113T192000
+DTEND;TZID=America/Los_Angeles:20261113T210500
+SUMMARY:Wicker
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883129/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nAn audacious comedic fable about
+  sex\, marriage\, and the absurdities of social convention\n\nTickets: htt
+ ps://vidiotsfoundation.org/purchase/4883129/\n\nDetails: https://vidiotsfo
+ undation.org/movies/wicker/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815618@vidiotsfoundation.org
@@ -461,6 +493,21 @@ DESCRIPTION:Run time: 108 min | Format: Digital\n\nSeries: In the Eagle\, R
   https://vidiotsfoundation.org/movies/on-the-waterfront/
 END:VEVENT
 BEGIN:VEVENT
+UID:4883135@vidiotsfoundation.org
+DTSTAMP:20261115T003000Z
+DTSTART;TZID=America/Los_Angeles:20261114T163000
+DTEND;TZID=America/Los_Angeles:20261114T181500
+SUMMARY:Wicker
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883135/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nAn audacious comedic fable about
+  sex\, marriage\, and the absurdities of social convention\n\nTickets: htt
+ ps://vidiotsfoundation.org/purchase/4883135/\n\nDetails: https://vidiotsfo
+ undation.org/movies/wicker/
+END:VEVENT
+BEGIN:VEVENT
 UID:4815624@vidiotsfoundation.org
 DTSTAMP:20261115T030000Z
 DTSTART;TZID=America/Los_Angeles:20261114T190000
@@ -490,6 +537,21 @@ DESCRIPTION:Run time: 88 min | Format: 4K Digital\n\nSeries: In the Eagle\,
  f our birthday weekend like rock stars!\n\nTickets: https://vidiotsfoundat
  ion.org/purchase/4815625/\n\nDetails: https://vidiotsfoundation.org/movies
  /stop-making-sense-1984/
+END:VEVENT
+BEGIN:VEVENT
+UID:4883138@vidiotsfoundation.org
+DTSTAMP:20261115T060000Z
+DTSTART;TZID=America/Los_Angeles:20261114T220000
+DTEND;TZID=America/Los_Angeles:20261114T234500
+SUMMARY:Wicker
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883138/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nAn audacious comedic fable about
+  sex\, marriage\, and the absurdities of social convention\n\nTickets: htt
+ ps://vidiotsfoundation.org/purchase/4883138/\n\nDetails: https://vidiotsfo
+ undation.org/movies/wicker/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815635@vidiotsfoundation.org
@@ -577,6 +639,36 @@ DESCRIPTION:Run time: 77 min | Format: Digital\n\nSeries: In the MUBI Micro
  ani-orkest/
 END:VEVENT
 BEGIN:VEVENT
+UID:4883283@vidiotsfoundation.org
+DTSTAMP:20261117T030000Z
+DTSTART;TZID=America/Los_Angeles:20261116T190000
+DTEND;TZID=America/Los_Angeles:20261116T204500
+SUMMARY:Wicker
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883283/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nAn audacious comedic fable about
+  sex\, marriage\, and the absurdities of social convention\n\nTickets: htt
+ ps://vidiotsfoundation.org/purchase/4883283/\n\nDetails: https://vidiotsfo
+ undation.org/movies/wicker/
+END:VEVENT
+BEGIN:VEVENT
+UID:4883284@vidiotsfoundation.org
+DTSTAMP:20261119T030000Z
+DTSTART;TZID=America/Los_Angeles:20261118T190000
+DTEND;TZID=America/Los_Angeles:20261118T204500
+SUMMARY:Wicker
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883284/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nAn audacious comedic fable about
+  sex\, marriage\, and the absurdities of social convention\n\nTickets: htt
+ ps://vidiotsfoundation.org/purchase/4883284/\n\nDetails: https://vidiotsfo
+ undation.org/movies/wicker/
+END:VEVENT
+BEGIN:VEVENT
 UID:4823631@vidiotsfoundation.org
 DTSTAMP:20261119T033000Z
 DTSTART;TZID=America/Los_Angeles:20261118T193000
@@ -643,6 +735,24 @@ DESCRIPTION:Run time: 125 min | Format: 4K Digital | Rating: R\n\nSeries: 1
  etails: https://vidiotsfoundation.org/movies/wild-at-heart/
 END:VEVENT
 BEGIN:VEVENT
+UID:4883285@vidiotsfoundation.org
+DTSTAMP:20261121T033000Z
+DTSTART;TZID=America/Los_Angeles:20261120T193000
+DTEND;TZID=America/Los_Angeles:20261120T211000
+SUMMARY:Once Upon a Time in Harlem
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883285/
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nA decade after 
+ his death\, genre-defying filmmaker William Greaves has one last trick up 
+ his sleeve with what he considered the most important event he captured on
+  film: a 1972 party he engineered with the living luminaries of the Harlem
+  Renaissance.\n\nTickets: https://vidiotsfoundation.org/purchase/4883285/\
+ n\nDetails: https://vidiotsfoundation.org/movies/once-upon-a-time-in-harle
+ m/
+END:VEVENT
+BEGIN:VEVENT
 UID:4883005@vidiotsfoundation.org
 DTSTAMP:20261121T055500Z
 DTSTART;TZID=America/Los_Angeles:20261120T215500
@@ -673,6 +783,24 @@ DESCRIPTION:Run time: 91 min | Format: Digital | Rating: G\n\nSeries: Films
  and film participants Ara\, Nikki\, Nala\, and Nyah in attendance!\n\nTick
  ets: https://vidiotsfoundation.org/purchase/4815666/\n\nDetails: https://v
  idiotsfoundation.org/movies/cookie-queens/
+END:VEVENT
+BEGIN:VEVENT
+UID:4883300@vidiotsfoundation.org
+DTSTAMP:20261122T003000Z
+DTSTART;TZID=America/Los_Angeles:20261121T163000
+DTEND;TZID=America/Los_Angeles:20261121T181000
+SUMMARY:Once Upon a Time in Harlem
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883300/
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nA decade after 
+ his death\, genre-defying filmmaker William Greaves has one last trick up 
+ his sleeve with what he considered the most important event he captured on
+  film: a 1972 party he engineered with the living luminaries of the Harlem
+  Renaissance.\n\nTickets: https://vidiotsfoundation.org/purchase/4883300/\
+ n\nDetails: https://vidiotsfoundation.org/movies/once-upon-a-time-in-harle
+ m/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815520@vidiotsfoundation.org
@@ -719,6 +847,24 @@ DESCRIPTION:Run time: 186 min | Format: Digital | Release year: 2022\n\nSer
   never get enough of this modern epic!\n\nTickets: https://vidiotsfoundati
  on.org/purchase/4848951/\n\nDetails: https://vidiotsfoundation.org/movies/
  rrr/
+END:VEVENT
+BEGIN:VEVENT
+UID:4883325@vidiotsfoundation.org
+DTSTAMP:20261123T030000Z
+DTSTART;TZID=America/Los_Angeles:20261122T190000
+DTEND;TZID=America/Los_Angeles:20261122T204000
+SUMMARY:Once Upon a Time in Harlem
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883325/
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nA decade after 
+ his death\, genre-defying filmmaker William Greaves has one last trick up 
+ his sleeve with what he considered the most important event he captured on
+  film: a 1972 party he engineered with the living luminaries of the Harlem
+  Renaissance.\n\nTickets: https://vidiotsfoundation.org/purchase/4883325/\
+ n\nDetails: https://vidiotsfoundation.org/movies/once-upon-a-time-in-harle
+ m/
 END:VEVENT
 BEGIN:VEVENT
 UID:4848952@vidiotsfoundation.org
