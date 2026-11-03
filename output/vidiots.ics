@@ -8,26 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4815360@vidiotsfoundation.org
-DTSTAMP:20261104T030000Z
-DTSTART;TZID=America/Los_Angeles:20261103T190000
-DTEND;TZID=America/Los_Angeles:20261103T205600
-SUMMARY:Remake
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815360/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 116 min | 
- Format: Digital\n\nSeries: Groundbreaking Non-Fiction\, In the MUBI Microc
- inema\, Special Guests in Attendance\n\nJoin us in the microcinema for one
-  of the most profound documentary experiences of the year\, legendary game
- -changing documentarian Ross McElwee's beautifully heartbreaking triumph R
- emake .\nWith a special introduction from non-fiction filmmaking legend Ro
- ss McElwee before both screenings!\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4815360/\n\nDetails: https://vidiotsfoundation.org/movies/rema
- ke/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4845508@vidiotsfoundation.org
 DTSTAMP:20261105T030000Z
 DTSTART;TZID=America/Los_Angeles:20261104T190000
@@ -87,11 +67,13 @@ SUMMARY:Fallen Angels
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4815364/
-DESCRIPTION:Run time: 98 min | Format: Digital | Release year: 1995\n\nSeri
- es: Doors Open at 6\, In the Eagle\n\nLost souls reach out for human conne
- ction amid a glimmering Hong Kong in Wong Kar Wai’s hallucinatory\, neon
- -soaked nocturne.\n\nTickets: https://vidiotsfoundation.org/purchase/48153
- 64/\n\nDetails: https://vidiotsfoundation.org/movies/fallen-angels/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 98 min | F
+ ormat: Digital | Release year: 1995\n\nSeries: Doors Open at 6\, In the Ea
+ gle\n\nLost souls reach out for human connection amid a glimmering Hong Ko
+ ng in Wong Kar Wai’s hallucinatory\, neon-soaked nocturne.\n\nTickets: h
+ ttps://vidiotsfoundation.org/purchase/4815364/\n\nDetails: https://vidiots
+ foundation.org/movies/fallen-angels/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4875236@vidiotsfoundation.org
@@ -979,18 +961,23 @@ DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries:
  e-twilight-saga-new-moon/
 END:VEVENT
 BEGIN:VEVENT
-UID:4815343@vidiotsfoundation.org
-DTSTAMP:20261103T033000Z
-DTSTART;TZID=America/Los_Angeles:20261102T193000
-DTEND;TZID=America/Los_Angeles:20261102T210300
-SUMMARY:Rushmore
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815343/
-DESCRIPTION:Run time: 93 min | Format: Digital | Rating: R\n\nSeries: Doors
-  Open at 6\, In the Eagle\n\nVidiots is heading back to school with Wes An
- derson's beloved offbeat comedy and the cult of Max Fischer.\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4815343/\n\nDetails: https://vidiots
- foundation.org/movies/rushmore/
+UID:4815360@vidiotsfoundation.org
+DTSTAMP:20261104T030000Z
+DTSTART;TZID=America/Los_Angeles:20261103T190000
+DTEND;TZID=America/Los_Angeles:20261103T205600
+SUMMARY:Remake
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815360/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 116 min | 
+ Format: Digital\n\nSeries: Groundbreaking Non-Fiction\, In the MUBI Microc
+ inema\, Special Guests in Attendance\n\nJoin us in the microcinema for one
+  of the most profound documentary experiences of the year\, legendary game
+ -changing documentarian Ross McElwee's beautifully heartbreaking triumph R
+ emake .\nWith a special introduction from non-fiction filmmaking legend Ro
+ ss McElwee before both screenings!\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4815360/\n\nDetails: https://vidiotsfoundation.org/movies/rema
+ ke/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
