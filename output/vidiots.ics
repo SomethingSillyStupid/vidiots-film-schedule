@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4845508@vidiotsfoundation.org
-DTSTAMP:20261105T030000Z
-DTSTART;TZID=America/Los_Angeles:20261104T190000
-DTEND;TZID=America/Los_Angeles:20261104T210700
-SUMMARY:Being Heumann
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4845508/
-DESCRIPTION:Run time: 127 min\n\nSeries: Free Events\, In the Eagle\n\nVidi
- ots\, Future of Film is Female and Apple Original Films invite you to a sp
- ecial free advance screening of Siân Heder's Being Heumann!\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4845508/\n\nDetails: https://vidiots
- foundation.org/movies/being-heumann/
-END:VEVENT
-BEGIN:VEVENT
 UID:4823527@vidiotsfoundation.org
 DTSTAMP:20261105T033000Z
 DTSTART;TZID=America/Los_Angeles:20261104T193000
@@ -52,11 +37,12 @@ URL:https://vidiotsfoundation.org/purchase/4823529/
 DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Additional Shows\
  , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
   microcinema for a refreshing dark comedy that will give you life - J. Dav
- is' acerbically hilarious I Hate Myself and Want to Die .\nCast and/or Cre
- w in person at all screenings! Post-screening conversation moderated by Ja
- y Duplass on November 7th and Patton Oswalt on November 8th!\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4823529/\n\nDetails: https://vidiots
- foundation.org/movies/i-hate-myself-and-want-to-die/
+ is' acerbically hilarious I Hate Myself and Want to Die .\nWith cast and/o
+ r crew at every screening! Post-screening conversations moderated by Paul 
+ F. Tompkins on November 5th\, Jay Duplass on November 7th and Patton Oswal
+ t on November 8th!\n\nTickets: https://vidiotsfoundation.org/purchase/4823
+ 529/\n\nDetails: https://vidiotsfoundation.org/movies/i-hate-myself-and-wa
+ nt-to-die/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815364@vidiotsfoundation.org
@@ -198,11 +184,12 @@ URL:https://vidiotsfoundation.org/purchase/4823532/
 DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Additional Shows\
  , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
   microcinema for a refreshing dark comedy that will give you life - J. Dav
- is' acerbically hilarious I Hate Myself and Want to Die .\nCast and/or Cre
- w in person at all screenings! Post-screening conversation moderated by Ja
- y Duplass on November 7th and Patton Oswalt on November 8th!\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4823532/\n\nDetails: https://vidiots
- foundation.org/movies/i-hate-myself-and-want-to-die/
+ is' acerbically hilarious I Hate Myself and Want to Die .\nWith cast and/o
+ r crew at every screening! Post-screening conversations moderated by Paul 
+ F. Tompkins on November 5th\, Jay Duplass on November 7th and Patton Oswal
+ t on November 8th!\n\nTickets: https://vidiotsfoundation.org/purchase/4823
+ 532/\n\nDetails: https://vidiotsfoundation.org/movies/i-hate-myself-and-wa
+ nt-to-die/
 END:VEVENT
 BEGIN:VEVENT
 UID:4826532@vidiotsfoundation.org
@@ -236,6 +223,22 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: Addi
  e/
 END:VEVENT
 BEGIN:VEVENT
+UID:4823334@vidiotsfoundation.org
+DTSTAMP:20261108T200000Z
+DTSTART;TZID=America/Los_Angeles:20261108T120000
+DTEND;TZID=America/Los_Angeles:20261108T134200
+SUMMARY:Kubo and the Two Strings
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4823334/
+DESCRIPTION:Run time: 102 min | Format: Digital | Rating: PG\n\nSeries: Fil
+ ms for Everyone\, Free Events\, In the Eagle\n\nVidiots and LAIKA invite y
+ ou to a special free screening of the heroic animated adventure Kubo and t
+ he Two Strings !\n\nTickets: https://vidiotsfoundation.org/purchase/482333
+ 4/\n\nDetails: https://vidiotsfoundation.org/movies/kubo-and-the-two-strin
+ gs/
+END:VEVENT
+BEGIN:VEVENT
 UID:4823675@vidiotsfoundation.org
 DTSTAMP:20261109T003000Z
 DTSTART;TZID=America/Los_Angeles:20261108T163000
@@ -247,11 +250,12 @@ URL:https://vidiotsfoundation.org/purchase/4823675/
 DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Additional Shows\
  , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
   microcinema for a refreshing dark comedy that will give you life - J. Dav
- is' acerbically hilarious I Hate Myself and Want to Die .\nCast and/or Cre
- w in person at all screenings! Post-screening conversation moderated by Ja
- y Duplass on November 7th and Patton Oswalt on November 8th!\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4823675/\n\nDetails: https://vidiots
- foundation.org/movies/i-hate-myself-and-want-to-die/
+ is' acerbically hilarious I Hate Myself and Want to Die .\nWith cast and/o
+ r crew at every screening! Post-screening conversations moderated by Paul 
+ F. Tompkins on November 5th\, Jay Duplass on November 7th and Patton Oswal
+ t on November 8th!\n\nTickets: https://vidiotsfoundation.org/purchase/4823
+ 675/\n\nDetails: https://vidiotsfoundation.org/movies/i-hate-myself-and-wa
+ nt-to-die/
 END:VEVENT
 BEGIN:VEVENT
 UID:4823339@vidiotsfoundation.org
@@ -361,12 +365,12 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4823341/
 DESCRIPTION:Run time: 116 min | Format: Digital | Rating: R\n\nSeries: Door
- s Open at 6\, In the Eagle\, Special Guests in Attendance\n\nVidiots is th
- rilled to welcome cinema legends Alison Anders and Illeana Douglas \, plus
-  music supervisor Karyn Rachtman\, and music producer Larry Klein for a sp
- ecial 30th Anniversary Screening of Grace of my Heart!\n\nTickets: https:/
- /vidiotsfoundation.org/purchase/4823341/\n\nDetails: https://vidiotsfounda
- tion.org/movies/grace-of-my-heart/
+ s Open at 6\, In the Eagle\, Live DJ Set\, Special Guests in Attendance\n\
+ nVidiots is thrilled to welcome cinema legends Alison Anders and Illeana D
+ ouglas \, plus music supervisor Karyn Rachtman\, and music producer Larry 
+ Klein for a special 30th Anniversary Screening of Grace of my Heart!\n\nTi
+ ckets: https://vidiotsfoundation.org/purchase/4823341/\n\nDetails: https:/
+ /vidiotsfoundation.org/movies/grace-of-my-heart/
 END:VEVENT
 BEGIN:VEVENT
 UID:4903408@vidiotsfoundation.org
@@ -659,11 +663,15 @@ DTSTAMP:20261117T033000Z
 DTSTART;TZID=America/Los_Angeles:20261116T193000
 DTEND;TZID=America/Los_Angeles:20261116T212200
 SUMMARY:The Devils on 35mm
-LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4908859/
-DESCRIPTION:Run time: 112 min | Format: 35mm Film | Rating: X\n\nPray for u
- s all.\n\nTickets: https://vidiotsfoundation.org/purchase/4908859/\n\nDeta
- ils: https://vidiotsfoundation.org/movies/the-devils/
+DESCRIPTION:Run time: 112 min | Format: 35mm Film | Rating: X\n\nSeries: 35
+ mm Film\, Doors Open at 6\, In the Eagle\n\nKen Russell's lavishly derange
+ d and gloriously sacrilegious masterpiece comes to Vidiots in a beautiful 
+ new restoration on glorious 35mm celluloid!\n\nTickets: https://vidiotsfou
+ ndation.org/purchase/4908859/\n\nDetails: https://vidiotsfoundation.org/mo
+ vies/the-devils/
 END:VEVENT
 BEGIN:VEVENT
 UID:4883284@vidiotsfoundation.org
@@ -1119,23 +1127,18 @@ DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries:
  e-twilight-saga-new-moon/
 END:VEVENT
 BEGIN:VEVENT
-UID:4815360@vidiotsfoundation.org
-DTSTAMP:20261104T030000Z
-DTSTART;TZID=America/Los_Angeles:20261103T190000
-DTEND;TZID=America/Los_Angeles:20261103T205600
-SUMMARY:Remake
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815360/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 116 min | 
- Format: Digital\n\nSeries: Groundbreaking Non-Fiction\, In the MUBI Microc
- inema\, Special Guests in Attendance\n\nJoin us in the microcinema for one
-  of the most profound documentary experiences of the year\, legendary game
- -changing documentarian Ross McElwee's beautifully heartbreaking triumph R
- emake .\nWith a special introduction from non-fiction filmmaking legend Ro
- ss McElwee before both screenings!\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4815360/\n\nDetails: https://vidiotsfoundation.org/movies/rema
- ke/
-STATUS:TENTATIVE
+UID:4845508@vidiotsfoundation.org
+DTSTAMP:20261105T030000Z
+DTSTART;TZID=America/Los_Angeles:20261104T190000
+DTEND;TZID=America/Los_Angeles:20261104T210700
+SUMMARY:Being Heumann
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4845508/
+DESCRIPTION:Run time: 127 min\n\nSeries: Free Events\, In the Eagle\n\nVidi
+ ots\, Future of Film is Female and Apple Original Films invite you to a sp
+ ecial free advance screening of Siân Heder's Being Heumann!\n\nTickets: h
+ ttps://vidiotsfoundation.org/purchase/4845508/\n\nDetails: https://vidiots
+ foundation.org/movies/being-heumann/
 END:VEVENT
 END:VCALENDAR
