@@ -654,6 +654,18 @@ DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
  undation.org/movies/wicker/
 END:VEVENT
 BEGIN:VEVENT
+UID:4908859@vidiotsfoundation.org
+DTSTAMP:20261117T033000Z
+DTSTART;TZID=America/Los_Angeles:20261116T193000
+DTEND;TZID=America/Los_Angeles:20261116T212200
+SUMMARY:The Devils on 35mm
+LOCATION:Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\, CA 90041
+URL:https://vidiotsfoundation.org/purchase/4908859/
+DESCRIPTION:Run time: 112 min | Format: 35mm Film | Rating: X\n\nPray for u
+ s all.\n\nTickets: https://vidiotsfoundation.org/purchase/4908859/\n\nDeta
+ ils: https://vidiotsfoundation.org/movies/the-devils/
+END:VEVENT
+BEGIN:VEVENT
 UID:4883284@vidiotsfoundation.org
 DTSTAMP:20261119T030000Z
 DTSTART;TZID=America/Los_Angeles:20261118T190000
