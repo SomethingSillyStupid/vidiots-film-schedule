@@ -8,24 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4823527@vidiotsfoundation.org
-DTSTAMP:20261105T033000Z
-DTSTART;TZID=America/Los_Angeles:20261104T193000
-DTEND;TZID=America/Los_Angeles:20261104T212000
-SUMMARY:Primetime
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4823527/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 110 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nLance Oppenheim is having a MONTH! Join us in the microcinema f
- or his outrageous drama of fame\, pressure\, and predators as Robert Patti
- nson gives an uncanny performance as Dateline correspondent Chris Hansen.\
- n\nTickets: https://vidiotsfoundation.org/purchase/4823527/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/primetime/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4823529@vidiotsfoundation.org
 DTSTAMP:20261106T030000Z
 DTSTART;TZID=America/Los_Angeles:20261105T190000
@@ -43,23 +25,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 84 min | F
  ay Duplass on November 7th and Patton Oswalt on November 8th!\n\nTickets: 
  https://vidiotsfoundation.org/purchase/4823529/\n\nDetails: https://vidiot
  sfoundation.org/movies/i-hate-myself-and-want-to-die/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4815364@vidiotsfoundation.org
-DTSTAMP:20261106T033000Z
-DTSTART;TZID=America/Los_Angeles:20261105T193000
-DTEND;TZID=America/Los_Angeles:20261105T210800
-SUMMARY:Fallen Angels
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815364/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 98 min | F
- ormat: Digital | Release year: 1995\n\nSeries: Doors Open at 6\, In the Ea
- gle\n\nLost souls reach out for human connection amid a glimmering Hong Ko
- ng in Wong Kar Wai’s hallucinatory\, neon-soaked nocturne.\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4815364/\n\nDetails: https://vidiots
- foundation.org/movies/fallen-angels/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -1213,18 +1178,20 @@ DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries:
  e-twilight-saga-new-moon/
 END:VEVENT
 BEGIN:VEVENT
-UID:4845508@vidiotsfoundation.org
-DTSTAMP:20261105T030000Z
-DTSTART;TZID=America/Los_Angeles:20261104T190000
-DTEND;TZID=America/Los_Angeles:20261104T210700
-SUMMARY:Being Heumann
+UID:4815364@vidiotsfoundation.org
+DTSTAMP:20261106T033000Z
+DTSTART;TZID=America/Los_Angeles:20261105T193000
+DTEND;TZID=America/Los_Angeles:20261105T210800
+SUMMARY:Fallen Angels
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4845508/
-DESCRIPTION:Run time: 127 min\n\nSeries: Free Events\, In the Eagle\n\nVidi
- ots\, Future of Film is Female and Apple Original Films invite you to a sp
- ecial free advance screening of Siân Heder's Being Heumann!\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4845508/\n\nDetails: https://vidiots
- foundation.org/movies/being-heumann/
+URL:https://vidiotsfoundation.org/purchase/4815364/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 98 min | F
+ ormat: Digital | Release year: 1995\n\nSeries: Doors Open at 6\, In the Ea
+ gle\n\nLost souls reach out for human connection amid a glimmering Hong Ko
+ ng in Wong Kar Wai’s hallucinatory\, neon-soaked nocturne.\n\nTickets: h
+ ttps://vidiotsfoundation.org/purchase/4815364/\n\nDetails: https://vidiots
+ foundation.org/movies/fallen-angels/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
