@@ -8,72 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4823529@vidiotsfoundation.org
-DTSTAMP:20261106T030000Z
-DTSTART;TZID=America/Los_Angeles:20261105T190000
-DTEND;TZID=America/Los_Angeles:20261105T202400
-SUMMARY:I Hate Myself and Want to Die
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4823529/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 84 min | F
- ormat: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Spe
- cial Guests in Attendance\n\nJoin us in the microcinema for a refreshing d
- ark comedy that will give you life - J. Davis' acerbically hilarious I Hat
- e Myself and Want to Die .\nWith cast and/or crew at every screening! Post
- -screening conversations moderated by Paul F. Tompkins on November 5th\, J
- ay Duplass on November 7th and Patton Oswalt on November 8th!\n\nTickets: 
- https://vidiotsfoundation.org/purchase/4823529/\n\nDetails: https://vidiot
- sfoundation.org/movies/i-hate-myself-and-want-to-die/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4875236@vidiotsfoundation.org
-DTSTAMP:20261106T233000Z
-DTSTART;TZID=America/Los_Angeles:20261106T153000
-DTEND;TZID=America/Los_Angeles:20261106T170400
-SUMMARY:GuadaLAjara Film Festival – Shorts Block 2: IN GOOD COMPANY
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://glaff2026.eventive.org/schedule/6abfec57c8262f378263b0ff
-DESCRIPTION:Run time: 94 min\n\nSeries: In the Eagle\n\nFrom unconventional
-  friendships to shared obsessions\, these shorts explore the unexpected bu
- t fascinating ways people connect. Each story offers a glimpse into a comm
- unity\, a relationship\, or a world where shared experience is what brings
-  people together.\n\nTickets: https://glaff2026.eventive.org/schedule/6abf
- ec57c8262f378263b0ff\n\nDetails: https://vidiotsfoundation.org/movies/guad
- alajara-film-festival-shorts-block-2-in-good-company/
-END:VEVENT
-BEGIN:VEVENT
-UID:4875283@vidiotsfoundation.org
-DTSTAMP:20261107T023000Z
-DTSTART;TZID=America/Los_Angeles:20261106T183000
-DTEND;TZID=America/Los_Angeles:20261106T201000
-SUMMARY:GuadaLAjara Film Festival – CENTERPIECE GALA: 14th
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://glaff2026.eventive.org/schedule/6abfc47a75241ad761c0ec62
-DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: In the Eagle\, S
- pecial Guests in Attendance\n\nThe screening will be followed by a convers
- ation with director and producer Ava DuVernay.\n\nTickets: https://glaff20
- 26.eventive.org/schedule/6abfc47a75241ad761c0ec62\n\nDetails: https://vidi
- otsfoundation.org/movies/guadalajara-film-festival-centerpiece-gala-14th/
-END:VEVENT
-BEGIN:VEVENT
-UID:4875260@vidiotsfoundation.org
-DTSTAMP:20261107T050000Z
-DTSTART;TZID=America/Los_Angeles:20261106T210000
-DTEND;TZID=America/Los_Angeles:20261106T225500
-SUMMARY:GuadaLAjara Film Festival – Paper Tiger
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://glaff2026.eventive.org/schedule/6ad6319df9d9cfca0b8a6e72
-DESCRIPTION:Run time: 115 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nAll debts are paid in blood.\n\nTickets: https://glaff2026.eve
- ntive.org/schedule/6ad6319df9d9cfca0b8a6e72\n\nDetails: https://vidiotsfou
- ndation.org/movies/paper-tiger/
-END:VEVENT
-BEGIN:VEVENT
 UID:4815373@vidiotsfoundation.org
 DTSTAMP:20261107T203000Z
 DTSTART;TZID=America/Los_Angeles:20261107T123000
@@ -234,10 +168,11 @@ SUMMARY:Out of the Past
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4823339/
-DESCRIPTION:Run time: 97 min | Format: Digital\n\nSeries: In the Eagle\, Te
- enTix LA\n\nGet ready for some Noir in November with Jacques Tourneur's do
- uble crossing classic!\n\nTickets: https://vidiotsfoundation.org/purchase/
- 4823339/\n\nDetails: https://vidiotsfoundation.org/movies/out-of-the-past/
+DESCRIPTION:Advisory\n\nRun time: 97 min | Format: Digital\n\nSeries: In th
+ e Eagle\, TeenTix LA\n\nGet ready for some Noir in November with Jacques T
+ ourneur's double crossing classic!\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4823339/\n\nDetails: https://vidiotsfoundation.org/showtimes/o
+ ut-of-the-past-11-8-26-700-pm/
 END:VEVENT
 BEGIN:VEVENT
 UID:4823676@vidiotsfoundation.org
@@ -248,13 +183,13 @@ SUMMARY:Primetime
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4823676/
-DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nLance Oppenheim is having a MONT
- H! Join us in the microcinema for his outrageous drama of fame\, pressure\
- , and predators as Robert Pattinson gives an uncanny performance as Dateli
- ne correspondent Chris Hansen.\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4823676/\n\nDetails: https://vidiotsfoundation.org/movies/primetim
- e/
+DESCRIPTION:Advisory\n\nRun time: 110 min | Format: Digital | Rating: R\n\n
+ Series: Additional Shows\, In the MUBI Microcinema\n\nLance Oppenheim is h
+ aving a MONTH! Join us in the microcinema for his outrageous drama of fame
+ \, pressure\, and predators as Robert Pattinson gives an uncanny performan
+ ce as Dateline correspondent Chris Hansen.\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4823676/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/primetime/
 END:VEVENT
 BEGIN:VEVENT
 UID:4880352@vidiotsfoundation.org
@@ -1212,20 +1147,49 @@ DESCRIPTION:Run time: 108 min | Format: 35mm Film\n\nSeries: 35mm Film\, Co
  idiotsfoundation.org/movies/portrait-of-jason/
 END:VEVENT
 BEGIN:VEVENT
-UID:4815364@vidiotsfoundation.org
-DTSTAMP:20261106T033000Z
-DTSTART;TZID=America/Los_Angeles:20261105T193000
-DTEND;TZID=America/Los_Angeles:20261105T210800
-SUMMARY:Fallen Angels
+UID:4875236@vidiotsfoundation.org
+DTSTAMP:20261106T233000Z
+DTSTART;TZID=America/Los_Angeles:20261106T153000
+DTEND;TZID=America/Los_Angeles:20261106T170400
+SUMMARY:GuadaLAjara Film Festival – Shorts Block 2: IN GOOD COMPANY
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815364/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 98 min | F
- ormat: Digital | Release year: 1995\n\nSeries: Doors Open at 6\, In the Ea
- gle\n\nLost souls reach out for human connection amid a glimmering Hong Ko
- ng in Wong Kar Wai’s hallucinatory\, neon-soaked nocturne.\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4815364/\n\nDetails: https://vidiots
- foundation.org/movies/fallen-angels/
-STATUS:TENTATIVE
+URL:https://glaff2026.eventive.org/schedule/6abfec57c8262f378263b0ff
+DESCRIPTION:Run time: 94 min\n\nSeries: In the Eagle\n\nFrom unconventional
+  friendships to shared obsessions\, these shorts explore the unexpected bu
+ t fascinating ways people connect. Each story offers a glimpse into a comm
+ unity\, a relationship\, or a world where shared experience is what brings
+  people together.\n\nTickets: https://glaff2026.eventive.org/schedule/6abf
+ ec57c8262f378263b0ff\n\nDetails: https://vidiotsfoundation.org/movies/guad
+ alajara-film-festival-shorts-block-2-in-good-company/
+END:VEVENT
+BEGIN:VEVENT
+UID:4875283@vidiotsfoundation.org
+DTSTAMP:20261107T023000Z
+DTSTART;TZID=America/Los_Angeles:20261106T183000
+DTEND;TZID=America/Los_Angeles:20261106T201000
+SUMMARY:GuadaLAjara Film Festival – CENTERPIECE GALA: 14th
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://glaff2026.eventive.org/schedule/6abfc47a75241ad761c0ec62
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: In the Eagle\, S
+ pecial Guests in Attendance\n\nThe screening will be followed by a convers
+ ation with director and producer Ava DuVernay.\n\nTickets: https://glaff20
+ 26.eventive.org/schedule/6abfc47a75241ad761c0ec62\n\nDetails: https://vidi
+ otsfoundation.org/movies/guadalajara-film-festival-centerpiece-gala-14th/
+END:VEVENT
+BEGIN:VEVENT
+UID:4875260@vidiotsfoundation.org
+DTSTAMP:20261107T050000Z
+DTSTART;TZID=America/Los_Angeles:20261106T210000
+DTEND;TZID=America/Los_Angeles:20261106T225500
+SUMMARY:GuadaLAjara Film Festival – Paper Tiger
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://glaff2026.eventive.org/schedule/6ad6319df9d9cfca0b8a6e72
+DESCRIPTION:Run time: 115 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nAll debts are paid in blood.\n\nTickets: https://glaff2026.eve
+ ntive.org/schedule/6ad6319df9d9cfca0b8a6e72\n\nDetails: https://vidiotsfou
+ ndation.org/movies/paper-tiger/
 END:VEVENT
 END:VCALENDAR
