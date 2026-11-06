@@ -214,15 +214,16 @@ SUMMARY:I Hate Myself and Want to Die
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4823675/
-DESCRIPTION:Run time: 84 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
-  microcinema for a refreshing dark comedy that will give you life - J. Dav
- is' acerbically hilarious I Hate Myself and Want to Die .\nWith cast and/o
- r crew at every screening! Post-screening conversations moderated by Paul 
- F. Tompkins on November 5th\, Jay Duplass on November 7th and Patton Oswal
- t on November 8th!\n\nTickets: https://vidiotsfoundation.org/purchase/4823
- 675/\n\nDetails: https://vidiotsfoundation.org/movies/i-hate-myself-and-wa
- nt-to-die/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 84 min | F
+ ormat: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Spe
+ cial Guests in Attendance\n\nJoin us in the microcinema for a refreshing d
+ ark comedy that will give you life - J. Davis' acerbically hilarious I Hat
+ e Myself and Want to Die .\nWith cast and/or crew at every screening! Post
+ -screening conversations moderated by Paul F. Tompkins on November 5th\, J
+ ay Duplass on November 7th and Patton Oswalt on November 8th!\n\nTickets: 
+ https://vidiotsfoundation.org/purchase/4823675/\n\nDetails: https://vidiot
+ sfoundation.org/movies/i-hate-myself-and-want-to-die/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4823339@vidiotsfoundation.org
@@ -280,13 +281,15 @@ SUMMARY:DreamQuil
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4903322/
-DESCRIPTION:Run time: 89 min | Format: Digital | Rating: R\n\nSeries: Addit
- ional Shows\, In the MUBI Microcinema\, Special Guests in Attendance\n\nJo
- in us in the microcinema for Alex Prager's stylish dystopian satire DreamQ
- uil - an unsettling science fiction mystery starring Elizabeth Banks\, Joh
- n C. Reilly\, and Juliette Lewis.\nFilmmaker Alex Prager in Person!\n\nTic
- kets: https://vidiotsfoundation.org/purchase/4903322/\n\nDetails: https://
- vidiotsfoundation.org/movies/dreamquil/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 89 min | F
+ ormat: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micro
+ cinema\, Special Guests in Attendance\n\nJoin us in the microcinema for Al
+ ex Prager's stylish dystopian satire DreamQuil - an unsettling science fic
+ tion mystery starring Elizabeth Banks\, John C. Reilly\, and Juliette Lewi
+ s.\nFilmmaker Alex Prager in Person!\n\nTickets: https://vidiotsfoundation
+ .org/purchase/4903322/\n\nDetails: https://vidiotsfoundation.org/movies/dr
+ eamquil/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4851312@vidiotsfoundation.org
@@ -895,11 +898,12 @@ SUMMARY:RRR
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4848951/
-DESCRIPTION:Run time: 186 min | Format: Digital | Release year: 2022\n\nSer
- ies: In the Eagle\n\nRise\, Roar\, Revolt.\nCan't stop! Won't Stop! We can
-  never get enough of this modern epic!\n\nTickets: https://vidiotsfoundati
- on.org/purchase/4848951/\n\nDetails: https://vidiotsfoundation.org/movies/
- rrr/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 186 min | 
+ Format: Digital | Release year: 2022\n\nSeries: In the Eagle\n\nRise\, Roa
+ r\, Revolt.\nCan't stop! Won't Stop! We can never get enough of this moder
+ n epic!\n\nTickets: https://vidiotsfoundation.org/purchase/4848951/\n\nDet
+ ails: https://vidiotsfoundation.org/movies/rrr/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4883325@vidiotsfoundation.org
@@ -1176,6 +1180,36 @@ DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries:
  le that launched a thousand fanfics!\n\nTickets: https://vidiotsfoundation
  .org/purchase/4843407/\n\nDetails: https://vidiotsfoundation.org/movies/th
  e-twilight-saga-new-moon/
+END:VEVENT
+BEGIN:VEVENT
+UID:4912646@vidiotsfoundation.org
+DTSTAMP:20261205T210000Z
+DTSTART;TZID=America/Los_Angeles:20261205T130000
+DTEND;TZID=America/Los_Angeles:20261205T143600
+SUMMARY:Paddington
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4912646/
+DESCRIPTION:Run time: 96 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nThe adventure begins.\n\nTickets: h
+ ttps://vidiotsfoundation.org/purchase/4912646/\n\nDetails: https://vidiots
+ foundation.org/movies/paddington/
+END:VEVENT
+BEGIN:VEVENT
+UID:4912647@vidiotsfoundation.org
+DTSTAMP:20261206T000000Z
+DTSTART;TZID=America/Los_Angeles:20261205T160000
+DTEND;TZID=America/Los_Angeles:20261205T174800
+SUMMARY:Portrait of Jason on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4912647/
+DESCRIPTION:Run time: 108 min | Format: 35mm Film\n\nSeries: 35mm Film\, Co
+ mmunity Partners\, Groundbreaking Non-Fiction\, In the Eagle\n\nInterview 
+ with Jason Holliday aka Aaron Payne. House-boy\, would-be cabaret performe
+ r\, and self-proclaimed hustler giving one man’s gin-soaked\,...\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4912647/\n\nDetails: https://v
+ idiotsfoundation.org/movies/portrait-of-jason/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815364@vidiotsfoundation.org
