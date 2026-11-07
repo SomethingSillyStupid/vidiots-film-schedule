@@ -8,38 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4815373@vidiotsfoundation.org
-DTSTAMP:20261107T203000Z
-DTSTART;TZID=America/Los_Angeles:20261107T123000
-DTEND;TZID=America/Los_Angeles:20261107T140300
-SUMMARY:Porco Rosso (English Dubbed)
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815373/
-DESCRIPTION:Run time: 93 min | Format: Digital | Rating: PG | Release year:
-  1992\n\nSeries: Films for Everyone\, In the Eagle\n\nJoin us high above t
- he clouds for legendary director Hayao Miyazaki’s action-packed\, interw
- ar epic\, Porco Rosso.\n\nTickets: https://vidiotsfoundation.org/purchase/
- 4815373/\n\nDetails: https://vidiotsfoundation.org/movies/porco-rosso-engl
- ish-dubbed/
-END:VEVENT
-BEGIN:VEVENT
-UID:4815376@vidiotsfoundation.org
-DTSTAMP:20261107T233000Z
-DTSTART;TZID=America/Los_Angeles:20261107T153000
-DTEND;TZID=America/Los_Angeles:20261107T173900
-SUMMARY:The Grapes of Wrath
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815376/
-DESCRIPTION:Run time: 129 min | Format: Digital\n\nSeries: Community Partne
- rs\, In the Eagle\, TeenTix LA\n\nVidiots and the Eagle Rock Valley Histor
- ical Society are celebrating 100 Years of Route 66 with a special screenin
- g of John Ford's classic Steinbeck adaptation The Grapes of Wrath.\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4815376/\n\nDetails: https://v
- idiotsfoundation.org/movies/the-grapes-of-wrath/
-END:VEVENT
-BEGIN:VEVENT
 UID:4823531@vidiotsfoundation.org
 DTSTAMP:20261108T003000Z
 DTSTART;TZID=America/Los_Angeles:20261107T163000
@@ -55,22 +23,6 @@ DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: Addi
  ne correspondent Chris Hansen.\n\nTickets: https://vidiotsfoundation.org/p
  urchase/4823531/\n\nDetails: https://vidiotsfoundation.org/movies/primetim
  e/
-END:VEVENT
-BEGIN:VEVENT
-UID:4815381@vidiotsfoundation.org
-DTSTAMP:20261108T030000Z
-DTSTART;TZID=America/Los_Angeles:20261107T190000
-DTEND;TZID=America/Los_Angeles:20261107T203100
-SUMMARY:Pee-wee’s Big Adventure
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815381/
-DESCRIPTION:Run time: 91 min | Format: Digital | Rating: PG\n\nSeries: Comm
- unity Partners\, In the Eagle\n\nPaging Mr. Herman\, Mr. Pee-Wee Herman.\n
- Vidiots and the Eagle Rock Valley Historical Society are celebrating 100 Y
- ears of Route 66 with a special screening of Pee-Wee's Big Adventure!\n\nT
- ickets: https://vidiotsfoundation.org/purchase/4815381/\n\nDetails: https:
- //vidiotsfoundation.org/movies/pee-wees-big-adventure/
 END:VEVENT
 BEGIN:VEVENT
 UID:4823532@vidiotsfoundation.org
@@ -91,20 +43,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 84 min | F
  https://vidiotsfoundation.org/purchase/4823532/\n\nDetails: https://vidiot
  sfoundation.org/movies/i-hate-myself-and-want-to-die/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4826532@vidiotsfoundation.org
-DTSTAMP:20261108T054500Z
-DTSTART;TZID=America/Los_Angeles:20261107T214500
-DTEND;TZID=America/Los_Angeles:20261107T231700
-SUMMARY:Repo Man
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4826532/
-DESCRIPTION:Run time: 92 min | Format: Digital | Rating: R\n\nSeries: 100 Y
- ears of Harry Dean Stanton\, In the Eagle\n\nIt’s 4 a.m. Do you know whe
- re your car is?\n\nTickets: https://vidiotsfoundation.org/purchase/4826532
- /\n\nDetails: https://vidiotsfoundation.org/movies/repo-man/
 END:VEVENT
 BEGIN:VEVENT
 UID:4823533@vidiotsfoundation.org
@@ -1137,49 +1075,65 @@ DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries:
  e-twilight-saga-new-moon/
 END:VEVENT
 BEGIN:VEVENT
-UID:4875236@vidiotsfoundation.org
-DTSTAMP:20261106T233000Z
-DTSTART;TZID=America/Los_Angeles:20261106T153000
-DTEND;TZID=America/Los_Angeles:20261106T170400
-SUMMARY:GuadaLAjara Film Festival – Shorts Block 2: IN GOOD COMPANY
+UID:4815373@vidiotsfoundation.org
+DTSTAMP:20261107T203000Z
+DTSTART;TZID=America/Los_Angeles:20261107T123000
+DTEND;TZID=America/Los_Angeles:20261107T140300
+SUMMARY:Porco Rosso (English Dubbed)
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://glaff2026.eventive.org/schedule/6abfec57c8262f378263b0ff
-DESCRIPTION:Run time: 94 min\n\nSeries: In the Eagle\n\nFrom unconventional
-  friendships to shared obsessions\, these shorts explore the unexpected bu
- t fascinating ways people connect. Each story offers a glimpse into a comm
- unity\, a relationship\, or a world where shared experience is what brings
-  people together.\n\nTickets: https://glaff2026.eventive.org/schedule/6abf
- ec57c8262f378263b0ff\n\nDetails: https://vidiotsfoundation.org/movies/guad
- alajara-film-festival-shorts-block-2-in-good-company/
+URL:https://vidiotsfoundation.org/purchase/4815373/
+DESCRIPTION:Run time: 93 min | Format: Digital | Rating: PG | Release year:
+  1992\n\nSeries: Films for Everyone\, In the Eagle\n\nJoin us high above t
+ he clouds for legendary director Hayao Miyazaki’s action-packed\, interw
+ ar epic\, Porco Rosso.\n\nTickets: https://vidiotsfoundation.org/purchase/
+ 4815373/\n\nDetails: https://vidiotsfoundation.org/movies/porco-rosso-engl
+ ish-dubbed/
 END:VEVENT
 BEGIN:VEVENT
-UID:4875283@vidiotsfoundation.org
-DTSTAMP:20261107T023000Z
-DTSTART;TZID=America/Los_Angeles:20261106T183000
-DTEND;TZID=America/Los_Angeles:20261106T201000
-SUMMARY:GuadaLAjara Film Festival – CENTERPIECE GALA: 14th
+UID:4815376@vidiotsfoundation.org
+DTSTAMP:20261107T233000Z
+DTSTART;TZID=America/Los_Angeles:20261107T153000
+DTEND;TZID=America/Los_Angeles:20261107T173900
+SUMMARY:The Grapes of Wrath
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://glaff2026.eventive.org/schedule/6abfc47a75241ad761c0ec62
-DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: In the Eagle\, S
- pecial Guests in Attendance\n\nThe screening will be followed by a convers
- ation with director and producer Ava DuVernay.\n\nTickets: https://glaff20
- 26.eventive.org/schedule/6abfc47a75241ad761c0ec62\n\nDetails: https://vidi
- otsfoundation.org/movies/guadalajara-film-festival-centerpiece-gala-14th/
+URL:https://vidiotsfoundation.org/purchase/4815376/
+DESCRIPTION:Run time: 129 min | Format: Digital\n\nSeries: Community Partne
+ rs\, In the Eagle\, TeenTix LA\n\nVidiots and the Eagle Rock Valley Histor
+ ical Society are celebrating 100 Years of Route 66 with a special screenin
+ g of John Ford's classic Steinbeck adaptation The Grapes of Wrath.\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4815376/\n\nDetails: https://v
+ idiotsfoundation.org/movies/the-grapes-of-wrath/
 END:VEVENT
 BEGIN:VEVENT
-UID:4875260@vidiotsfoundation.org
-DTSTAMP:20261107T050000Z
-DTSTART;TZID=America/Los_Angeles:20261106T210000
-DTEND;TZID=America/Los_Angeles:20261106T225500
-SUMMARY:GuadaLAjara Film Festival – Paper Tiger
+UID:4815381@vidiotsfoundation.org
+DTSTAMP:20261108T030000Z
+DTSTART;TZID=America/Los_Angeles:20261107T190000
+DTEND;TZID=America/Los_Angeles:20261107T203100
+SUMMARY:Pee-wee’s Big Adventure
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://glaff2026.eventive.org/schedule/6ad6319df9d9cfca0b8a6e72
-DESCRIPTION:Run time: 115 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\n\nAll debts are paid in blood.\n\nTickets: https://glaff2026.eve
- ntive.org/schedule/6ad6319df9d9cfca0b8a6e72\n\nDetails: https://vidiotsfou
- ndation.org/movies/paper-tiger/
+URL:https://vidiotsfoundation.org/purchase/4815381/
+DESCRIPTION:Run time: 91 min | Format: Digital | Rating: PG\n\nSeries: Comm
+ unity Partners\, In the Eagle\n\nPaging Mr. Herman\, Mr. Pee-Wee Herman.\n
+ Vidiots and the Eagle Rock Valley Historical Society are celebrating 100 Y
+ ears of Route 66 with a special screening of Pee-Wee's Big Adventure!\n\nT
+ ickets: https://vidiotsfoundation.org/purchase/4815381/\n\nDetails: https:
+ //vidiotsfoundation.org/movies/pee-wees-big-adventure/
+END:VEVENT
+BEGIN:VEVENT
+UID:4826532@vidiotsfoundation.org
+DTSTAMP:20261108T054500Z
+DTSTART;TZID=America/Los_Angeles:20261107T214500
+DTEND;TZID=America/Los_Angeles:20261107T231700
+SUMMARY:Repo Man
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4826532/
+DESCRIPTION:Run time: 92 min | Format: Digital | Rating: R\n\nSeries: 100 Y
+ ears of Harry Dean Stanton\, In the Eagle\n\nIt’s 4 a.m. Do you know whe
+ re your car is?\n\nTickets: https://vidiotsfoundation.org/purchase/4826532
+ /\n\nDetails: https://vidiotsfoundation.org/movies/repo-man/
 END:VEVENT
 END:VCALENDAR
