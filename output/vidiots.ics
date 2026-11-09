@@ -8,40 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4823676@vidiotsfoundation.org
-DTSTAMP:20261109T033000Z
-DTSTART;TZID=America/Los_Angeles:20261108T193000
-DTEND;TZID=America/Los_Angeles:20261108T212000
-SUMMARY:Primetime
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4823676/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 110 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nLance Oppenheim is having a MONTH! Join us in the microcinema f
- or his outrageous drama of fame\, pressure\, and predators as Robert Patti
- nson gives an uncanny performance as Dateline correspondent Chris Hansen.\
- n\nTickets: https://vidiotsfoundation.org/purchase/4823676/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/primetime/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4880352@vidiotsfoundation.org
-DTSTAMP:20261110T033000Z
-DTSTART;TZID=America/Los_Angeles:20261109T193000
-DTEND;TZID=America/Los_Angeles:20261109T213800
-SUMMARY:Wings of Desire
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4880352/
-DESCRIPTION:Run time: 128 min | Format: Digital | Release year: 1987\n\nSer
- ies: Doors Open at 6\, In the Eagle\n\nLike an ethereal dream\, Wim Wender
- s' poetic masterpiece is both a visual marvel and a universal story of the
-  transformative power of love\, even for the immortal.\n\nTickets: https:/
- /vidiotsfoundation.org/purchase/4880352/\n\nDetails: https://vidiotsfounda
- tion.org/movies/wings-of-desire/
-END:VEVENT
-BEGIN:VEVENT
 UID:4903322@vidiotsfoundation.org
 DTSTAMP:20261111T030000Z
 DTSTART;TZID=America/Los_Angeles:20261110T190000
@@ -973,54 +939,19 @@ DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries:
  e-twilight-saga-new-moon/
 END:VEVENT
 BEGIN:VEVENT
-UID:4823334@vidiotsfoundation.org
-DTSTAMP:20261108T200000Z
-DTSTART;TZID=America/Los_Angeles:20261108T120000
-DTEND;TZID=America/Los_Angeles:20261108T134200
-SUMMARY:Kubo and the Two Strings
+UID:4880352@vidiotsfoundation.org
+DTSTAMP:20261110T033000Z
+DTSTART;TZID=America/Los_Angeles:20261109T193000
+DTEND;TZID=America/Los_Angeles:20261109T213800
+SUMMARY:Wings of Desire
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4823334/
-DESCRIPTION:Run time: 102 min | Format: Digital | Rating: PG\n\nSeries: Fil
- ms for Everyone\, Free Events\, In the Eagle\n\nVidiots and LAIKA invite y
- ou to a special free screening of the heroic animated adventure Kubo and t
- he Two Strings !\n\nTickets: https://vidiotsfoundation.org/purchase/482333
- 4/\n\nDetails: https://vidiotsfoundation.org/movies/kubo-and-the-two-strin
- gs/
-END:VEVENT
-BEGIN:VEVENT
-UID:4823675@vidiotsfoundation.org
-DTSTAMP:20261109T003000Z
-DTSTART;TZID=America/Los_Angeles:20261108T163000
-DTEND;TZID=America/Los_Angeles:20261108T175400
-SUMMARY:I Hate Myself and Want to Die
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4823675/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 84 min | F
- ormat: Digital\n\nSeries: Additional Shows\, In the MUBI Microcinema\, Spe
- cial Guests in Attendance\n\nJoin us in the microcinema for a refreshing d
- ark comedy that will give you life - J. Davis' acerbically hilarious I Hat
- e Myself and Want to Die .\nWith cast and/or crew at every screening! Post
- -screening conversations moderated by Paul F. Tompkins on November 5th\, J
- ay Duplass on November 7th and Patton Oswalt on November 8th!\n\nTickets: 
- https://vidiotsfoundation.org/purchase/4823675/\n\nDetails: https://vidiot
- sfoundation.org/movies/i-hate-myself-and-want-to-die/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4823339@vidiotsfoundation.org
-DTSTAMP:20261109T030000Z
-DTSTART;TZID=America/Los_Angeles:20261108T190000
-DTEND;TZID=America/Los_Angeles:20261108T203700
-SUMMARY:Out of the Past
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4823339/
-DESCRIPTION:Advisory\n\nRun time: 97 min | Format: Digital\n\nSeries: In th
- e Eagle\, TeenTix LA\n\nGet ready for some Noir in November with Jacques T
- ourneur's double crossing classic!\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4823339/\n\nDetails: https://vidiotsfoundation.org/showtimes/o
- ut-of-the-past-11-8-26-700-pm/
+URL:https://vidiotsfoundation.org/purchase/4880352/
+DESCRIPTION:Run time: 128 min | Format: Digital | Release year: 1987\n\nSer
+ ies: Doors Open at 6\, In the Eagle\n\nLike an ethereal dream\, Wim Wender
+ s' poetic masterpiece is both a visual marvel and a universal story of the
+  transformative power of love\, even for the immortal.\n\nTickets: https:/
+ /vidiotsfoundation.org/purchase/4880352/\n\nDetails: https://vidiotsfounda
+ tion.org/movies/wings-of-desire/
 END:VEVENT
 END:VCALENDAR
