@@ -345,13 +345,14 @@ SUMMARY:CIANI/ORKEST
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4851767/
-DESCRIPTION:Run time: 77 min | Format: Digital\n\nSeries: In the MUBI Micro
- cinema\, Special Guests in Attendance\n\nVidiots is electrified to welcome
-  Electronic music pioneer and five-time Grammy nominee Suzanne Ciani to ou
- r microcinema for two screenings of CIANI/ORKEST\, a live quadrophonic con
- cert film with the Metropole Orkest.\n\nTickets: https://vidiotsfoundation
- .org/purchase/4851767/\n\nDetails: https://vidiotsfoundation.org/movies/ci
- ani-orkest/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 77 min | F
+ ormat: Digital\n\nSeries: In the MUBI Microcinema\, Special Guests in Atte
+ ndance\n\nVidiots is electrified to welcome Electronic music pioneer and f
+ ive-time Grammy nominee Suzanne Ciani to our microcinema for two screening
+ s of CIANI/ORKEST\, a live quadrophonic concert film with the Metropole Or
+ kest.\n\nTickets: https://vidiotsfoundation.org/purchase/4851767/\n\nDetai
+ ls: https://vidiotsfoundation.org/movies/ciani-orkest/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4815640@vidiotsfoundation.org
@@ -381,13 +382,14 @@ SUMMARY:CIANI/ORKEST
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4851766/
-DESCRIPTION:Run time: 77 min | Format: Digital\n\nSeries: In the MUBI Micro
- cinema\, Special Guests in Attendance\n\nVidiots is electrified to welcome
-  Electronic music pioneer and five-time Grammy nominee Suzanne Ciani to ou
- r microcinema for two screenings of CIANI/ORKEST\, a live quadrophonic con
- cert film with the Metropole Orkest.\n\nTickets: https://vidiotsfoundation
- .org/purchase/4851766/\n\nDetails: https://vidiotsfoundation.org/movies/ci
- ani-orkest/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 77 min | F
+ ormat: Digital\n\nSeries: In the MUBI Microcinema\, Special Guests in Atte
+ ndance\n\nVidiots is electrified to welcome Electronic music pioneer and f
+ ive-time Grammy nominee Suzanne Ciani to our microcinema for two screening
+ s of CIANI/ORKEST\, a live quadrophonic concert film with the Metropole Or
+ kest.\n\nTickets: https://vidiotsfoundation.org/purchase/4851766/\n\nDetai
+ ls: https://vidiotsfoundation.org/movies/ciani-orkest/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4883283@vidiotsfoundation.org
@@ -413,12 +415,14 @@ SUMMARY:The Devils on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4908859/
-DESCRIPTION:Run time: 112 min | Format: 35mm Film | Rating: X\n\nSeries: 35
- mm Film\, Doors Open at 6\, In the Eagle\n\nKen Russell's lavishly derange
- d and gloriously sacrilegious masterpiece comes to Vidiots in a beautiful 
- new restoration on glorious 35mm celluloid!\nSecond Screening Added Friday
- \, November 20th!\n\nTickets: https://vidiotsfoundation.org/purchase/49088
- 59/\n\nDetails: https://vidiotsfoundation.org/movies/the-devils/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min | 
+ Format: 35mm Film | Rating: X\n\nSeries: 35mm Film\, Doors Open at 6\, In 
+ the Eagle\n\nKen Russell's lavishly deranged and gloriously sacrilegious m
+ asterpiece comes to Vidiots in a beautiful new restoration on glorious 35m
+ m celluloid!\nSecond Screening Added Friday\, November 20th!\n\nTickets: h
+ ttps://vidiotsfoundation.org/purchase/4908859/\n\nDetails: https://vidiots
+ foundation.org/movies/the-devils/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4883284@vidiotsfoundation.org
@@ -937,6 +941,22 @@ DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries:
  le that launched a thousand fanfics!\n\nTickets: https://vidiotsfoundation
  .org/purchase/4843407/\n\nDetails: https://vidiotsfoundation.org/movies/th
  e-twilight-saga-new-moon/
+END:VEVENT
+BEGIN:VEVENT
+UID:4933638@vidiotsfoundation.org
+DTSTAMP:20261201T033000Z
+DTSTART;TZID=America/Los_Angeles:20261130T193000
+DTEND;TZID=America/Los_Angeles:20261130T214700
+SUMMARY:Dune
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4933638/
+DESCRIPTION:Run time: 137 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ Doors Open at 6\, In the Eagle\n\nA world beyond your experience\, beyond 
+ your imagination.\nVidiots remembers everyone's interstellar Captain\, the
+  great Patrick Stewart with a special screening of David Lynch's epic spac
+ e opera Dune !\n\nTickets: https://vidiotsfoundation.org/purchase/4933638/
+ \n\nDetails: https://vidiotsfoundation.org/movies/dune/
 END:VEVENT
 BEGIN:VEVENT
 UID:4880352@vidiotsfoundation.org
