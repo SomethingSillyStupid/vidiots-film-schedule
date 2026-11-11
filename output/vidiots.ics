@@ -8,25 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4823341@vidiotsfoundation.org
-DTSTAMP:20261112T033000Z
-DTSTART;TZID=America/Los_Angeles:20261111T193000
-DTEND;TZID=America/Los_Angeles:20261111T212600
-SUMMARY:Grace of My Heart
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4823341/
-DESCRIPTION:Run time: 116 min | Format: Digital | Rating: R\n\nSeries: Door
- s Open at 6\, In the Eagle\, Live DJ Set\, Special Guests in Attendance\n\
- nVidiots is thrilled to welcome cinema legends Alison Anders and Illeana D
- ouglas \, plus music supervisor Karyn Rachtman\, and music producer Larry 
- Klein for a special 30th Anniversary Screening of Grace of my Heart!\nCome
-  early for a special DJ Set from DJ Tiffany Anders. Plus\, Illeana Douglas
-  will be selling and signing her new book Jungle Red! The Making of MGM’
- s The Women !\n\nTickets: https://vidiotsfoundation.org/purchase/4823341/\
- n\nDetails: https://vidiotsfoundation.org/movies/grace-of-my-heart/
-END:VEVENT
-BEGIN:VEVENT
 UID:4903408@vidiotsfoundation.org
 DTSTAMP:20261113T030000Z
 DTSTART;TZID=America/Los_Angeles:20261112T190000
@@ -904,39 +885,22 @@ DESCRIPTION:Run time: 137 min | Format: Digital | Rating: PG-13\n\nSeries:
  \n\nDetails: https://vidiotsfoundation.org/movies/dune/
 END:VEVENT
 BEGIN:VEVENT
-UID:4903322@vidiotsfoundation.org
-DTSTAMP:20261111T030000Z
-DTSTART;TZID=America/Los_Angeles:20261110T190000
-DTEND;TZID=America/Los_Angeles:20261110T202900
-SUMMARY:DreamQuil
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4903322/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 89 min | F
- ormat: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micro
- cinema\, Special Guests in Attendance\n\nJoin us in the microcinema for Al
- ex Prager's stylish dystopian satire DreamQuil - an unsettling science fic
- tion mystery starring Elizabeth Banks\, John C. Reilly\, and Juliette Lewi
- s.\nFilmmaker Alex Prager in Person!\n\nTickets: https://vidiotsfoundation
- .org/purchase/4903322/\n\nDetails: https://vidiotsfoundation.org/movies/dr
- eamquil/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4851312@vidiotsfoundation.org
-DTSTAMP:20261111T033000Z
-DTSTART;TZID=America/Los_Angeles:20261110T193000
-DTEND;TZID=America/Los_Angeles:20261110T212200
-SUMMARY:Talk to Her on 35mm
+UID:4823341@vidiotsfoundation.org
+DTSTAMP:20261112T033000Z
+DTSTART;TZID=America/Los_Angeles:20261111T193000
+DTEND;TZID=America/Los_Angeles:20261111T212600
+SUMMARY:Grace of My Heart
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4851312/
-DESCRIPTION:Run time: 112 min | Format: 35mm Film | Rating: R | Release yea
- r: 2002\n\nSeries: 35mm Film\, Doors Open at 6\, In the Eagle\n\nOne of ma
- estro Pedro Almodóvar's most-complicated and lauded masterpieces\, this e
- xquisitely shot meditation on loyalty and obsession earned Almodóvar the 
- Oscar for Best Original Screenplay.\n\nTickets: https://vidiotsfoundation.
- org/purchase/4851312/\n\nDetails: https://vidiotsfoundation.org/movies/tal
- k-to-her/
+URL:https://vidiotsfoundation.org/purchase/4823341/
+DESCRIPTION:Run time: 116 min | Format: Digital | Rating: R\n\nSeries: Door
+ s Open at 6\, In the Eagle\, Live DJ Set\, Special Guests in Attendance\n\
+ nVidiots is thrilled to welcome cinema legends Alison Anders and Illeana D
+ ouglas \, plus music supervisor Karyn Rachtman\, and music producer Larry 
+ Klein for a special 30th Anniversary Screening of Grace of my Heart!\nCome
+  early for a special DJ Set from DJ Tiffany Anders. Plus\, Illeana Douglas
+  will be selling and signing her new book Jungle Red! The Making of MGM’
+ s The Women !\n\nTickets: https://vidiotsfoundation.org/purchase/4823341/\
+ n\nDetails: https://vidiotsfoundation.org/movies/grace-of-my-heart/
 END:VEVENT
 END:VCALENDAR
