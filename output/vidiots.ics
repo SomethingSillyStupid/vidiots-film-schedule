@@ -8,23 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4903408@vidiotsfoundation.org
-DTSTAMP:20261113T030000Z
-DTSTART;TZID=America/Los_Angeles:20261112T190000
-DTEND;TZID=America/Los_Angeles:20261112T205000
-SUMMARY:Primetime
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4903408/
-DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nLance Oppenheim is having a MONT
- H! Join us in the microcinema for his outrageous drama of fame\, pressure\
- , and predators as Robert Pattinson gives an uncanny performance as Dateli
- ne correspondent Chris Hansen.\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4903408/\n\nDetails: https://vidiotsfoundation.org/movies/primetim
- e/
-END:VEVENT
-BEGIN:VEVENT
 UID:4815598@vidiotsfoundation.org
 DTSTAMP:20261114T001500Z
 DTSTART;TZID=America/Los_Angeles:20261113T161500
@@ -879,29 +862,28 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4933638/
 DESCRIPTION:Run time: 137 min | Format: Digital | Rating: PG-13\n\nSeries: 
- Doors Open at 6\, In the Eagle\n\nA world beyond your experience\, beyond 
- your imagination.\nVidiots remembers everyone's interstellar Captain\, the
-  great Patrick Stewart with a special screening of David Lynch's epic spac
- e opera Dune !\n\nTickets: https://vidiotsfoundation.org/purchase/4933638/
- \n\nDetails: https://vidiotsfoundation.org/movies/dune/
+ Doors Open at 6\, In the Eagle\, Remembering Patrick Stewart\n\nA world be
+ yond your experience\, beyond your imagination.\nVidiots remembers everyon
+ e's interstellar Captain\, the great Patrick Stewart with a special screen
+ ing of David Lynch's epic space opera Dune !\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4933638/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/dune/
 END:VEVENT
 BEGIN:VEVENT
-UID:4823341@vidiotsfoundation.org
-DTSTAMP:20261112T033000Z
-DTSTART;TZID=America/Los_Angeles:20261111T193000
-DTEND;TZID=America/Los_Angeles:20261111T212600
-SUMMARY:Grace of My Heart
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4823341/
-DESCRIPTION:Run time: 116 min | Format: Digital | Rating: R\n\nSeries: Door
- s Open at 6\, In the Eagle\, Live DJ Set\, Special Guests in Attendance\n\
- nVidiots is thrilled to welcome cinema legends Alison Anders and Illeana D
- ouglas \, plus music supervisor Karyn Rachtman\, and music producer Larry 
- Klein for a special 30th Anniversary Screening of Grace of my Heart!\nCome
-  early for a special DJ Set from DJ Tiffany Anders. Plus\, Illeana Douglas
-  will be selling and signing her new book Jungle Red! The Making of MGM’
- s The Women !\n\nTickets: https://vidiotsfoundation.org/purchase/4823341/\
- n\nDetails: https://vidiotsfoundation.org/movies/grace-of-my-heart/
+UID:4903408@vidiotsfoundation.org
+DTSTAMP:20261113T030000Z
+DTSTART;TZID=America/Los_Angeles:20261112T190000
+DTEND;TZID=America/Los_Angeles:20261112T205000
+SUMMARY:Primetime
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4903408/
+DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nLance Oppenheim is having a MONT
+ H! Join us in the microcinema for his outrageous drama of fame\, pressure\
+ , and predators as Robert Pattinson gives an uncanny performance as Dateli
+ ne correspondent Chris Hansen.\n\nTickets: https://vidiotsfoundation.org/p
+ urchase/4903408/\n\nDetails: https://vidiotsfoundation.org/movies/primetim
+ e/
 END:VEVENT
 END:VCALENDAR
