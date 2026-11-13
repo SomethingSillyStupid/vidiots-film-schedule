@@ -8,104 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4815598@vidiotsfoundation.org
-DTSTAMP:20261114T001500Z
-DTSTART;TZID=America/Los_Angeles:20261113T161500
-DTEND;TZID=America/Los_Angeles:20261113T174800
-SUMMARY:Porco Rosso (Japanese with English Subtitles)
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815598/
-DESCRIPTION:Run time: 93 min | Format: Digital | Rating: PG | Release year:
-  1992\n\nSeries: In the Eagle\n\nJoin us high above the clouds for legenda
- ry director Hayao Miyazaki’s action-packed\, interwar epic\, Porco Rosso
- .\n\nTickets: https://vidiotsfoundation.org/purchase/4815598/\n\nDetails: 
- https://vidiotsfoundation.org/movies/porco-rosso-japanese-with-english-sub
- titles/
-END:VEVENT
-BEGIN:VEVENT
-UID:4883128@vidiotsfoundation.org
-DTSTAMP:20261114T003000Z
-DTSTART;TZID=America/Los_Angeles:20261113T163000
-DTEND;TZID=America/Los_Angeles:20261113T181500
-SUMMARY:Wicker
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883128/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nAn audacious comedic fable about sex\, marriage\, and the absur
- dities of social convention\n\nTickets: https://vidiotsfoundation.org/purc
- hase/4883128/\n\nDetails: https://vidiotsfoundation.org/movies/wicker/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4815600@vidiotsfoundation.org
-DTSTAMP:20261114T030000Z
-DTSTART;TZID=America/Los_Angeles:20261113T190000
-DTEND;TZID=America/Los_Angeles:20261113T203700
-SUMMARY:Blood Simple
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815600/
-DESCRIPTION:Run time: 97 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\n\nSexy\, smart\, and smoldering\, this shocking neo-noir shot the
-  Coen brothers into the upper echelons of filmmakers right off the bat.\n\
- nTickets: https://vidiotsfoundation.org/purchase/4815600/\n\nDetails: http
- s://vidiotsfoundation.org/movies/blood-simple/
-END:VEVENT
-BEGIN:VEVENT
-UID:4883129@vidiotsfoundation.org
-DTSTAMP:20261114T032000Z
-DTSTART;TZID=America/Los_Angeles:20261113T192000
-DTEND;TZID=America/Los_Angeles:20261113T210500
-SUMMARY:Wicker
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883129/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nAn audacious comedic fable about sex\, marriage\, and the absur
- dities of social convention\n\nTickets: https://vidiotsfoundation.org/purc
- hase/4883129/\n\nDetails: https://vidiotsfoundation.org/movies/wicker/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4815618@vidiotsfoundation.org
-DTSTAMP:20261114T054500Z
-DTSTART;TZID=America/Los_Angeles:20261113T214500
-DTEND;TZID=America/Los_Angeles:20261113T231600
-SUMMARY:The Return of the Living Dead
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815618/
-DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\, TeenTix LA\, What the Friday?!?\n\nA total blast from start to f
- inish\, this monster bash features killer special effects\, a rockin' soun
- dtrack\, and one of scream queen Linnea Quigley's most iconic moments. You
- 'd be a ghoul to miss it!\n\nTickets: https://vidiotsfoundation.org/purcha
- se/4815618/\n\nDetails: https://vidiotsfoundation.org/movies/the-return-of
- -the-living-dead/
-END:VEVENT
-BEGIN:VEVENT
-UID:4883133@vidiotsfoundation.org
-DTSTAMP:20261114T060000Z
-DTSTART;TZID=America/Los_Angeles:20261113T220000
-DTEND;TZID=America/Los_Angeles:20261113T233800
-SUMMARY:You Had to Be There: How the Toronto Godspell Ignited the Comedy Re
- volution…
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883133/
-DESCRIPTION:Run time: 98 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us and some
-  of the funniest people on the planet for one of the most joyous documenta
- ries of the year - the lightning in a bottle that was the 1972 Toronto pro
- duction of the musical Godspell.\n\nTickets: https://vidiotsfoundation.org
- /purchase/4883133/\n\nDetails: https://vidiotsfoundation.org/movies/you-ha
- d-to-be-there-how-the-toronto-godspell-ignited-the-comedy-revolution/
-END:VEVENT
-BEGIN:VEVENT
 UID:4815622@vidiotsfoundation.org
 DTSTAMP:20261114T210000Z
 DTSTART;TZID=America/Los_Angeles:20261114T130000
@@ -135,21 +37,6 @@ DESCRIPTION:Run time: 108 min | Format: Digital\n\nSeries: In the Eagle\, R
   https://vidiotsfoundation.org/movies/on-the-waterfront/
 END:VEVENT
 BEGIN:VEVENT
-UID:4883135@vidiotsfoundation.org
-DTSTAMP:20261115T003000Z
-DTSTART;TZID=America/Los_Angeles:20261114T163000
-DTEND;TZID=America/Los_Angeles:20261114T181500
-SUMMARY:Wicker
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883135/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nAn audacious comedic fable about
-  sex\, marriage\, and the absurdities of social convention\n\nTickets: htt
- ps://vidiotsfoundation.org/purchase/4883135/\n\nDetails: https://vidiotsfo
- undation.org/movies/wicker/
-END:VEVENT
-BEGIN:VEVENT
 UID:4815624@vidiotsfoundation.org
 DTSTAMP:20261115T030000Z
 DTSTART;TZID=America/Los_Angeles:20261114T190000
@@ -166,24 +53,6 @@ DESCRIPTION:Run time: 97 min | Format: Digital | Rating: PG-13\n\nSeries: 1
  /pretty-in-pink/
 END:VEVENT
 BEGIN:VEVENT
-UID:4883136@vidiotsfoundation.org
-DTSTAMP:20261115T032000Z
-DTSTART;TZID=America/Los_Angeles:20261114T192000
-DTEND;TZID=America/Los_Angeles:20261114T205800
-SUMMARY:You Had to Be There: How the Toronto Godspell Ignited the Comedy Re
- volution…
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883136/
-DESCRIPTION:Run time: 98 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us and some
-  of the funniest people on the planet for one of the most joyous documenta
- ries of the year - the lightning in a bottle that was the 1972 Toronto pro
- duction of the musical Godspell.\n\nTickets: https://vidiotsfoundation.org
- /purchase/4883136/\n\nDetails: https://vidiotsfoundation.org/movies/you-ha
- d-to-be-there-how-the-toronto-godspell-ignited-the-comedy-revolution/
-END:VEVENT
-BEGIN:VEVENT
 UID:4815625@vidiotsfoundation.org
 DTSTAMP:20261115T054500Z
 DTSTART;TZID=America/Los_Angeles:20261114T214500
@@ -198,21 +67,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
  k stars!\n\nTickets: https://vidiotsfoundation.org/purchase/4815625/\n\nDe
  tails: https://vidiotsfoundation.org/movies/stop-making-sense-1984/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4883138@vidiotsfoundation.org
-DTSTAMP:20261115T060000Z
-DTSTART;TZID=America/Los_Angeles:20261114T220000
-DTEND;TZID=America/Los_Angeles:20261114T234500
-SUMMARY:Wicker
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883138/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nAn audacious comedic fable about
-  sex\, marriage\, and the absurdities of social convention\n\nTickets: htt
- ps://vidiotsfoundation.org/purchase/4883138/\n\nDetails: https://vidiotsfo
- undation.org/movies/wicker/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815635@vidiotsfoundation.org
@@ -302,21 +156,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 77 min | F
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4883283@vidiotsfoundation.org
-DTSTAMP:20261117T030000Z
-DTSTART;TZID=America/Los_Angeles:20261116T190000
-DTEND;TZID=America/Los_Angeles:20261116T204500
-SUMMARY:Wicker
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883283/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nAn audacious comedic fable about
-  sex\, marriage\, and the absurdities of social convention\n\nTickets: htt
- ps://vidiotsfoundation.org/purchase/4883283/\n\nDetails: https://vidiotsfo
- undation.org/movies/wicker/
-END:VEVENT
-BEGIN:VEVENT
 UID:4908859@vidiotsfoundation.org
 DTSTAMP:20261117T033000Z
 DTSTART;TZID=America/Los_Angeles:20261116T193000
@@ -333,21 +172,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min |
  ttps://vidiotsfoundation.org/purchase/4908859/\n\nDetails: https://vidiots
  foundation.org/movies/the-devils/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4883284@vidiotsfoundation.org
-DTSTAMP:20261119T030000Z
-DTSTART;TZID=America/Los_Angeles:20261118T190000
-DTEND;TZID=America/Los_Angeles:20261118T204500
-SUMMARY:Wicker
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883284/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nAn audacious comedic fable about
-  sex\, marriage\, and the absurdities of social convention\n\nTickets: htt
- ps://vidiotsfoundation.org/purchase/4883284/\n\nDetails: https://vidiotsfo
- undation.org/movies/wicker/
 END:VEVENT
 BEGIN:VEVENT
 UID:4823631@vidiotsfoundation.org
@@ -681,6 +505,22 @@ DESCRIPTION:Run time: 92 min | Format: Digital | Rating: R\n\nSeries: Doors
  rg/movies/planes-trains-and-automobiles/
 END:VEVENT
 BEGIN:VEVENT
+UID:4883353@vidiotsfoundation.org
+DTSTAMP:20261127T200000Z
+DTSTART;TZID=America/Los_Angeles:20261127T120000
+DTEND;TZID=America/Los_Angeles:20261127T141100
+SUMMARY:Wildwood
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883353/
+DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ Additional Shows\, In the MUBI Microcinema\n\nA handmade stop-motion sweep
+ ing adventure about love\, sacrifice\, and the magic that reveals itself w
+ hen we dare to look beyond the familiar.\n\nTickets: https://vidiotsfounda
+ tion.org/purchase/4883353/\n\nDetails: https://vidiotsfoundation.org/movie
+ s/wildwood/
+END:VEVENT
+BEGIN:VEVENT
 UID:4815404@vidiotsfoundation.org
 DTSTAMP:20261127T203000Z
 DTSTART;TZID=America/Los_Angeles:20261127T123000
@@ -727,6 +567,24 @@ DESCRIPTION:Run time: 104 min | Format: Digital | Rating: PG-13\n\nSeries:
   romp you need this Black Friday!\n\nTickets: https://vidiotsfoundation.or
  g/purchase/4815406/\n\nDetails: https://vidiotsfoundation.org/movies/despe
  rately-seeking-susan/
+END:VEVENT
+BEGIN:VEVENT
+UID:4883356@vidiotsfoundation.org
+DTSTAMP:20261128T043000Z
+DTSTART;TZID=America/Los_Angeles:20261127T203000
+DTEND;TZID=America/Los_Angeles:20261127T232400
+SUMMARY:You Can See Everything
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883356/
+DESCRIPTION:Run time: 174 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoi
+ n us in the microcinema for the documentary event of the year - Nathan Fie
+ lder and Lance Oppenheim's mind-blowing portrait of disgraced tech CEO Eli
+ zabeth Holmes\, and a post-modern look at what money and the pursuit of en
+ tertainment can do to the truth.\nMore showtimes added soon!\n\nTickets: h
+ ttps://vidiotsfoundation.org/purchase/4883356/\n\nDetails: https://vidiots
+ foundation.org/movies/you-can-see-everything/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815407@vidiotsfoundation.org
@@ -999,12 +857,13 @@ SUMMARY:A Place in the Sun on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4918267/
-DESCRIPTION:Run time: 122 min | Format: Digital\n\nSeries: In the Eagle\, S
- pecial Guests in Attendance\n\nWe’re excited to welcome back our Foundin
- g Member and forever bestie Author/ Film Historian/ Podcaster Karina Longw
- orth for screening of George Stevens' Oscar-winning true crime thriller A 
- Place in the Sun!\n\nTickets: https://vidiotsfoundation.org/purchase/49182
- 67/\n\nDetails: https://vidiotsfoundation.org/movies/a-place-in-the-sun/
+DESCRIPTION:Run time: 122 min | Format: Digital\n\nSeries: 35mm Film\, In t
+ he Eagle\, Special Guests in Attendance\n\nWe’re excited to welcome back
+  our Founding Member and forever bestie Author/ Film Historian/ Podcaster 
+ Karina Longworth for screening of George Stevens' Oscar-winning true crime
+  thriller A Place in the Sun!\n\nTickets: https://vidiotsfoundation.org/pu
+ rchase/4918267/\n\nDetails: https://vidiotsfoundation.org/movies/a-place-i
+ n-the-sun/
 END:VEVENT
 BEGIN:VEVENT
 UID:4918268@vidiotsfoundation.org
@@ -1061,11 +920,11 @@ SUMMARY:Vidiots Hornyfest – Body Heat on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4918281/
-DESCRIPTION:Run time: 113 min | Format: 35mm Film | Rating: R\n\nSeries: In
-  the Eagle\, Vidiots Hornyfest\n\nKathleen Turner scorches the screen in t
- his overtly erotic Neo-Noir from Lawrence Kasdan.\n\nTickets: https://vidi
- otsfoundation.org/purchase/4918281/\n\nDetails: https://vidiotsfoundation.
- org/movies/body-heat/
+DESCRIPTION:Run time: 113 min | Format: 35mm Film | Rating: R\n\nSeries: 35
+ mm Film\, In the Eagle\, Vidiots Hornyfest\n\nKathleen Turner scorches the
+  screen in this overtly erotic Neo-Noir from Lawrence Kasdan.\n\nTickets: 
+ https://vidiotsfoundation.org/purchase/4918281/\n\nDetails: https://vidiot
+ sfoundation.org/movies/body-heat/
 END:VEVENT
 BEGIN:VEVENT
 UID:4912781@vidiotsfoundation.org
@@ -1092,10 +951,12 @@ SUMMARY:Dolores
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4912777/
-DESCRIPTION:Run time: 95 min\n\nSeries: Community Partners\, In the Eagle\n
- \nRebel. Activist. Feminist. Mother.\n\nTickets: https://vidiotsfoundation
- .org/purchase/4912777/\n\nDetails: https://vidiotsfoundation.org/movies/do
- lores/
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Community Partner
+ s\, In the Eagle\n\nJoin us at Vidiots for a screening of the documentary 
+ Dolores in celebration of the life and legacy of Chicana labor activist Do
+ lores Huerta . Co-Presented with our friends at El Cine .\n\nTickets: http
+ s://vidiotsfoundation.org/purchase/4912777/\n\nDetails: https://vidiotsfou
+ ndation.org/movies/dolores/
 END:VEVENT
 BEGIN:VEVENT
 UID:4912784@vidiotsfoundation.org
@@ -1114,6 +975,27 @@ DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: In th
  s/
 END:VEVENT
 BEGIN:VEVENT
+UID:4946180@vidiotsfoundation.org
+DTSTAMP:20261215T030000Z
+DTSTART;TZID=America/Los_Angeles:20261214T190000
+DTEND;TZID=America/Los_Angeles:20261214T203100
+SUMMARY:TheyDream
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4946180/
+DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
+ a\, Special Guests in Attendance\n\nJoin us in the microcinema for one of 
+ the most heartfelt and imaginative documentaries of all time - William Cab
+ allero's wonderfully creative and moving TheyDream. Presented in a variety
+  of animation styles\, this mixed media gem examines the transformative na
+ ture of grief\, for the director\, his mother\, and other members of their
+  tight knit Puerto Rican family in Fayetteville\, North Carolina.\nDirecto
+ r William D. Caballero and producer Erin Ploss-Campoamor in person at the 
+ December 14th screening!\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4946180/\n\nDetails: https://vidiotsfoundation.org/movies/theydream/
+END:VEVENT
+BEGIN:VEVENT
 UID:4918289@vidiotsfoundation.org
 DTSTAMP:20261215T033000Z
 DTSTART;TZID=America/Los_Angeles:20261214T193000
@@ -1122,26 +1004,43 @@ SUMMARY:McCabe & Mrs. Miller on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4918289/
-DESCRIPTION:Run time: 120 min | Format: 35mm Film | Rating: R\n\nSeries: Do
- ors Open at 6\, In the Eagle\n\nWith subtle wit\, authentic emotion\, stun
- ning cinematography from Vilmos Zsigmund\, and an iconic soundtrack from t
- he legendary Leonard Cohen\, McCabe & Mrs. Miller is a masterpiece on ever
- y level.\n\nTickets: https://vidiotsfoundation.org/purchase/4918289/\n\nDe
- tails: https://vidiotsfoundation.org/movies/mccabe-mrs-miller/
+DESCRIPTION:Run time: 120 min | Format: 35mm Film | Rating: R\n\nSeries: 35
+ mm Film\, Doors Open at 6\, In the Eagle\n\nWith subtle wit\, authentic em
+ otion\, stunning cinematography from Vilmos Zsigmund\, and an iconic sound
+ track from the legendary Leonard Cohen\, McCabe & Mrs. Miller is a masterp
+ iece on every level.\n\nTickets: https://vidiotsfoundation.org/purchase/49
+ 18289/\n\nDetails: https://vidiotsfoundation.org/movies/mccabe-mrs-miller/
 END:VEVENT
 BEGIN:VEVENT
 UID:4933208@vidiotsfoundation.org
 DTSTAMP:20261217T033000Z
 DTSTART;TZID=America/Los_Angeles:20261216T193000
 DTEND;TZID=America/Los_Angeles:20261216T213000
-SUMMARY:Portrait of a Lady on Fire
+SUMMARY:Vidiots Hornyfest – Portrait of a Lady on Fire
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4933208/
-DESCRIPTION:Run time: 120 min | Release year: 2019\n\nSeries: Doors Open at
-  6\, In the Eagle\, Vidiots Hornyfest\n\nDon't regret. Remember.\n\nTicket
- s: https://vidiotsfoundation.org/purchase/4933208/\n\nDetails: https://vid
- iotsfoundation.org/movies/portrait-of-a-lady-on-fire/
+DESCRIPTION:Run time: 120 min | Format: Digital | Release year: 2019\n\nSer
+ ies: Doors Open at 6\, In the Eagle\, Vidiots Hornyfest\n\nCéline Sciamma
+ 's sumptuous eighteenth-century romance between an artist and her subject.
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4933208/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/portrait-of-a-lady-on-fire/
+END:VEVENT
+BEGIN:VEVENT
+UID:4942951@vidiotsfoundation.org
+DTSTAMP:20261218T033000Z
+DTSTART;TZID=America/Los_Angeles:20261217T193000
+DTEND;TZID=America/Los_Angeles:20261217T210000
+SUMMARY:A Very Cher-y Holiday – Presented by Museum of Home Video
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4942951/
+DESCRIPTION:Run time: 90 min\n\nSeries: Doors Open at 6\, In the Eagle\n\nY
+ ou'll believe in life after love watching Cher dazzle through the decades 
+ at this glitzy\, groovy\, good-time get-down\, packed with fabulously glam
+  Cher music videos\, concert footage\, and TV rarities!\n\nTickets: https:
+ //vidiotsfoundation.org/purchase/4942951/\n\nDetails: https://vidiotsfound
+ ation.org/movies/a-very-cher-y-holiday-presented-by-museum-of-home-video/
 END:VEVENT
 BEGIN:VEVENT
 UID:4918290@vidiotsfoundation.org
@@ -1198,10 +1097,10 @@ SUMMARY:Hook
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4918312/
-DESCRIPTION:Run time: 142 min | Format: Digital\n\nSeries: In the Eagle\n\n
- What if Peter Pan grew up?\nRemembering Maggie Smith's rich legacy\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4918312/\n\nDetails: https://v
- idiotsfoundation.org/movies/hook/
+DESCRIPTION:Run time: 142 min | Format: Digital | Rating: PG\n\nSeries: Fil
+ ms for Everyone\, In the Eagle\n\nWhat if Peter Pan grew up?\n\nTickets: h
+ ttps://vidiotsfoundation.org/purchase/4918312/\n\nDetails: https://vidiots
+ foundation.org/movies/hook/
 END:VEVENT
 BEGIN:VEVENT
 UID:4918326@vidiotsfoundation.org
@@ -1402,6 +1301,22 @@ DESCRIPTION:Run time: 132 min | Format: Digital | Rating: R\n\nSeries: Door
  g/movies/call-me-by-your-name/
 END:VEVENT
 BEGIN:VEVENT
+UID:4933284@vidiotsfoundation.org
+DTSTAMP:20261231T003000Z
+DTSTART;TZID=America/Los_Angeles:20261230T163000
+DTEND;TZID=America/Los_Angeles:20261230T180600
+SUMMARY:When Harry Met Sally…
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4933284/
+DESCRIPTION:Run time: 96 min | Format: Digital | Rating: R\n\nSeries: In th
+ e Eagle\n\nCome for the ham sandwich orgasm and stay for the New Year's Ev
+ e confession of true love\, and all the hilarity\, romance\, and Carrie Fi
+ sher moments in between!\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4933284/\n\nDetails: https://vidiotsfoundation.org/movies/when-harry-met
+ -sally/
+END:VEVENT
+BEGIN:VEVENT
 UID:4933285@vidiotsfoundation.org
 DTSTAMP:20261231T033000Z
 DTSTART;TZID=America/Los_Angeles:20261230T193000
@@ -1433,20 +1348,101 @@ DESCRIPTION:Run time: 110 min | Format: Digital\n\nSeries: 35mm Film\, In t
  nset-boulevard/
 END:VEVENT
 BEGIN:VEVENT
-UID:4903408@vidiotsfoundation.org
-DTSTAMP:20261113T030000Z
-DTSTART;TZID=America/Los_Angeles:20261112T190000
-DTEND;TZID=America/Los_Angeles:20261112T205000
-SUMMARY:Primetime
+UID:4815598@vidiotsfoundation.org
+DTSTAMP:20261114T001500Z
+DTSTART;TZID=America/Los_Angeles:20261113T161500
+DTEND;TZID=America/Los_Angeles:20261113T174800
+SUMMARY:Porco Rosso (Japanese with English Subtitles)
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815598/
+DESCRIPTION:Run time: 93 min | Format: Digital | Rating: PG | Release year:
+  1992\n\nSeries: In the Eagle\n\nJoin us high above the clouds for legenda
+ ry director Hayao Miyazaki’s action-packed\, interwar epic\, Porco Rosso
+ .\n\nTickets: https://vidiotsfoundation.org/purchase/4815598/\n\nDetails: 
+ https://vidiotsfoundation.org/movies/porco-rosso-japanese-with-english-sub
+ titles/
+END:VEVENT
+BEGIN:VEVENT
+UID:4883128@vidiotsfoundation.org
+DTSTAMP:20261114T003000Z
+DTSTART;TZID=America/Los_Angeles:20261113T163000
+DTEND;TZID=America/Los_Angeles:20261113T181500
+SUMMARY:Wicker
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
-URL:https://vidiotsfoundation.org/purchase/4903408/
-DESCRIPTION:Run time: 110 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nLance Oppenheim is having a MONT
- H! Join us in the microcinema for his outrageous drama of fame\, pressure\
- , and predators as Robert Pattinson gives an uncanny performance as Dateli
- ne correspondent Chris Hansen.\n\nTickets: https://vidiotsfoundation.org/p
- urchase/4903408/\n\nDetails: https://vidiotsfoundation.org/movies/primetim
- e/
+URL:https://vidiotsfoundation.org/purchase/4883128/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
+ Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
+ ocinema\n\nAn audacious comedic fable about sex\, marriage\, and the absur
+ dities of social convention\n\nTickets: https://vidiotsfoundation.org/purc
+ hase/4883128/\n\nDetails: https://vidiotsfoundation.org/movies/wicker/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4815600@vidiotsfoundation.org
+DTSTAMP:20261114T030000Z
+DTSTART;TZID=America/Los_Angeles:20261113T190000
+DTEND;TZID=America/Los_Angeles:20261113T203700
+SUMMARY:Blood Simple
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815600/
+DESCRIPTION:Run time: 97 min | Format: Digital | Rating: R\n\nSeries: In th
+ e Eagle\n\nSexy\, smart\, and smoldering\, this shocking neo-noir shot the
+  Coen brothers into the upper echelons of filmmakers right off the bat.\n\
+ nTickets: https://vidiotsfoundation.org/purchase/4815600/\n\nDetails: http
+ s://vidiotsfoundation.org/movies/blood-simple/
+END:VEVENT
+BEGIN:VEVENT
+UID:4883129@vidiotsfoundation.org
+DTSTAMP:20261114T032000Z
+DTSTART;TZID=America/Los_Angeles:20261113T192000
+DTEND;TZID=America/Los_Angeles:20261113T210500
+SUMMARY:Wicker
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883129/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
+ Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
+ ocinema\n\nAn audacious comedic fable about sex\, marriage\, and the absur
+ dities of social convention\n\nTickets: https://vidiotsfoundation.org/purc
+ hase/4883129/\n\nDetails: https://vidiotsfoundation.org/movies/wicker/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4815618@vidiotsfoundation.org
+DTSTAMP:20261114T054500Z
+DTSTART;TZID=America/Los_Angeles:20261113T214500
+DTEND;TZID=America/Los_Angeles:20261113T231600
+SUMMARY:The Return of the Living Dead
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815618/
+DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: In th
+ e Eagle\, TeenTix LA\, What the Friday?!?\n\nA total blast from start to f
+ inish\, this monster bash features killer special effects\, a rockin' soun
+ dtrack\, and one of scream queen Linnea Quigley's most iconic moments. You
+ 'd be a ghoul to miss it!\n\nTickets: https://vidiotsfoundation.org/purcha
+ se/4815618/\n\nDetails: https://vidiotsfoundation.org/movies/the-return-of
+ -the-living-dead/
+END:VEVENT
+BEGIN:VEVENT
+UID:4883133@vidiotsfoundation.org
+DTSTAMP:20261114T060000Z
+DTSTART;TZID=America/Los_Angeles:20261113T220000
+DTEND;TZID=America/Los_Angeles:20261113T233800
+SUMMARY:You Had to Be There: How the Toronto Godspell Ignited the Comedy Re
+ volution…
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883133/
+DESCRIPTION:Run time: 98 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us and some
+  of the funniest people on the planet for one of the most joyous documenta
+ ries of the year - the lightning in a bottle that was the 1972 Toronto pro
+ duction of the musical Godspell.\n\nTickets: https://vidiotsfoundation.org
+ /purchase/4883133/\n\nDetails: https://vidiotsfoundation.org/movies/you-ha
+ d-to-be-there-how-the-toronto-godspell-ignited-the-comedy-revolution/
 END:VEVENT
 END:VCALENDAR
