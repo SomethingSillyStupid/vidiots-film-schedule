@@ -8,85 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4883128@vidiotsfoundation.org
-DTSTAMP:20261114T003000Z
-DTSTART;TZID=America/Los_Angeles:20261113T163000
-DTEND;TZID=America/Los_Angeles:20261113T181500
-SUMMARY:Wicker
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883128/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nAn audacious comedic fable about sex\, marriage\, and the absur
- dities of social convention.\n\nTickets: https://vidiotsfoundation.org/pur
- chase/4883128/\n\nDetails: https://vidiotsfoundation.org/movies/wicker/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4883129@vidiotsfoundation.org
-DTSTAMP:20261114T032000Z
-DTSTART;TZID=America/Los_Angeles:20261113T192000
-DTEND;TZID=America/Los_Angeles:20261113T210500
-SUMMARY:Wicker
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883129/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nAn audacious comedic fable about sex\, marriage\, and the absur
- dities of social convention.\n\nTickets: https://vidiotsfoundation.org/pur
- chase/4883129/\n\nDetails: https://vidiotsfoundation.org/movies/wicker/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4883133@vidiotsfoundation.org
-DTSTAMP:20261114T060000Z
-DTSTART;TZID=America/Los_Angeles:20261113T220000
-DTEND;TZID=America/Los_Angeles:20261113T233800
-SUMMARY:You Had to Be There: How the Toronto Godspell Ignited the Comedy Re
- volution…
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883133/
-DESCRIPTION:Run time: 98 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us and some
-  of the funniest people on the planet for one of the most joyous documenta
- ries of the year - the lightning in a bottle that was the 1972 Toronto pro
- duction of the musical Godspell.\n\nTickets: https://vidiotsfoundation.org
- /purchase/4883133/\n\nDetails: https://vidiotsfoundation.org/movies/you-ha
- d-to-be-there-how-the-toronto-godspell-ignited-the-comedy-revolution/
-END:VEVENT
-BEGIN:VEVENT
-UID:4815622@vidiotsfoundation.org
-DTSTAMP:20261114T210000Z
-DTSTART;TZID=America/Los_Angeles:20261114T130000
-DTEND;TZID=America/Los_Angeles:20261114T144200
-SUMMARY:Big Hero 6
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815622/
-DESCRIPTION:Run time: 102 min | Format: Digital | Rating: All Ages\n\nSerie
- s: Films for Everyone\, In the Eagle\n\nDisney meets Marvel in this thrill
- ing and charming tale of robotic friendship and fighting for what's right.
- \n\nTickets: https://vidiotsfoundation.org/purchase/4815622/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/big-hero-6/
-END:VEVENT
-BEGIN:VEVENT
-UID:4815623@vidiotsfoundation.org
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=America/Los_Angeles:20261114T160000
-DTEND;TZID=America/Los_Angeles:20261114T174800
-SUMMARY:On the Waterfront
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815623/
-DESCRIPTION:Run time: 108 min | Format: Digital\n\nSeries: In the Eagle\, R
- emembering Eva Marie Saint\, TeenTix LA\n\nFor all the contenders out ther
- e.\n\nTickets: https://vidiotsfoundation.org/purchase/4815623/\n\nDetails:
-  https://vidiotsfoundation.org/movies/on-the-waterfront/
-END:VEVENT
-BEGIN:VEVENT
 UID:4883135@vidiotsfoundation.org
 DTSTAMP:20261115T003000Z
 DTSTART;TZID=America/Los_Angeles:20261114T163000
@@ -100,56 +21,6 @@ DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
   sex\, marriage\, and the absurdities of social convention.\n\nTickets: ht
  tps://vidiotsfoundation.org/purchase/4883135/\n\nDetails: https://vidiotsf
  oundation.org/movies/wicker/
-END:VEVENT
-BEGIN:VEVENT
-UID:4815624@vidiotsfoundation.org
-DTSTAMP:20261115T030000Z
-DTSTART;TZID=America/Los_Angeles:20261114T190000
-DTEND;TZID=America/Los_Angeles:20261114T203700
-SUMMARY:Pretty in Pink
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815624/
-DESCRIPTION:Run time: 97 min | Format: Digital | Rating: PG-13\n\nSeries: 1
- 00 Years of Harry Dean Stanton\, In the Eagle\n\nPut on your dancing shoes
-  and get ready for this all-time teen classic of high school romance\, jea
- lousy\, resourcefulness\, and classism.\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4815624/\n\nDetails: https://vidiotsfoundation.org/movies
- /pretty-in-pink/
-END:VEVENT
-BEGIN:VEVENT
-UID:4883136@vidiotsfoundation.org
-DTSTAMP:20261115T032000Z
-DTSTART;TZID=America/Los_Angeles:20261114T192000
-DTEND;TZID=America/Los_Angeles:20261114T205800
-SUMMARY:You Had to Be There: How the Toronto Godspell Ignited the Comedy Re
- volution…
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883136/
-DESCRIPTION:Run time: 98 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us and some
-  of the funniest people on the planet for one of the most joyous documenta
- ries of the year - the lightning in a bottle that was the 1972 Toronto pro
- duction of the musical Godspell.\n\nTickets: https://vidiotsfoundation.org
- /purchase/4883136/\n\nDetails: https://vidiotsfoundation.org/movies/you-ha
- d-to-be-there-how-the-toronto-godspell-ignited-the-comedy-revolution/
-END:VEVENT
-BEGIN:VEVENT
-UID:4815625@vidiotsfoundation.org
-DTSTAMP:20261115T054500Z
-DTSTART;TZID=America/Los_Angeles:20261114T214500
-DTEND;TZID=America/Los_Angeles:20261114T231300
-SUMMARY:Stop Making Sense
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815625/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
- ormat: 4K Digital\n\nSeries: In the Eagle\, Interactive\n\nWe're bringing 
- the party back to the big screen to kick off our birthday weekend like roc
- k stars!\n\nTickets: https://vidiotsfoundation.org/purchase/4815625/\n\nDe
- tails: https://vidiotsfoundation.org/movies/stop-making-sense-1984/
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4883138@vidiotsfoundation.org
@@ -1674,51 +1545,82 @@ DESCRIPTION:Run time: 110 min | Format: Digital\n\nSeries: 35mm Film\, In t
  nset-boulevard/
 END:VEVENT
 BEGIN:VEVENT
-UID:4815598@vidiotsfoundation.org
-DTSTAMP:20261114T001500Z
-DTSTART;TZID=America/Los_Angeles:20261113T161500
-DTEND;TZID=America/Los_Angeles:20261113T174800
-SUMMARY:Porco Rosso (Japanese with English Subtitles)
+UID:4815622@vidiotsfoundation.org
+DTSTAMP:20261114T210000Z
+DTSTART;TZID=America/Los_Angeles:20261114T130000
+DTEND;TZID=America/Los_Angeles:20261114T144200
+SUMMARY:Big Hero 6
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815598/
-DESCRIPTION:Run time: 93 min | Format: Digital | Rating: PG | Release year:
-  1992\n\nSeries: In the Eagle\n\nJoin us high above the clouds for legenda
- ry director Hayao Miyazaki’s action-packed\, interwar epic\, Porco Rosso
- .\n\nTickets: https://vidiotsfoundation.org/purchase/4815598/\n\nDetails: 
- https://vidiotsfoundation.org/movies/porco-rosso-japanese-with-english-sub
- titles/
+URL:https://vidiotsfoundation.org/purchase/4815622/
+DESCRIPTION:Run time: 102 min | Format: Digital | Rating: All Ages\n\nSerie
+ s: Films for Everyone\, In the Eagle\n\nDisney meets Marvel in this thrill
+ ing and charming tale of robotic friendship and fighting for what's right.
+ \n\nTickets: https://vidiotsfoundation.org/purchase/4815622/\n\nDetails: h
+ ttps://vidiotsfoundation.org/movies/big-hero-6/
 END:VEVENT
 BEGIN:VEVENT
-UID:4815600@vidiotsfoundation.org
-DTSTAMP:20261114T030000Z
-DTSTART;TZID=America/Los_Angeles:20261113T190000
-DTEND;TZID=America/Los_Angeles:20261113T203700
-SUMMARY:Blood Simple
+UID:4815623@vidiotsfoundation.org
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=America/Los_Angeles:20261114T160000
+DTEND;TZID=America/Los_Angeles:20261114T174800
+SUMMARY:On the Waterfront
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815600/
-DESCRIPTION:Run time: 97 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\n\nSexy\, smart\, and smoldering\, this shocking neo-noir shot the
-  Coen brothers into the upper echelons of filmmakers right off the bat.\n\
- nTickets: https://vidiotsfoundation.org/purchase/4815600/\n\nDetails: http
- s://vidiotsfoundation.org/movies/blood-simple/
+URL:https://vidiotsfoundation.org/purchase/4815623/
+DESCRIPTION:Run time: 108 min | Format: Digital\n\nSeries: In the Eagle\, R
+ emembering Eva Marie Saint\, TeenTix LA\n\nFor all the contenders out ther
+ e.\n\nTickets: https://vidiotsfoundation.org/purchase/4815623/\n\nDetails:
+  https://vidiotsfoundation.org/movies/on-the-waterfront/
 END:VEVENT
 BEGIN:VEVENT
-UID:4815618@vidiotsfoundation.org
-DTSTAMP:20261114T054500Z
-DTSTART;TZID=America/Los_Angeles:20261113T214500
-DTEND;TZID=America/Los_Angeles:20261113T231600
-SUMMARY:The Return of the Living Dead
+UID:4815624@vidiotsfoundation.org
+DTSTAMP:20261115T030000Z
+DTSTART;TZID=America/Los_Angeles:20261114T190000
+DTEND;TZID=America/Los_Angeles:20261114T203700
+SUMMARY:Pretty in Pink
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815618/
-DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\, TeenTix LA\, What the Friday?!?\n\nA total blast from start to f
- inish\, this monster bash features killer special effects\, a rockin' soun
- dtrack\, and one of scream queen Linnea Quigley's most iconic moments. You
- 'd be a ghoul to miss it!\n\nTickets: https://vidiotsfoundation.org/purcha
- se/4815618/\n\nDetails: https://vidiotsfoundation.org/movies/the-return-of
- -the-living-dead/
+URL:https://vidiotsfoundation.org/purchase/4815624/
+DESCRIPTION:Run time: 97 min | Format: Digital | Rating: PG-13\n\nSeries: 1
+ 00 Years of Harry Dean Stanton\, In the Eagle\n\nPut on your dancing shoes
+  and get ready for this all-time teen classic of high school romance\, jea
+ lousy\, resourcefulness\, and classism.\n\nTickets: https://vidiotsfoundat
+ ion.org/purchase/4815624/\n\nDetails: https://vidiotsfoundation.org/movies
+ /pretty-in-pink/
+END:VEVENT
+BEGIN:VEVENT
+UID:4883136@vidiotsfoundation.org
+DTSTAMP:20261115T032000Z
+DTSTART;TZID=America/Los_Angeles:20261114T192000
+DTEND;TZID=America/Los_Angeles:20261114T205800
+SUMMARY:You Had to Be There: How the Toronto Godspell Ignited the Comedy Re
+ volution…
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883136/
+DESCRIPTION:Run time: 98 min | Format: Digital\n\nSeries: Additional Shows\
+ , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us and some
+  of the funniest people on the planet for one of the most joyous documenta
+ ries of the year - the lightning in a bottle that was the 1972 Toronto pro
+ duction of the musical Godspell.\n\nTickets: https://vidiotsfoundation.org
+ /purchase/4883136/\n\nDetails: https://vidiotsfoundation.org/movies/you-ha
+ d-to-be-there-how-the-toronto-godspell-ignited-the-comedy-revolution/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815625@vidiotsfoundation.org
+DTSTAMP:20261115T054500Z
+DTSTART;TZID=America/Los_Angeles:20261114T214500
+DTEND;TZID=America/Los_Angeles:20261114T231300
+SUMMARY:Stop Making Sense
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815625/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
+ ormat: 4K Digital\n\nSeries: In the Eagle\, Interactive\n\nWe're bringing 
+ the party back to the big screen to kick off our birthday weekend like roc
+ k stars!\n\nTickets: https://vidiotsfoundation.org/purchase/4815625/\n\nDe
+ tails: https://vidiotsfoundation.org/movies/stop-making-sense-1984/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
