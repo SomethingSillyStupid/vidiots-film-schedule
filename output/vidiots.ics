@@ -8,123 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4883135@vidiotsfoundation.org
-DTSTAMP:20261115T003000Z
-DTSTART;TZID=America/Los_Angeles:20261114T163000
-DTEND;TZID=America/Los_Angeles:20261114T181500
-SUMMARY:Wicker
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883135/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nAn audacious comedic fable about
-  sex\, marriage\, and the absurdities of social convention.\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4883135/\n\nDetails: https://vidiotsf
- oundation.org/movies/wicker/
-END:VEVENT
-BEGIN:VEVENT
-UID:4883138@vidiotsfoundation.org
-DTSTAMP:20261115T060000Z
-DTSTART;TZID=America/Los_Angeles:20261114T220000
-DTEND;TZID=America/Los_Angeles:20261114T234500
-SUMMARY:Wicker
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883138/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nAn audacious comedic fable about
-  sex\, marriage\, and the absurdities of social convention.\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4883138/\n\nDetails: https://vidiotsf
- oundation.org/movies/wicker/
-END:VEVENT
-BEGIN:VEVENT
-UID:4815635@vidiotsfoundation.org
-DTSTAMP:20261115T210000Z
-DTSTART;TZID=America/Los_Angeles:20261115T130000
-DTEND;TZID=America/Los_Angeles:20261115T141600
-SUMMARY:The Care Bears Movie
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815635/
-DESCRIPTION:Run time: 76 min | Format: Digital | Rating: All Ages\n\nSeries
- : Films for Everyone\, In the Eagle\n\nJoin hands and form the circle of f
- riendship with your favorite cuddly toy-turned-cartoon characters.\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4815635/\n\nDetails: https://v
- idiotsfoundation.org/movies/the-care-bears-movie/
-END:VEVENT
-BEGIN:VEVENT
-UID:4815638@vidiotsfoundation.org
-DTSTAMP:20261115T234500Z
-DTSTART;TZID=America/Los_Angeles:20261115T154500
-DTEND;TZID=America/Los_Angeles:20261115T175000
-SUMMARY:Imitation of Life (1959) on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815638/
-DESCRIPTION:Run time: 125 min | Format: 35mm Film\n\nSeries: 35mm Film\, In
-  the Eagle\, TeenTix LA\n\nWith incredible female characters and actors\, 
- that gorgeous Sirkian Technicolor touch\, and a story of race that was dec
- ades ahead of its time\, this classic melodrama is ready to pull you in an
- d give you all the feels!\n\nTickets: https://vidiotsfoundation.org/purcha
- se/4815638/\n\nDetails: https://vidiotsfoundation.org/movies/imitation-of-
- life-1959/
-END:VEVENT
-BEGIN:VEVENT
-UID:4851767@vidiotsfoundation.org
-DTSTAMP:20261116T004500Z
-DTSTART;TZID=America/Los_Angeles:20261115T164500
-DTEND;TZID=America/Los_Angeles:20261115T180200
-SUMMARY:CIANI/ORKEST
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4851767/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 77 min | F
- ormat: Digital\n\nSeries: In the MUBI Microcinema\, Special Guests in Atte
- ndance\n\nVidiots is electrified to welcome Electronic music pioneer and f
- ive-time Grammy nominee Suzanne Ciani to our microcinema for two screening
- s of CIANI/ORKEST\, a live quadrophonic concert film with the Metropole Or
- kest.\n\nTickets: https://vidiotsfoundation.org/purchase/4851767/\n\nDetai
- ls: https://vidiotsfoundation.org/movies/ciani-orkest/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4815640@vidiotsfoundation.org
-DTSTAMP:20261116T030000Z
-DTSTART;TZID=America/Los_Angeles:20261115T190000
-DTEND;TZID=America/Los_Angeles:20261115T203800
-SUMMARY:Josie and the Pussycats
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815640/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 98 min | F
- ormat: Digital | Rating: PG-13\n\nSeries: In the Eagle\, Live DJ Set\, Spe
- cial Guests in Attendance\n\nRock Out with The Pussycats!\nWriter/Director
- s Deborah Kaplan and Harry Elfont and one of our favorite Pussycats Rachae
- l Leigh Cook in person! Plus\, ultra-millennial DJ sets from DJ Vick Jagge
- r before and after the screening!\n\nTickets: https://vidiotsfoundation.or
- g/purchase/4815640/\n\nDetails: https://vidiotsfoundation.org/movies/josie
- -and-the-pussycats/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4851766@vidiotsfoundation.org
-DTSTAMP:20261116T033000Z
-DTSTART;TZID=America/Los_Angeles:20261115T193000
-DTEND;TZID=America/Los_Angeles:20261115T204700
-SUMMARY:CIANI/ORKEST
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4851766/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 77 min | F
- ormat: Digital\n\nSeries: In the MUBI Microcinema\, Special Guests in Atte
- ndance\n\nVidiots is electrified to welcome Electronic music pioneer and f
- ive-time Grammy nominee Suzanne Ciani to our microcinema for two screening
- s of CIANI/ORKEST\, a live quadrophonic concert film with the Metropole Or
- kest.\n\nTickets: https://vidiotsfoundation.org/purchase/4851766/\n\nDetai
- ls: https://vidiotsfoundation.org/movies/ciani-orkest/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4883283@vidiotsfoundation.org
 DTSTAMP:20261117T030000Z
 DTSTART;TZID=America/Los_Angeles:20261116T190000
@@ -1550,82 +1433,90 @@ DESCRIPTION:Run time: 110 min | Format: Digital\n\nSeries: 35mm Film\, In t
  nset-boulevard/
 END:VEVENT
 BEGIN:VEVENT
-UID:4815622@vidiotsfoundation.org
-DTSTAMP:20261114T210000Z
-DTSTART;TZID=America/Los_Angeles:20261114T130000
-DTEND;TZID=America/Los_Angeles:20261114T144200
-SUMMARY:Big Hero 6
+UID:4815635@vidiotsfoundation.org
+DTSTAMP:20261115T210000Z
+DTSTART;TZID=America/Los_Angeles:20261115T130000
+DTEND;TZID=America/Los_Angeles:20261115T141600
+SUMMARY:The Care Bears Movie
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815622/
-DESCRIPTION:Run time: 102 min | Format: Digital | Rating: All Ages\n\nSerie
- s: Films for Everyone\, In the Eagle\n\nDisney meets Marvel in this thrill
- ing and charming tale of robotic friendship and fighting for what's right.
- \n\nTickets: https://vidiotsfoundation.org/purchase/4815622/\n\nDetails: h
- ttps://vidiotsfoundation.org/movies/big-hero-6/
+URL:https://vidiotsfoundation.org/purchase/4815635/
+DESCRIPTION:Run time: 76 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nJoin hands and form the circle of f
+ riendship with your favorite cuddly toy-turned-cartoon characters.\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4815635/\n\nDetails: https://v
+ idiotsfoundation.org/movies/the-care-bears-movie/
 END:VEVENT
 BEGIN:VEVENT
-UID:4815623@vidiotsfoundation.org
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=America/Los_Angeles:20261114T160000
-DTEND;TZID=America/Los_Angeles:20261114T174800
-SUMMARY:On the Waterfront
+UID:4815638@vidiotsfoundation.org
+DTSTAMP:20261115T234500Z
+DTSTART;TZID=America/Los_Angeles:20261115T154500
+DTEND;TZID=America/Los_Angeles:20261115T175000
+SUMMARY:Imitation of Life (1959) on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815623/
-DESCRIPTION:Run time: 108 min | Format: Digital\n\nSeries: In the Eagle\, R
- emembering Eva Marie Saint\, TeenTix LA\n\nFor all the contenders out ther
- e.\n\nTickets: https://vidiotsfoundation.org/purchase/4815623/\n\nDetails:
-  https://vidiotsfoundation.org/movies/on-the-waterfront/
+URL:https://vidiotsfoundation.org/purchase/4815638/
+DESCRIPTION:Run time: 125 min | Format: 35mm Film\n\nSeries: 35mm Film\, In
+  the Eagle\, TeenTix LA\n\nWith incredible female characters and actors\, 
+ that gorgeous Sirkian Technicolor touch\, and a story of race that was dec
+ ades ahead of its time\, this classic melodrama is ready to pull you in an
+ d give you all the feels!\n\nTickets: https://vidiotsfoundation.org/purcha
+ se/4815638/\n\nDetails: https://vidiotsfoundation.org/movies/imitation-of-
+ life-1959/
 END:VEVENT
 BEGIN:VEVENT
-UID:4815624@vidiotsfoundation.org
-DTSTAMP:20261115T030000Z
-DTSTART;TZID=America/Los_Angeles:20261114T190000
-DTEND;TZID=America/Los_Angeles:20261114T203700
-SUMMARY:Pretty in Pink
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815624/
-DESCRIPTION:Run time: 97 min | Format: Digital | Rating: PG-13\n\nSeries: 1
- 00 Years of Harry Dean Stanton\, In the Eagle\n\nPut on your dancing shoes
-  and get ready for this all-time teen classic of high school romance\, jea
- lousy\, resourcefulness\, and classism.\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4815624/\n\nDetails: https://vidiotsfoundation.org/movies
- /pretty-in-pink/
-END:VEVENT
-BEGIN:VEVENT
-UID:4883136@vidiotsfoundation.org
-DTSTAMP:20261115T032000Z
-DTSTART;TZID=America/Los_Angeles:20261114T192000
-DTEND;TZID=America/Los_Angeles:20261114T205800
-SUMMARY:You Had to Be There: How the Toronto Godspell Ignited the Comedy Re
- volution…
+UID:4851767@vidiotsfoundation.org
+DTSTAMP:20261116T004500Z
+DTSTART;TZID=America/Los_Angeles:20261115T164500
+DTEND;TZID=America/Los_Angeles:20261115T180200
+SUMMARY:CIANI/ORKEST
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883136/
-DESCRIPTION:Run time: 98 min | Format: Digital\n\nSeries: Additional Shows\
- , Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoin us and some
-  of the funniest people on the planet for one of the most joyous documenta
- ries of the year - the lightning in a bottle that was the 1972 Toronto pro
- duction of the musical Godspell.\n\nTickets: https://vidiotsfoundation.org
- /purchase/4883136/\n\nDetails: https://vidiotsfoundation.org/movies/you-ha
- d-to-be-there-how-the-toronto-godspell-ignited-the-comedy-revolution/
+URL:https://vidiotsfoundation.org/purchase/4851767/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 77 min | F
+ ormat: Digital\n\nSeries: In the MUBI Microcinema\, Special Guests in Atte
+ ndance\n\nVidiots is electrified to welcome Electronic music pioneer and f
+ ive-time Grammy nominee Suzanne Ciani to our microcinema for two screening
+ s of CIANI/ORKEST\, a live quadrophonic concert film with the Metropole Or
+ kest.\n\nTickets: https://vidiotsfoundation.org/purchase/4851767/\n\nDetai
+ ls: https://vidiotsfoundation.org/movies/ciani-orkest/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4815625@vidiotsfoundation.org
-DTSTAMP:20261115T054500Z
-DTSTART;TZID=America/Los_Angeles:20261114T214500
-DTEND;TZID=America/Los_Angeles:20261114T231300
-SUMMARY:Stop Making Sense
+UID:4815640@vidiotsfoundation.org
+DTSTAMP:20261116T030000Z
+DTSTART;TZID=America/Los_Angeles:20261115T190000
+DTEND;TZID=America/Los_Angeles:20261115T203800
+SUMMARY:Josie and the Pussycats
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815625/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 88 min | F
- ormat: 4K Digital\n\nSeries: In the Eagle\, Interactive\n\nWe're bringing 
- the party back to the big screen to kick off our birthday weekend like roc
- k stars!\n\nTickets: https://vidiotsfoundation.org/purchase/4815625/\n\nDe
- tails: https://vidiotsfoundation.org/movies/stop-making-sense-1984/
+URL:https://vidiotsfoundation.org/purchase/4815640/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 98 min | F
+ ormat: Digital | Rating: PG-13\n\nSeries: In the Eagle\, Live DJ Set\, Spe
+ cial Guests in Attendance\n\nRock Out with The Pussycats!\nWriter/Director
+ s Deborah Kaplan and Harry Elfont and one of our favorite Pussycats Rachae
+ l Leigh Cook in person! Plus\, ultra-millennial DJ sets from DJ Vick Jagge
+ r before and after the screening!\n\nTickets: https://vidiotsfoundation.or
+ g/purchase/4815640/\n\nDetails: https://vidiotsfoundation.org/movies/josie
+ -and-the-pussycats/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4851766@vidiotsfoundation.org
+DTSTAMP:20261116T033000Z
+DTSTART;TZID=America/Los_Angeles:20261115T193000
+DTEND;TZID=America/Los_Angeles:20261115T204700
+SUMMARY:CIANI/ORKEST
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4851766/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 77 min | F
+ ormat: Digital\n\nSeries: In the MUBI Microcinema\, Special Guests in Atte
+ ndance\n\nVidiots is electrified to welcome Electronic music pioneer and f
+ ive-time Grammy nominee Suzanne Ciani to our microcinema for two screening
+ s of CIANI/ORKEST\, a live quadrophonic concert film with the Metropole Or
+ kest.\n\nTickets: https://vidiotsfoundation.org/purchase/4851766/\n\nDetai
+ ls: https://vidiotsfoundation.org/movies/ciani-orkest/
 STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
