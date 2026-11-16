@@ -16,11 +16,12 @@ SUMMARY:Wicker
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4883283/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nAn audacious comedic fable about
-  sex\, marriage\, and the absurdities of social convention.\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4883283/\n\nDetails: https://vidiotsf
- oundation.org/movies/wicker/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
+ Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
+ ocinema\n\nAn audacious comedic fable about sex\, marriage\, and the absur
+ dities of social convention.\n\nTickets: https://vidiotsfoundation.org/pur
+ chase/4883283/\n\nDetails: https://vidiotsfoundation.org/movies/wicker/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4908859@vidiotsfoundation.org
@@ -847,9 +848,9 @@ DESCRIPTION:Run time: 94 min | Format: Digital\n\nSeries: In the Eagle\, Wh
 END:VEVENT
 BEGIN:VEVENT
 UID:4912646@vidiotsfoundation.org
-DTSTAMP:20261205T203000Z
-DTSTART;TZID=America/Los_Angeles:20261205T123000
-DTEND;TZID=America/Los_Angeles:20261205T140600
+DTSTAMP:20261205T200000Z
+DTSTART;TZID=America/Los_Angeles:20261205T120000
+DTEND;TZID=America/Los_Angeles:20261205T133600
 SUMMARY:Paddington
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
@@ -881,9 +882,9 @@ DESCRIPTION:Run time: 74 min | Format: Digital\n\nSeries: Community Partner
 END:VEVENT
 BEGIN:VEVENT
 UID:4912647@vidiotsfoundation.org
-DTSTAMP:20261205T233000Z
-DTSTART;TZID=America/Los_Angeles:20261205T153000
-DTEND;TZID=America/Los_Angeles:20261205T171800
+DTSTAMP:20261205T230000Z
+DTSTART;TZID=America/Los_Angeles:20261205T150000
+DTEND;TZID=America/Los_Angeles:20261205T164800
 SUMMARY:Portrait of Jason on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
@@ -999,6 +1000,21 @@ DESCRIPTION:Run time: 95 min | Format: Digital | Rating: PG | Release year:
  ase/4918278/\n\nDetails: https://vidiotsfoundation.org/movies/nausicaa/
 END:VEVENT
 BEGIN:VEVENT
+UID:4918280@vidiotsfoundation.org
+DTSTAMP:20261213T000000Z
+DTSTART;TZID=America/Los_Angeles:20261212T160000
+DTEND;TZID=America/Los_Angeles:20261212T174300
+SUMMARY:Grumpy Old Men on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4918280/
+DESCRIPTION:Run time: 103 min | Format: 35mm Film | Rating: PG-13\n\nSeries
+ : 35mm Film\, In the Eagle\n\nTwo of our favorite curmudgeons are teaming 
+ up for a comedy that's equal parts snark and feel-good fun!\n\nTickets: ht
+ tps://vidiotsfoundation.org/purchase/4918280/\n\nDetails: https://vidiotsf
+ oundation.org/movies/grumpy-old-men/
+END:VEVENT
+BEGIN:VEVENT
 UID:4918281@vidiotsfoundation.org
 DTSTAMP:20261213T030000Z
 DTSTART;TZID=America/Los_Angeles:20261212T190000
@@ -1054,12 +1070,11 @@ SUMMARY:Desert Hearts
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4912784/
-DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\, Special Guests in Attendance\n\nVidiots is thrilled to welcome D
- irector/Producer Donna Deitch for a special screening of her seminal sapph
- ic romance Desert Hearts .\n\nTickets: https://vidiotsfoundation.org/purch
- ase/4912784/\n\nDetails: https://vidiotsfoundation.org/movies/desert-heart
- s/
+DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: Commu
+ nity Partners\, In the Eagle\, Special Guests in Attendance\n\nVidiots and
+  community partners Outfest are thrilled to welcome Director/Producer Donn
+ a Deitch Desert Hearts .\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4912784/\n\nDetails: https://vidiotsfoundation.org/movies/desert-hearts/
 END:VEVENT
 BEGIN:VEVENT
 UID:4946180@vidiotsfoundation.org
@@ -1159,6 +1174,52 @@ DESCRIPTION:Run time: 117 min | Format: Digital\n\nSeries: In the Eagle\n\n
  Join us all the way from Zamunda for one of the funniest movies ever made!
  \n\nTickets: https://vidiotsfoundation.org/purchase/4918291/\n\nDetails: h
  ttps://vidiotsfoundation.org/movies/coming-to-america/
+END:VEVENT
+BEGIN:VEVENT
+UID:4918292@vidiotsfoundation.org
+DTSTAMP:20261219T054500Z
+DTSTART;TZID=America/Los_Angeles:20261218T214500
+DTEND;TZID=America/Los_Angeles:20261219T000000
+SUMMARY:Rent
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4918292/
+DESCRIPTION:Run time: 135 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\, What the Friday?!?\n\nEmbrace your inner theater kid and jo
+ in us for a big and loud screening of Rent .\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4918292/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/rent/
+END:VEVENT
+BEGIN:VEVENT
+UID:4918300@vidiotsfoundation.org
+DTSTAMP:20261220T000000Z
+DTSTART;TZID=America/Los_Angeles:20261219T160000
+DTEND;TZID=America/Los_Angeles:20261219T173300
+SUMMARY:Tokyo Godfathers
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4918300/
+DESCRIPTION:Run time: 93 min | Format: Digital | Rating: PG-13 | Release ye
+ ar: 2003\n\nSeries: In the Eagle\n\nGet in the holiday spirit with Satoshi
+  Kon's breathtaking anime marvel!\n\nTickets: https://vidiotsfoundation.or
+ g/purchase/4918300/\n\nDetails: https://vidiotsfoundation.org/movies/tokyo
+ -godfathers/
+END:VEVENT
+BEGIN:VEVENT
+UID:4918303@vidiotsfoundation.org
+DTSTAMP:20261220T030000Z
+DTSTART;TZID=America/Los_Angeles:20261219T190000
+DTEND;TZID=America/Los_Angeles:20261219T204400
+SUMMARY:Married to the Mob
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4918303/
+DESCRIPTION:Run time: 104 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nWith a dynamite cast\, iconic 80s fashion\, and Demme's deligh
+ tful direction\, you will never have more fun with the mafia than in this 
+ utter blast on the big screen!\n\nTickets: https://vidiotsfoundation.org/p
+ urchase/4918303/\n\nDetails: https://vidiotsfoundation.org/movies/married-
+ to-the-mob/
 END:VEVENT
 BEGIN:VEVENT
 UID:4918310@vidiotsfoundation.org
@@ -1433,92 +1494,5 @@ DESCRIPTION:Run time: 110 min | Format: Digital\n\nSeries: 35mm Film\, In t
   Eve with Vidiots and Norma Desmond!\n\nTickets: https://vidiotsfoundation
  .org/purchase/4933287/\n\nDetails: https://vidiotsfoundation.org/movies/su
  nset-boulevard/
-END:VEVENT
-BEGIN:VEVENT
-UID:4815635@vidiotsfoundation.org
-DTSTAMP:20261115T210000Z
-DTSTART;TZID=America/Los_Angeles:20261115T130000
-DTEND;TZID=America/Los_Angeles:20261115T141600
-SUMMARY:The Care Bears Movie
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815635/
-DESCRIPTION:Run time: 76 min | Format: Digital | Rating: All Ages\n\nSeries
- : Films for Everyone\, In the Eagle\n\nJoin hands and form the circle of f
- riendship with your favorite cuddly toy-turned-cartoon characters.\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4815635/\n\nDetails: https://v
- idiotsfoundation.org/movies/the-care-bears-movie/
-END:VEVENT
-BEGIN:VEVENT
-UID:4815638@vidiotsfoundation.org
-DTSTAMP:20261115T234500Z
-DTSTART;TZID=America/Los_Angeles:20261115T154500
-DTEND;TZID=America/Los_Angeles:20261115T175000
-SUMMARY:Imitation of Life (1959) on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815638/
-DESCRIPTION:Run time: 125 min | Format: 35mm Film\n\nSeries: 35mm Film\, In
-  the Eagle\, TeenTix LA\n\nWith incredible female characters and actors\, 
- that gorgeous Sirkian Technicolor touch\, and a story of race that was dec
- ades ahead of its time\, this classic melodrama is ready to pull you in an
- d give you all the feels!\n\nTickets: https://vidiotsfoundation.org/purcha
- se/4815638/\n\nDetails: https://vidiotsfoundation.org/movies/imitation-of-
- life-1959/
-END:VEVENT
-BEGIN:VEVENT
-UID:4851767@vidiotsfoundation.org
-DTSTAMP:20261116T004500Z
-DTSTART;TZID=America/Los_Angeles:20261115T164500
-DTEND;TZID=America/Los_Angeles:20261115T180200
-SUMMARY:CIANI/ORKEST
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4851767/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 77 min | F
- ormat: Digital\n\nSeries: In the MUBI Microcinema\, Special Guests in Atte
- ndance\n\nVidiots is electrified to welcome Electronic music pioneer and f
- ive-time Grammy nominee Suzanne Ciani to our microcinema for two screening
- s of CIANI/ORKEST\, a live quadrophonic concert film with the Metropole Or
- kest.\n\nTickets: https://vidiotsfoundation.org/purchase/4851767/\n\nDetai
- ls: https://vidiotsfoundation.org/movies/ciani-orkest/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4815640@vidiotsfoundation.org
-DTSTAMP:20261116T030000Z
-DTSTART;TZID=America/Los_Angeles:20261115T190000
-DTEND;TZID=America/Los_Angeles:20261115T203800
-SUMMARY:Josie and the Pussycats
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815640/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 98 min | F
- ormat: Digital | Rating: PG-13\n\nSeries: In the Eagle\, Live DJ Set\, Spe
- cial Guests in Attendance\n\nRock Out with The Pussycats!\nWriter/Director
- s Deborah Kaplan and Harry Elfont and one of our favorite Pussycats Rachae
- l Leigh Cook in person! Plus\, ultra-millennial DJ sets from DJ Vick Jagge
- r before and after the screening!\n\nTickets: https://vidiotsfoundation.or
- g/purchase/4815640/\n\nDetails: https://vidiotsfoundation.org/movies/josie
- -and-the-pussycats/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4851766@vidiotsfoundation.org
-DTSTAMP:20261116T033000Z
-DTSTART;TZID=America/Los_Angeles:20261115T193000
-DTEND;TZID=America/Los_Angeles:20261115T204700
-SUMMARY:CIANI/ORKEST
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4851766/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 77 min | F
- ormat: Digital\n\nSeries: In the MUBI Microcinema\, Special Guests in Atte
- ndance\n\nVidiots is electrified to welcome Electronic music pioneer and f
- ive-time Grammy nominee Suzanne Ciani to our microcinema for two screening
- s of CIANI/ORKEST\, a live quadrophonic concert film with the Metropole Or
- kest.\n\nTickets: https://vidiotsfoundation.org/purchase/4851766/\n\nDetai
- ls: https://vidiotsfoundation.org/movies/ciani-orkest/
-STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
