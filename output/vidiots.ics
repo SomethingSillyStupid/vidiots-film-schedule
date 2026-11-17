@@ -807,12 +807,29 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4933638/
 DESCRIPTION:Run time: 137 min | Format: Digital | Rating: PG-13\n\nSeries: 
- Doors Open at 6\, In the Eagle\, Remembering Patrick Stewart\n\nA world be
- yond your experience\, beyond your imagination.\nVidiots remembers everyon
- e's interstellar Captain\, the great Patrick Stewart with a special screen
- ing of David Lynch's epic space opera Dune !\n\nTickets: https://vidiotsfo
- undation.org/purchase/4933638/\n\nDetails: https://vidiotsfoundation.org/m
- ovies/dune/
+ Doors Open at 6\, In the Eagle\, Remembering Sir Patrick Stewart\n\nA worl
+ d beyond your experience\, beyond your imagination.\nVidiots remembers eve
+ ryone's interstellar Captain\, the great Patrick Stewart with a special sc
+ reening of David Lynch's epic space opera Dune !\n\nTickets: https://vidio
+ tsfoundation.org/purchase/4933638/\n\nDetails: https://vidiotsfoundation.o
+ rg/movies/dune/
+END:VEVENT
+BEGIN:VEVENT
+UID:4964612@vidiotsfoundation.org
+DTSTAMP:20261204T030000Z
+DTSTART;TZID=America/Los_Angeles:20261203T190000
+DTEND;TZID=America/Los_Angeles:20261203T203100
+SUMMARY:Take Me Home
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4964612/
+DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
+  microcinema for Liz Sargent’s powerful and intimate debut drama examine
+ s the shifting demands placed on a unique — and uniquely challenged — 
+ family in a Florida suburb.\nFillmmaker Liz Sargent in person on December 
+ 3rd!\n\nTickets: https://vidiotsfoundation.org/purchase/4964612/\n\nDetail
+ s: https://vidiotsfoundation.org/movies/take-me-home/
 END:VEVENT
 BEGIN:VEVENT
 UID:4941362@vidiotsfoundation.org
@@ -935,6 +952,20 @@ DESCRIPTION:Run time: 80 min | Format: Digital\n\nSeries: Community Partner
  year in one glorious day!\n\nTickets: https://vidiotsfoundation.org/purcha
  se/4875731/\n\nDetails: https://vidiotsfoundation.org/movies/the-cinema-ey
  e-shorts-list-program-3-buckskin-a-derailment-water-cooler-theyre-here/
+END:VEVENT
+BEGIN:VEVENT
+UID:4964786@vidiotsfoundation.org
+DTSTAMP:20261206T210000Z
+DTSTART;TZID=America/Los_Angeles:20261206T130000
+DTEND;TZID=America/Los_Angeles:20261206T141800
+SUMMARY:The Jungle Book
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4964786/
+DESCRIPTION:Run time: 78 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nWho hasn't secretly longed to have 
+ been raised by wolves?\n\nTickets: https://vidiotsfoundation.org/purchase/
+ 4964786/\n\nDetails: https://vidiotsfoundation.org/movies/the-jungle-book/
 END:VEVENT
 BEGIN:VEVENT
 UID:4918267@vidiotsfoundation.org
@@ -1265,6 +1296,22 @@ DESCRIPTION:Run time: 102 min | Format: Digital | Rating: PG\n\nSeries: In
  /movies/moonstruck/
 END:VEVENT
 BEGIN:VEVENT
+UID:4918330@vidiotsfoundation.org
+DTSTAMP:20261223T003000Z
+DTSTART;TZID=America/Los_Angeles:20261222T163000
+DTEND;TZID=America/Los_Angeles:20261222T180400
+SUMMARY:Moonrise Kingdom
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4918330/
+DESCRIPTION:Run time: 94 min | Format: Digital | Rating: PG-13\n\nSeries: I
+ n the Eagle\n\nPut on your coonskin cap\, grab your portable record player
+ \, and get ready to run away with Wes Anderson's delightfully designed dar
+ ling Moonrise Kingdom .\n\nTickets: https://vidiotsfoundation.org/purchase
+ /4918330/\n\nDetails: https://vidiotsfoundation.org/movies/moonrise-kingdo
+ m/
+END:VEVENT
+BEGIN:VEVENT
 UID:4918327@vidiotsfoundation.org
 DTSTAMP:20261223T033000Z
 DTSTART;TZID=America/Los_Angeles:20261222T193000
@@ -1277,6 +1324,21 @@ DESCRIPTION:Run time: 130 min | Format: Digital | Rating: PG-13\n\nSeries:
  In the Eagle\n\nAll you have to do is dream.\n\nTickets: https://vidiotsfo
  undation.org/purchase/4918327/\n\nDetails: https://vidiotsfoundation.org/m
  ovies/dreamgirls/
+END:VEVENT
+BEGIN:VEVENT
+UID:4918332@vidiotsfoundation.org
+DTSTAMP:20261224T003000Z
+DTSTART;TZID=America/Los_Angeles:20261223T163000
+DTEND;TZID=America/Los_Angeles:20261223T180700
+SUMMARY:Elf
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4918332/
+DESCRIPTION:Run time: 97 min | Format: Digital | Rating: PG\n\nSeries: Film
+ s for Everyone\, In the Eagle\n\nBring the whole family (or your fellow el
+ ves) to Vidiots to revel in the magic of this classic with a crowd!\n\nTic
+ kets: https://vidiotsfoundation.org/purchase/4918332/\n\nDetails: https://
+ vidiotsfoundation.org/movies/elf/
 END:VEVENT
 BEGIN:VEVENT
 UID:4918334@vidiotsfoundation.org
@@ -1324,6 +1386,21 @@ DESCRIPTION:Run time: 132 min | Format: Digital | Rating: R\n\nSeries: In t
  /
 END:VEVENT
 BEGIN:VEVENT
+UID:4918337@vidiotsfoundation.org
+DTSTAMP:20261226T000000Z
+DTSTART;TZID=America/Los_Angeles:20261225T160000
+DTEND;TZID=America/Los_Angeles:20261225T174200
+SUMMARY:The Wizard of Oz
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4918337/
+DESCRIPTION:Run time: 102 min | Format: Digital | Rating: All Ages\n\nSerie
+ s: Films for Everyone\, In the Eagle\n\nSpend your holidays with Vidiots i
+ n the wonderful world of Oz!\n\nTickets: https://vidiotsfoundation.org/pur
+ chase/4918337/\n\nDetails: https://vidiotsfoundation.org/movies/the-wizard
+ -of-oz/
+END:VEVENT
+BEGIN:VEVENT
 UID:4918338@vidiotsfoundation.org
 DTSTAMP:20261226T030000Z
 DTSTART;TZID=America/Los_Angeles:20261225T190000
@@ -1337,6 +1414,20 @@ DESCRIPTION:Run time: 132 min | Format: Digital | Rating: R\n\nSeries: In t
  ction-packed Christmas Banger!\n\nTickets: https://vidiotsfoundation.org/p
  urchase/4918338/\n\nDetails: https://vidiotsfoundation.org/movies/die-hard
  /
+END:VEVENT
+BEGIN:VEVENT
+UID:4914090@vidiotsfoundation.org
+DTSTAMP:20261226T200000Z
+DTSTART;TZID=America/Los_Angeles:20261226T120000
+DTEND;TZID=America/Los_Angeles:20261226T131500
+SUMMARY:Alice in Wonderland
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4914090/
+DESCRIPTION:Run time: 75 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nWe're all mad here!\n\nTickets: htt
+ ps://vidiotsfoundation.org/purchase/4914090/\n\nDetails: https://vidiotsfo
+ undation.org/movies/alice-in-wonderland/
 END:VEVENT
 BEGIN:VEVENT
 UID:4914089@vidiotsfoundation.org
@@ -1447,6 +1538,38 @@ DESCRIPTION:Run time: 132 min | Format: Digital | Rating: R\n\nSeries: Door
   set against a stunning Mediterranean backdrop.\n\nTickets: https://vidiot
  sfoundation.org/purchase/4933227/\n\nDetails: https://vidiotsfoundation.or
  g/movies/call-me-by-your-name/
+END:VEVENT
+BEGIN:VEVENT
+UID:4933256@vidiotsfoundation.org
+DTSTAMP:20261230T000000Z
+DTSTART;TZID=America/Los_Angeles:20261229T160000
+DTEND;TZID=America/Los_Angeles:20261229T180700
+SUMMARY:Ocean’s Eleven (1960)
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4933256/
+DESCRIPTION:Run time: 127 min | Format: Digital\n\nSeries: In the Eagle\n\n
+ Get ready to steal all of Las Vegas with the original Rat Pack in this gen
+ re-defining hep cat heist movie!\n\nTickets: https://vidiotsfoundation.org
+ /purchase/4933256/\n\nDetails: https://vidiotsfoundation.org/movies/oceans
+ -eleven-1960/
+END:VEVENT
+BEGIN:VEVENT
+UID:4942966@vidiotsfoundation.org
+DTSTAMP:20261230T033000Z
+DTSTART;TZID=America/Los_Angeles:20261229T193000
+DTEND;TZID=America/Los_Angeles:20261229T212100
+SUMMARY:Star Trek: First Contact
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4942966/
+DESCRIPTION:Run time: 111 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\, Remembering Sir Patrick Stewart\n\nBeam yourself to the sta
+ rship Vidiots for an adventure into the final frontier with the crew of th
+ e intergalactic Enterprise.\nRemembering our beloved interstellar captain\
+ , Sir Patrick Stewart!\n\nTickets: https://vidiotsfoundation.org/purchase/
+ 4942966/\n\nDetails: https://vidiotsfoundation.org/movies/star-trek-first-
+ contact/
 END:VEVENT
 BEGIN:VEVENT
 UID:4933284@vidiotsfoundation.org
