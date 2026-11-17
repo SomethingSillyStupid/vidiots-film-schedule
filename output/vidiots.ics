@@ -8,40 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4883283@vidiotsfoundation.org
-DTSTAMP:20261117T030000Z
-DTSTART;TZID=America/Los_Angeles:20261116T190000
-DTEND;TZID=America/Los_Angeles:20261116T204500
-SUMMARY:Wicker
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883283/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 105 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, In the MUBI Micr
- ocinema\n\nAn audacious comedic fable about sex\, marriage\, and the absur
- dities of social convention.\n\nTickets: https://vidiotsfoundation.org/pur
- chase/4883283/\n\nDetails: https://vidiotsfoundation.org/movies/wicker/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4908859@vidiotsfoundation.org
-DTSTAMP:20261117T033000Z
-DTSTART;TZID=America/Los_Angeles:20261116T193000
-DTEND;TZID=America/Los_Angeles:20261116T212200
-SUMMARY:The Devils on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4908859/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min | 
- Format: 35mm Film | Rating: X\n\nSeries: 35mm Film\, Doors Open at 6\, In 
- the Eagle\n\nKen Russell's lavishly deranged and gloriously sacrilegious m
- asterpiece comes to Vidiots in a beautiful new restoration on glorious 35m
- m celluloid!\nSecond Screening Added Friday\, November 20th!\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4908859/\n\nDetails: https://vidiots
- foundation.org/movies/the-devils/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4883284@vidiotsfoundation.org
 DTSTAMP:20261119T030000Z
 DTSTART;TZID=America/Los_Angeles:20261118T190000
@@ -98,11 +64,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4910792/
 DESCRIPTION:Run time: 112 min | Format: 35mm Film | Rating: X\n\nSeries: 35
- mm Film\, Doors Open at 6\, In the Eagle\n\nKen Russell's lavishly derange
- d and gloriously sacrilegious masterpiece comes to Vidiots in a beautiful 
- new restoration on glorious 35mm celluloid!\nSecond Screening Added Friday
- \, November 20th!\n\nTickets: https://vidiotsfoundation.org/purchase/49107
- 92/\n\nDetails: https://vidiotsfoundation.org/movies/the-devils/
+ mm Film\, In the Eagle\n\nKen Russell's lavishly deranged and gloriously s
+ acrilegious masterpiece comes to Vidiots in a beautiful new restoration on
+  glorious 35mm celluloid!\nSecond Screening Added Friday\, November 20th!\
+ n\nTickets: https://vidiotsfoundation.org/purchase/4910792/\n\nDetails: ht
+ tps://vidiotsfoundation.org/movies/the-devils/
 END:VEVENT
 BEGIN:VEVENT
 UID:4883298@vidiotsfoundation.org
@@ -910,9 +876,10 @@ DESCRIPTION:Run time: 108 min | Format: 35mm Film\n\nSeries: 35mm Film\, Co
  mmunity Partners\, Groundbreaking Non-Fiction\, In the Eagle\n\nShirley Cl
  arke's game-changing cinematic portrait of loveably salty gay hustler Jaso
  n Holliday is a candid\, bitchy\, alarming\, and magnificently entertainin
- g masterpiece of nonfiction filmmaking.\n\nTickets: https://vidiotsfoundat
- ion.org/purchase/4912647/\n\nDetails: https://vidiotsfoundation.org/movies
- /portrait-of-jason/
+ g masterpiece of nonfiction filmmaking.\nCo-presented by Founding Members 
+ Cinema Eye Honors Legacy Awards!\n\nTickets: https://vidiotsfoundation.org
+ /purchase/4912647/\n\nDetails: https://vidiotsfoundation.org/movies/portra
+ it-of-jason/
 END:VEVENT
 BEGIN:VEVENT
 UID:4875732@vidiotsfoundation.org
@@ -935,6 +902,25 @@ DESCRIPTION:Run time: 76 min | Format: Digital\n\nSeries: Community Partner
  ree-joan-little/
 END:VEVENT
 BEGIN:VEVENT
+UID:4912651@vidiotsfoundation.org
+DTSTAMP:20261206T020000Z
+DTSTART;TZID=America/Los_Angeles:20261205T180000
+DTEND;TZID=America/Los_Angeles:20261205T202000
+SUMMARY:Annette
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4912651/
+DESCRIPTION:Run time: 140 min | Format: Digital | Rating: R | Release year:
+  2021\n\nSeries: In the Eagle\, Special Guests in Attendance\n\nVidiots an
+ d our friends and community partners at 7th House \, the film programming 
+ arm of the Philosophical Research Society are thrilled to welcome Los Ange
+ les musical royalty Sparks for a special 5th Anniversary screening of Leos
+  Carax's mind-bending musical oddity Annette (written and scored by Sparks
+ !) followed by a conversation with the band!\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4912651/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/annette/
+END:VEVENT
+BEGIN:VEVENT
 UID:4875731@vidiotsfoundation.org
 DTSTAMP:20261206T031500Z
 DTSTART;TZID=America/Los_Angeles:20261205T191500
@@ -952,6 +938,21 @@ DESCRIPTION:Run time: 80 min | Format: Digital\n\nSeries: Community Partner
  year in one glorious day!\n\nTickets: https://vidiotsfoundation.org/purcha
  se/4875731/\n\nDetails: https://vidiotsfoundation.org/movies/the-cinema-ey
  e-shorts-list-program-3-buckskin-a-derailment-water-cooler-theyre-here/
+END:VEVENT
+BEGIN:VEVENT
+UID:4968391@vidiotsfoundation.org
+DTSTAMP:20261206T054500Z
+DTSTART;TZID=America/Los_Angeles:20261205T214500
+DTEND;TZID=America/Los_Angeles:20261205T232800
+SUMMARY:Scanners
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4968391/
+DESCRIPTION:Run time: 103 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\n\nA terrifying telepathic thriller with one of the most iconic p
+ ractical effects in horror history\, Scanners will work its way into your 
+ brain!\n\nTickets: https://vidiotsfoundation.org/purchase/4968391/\n\nDeta
+ ils: https://vidiotsfoundation.org/movies/scanners/
 END:VEVENT
 BEGIN:VEVENT
 UID:4964786@vidiotsfoundation.org
@@ -980,9 +981,9 @@ DESCRIPTION:Run time: 122 min | Format: 35mm Film\n\nSeries: 35mm Film\, In
   the Eagle\, Special Guests in Attendance\n\nWe’re excited to welcome ba
  ck our Founding Member and forever bestie Author/ Film Historian/ Podcaste
  r Karina Longworth for screening of George Stevens' Oscar-winning true cri
- me thriller A Place in the Sun!\n\nTickets: https://vidiotsfoundation.org/
- purchase/4918267/\n\nDetails: https://vidiotsfoundation.org/movies/a-place
- -in-the-sun/
+ me romantic drama A Place in the Sun!\n\nTickets: https://vidiotsfoundatio
+ n.org/purchase/4918267/\n\nDetails: https://vidiotsfoundation.org/movies/a
+ -place-in-the-sun/
 END:VEVENT
 BEGIN:VEVENT
 UID:4918268@vidiotsfoundation.org
@@ -1000,6 +1001,21 @@ DESCRIPTION:Run time: 117 min | Format: Digital | Rating: PG\n\nSeries: Dol
  rjerking screening of Steel Magnolias .\n\nTickets: https://vidiotsfoundat
  ion.org/purchase/4918268/\n\nDetails: https://vidiotsfoundation.org/movies
  /steel-magnolias/
+END:VEVENT
+BEGIN:VEVENT
+UID:4918276@vidiotsfoundation.org
+DTSTAMP:20261212T030000Z
+DTSTART;TZID=America/Los_Angeles:20261211T190000
+DTEND;TZID=America/Los_Angeles:20261211T211600
+SUMMARY:The Holiday
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4918276/
+DESCRIPTION:Run time: 136 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\n\nCome thaw your frozen hearts at Vidiots with Nancy Meyers'
+  beloved switcheroo rom-com!\n\nTickets: https://vidiotsfoundation.org/pur
+ chase/4918276/\n\nDetails: https://vidiotsfoundation.org/movies/the-holida
+ y/
 END:VEVENT
 BEGIN:VEVENT
 UID:4918277@vidiotsfoundation.org
@@ -1069,12 +1085,13 @@ SUMMARY:Home Alone 2: Lost in New York
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4912781/
-DESCRIPTION:Run time: 120 min | Format: Digital | Rating: PG\n\nSeries: Fil
- ms for Everyone\, In the Eagle\, Special Guests in Attendance\n\nA second 
- helping of a very special Culkin Christmas with a special introduction fro
- m McCallister Family Members!\n\nTickets: https://vidiotsfoundation.org/pu
- rchase/4912781/\n\nDetails: https://vidiotsfoundation.org/movies/home-alon
- e-2-lost-in-new-york/
+DESCRIPTION:Run time: 120 min | Format: Digital | Rating: PG\n\nSeries: Be 
+ It!\, Films for Everyone\, In the Eagle\, Remembering Catherine O'Hara\, R
+ emembering Tim Curry - Don't Dream It\, Special Guests in Attendance\n\nA 
+ second helping of a very special Culkin Christmas with a special introduct
+ ion from McCallister Family Members!\n\nTickets: https://vidiotsfoundation
+ .org/purchase/4912781/\n\nDetails: https://vidiotsfoundation.org/movies/ho
+ me-alone-2-lost-in-new-york/
 END:VEVENT
 BEGIN:VEVENT
 UID:4912777@vidiotsfoundation.org
@@ -1104,8 +1121,9 @@ URL:https://vidiotsfoundation.org/purchase/4912784/
 DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: Commu
  nity Partners\, In the Eagle\, Special Guests in Attendance\n\nVidiots and
   community partners Outfest are thrilled to welcome Director/Producer Donn
- a Deitch Desert Hearts .\n\nTickets: https://vidiotsfoundation.org/purchas
- e/4912784/\n\nDetails: https://vidiotsfoundation.org/movies/desert-hearts/
+ a Deitc for a special 40th Anniversary screening of her seminal sapphic ro
+ mance Desert Hearts .\n\nTickets: https://vidiotsfoundation.org/purchase/4
+ 912784/\n\nDetails: https://vidiotsfoundation.org/movies/desert-hearts/
 END:VEVENT
 BEGIN:VEVENT
 UID:4946180@vidiotsfoundation.org
@@ -1268,6 +1286,21 @@ DESCRIPTION:Run time: 99 min | Format: Digital | Rating: R\n\nSeries: In th
  ils: https://vidiotsfoundation.org/movies/stoker/
 END:VEVENT
 BEGIN:VEVENT
+UID:4918311@vidiotsfoundation.org
+DTSTAMP:20261220T203000Z
+DTSTART;TZID=America/Los_Angeles:20261220T123000
+DTEND;TZID=America/Los_Angeles:20261220T140600
+SUMMARY:Miracle on 34th Street
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4918311/
+DESCRIPTION:Run time: 96 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nCapture the spirit of Christmas wit
+ h this timeless classic!\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4918311/\n\nDetails: https://vidiotsfoundation.org/movies/miracle-on-34t
+ h-street/
+END:VEVENT
+BEGIN:VEVENT
 UID:4918312@vidiotsfoundation.org
 DTSTAMP:20261220T233000Z
 DTSTART;TZID=America/Los_Angeles:20261220T153000
@@ -1324,21 +1357,6 @@ DESCRIPTION:Run time: 130 min | Format: Digital | Rating: PG-13\n\nSeries:
  In the Eagle\n\nAll you have to do is dream.\n\nTickets: https://vidiotsfo
  undation.org/purchase/4918327/\n\nDetails: https://vidiotsfoundation.org/m
  ovies/dreamgirls/
-END:VEVENT
-BEGIN:VEVENT
-UID:4918332@vidiotsfoundation.org
-DTSTAMP:20261224T003000Z
-DTSTART;TZID=America/Los_Angeles:20261223T163000
-DTEND;TZID=America/Los_Angeles:20261223T180700
-SUMMARY:Elf
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4918332/
-DESCRIPTION:Run time: 97 min | Format: Digital | Rating: PG\n\nSeries: Film
- s for Everyone\, In the Eagle\n\nBring the whole family (or your fellow el
- ves) to Vidiots to revel in the magic of this classic with a crowd!\n\nTic
- kets: https://vidiotsfoundation.org/purchase/4918332/\n\nDetails: https://
- vidiotsfoundation.org/movies/elf/
 END:VEVENT
 BEGIN:VEVENT
 UID:4918334@vidiotsfoundation.org
