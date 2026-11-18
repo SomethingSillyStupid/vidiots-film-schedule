@@ -169,9 +169,9 @@ DESCRIPTION:Run time: 91 min | Format: Digital | Rating: G\n\nSeries: Films
   for Everyone\, Groundbreaking Non-Fiction\, In the Eagle\, Special Guests
   in Attendance\, TeenTix LA\n\nIt's cookie time at Vidiots\, so bring your
   troop for one sweet treat of a documentary!\nWith director Alysa Nahmias 
- and film participants Ara\, Nikki\, Nala\, and Nyah in attendance!\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4815666/\n\nDetails: https://v
- idiotsfoundation.org/movies/cookie-queens/
+ and film participants Nikki\, Nala\, and Nyah in attendance!\n\nTickets: h
+ ttps://vidiotsfoundation.org/purchase/4815666/\n\nDetails: https://vidiots
+ foundation.org/movies/cookie-queens/
 END:VEVENT
 BEGIN:VEVENT
 UID:4883300@vidiotsfoundation.org
@@ -365,11 +365,13 @@ SUMMARY:The Last Waltz
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4815443/
-DESCRIPTION:Run time: 117 min | Format: Digital\n\nSeries: Doors Open at 6\
- , In the Eagle\n\nIt's our favorite time of year again\, time to rock out 
- with The Band and a cavalcade of musical superstars in Scorsese's electrif
- ying concert film.\n\nTickets: https://vidiotsfoundation.org/purchase/4815
- 443/\n\nDetails: https://vidiotsfoundation.org/movies/the-last-waltz/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 117 min | 
+ Format: Digital\n\nSeries: Doors Open at 6\, In the Eagle\n\nIt's our favo
+ rite time of year again\, time to rock out with The Band and a cavalcade o
+ f musical superstars in Scorsese's electrifying concert film.\n\nTickets: 
+ https://vidiotsfoundation.org/purchase/4815443/\n\nDetails: https://vidiot
+ sfoundation.org/movies/the-last-waltz/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4883330@vidiotsfoundation.org
@@ -781,6 +783,22 @@ DESCRIPTION:Run time: 137 min | Format: Digital | Rating: PG-13\n\nSeries:
  rg/movies/dune/
 END:VEVENT
 BEGIN:VEVENT
+UID:4914018@vidiotsfoundation.org
+DTSTAMP:20261202T033000Z
+DTSTART;TZID=America/Los_Angeles:20261201T193000
+DTEND;TZID=America/Los_Angeles:20261201T204600
+SUMMARY:Daisies
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4914018/
+DESCRIPTION:Run time: 76 min | Format: Digital | Release year: 1966\n\nSeri
+ es: Doors Open at 6\, In the Eagle\n\nAn audacious and gleeful shock to th
+ e system\, Věra Chytilová's Czech New Wave masterpiece is punk as f*&k\,
+  but also as sweet\, goofy\, and girly as the name would imply.\n\nTickets
+ : https://vidiotsfoundation.org/purchase/4914018/\n\nDetails: https://vidi
+ otsfoundation.org/movies/daisies/
+END:VEVENT
+BEGIN:VEVENT
 UID:4964612@vidiotsfoundation.org
 DTSTAMP:20261204T030000Z
 DTSTART;TZID=America/Los_Angeles:20261203T190000
@@ -916,9 +934,9 @@ DESCRIPTION:Run time: 140 min | Format: Digital | Rating: R | Release year:
  arm of the Philosophical Research Society are thrilled to welcome Los Ange
  les musical royalty Sparks for a special 5th Anniversary screening of Leos
   Carax's mind-bending musical oddity Annette (written and scored by Sparks
- !) followed by a conversation with the band!\n\nTickets: https://vidiotsfo
- undation.org/purchase/4912651/\n\nDetails: https://vidiotsfoundation.org/m
- ovies/annette/
+ !) followed by a conversation with the Mael Brothers!\n\nTickets: https://
+ vidiotsfoundation.org/purchase/4912651/\n\nDetails: https://vidiotsfoundat
+ ion.org/movies/annette/
 END:VEVENT
 BEGIN:VEVENT
 UID:4875731@vidiotsfoundation.org
@@ -1121,9 +1139,9 @@ URL:https://vidiotsfoundation.org/purchase/4912784/
 DESCRIPTION:Run time: 91 min | Format: Digital | Rating: R\n\nSeries: Commu
  nity Partners\, In the Eagle\, Special Guests in Attendance\n\nVidiots and
   community partners Outfest are thrilled to welcome Director/Producer Donn
- a Deitc for a special 40th Anniversary screening of her seminal sapphic ro
- mance Desert Hearts .\n\nTickets: https://vidiotsfoundation.org/purchase/4
- 912784/\n\nDetails: https://vidiotsfoundation.org/movies/desert-hearts/
+ a Deitch for a special 40th Anniversary screening of her seminal sapphic r
+ omance Desert Hearts .\n\nTickets: https://vidiotsfoundation.org/purchase/
+ 4912784/\n\nDetails: https://vidiotsfoundation.org/movies/desert-hearts/
 END:VEVENT
 BEGIN:VEVENT
 UID:4946180@vidiotsfoundation.org
@@ -1151,16 +1169,16 @@ UID:4918289@vidiotsfoundation.org
 DTSTAMP:20261215T033000Z
 DTSTART;TZID=America/Los_Angeles:20261214T193000
 DTEND;TZID=America/Los_Angeles:20261214T213000
-SUMMARY:McCabe & Mrs. Miller on 35mm
+SUMMARY:McCabe & Mrs. Miller
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4918289/
-DESCRIPTION:Run time: 120 min | Format: 35mm Film | Rating: R\n\nSeries: 35
- mm Film\, Doors Open at 6\, In the Eagle\n\nWith subtle wit\, authentic em
- otion\, stunning cinematography from Vilmos Zsigmund\, and an iconic sound
- track from the legendary Leonard Cohen\, McCabe & Mrs. Miller is a masterp
- iece on every level.\n\nTickets: https://vidiotsfoundation.org/purchase/49
- 18289/\n\nDetails: https://vidiotsfoundation.org/movies/mccabe-mrs-miller/
+DESCRIPTION:Run time: 120 min | Format: Digital | Rating: R\n\nSeries: Door
+ s Open at 6\, In the Eagle\n\nWith subtle wit\, authentic emotion\, stunni
+ ng cinematography from Vilmos Zsigmund\, and an iconic soundtrack from the
+  legendary Leonard Cohen\, McCabe & Mrs. Miller is a masterpiece on every 
+ level.\n\nTickets: https://vidiotsfoundation.org/purchase/4918289/\n\nDeta
+ ils: https://vidiotsfoundation.org/movies/mccabe-mrs-miller/
 END:VEVENT
 BEGIN:VEVENT
 UID:4933208@vidiotsfoundation.org
@@ -1238,6 +1256,25 @@ DESCRIPTION:Run time: 135 min | Format: Digital | Rating: PG-13\n\nSeries:
  in us for a big and loud screening of Rent .\n\nTickets: https://vidiotsfo
  undation.org/purchase/4918292/\n\nDetails: https://vidiotsfoundation.org/m
  ovies/rent/
+END:VEVENT
+BEGIN:VEVENT
+UID:4968912@vidiotsfoundation.org
+DTSTAMP:20261219T210000Z
+DTSTART;TZID=America/Los_Angeles:20261219T130000
+DTEND;TZID=America/Los_Angeles:20261219T142700
+SUMMARY:Emmet Otter’s Jug-band Christmas + Pee-wee’s Playhouse Christma
+ s Special
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4968912/
+DESCRIPTION:Run time: 87 min | Format: Digital | Rating: All Ages\n\nSeries
+ : Films for Everyone\, In the Eagle\n\nBring your little ones\, or your ad
+ ult besties\, for a delightful double feature of epic holiday proportions 
+ when Vidiots lights up our screen with two of the most enchanting holiday 
+ specials of all time!\nSpecial Discounted Tickets!\n\nTickets: https://vid
+ iotsfoundation.org/purchase/4968912/\n\nDetails: https://vidiotsfoundation
+ .org/movies/emmet-otters-jugband-christmas-pee-wees-playhouse-christmas-sp
+ ecial/
 END:VEVENT
 BEGIN:VEVENT
 UID:4918300@vidiotsfoundation.org
@@ -1359,19 +1396,34 @@ DESCRIPTION:Run time: 130 min | Format: Digital | Rating: PG-13\n\nSeries:
  ovies/dreamgirls/
 END:VEVENT
 BEGIN:VEVENT
+UID:4918332@vidiotsfoundation.org
+DTSTAMP:20261224T003000Z
+DTSTART;TZID=America/Los_Angeles:20261223T163000
+DTEND;TZID=America/Los_Angeles:20261223T180700
+SUMMARY:Elf
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4918332/
+DESCRIPTION:Run time: 97 min | Format: Digital | Rating: PG\n\nSeries: Film
+ s for Everyone\, In the Eagle\n\nBring the whole family (or your fellow el
+ ves) to Vidiots to revel in the magic of this classic with a crowd!\n\nTic
+ kets: https://vidiotsfoundation.org/purchase/4918332/\n\nDetails: https://
+ vidiotsfoundation.org/movies/elf/
+END:VEVENT
+BEGIN:VEVENT
 UID:4918334@vidiotsfoundation.org
 DTSTAMP:20261224T033000Z
 DTSTART;TZID=America/Los_Angeles:20261223T193000
 DTEND;TZID=America/Los_Angeles:20261223T210800
-SUMMARY:Female Trouble
+SUMMARY:Female Trouble on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4918334/
-DESCRIPTION:Run time: 98 min | Format: Digital | Rating: NC-17\n\nSeries: I
- n the Eagle\n\nBust out those cha-cha heels\, prep that eyeliner\, and get
-  ready for John Waters' filthy holiday classic of delightful depravity!\n\
- nTickets: https://vidiotsfoundation.org/purchase/4918334/\n\nDetails: http
- s://vidiotsfoundation.org/movies/female-trouble/
+DESCRIPTION:Run time: 98 min | Format: 35mm Film | Rating: NC-17\n\nSeries:
+  35mm Film\, In the Eagle\n\nBust out those cha-cha heels\, prep that eyel
+ iner\, and get ready for John Waters' filthy holiday classic of delightful
+  depravity!\n\nTickets: https://vidiotsfoundation.org/purchase/4918334/\n\
+ nDetails: https://vidiotsfoundation.org/movies/female-trouble/
 END:VEVENT
 BEGIN:VEVENT
 UID:4918335@vidiotsfoundation.org
@@ -1599,11 +1651,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4933284/
 DESCRIPTION:Run time: 96 min | Format: Digital | Rating: R\n\nSeries: In th
- e Eagle\n\nCome for the ham sandwich orgasm and stay for the New Year's Ev
- e confession of true love\, and all the hilarity\, romance\, and Carrie Fi
- sher moments in between!\n\nTickets: https://vidiotsfoundation.org/purchas
- e/4933284/\n\nDetails: https://vidiotsfoundation.org/movies/when-harry-met
- -sally/
+ e Eagle\, Remembering Rob Reiner\n\nCome for the ham sandwich orgasm and s
+ tay for the New Year's Eve confession of true love\, and all the hilarity\
+ , romance\, and Carrie Fisher moments in between!\n\nTickets: https://vidi
+ otsfoundation.org/purchase/4933284/\n\nDetails: https://vidiotsfoundation.
+ org/movies/when-harry-met-sally/
 END:VEVENT
 BEGIN:VEVENT
 UID:4933285@vidiotsfoundation.org
