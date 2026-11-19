@@ -8,35 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4883284@vidiotsfoundation.org
-DTSTAMP:20261119T030000Z
-DTSTART;TZID=America/Los_Angeles:20261118T190000
-DTEND;TZID=America/Los_Angeles:20261118T204500
-SUMMARY:Wicker
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883284/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nAn audacious comedic fable about
-  sex\, marriage\, and the absurdities of social convention.\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4883284/\n\nDetails: https://vidiotsf
- oundation.org/movies/wicker/
-END:VEVENT
-BEGIN:VEVENT
-UID:4875235@vidiotsfoundation.org
-DTSTAMP:20261120T033000Z
-DTSTART;TZID=America/Los_Angeles:20261119T193000
-DTEND;TZID=America/Los_Angeles:20261119T205700
-SUMMARY:The Daytrippers
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4875235/
-DESCRIPTION:Run time: 87 min | Format: Digital | Rating: R\n\nSeries: Doors
-  Open at 6\, In the Eagle\n\nIt's a family affair.\n\nTickets: https://vid
- iotsfoundation.org/purchase/4875235/\n\nDetails: https://vidiotsfoundation
- .org/movies/the-daytrippers/
-END:VEVENT
-BEGIN:VEVENT
 UID:4910792@vidiotsfoundation.org
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=America/Los_Angeles:20261120T160000
@@ -219,11 +190,11 @@ SUMMARY:Wicker
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4883302/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nAn audacious comedic fable about
-  sex\, marriage\, and the absurdities of social convention.\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4883302/\n\nDetails: https://vidiotsf
- oundation.org/movies/wicker/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: In t
+ he MUBI Microcinema\n\nAn audacious comedic fable about sex\, marriage\, a
+ nd the absurdities of social convention.\n\nTickets: https://vidiotsfounda
+ tion.org/purchase/4883302/\n\nDetails: https://vidiotsfoundation.org/movie
+ s/wicker/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815669@vidiotsfoundation.org
@@ -249,11 +220,11 @@ SUMMARY:Wicker
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4883324/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, In the MUBI Microcinema\n\nAn audacious comedic fable about
-  sex\, marriage\, and the absurdities of social convention.\n\nTickets: ht
- tps://vidiotsfoundation.org/purchase/4883324/\n\nDetails: https://vidiotsf
- oundation.org/movies/wicker/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: In t
+ he MUBI Microcinema\n\nAn audacious comedic fable about sex\, marriage\, a
+ nd the absurdities of social convention.\n\nTickets: https://vidiotsfounda
+ tion.org/purchase/4883324/\n\nDetails: https://vidiotsfoundation.org/movie
+ s/wicker/
 END:VEVENT
 BEGIN:VEVENT
 UID:4883327@vidiotsfoundation.org
@@ -1361,10 +1332,13 @@ SUMMARY:Batman Returns
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4918324/
-DESCRIPTION:Run time: 126 min | Format: Digital\n\nSeries: In the Eagle\n\n
- The Bat\, the Cat\, the Penguin.\n\nTickets: https://vidiotsfoundation.org
- /purchase/4918324/\n\nDetails: https://vidiotsfoundation.org/movies/batman
- -returns/
+DESCRIPTION:Run time: 126 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\n\nFire up the batmobile and set your sights on Gotham City f
+ or Tim Burton's second sinister and campy installment of the Batman franch
+ ise featuring two of our favorite villains - Danny DeVito as the Penguin a
+ nd Michelle Pfeiffer's phenomenally feline turn as Catwoman!\n\nTickets: h
+ ttps://vidiotsfoundation.org/purchase/4918324/\n\nDetails: https://vidiots
+ foundation.org/movies/batman-returns/
 END:VEVENT
 BEGIN:VEVENT
 UID:4918326@vidiotsfoundation.org
@@ -1609,6 +1583,22 @@ DESCRIPTION:Run time: 201 min | Format: Digital | Rating: PG-13\n\nSeries:
  ord-of-the-rings-the-return-of-the-king/
 END:VEVENT
 BEGIN:VEVENT
+UID:4933226@vidiotsfoundation.org
+DTSTAMP:20261229T000000Z
+DTSTART;TZID=America/Los_Angeles:20261228T160000
+DTEND;TZID=America/Los_Angeles:20261228T182300
+SUMMARY:The Chronicles of Narnia: The Lion\, the Witch and the Wardrobe
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4933226/
+DESCRIPTION:Run time: 143 min | Format: Digital | Rating: PG\n\nSeries: Fil
+ ms for Everyone\, In the Eagle\n\nFollow Vidiots through the wardrobe for 
+ this fantastical and lush adaptation of the beloved C.S. Lewis novel!\n\nT
+ ickets: https://vidiotsfoundation.org/purchase/4933226/\n\nDetails: https:
+ //vidiotsfoundation.org/movies/the-chronicles-of-narnia-the-lion-the-witch
+ -and-the-wardrobe/
+END:VEVENT
+BEGIN:VEVENT
 UID:4933227@vidiotsfoundation.org
 DTSTAMP:20261229T033000Z
 DTSTART;TZID=America/Los_Angeles:20261228T193000
@@ -1704,21 +1694,17 @@ DESCRIPTION:Run time: 110 min | Format: Digital\n\nSeries: 35mm Film\, In t
  nset-boulevard/
 END:VEVENT
 BEGIN:VEVENT
-UID:4823631@vidiotsfoundation.org
-DTSTAMP:20261119T033000Z
-DTSTART;TZID=America/Los_Angeles:20261118T193000
-DTEND;TZID=America/Los_Angeles:20261118T212500
-SUMMARY:Tampopo
+UID:4875235@vidiotsfoundation.org
+DTSTAMP:20261120T033000Z
+DTSTART;TZID=America/Los_Angeles:20261119T193000
+DTEND;TZID=America/Los_Angeles:20261119T205700
+SUMMARY:The Daytrippers
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4823631/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 115 min | 
- Format: 4K Digital | Release year: 1985\n\nSeries: Doors Open at 6\, In th
- e Eagle\n\nWe're serving up the ultimate cinematic feast\, Juzo Itami's de
- lectable "ramen western\," just in time for feasting season!\nAnd come hun
- gry\, our concessions stand will have delicious ramen to slurp during the 
- film!\n\nTickets: https://vidiotsfoundation.org/purchase/4823631/\n\nDetai
- ls: https://vidiotsfoundation.org/movies/tampopo/
-STATUS:TENTATIVE
+URL:https://vidiotsfoundation.org/purchase/4875235/
+DESCRIPTION:Run time: 87 min | Format: Digital | Rating: R\n\nSeries: Doors
+  Open at 6\, In the Eagle\n\nIt's a family affair.\n\nTickets: https://vid
+ iotsfoundation.org/purchase/4875235/\n\nDetails: https://vidiotsfoundation
+ .org/movies/the-daytrippers/
 END:VEVENT
 END:VCALENDAR
