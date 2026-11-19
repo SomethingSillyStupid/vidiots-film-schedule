@@ -45,12 +45,14 @@ SUMMARY:The Devils on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4910792/
-DESCRIPTION:Run time: 112 min | Format: 35mm Film | Rating: X\n\nSeries: 35
- mm Film\, In the Eagle\n\nKen Russell's lavishly deranged and gloriously s
- acrilegious masterpiece comes to Vidiots in a beautiful new restoration on
-  glorious 35mm celluloid!\nSecond Screening Added Friday\, November 20th!\
- n\nTickets: https://vidiotsfoundation.org/purchase/4910792/\n\nDetails: ht
- tps://vidiotsfoundation.org/movies/the-devils/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min | 
+ Format: 35mm Film | Rating: X\n\nSeries: 35mm Film\, In the Eagle\n\nKen R
+ ussell's lavishly deranged and gloriously sacrilegious masterpiece comes t
+ o Vidiots in a beautiful new restoration on glorious 35mm celluloid!\nSeco
+ nd Screening Added Friday\, November 20th!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4910792/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/the-devils/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4883298@vidiotsfoundation.org
@@ -1349,6 +1351,20 @@ DESCRIPTION:Run time: 132 min | Format: Digital | Rating: PG\n\nSeries: In
  front of it for the first time in drag in this moving story of gender\, tr
  adition\, and forbidden romance.\n\nTickets: https://vidiotsfoundation.org
  /purchase/4918322/\n\nDetails: https://vidiotsfoundation.org/movies/yentl/
+END:VEVENT
+BEGIN:VEVENT
+UID:4918324@vidiotsfoundation.org
+DTSTAMP:20261222T000000Z
+DTSTART;TZID=America/Los_Angeles:20261221T160000
+DTEND;TZID=America/Los_Angeles:20261221T180600
+SUMMARY:Batman Returns
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4918324/
+DESCRIPTION:Run time: 126 min | Format: Digital\n\nSeries: In the Eagle\n\n
+ The Bat\, the Cat\, the Penguin.\n\nTickets: https://vidiotsfoundation.org
+ /purchase/4918324/\n\nDetails: https://vidiotsfoundation.org/movies/batman
+ -returns/
 END:VEVENT
 BEGIN:VEVENT
 UID:4918326@vidiotsfoundation.org
