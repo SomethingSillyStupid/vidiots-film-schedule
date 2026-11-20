@@ -8,24 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4910792@vidiotsfoundation.org
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=America/Los_Angeles:20261120T160000
-DTEND;TZID=America/Los_Angeles:20261120T175200
-SUMMARY:The Devils on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4910792/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min | 
- Format: 35mm Film | Rating: X\n\nSeries: 35mm Film\, In the Eagle\n\nKen R
- ussell's lavishly deranged and gloriously sacrilegious masterpiece comes t
- o Vidiots in a beautiful new restoration on glorious 35mm celluloid!\nSeco
- nd Screening Added Friday\, November 20th!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4910792/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/the-devils/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4883298@vidiotsfoundation.org
 DTSTAMP:20261121T003000Z
 DTSTART;TZID=America/Los_Angeles:20261120T163000
@@ -42,25 +24,6 @@ DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: In the MUBI Micr
   Renaissance.\n\nTickets: https://vidiotsfoundation.org/purchase/4883298/\
  n\nDetails: https://vidiotsfoundation.org/movies/once-upon-a-time-in-harle
  m/
-END:VEVENT
-BEGIN:VEVENT
-UID:4815665@vidiotsfoundation.org
-DTSTAMP:20261121T030000Z
-DTSTART;TZID=America/Los_Angeles:20261120T190000
-DTEND;TZID=America/Los_Angeles:20261120T210500
-SUMMARY:Wild at Heart
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815665/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 125 min | 
- Format: 4K Digital | Rating: R\n\nSeries: 100 Years of Harry Dean Stanton\
- , In the Eagle\, The Lynchian Legacy\n\nIll-fated lovers Sailor and Lula (
- Nicolas Cage and Laura Dern) hit the road to escape a hit man and end up i
- n an absurdly nightmarish landscape in David Lynch's dark romantic fairy t
- ale that earned the Palme d'Or.\nNew 4K Restoration!\n\nTickets: https://v
- idiotsfoundation.org/purchase/4815665/\n\nDetails: https://vidiotsfoundati
- on.org/movies/wild-at-heart/
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4883285@vidiotsfoundation.org
@@ -80,21 +43,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min |
  ://vidiotsfoundation.org/purchase/4883285/\n\nDetails: https://vidiotsfoun
  dation.org/movies/once-upon-a-time-in-harlem/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4883005@vidiotsfoundation.org
-DTSTAMP:20261121T055500Z
-DTSTART;TZID=America/Los_Angeles:20261120T215500
-DTEND;TZID=America/Los_Angeles:20261120T233200
-SUMMARY:Johnny Mnemonic on 35mm
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883005/
-DESCRIPTION:Run time: 97 min | Format: 35mm Film | Rating: R\n\nSeries: 35m
- m Film\, In the Eagle\, What the Friday?!?\n\nWe know you can't get Keanu 
- out of your head\, even when he's storing all your data inside his own bra
- in!\n\nTickets: https://vidiotsfoundation.org/purchase/4883005/\n\nDetails
- : https://vidiotsfoundation.org/movies/johnny-mnemonic/
 END:VEVENT
 BEGIN:VEVENT
 UID:4883286@vidiotsfoundation.org
@@ -1695,17 +1643,55 @@ DESCRIPTION:Run time: 110 min | Format: Digital\n\nSeries: 35mm Film\, In t
  nset-boulevard/
 END:VEVENT
 BEGIN:VEVENT
-UID:4875235@vidiotsfoundation.org
-DTSTAMP:20261120T033000Z
-DTSTART;TZID=America/Los_Angeles:20261119T193000
-DTEND;TZID=America/Los_Angeles:20261119T205700
-SUMMARY:The Daytrippers
+UID:4910792@vidiotsfoundation.org
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=America/Los_Angeles:20261120T160000
+DTEND;TZID=America/Los_Angeles:20261120T175200
+SUMMARY:The Devils on 35mm
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4875235/
-DESCRIPTION:Run time: 87 min | Format: Digital | Rating: R\n\nSeries: Doors
-  Open at 6\, In the Eagle\n\nIt's a family affair.\n\nTickets: https://vid
- iotsfoundation.org/purchase/4875235/\n\nDetails: https://vidiotsfoundation
- .org/movies/the-daytrippers/
+URL:https://vidiotsfoundation.org/purchase/4910792/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min | 
+ Format: 35mm Film | Rating: X\n\nSeries: 35mm Film\, In the Eagle\n\nKen R
+ ussell's lavishly deranged and gloriously sacrilegious masterpiece comes t
+ o Vidiots in a beautiful new restoration on glorious 35mm celluloid!\nSeco
+ nd Screening Added Friday\, November 20th!\n\nTickets: https://vidiotsfoun
+ dation.org/purchase/4910792/\n\nDetails: https://vidiotsfoundation.org/mov
+ ies/the-devils/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4815665@vidiotsfoundation.org
+DTSTAMP:20261121T030000Z
+DTSTART;TZID=America/Los_Angeles:20261120T190000
+DTEND;TZID=America/Los_Angeles:20261120T210500
+SUMMARY:Wild at Heart
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815665/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 125 min | 
+ Format: 4K Digital | Rating: R\n\nSeries: 100 Years of Harry Dean Stanton\
+ , In the Eagle\, The Lynchian Legacy\n\nIll-fated lovers Sailor and Lula (
+ Nicolas Cage and Laura Dern) hit the road to escape a hit man and end up i
+ n an absurdly nightmarish landscape in David Lynch's dark romantic fairy t
+ ale that earned the Palme d'Or.\nNew 4K Restoration!\n\nTickets: https://v
+ idiotsfoundation.org/purchase/4815665/\n\nDetails: https://vidiotsfoundati
+ on.org/movies/wild-at-heart/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4883005@vidiotsfoundation.org
+DTSTAMP:20261121T055500Z
+DTSTART;TZID=America/Los_Angeles:20261120T215500
+DTEND;TZID=America/Los_Angeles:20261120T233200
+SUMMARY:Johnny Mnemonic on 35mm
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883005/
+DESCRIPTION:Run time: 97 min | Format: 35mm Film | Rating: R\n\nSeries: 35m
+ m Film\, In the Eagle\, What the Friday?!?\n\nWe know you can't get Keanu 
+ out of your head\, even when he's storing all your data inside his own bra
+ in!\n\nTickets: https://vidiotsfoundation.org/purchase/4883005/\n\nDetails
+ : https://vidiotsfoundation.org/movies/johnny-mnemonic/
 END:VEVENT
 END:VCALENDAR
