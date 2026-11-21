@@ -8,76 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4883298@vidiotsfoundation.org
-DTSTAMP:20261121T003000Z
-DTSTART;TZID=America/Los_Angeles:20261120T163000
-DTEND;TZID=America/Los_Angeles:20261120T181000
-SUMMARY:Once Upon a Time in Harlem
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883298/
-DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: In the MUBI Micr
- ocinema\, Additional Shows\, Groundbreaking Non-Fiction\n\nA decade after 
- his death\, genre-defying filmmaker William Greaves has one last trick up 
- his sleeve with what he considered the most important event he captured on
-  film: a 1972 party he engineered with the living luminaries of the Harlem
-  Renaissance.\n\nTickets: https://vidiotsfoundation.org/purchase/4883298/\
- n\nDetails: https://vidiotsfoundation.org/movies/once-upon-a-time-in-harle
- m/
-END:VEVENT
-BEGIN:VEVENT
-UID:4883285@vidiotsfoundation.org
-DTSTAMP:20261121T033000Z
-DTSTART;TZID=America/Los_Angeles:20261120T193000
-DTEND;TZID=America/Los_Angeles:20261120T211000
-SUMMARY:Once Upon a Time in Harlem
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883285/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 100 min | 
- Format: Digital\n\nSeries: In the MUBI Microcinema\, Additional Shows\, Gr
- oundbreaking Non-Fiction\n\nA decade after his death\, genre-defying filmm
- aker William Greaves has one last trick up his sleeve with what he conside
- red the most important event he captured on film: a 1972 party he engineer
- ed with the living luminaries of the Harlem Renaissance.\n\nTickets: https
- ://vidiotsfoundation.org/purchase/4883285/\n\nDetails: https://vidiotsfoun
- dation.org/movies/once-upon-a-time-in-harlem/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4883286@vidiotsfoundation.org
-DTSTAMP:20261121T061500Z
-DTSTART;TZID=America/Los_Angeles:20261120T221500
-DTEND;TZID=America/Los_Angeles:20261120T235000
-SUMMARY:Lady
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883286/
-DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: In the MUBI Micro
- cinema\, Additional Shows\n\nJoin us in the microcinema for this magnifice
- ntly absurd mockumentary with eye-popping imagery and a deliciously off-ki
- lter performance by Sian Clifford.\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4883286/\n\nDetails: https://vidiotsfoundation.org/movies/lady
- /
-END:VEVENT
-BEGIN:VEVENT
-UID:4815666@vidiotsfoundation.org
-DTSTAMP:20261121T193000Z
-DTSTART;TZID=America/Los_Angeles:20261121T113000
-DTEND;TZID=America/Los_Angeles:20261121T130100
-SUMMARY:Cookie Queens
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815666/
-DESCRIPTION:Run time: 91 min | Format: Digital | Rating: G\n\nSeries: Films
-  for Everyone\, Groundbreaking Non-Fiction\, In the Eagle\, Special Guests
-  in Attendance\, TeenTix LA\n\nIt's cookie time at Vidiots\, so bring your
-  troop for one sweet treat of a documentary!\nWith director Alysa Nahmias 
- and film participants Nikki\, Nala\, and Nyah in attendance!\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4815666/\n\nDetails: https://vidiots
- foundation.org/movies/cookie-queens/
-END:VEVENT
-BEGIN:VEVENT
 UID:4883300@vidiotsfoundation.org
 DTSTAMP:20261122T003000Z
 DTSTART;TZID=America/Los_Angeles:20261121T163000
@@ -86,32 +16,14 @@ SUMMARY:Once Upon a Time in Harlem
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4883300/
-DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: In the MUBI Micr
- ocinema\, Additional Shows\, Groundbreaking Non-Fiction\n\nA decade after 
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nA decade after 
  his death\, genre-defying filmmaker William Greaves has one last trick up 
  his sleeve with what he considered the most important event he captured on
   film: a 1972 party he engineered with the living luminaries of the Harlem
   Renaissance.\n\nTickets: https://vidiotsfoundation.org/purchase/4883300/\
  n\nDetails: https://vidiotsfoundation.org/movies/once-upon-a-time-in-harle
  m/
-END:VEVENT
-BEGIN:VEVENT
-UID:4815520@vidiotsfoundation.org
-DTSTAMP:20261122T024500Z
-DTSTART;TZID=America/Los_Angeles:20261121T184500
-DTEND;TZID=America/Los_Angeles:20261121T211000
-SUMMARY:Paris\, Texas
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815520/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 145 min | 
- Format: 4K Digital\n\nSeries: 100 Years of Harry Dean Stanton\, In the Eag
- le\n\nOur beloved Harry Dean Stanton stars in Wim Wenders' dreamy and pond
- erous Paris\, Texas \, a profoundly moving character study written by Puli
- tzer Prize–winning playwright Sam Shepard.\n4K Restoration\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4815520/\n\nDetails: https://vidiots
- foundation.org/movies/paris-texas/
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4883301@vidiotsfoundation.org
@@ -122,57 +34,12 @@ SUMMARY:Lady
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4883301/
-DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: In the MUBI Micro
- cinema\, Additional Shows\n\nJoin us in the microcinema for this magnifice
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\n\nJoin us in the microcinema for this magnifice
  ntly absurd mockumentary with eye-popping imagery and a deliciously off-ki
  lter performance by Sian Clifford.\n\nTickets: https://vidiotsfoundation.o
  rg/purchase/4883301/\n\nDetails: https://vidiotsfoundation.org/movies/lady
  /
-END:VEVENT
-BEGIN:VEVENT
-UID:4883302@vidiotsfoundation.org
-DTSTAMP:20261122T054500Z
-DTSTART;TZID=America/Los_Angeles:20261121T214500
-DTEND;TZID=America/Los_Angeles:20261121T233000
-SUMMARY:Wicker
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883302/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: In t
- he MUBI Microcinema\n\nAn audacious comedic fable about sex\, marriage\, a
- nd the absurdities of social convention.\n\nTickets: https://vidiotsfounda
- tion.org/purchase/4883302/\n\nDetails: https://vidiotsfoundation.org/movie
- s/wicker/
-END:VEVENT
-BEGIN:VEVENT
-UID:4815669@vidiotsfoundation.org
-DTSTAMP:20261122T055500Z
-DTSTART;TZID=America/Los_Angeles:20261121T215500
-DTEND;TZID=America/Los_Angeles:20261121T231200
-SUMMARY:Alucarda
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815669/
-DESCRIPTION:Run time: 77 min | Format: Digital\n\nSeries: In the Eagle\n\nA
-  jaw-dropping deep cut of Satanic Cinema\, Juan López Moctezuma's Alucard
- a is treasure of Mexican Horror dying to be rediscovered at large.\n\nTick
- ets: https://vidiotsfoundation.org/purchase/4815669/\n\nDetails: https://v
- idiotsfoundation.org/movies/alucarda/
-END:VEVENT
-BEGIN:VEVENT
-UID:4883324@vidiotsfoundation.org
-DTSTAMP:20261122T213000Z
-DTSTART;TZID=America/Los_Angeles:20261122T133000
-DTEND;TZID=America/Los_Angeles:20261122T151500
-SUMMARY:Wicker
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883324/
-DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: In t
- he MUBI Microcinema\n\nAn audacious comedic fable about sex\, marriage\, a
- nd the absurdities of social convention.\n\nTickets: https://vidiotsfounda
- tion.org/purchase/4883324/\n\nDetails: https://vidiotsfoundation.org/movie
- s/wicker/
 END:VEVENT
 BEGIN:VEVENT
 UID:4883327@vidiotsfoundation.org
@@ -183,8 +50,8 @@ SUMMARY:Lady
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4883327/
-DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: In the MUBI Micro
- cinema\, Additional Shows\n\nJoin us in the microcinema for this magnifice
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\n\nJoin us in the microcinema for this magnifice
  ntly absurd mockumentary with eye-popping imagery and a deliciously off-ki
  lter performance by Sian Clifford.\n\nTickets: https://vidiotsfoundation.o
  rg/purchase/4883327/\n\nDetails: https://vidiotsfoundation.org/movies/lady
@@ -199,12 +66,11 @@ SUMMARY:RRR
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4848951/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 186 min | 
- Format: Digital | Release year: 2022\n\nSeries: In the Eagle\n\nRise\, Roa
- r\, Revolt.\nCan't stop! Won't Stop! We can never get enough of this moder
- n epic!\n\nTickets: https://vidiotsfoundation.org/purchase/4848951/\n\nDet
- ails: https://vidiotsfoundation.org/movies/rrr/
-STATUS:TENTATIVE
+DESCRIPTION:Run time: 186 min | Format: Digital | Release year: 2022\n\nSer
+ ies: In the Eagle\n\nRise\, Roar\, Revolt.\nCan't stop! Won't Stop! We can
+  never get enough of this modern epic!\n\nTickets: https://vidiotsfoundati
+ on.org/purchase/4848951/\n\nDetails: https://vidiotsfoundation.org/movies/
+ rrr/
 END:VEVENT
 BEGIN:VEVENT
 UID:4883325@vidiotsfoundation.org
@@ -215,8 +81,8 @@ SUMMARY:Once Upon a Time in Harlem
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4883325/
-DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: In the MUBI Micr
- ocinema\, Additional Shows\, Groundbreaking Non-Fiction\n\nA decade after 
+DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
+ \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nA decade after 
  his death\, genre-defying filmmaker William Greaves has one last trick up 
  his sleeve with what he considered the most important event he captured on
   film: a 1972 party he engineered with the living luminaries of the Harlem
@@ -1626,55 +1492,68 @@ DESCRIPTION:Run time: 110 min | Format: Digital\n\nSeries: 35mm Film\, In t
  nset-boulevard/
 END:VEVENT
 BEGIN:VEVENT
-UID:4910792@vidiotsfoundation.org
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=America/Los_Angeles:20261120T160000
-DTEND;TZID=America/Los_Angeles:20261120T175200
-SUMMARY:The Devils on 35mm
+UID:4815666@vidiotsfoundation.org
+DTSTAMP:20261121T193000Z
+DTSTART;TZID=America/Los_Angeles:20261121T113000
+DTEND;TZID=America/Los_Angeles:20261121T130100
+SUMMARY:Cookie Queens
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4910792/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 112 min | 
- Format: 35mm Film | Rating: X\n\nSeries: 35mm Film\, In the Eagle\n\nKen R
- ussell's lavishly deranged and gloriously sacrilegious masterpiece comes t
- o Vidiots in a beautiful new restoration on glorious 35mm celluloid!\nSeco
- nd Screening Added Friday\, November 20th!\n\nTickets: https://vidiotsfoun
- dation.org/purchase/4910792/\n\nDetails: https://vidiotsfoundation.org/mov
- ies/the-devils/
+URL:https://vidiotsfoundation.org/purchase/4815666/
+DESCRIPTION:Run time: 91 min | Format: Digital | Rating: G\n\nSeries: Films
+  for Everyone\, Groundbreaking Non-Fiction\, In the Eagle\, Special Guests
+  in Attendance\, TeenTix LA\n\nIt's cookie time at Vidiots\, so bring your
+  troop for one sweet treat of a documentary!\nWith director Alysa Nahmias 
+ and film participants Nikki\, Nala\, and Nyah in attendance!\n\nTickets: h
+ ttps://vidiotsfoundation.org/purchase/4815666/\n\nDetails: https://vidiots
+ foundation.org/movies/cookie-queens/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815520@vidiotsfoundation.org
+DTSTAMP:20261122T024500Z
+DTSTART;TZID=America/Los_Angeles:20261121T184500
+DTEND;TZID=America/Los_Angeles:20261121T211000
+SUMMARY:Paris\, Texas
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815520/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 145 min | 
+ Format: 4K Digital\n\nSeries: 100 Years of Harry Dean Stanton\, In the Eag
+ le\n\nOur beloved Harry Dean Stanton stars in Wim Wenders' dreamy and pond
+ erous Paris\, Texas \, a profoundly moving character study written by Puli
+ tzer Prize–winning playwright Sam Shepard.\n4K Restoration\n\nTickets: h
+ ttps://vidiotsfoundation.org/purchase/4815520/\n\nDetails: https://vidiots
+ foundation.org/movies/paris-texas/
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4815665@vidiotsfoundation.org
-DTSTAMP:20261121T030000Z
-DTSTART;TZID=America/Los_Angeles:20261120T190000
-DTEND;TZID=America/Los_Angeles:20261120T210500
-SUMMARY:Wild at Heart
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815665/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 125 min | 
- Format: 4K Digital | Rating: R\n\nSeries: 100 Years of Harry Dean Stanton\
- , In the Eagle\, The Lynchian Legacy\n\nIll-fated lovers Sailor and Lula (
- Nicolas Cage and Laura Dern) hit the road to escape a hit man and end up i
- n an absurdly nightmarish landscape in David Lynch's dark romantic fairy t
- ale that earned the Palme d'Or.\nNew 4K Restoration!\n\nTickets: https://v
- idiotsfoundation.org/purchase/4815665/\n\nDetails: https://vidiotsfoundati
- on.org/movies/wild-at-heart/
-STATUS:TENTATIVE
+UID:4883302@vidiotsfoundation.org
+DTSTAMP:20261122T054500Z
+DTSTART;TZID=America/Los_Angeles:20261121T214500
+DTEND;TZID=America/Los_Angeles:20261121T233000
+SUMMARY:Wicker
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883302/
+DESCRIPTION:Run time: 105 min | Format: Digital | Rating: R\n\nSeries: In t
+ he MUBI Microcinema\n\nAn audacious comedic fable about sex\, marriage\, a
+ nd the absurdities of social convention.\n\nTickets: https://vidiotsfounda
+ tion.org/purchase/4883302/\n\nDetails: https://vidiotsfoundation.org/movie
+ s/wicker/
 END:VEVENT
 BEGIN:VEVENT
-UID:4883005@vidiotsfoundation.org
-DTSTAMP:20261121T055500Z
-DTSTART;TZID=America/Los_Angeles:20261120T215500
-DTEND;TZID=America/Los_Angeles:20261120T233200
-SUMMARY:Johnny Mnemonic on 35mm
+UID:4815669@vidiotsfoundation.org
+DTSTAMP:20261122T055500Z
+DTSTART;TZID=America/Los_Angeles:20261121T215500
+DTEND;TZID=America/Los_Angeles:20261121T231200
+SUMMARY:Alucarda
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883005/
-DESCRIPTION:Run time: 97 min | Format: 35mm Film | Rating: R\n\nSeries: 35m
- m Film\, In the Eagle\, What the Friday?!?\n\nWe know you can't get Keanu 
- out of your head\, even when he's storing all your data inside his own bra
- in!\n\nTickets: https://vidiotsfoundation.org/purchase/4883005/\n\nDetails
- : https://vidiotsfoundation.org/movies/johnny-mnemonic/
+URL:https://vidiotsfoundation.org/purchase/4815669/
+DESCRIPTION:Run time: 77 min | Format: Digital\n\nSeries: In the Eagle\n\nA
+  jaw-dropping deep cut of Satanic Cinema\, Juan López Moctezuma's Alucard
+ a is treasure of Mexican Horror dying to be rediscovered at large.\n\nTick
+ ets: https://vidiotsfoundation.org/purchase/4815669/\n\nDetails: https://v
+ idiotsfoundation.org/movies/alucarda/
 END:VEVENT
 END:VCALENDAR
