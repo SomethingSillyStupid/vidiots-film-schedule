@@ -53,13 +53,12 @@ SUMMARY:Lady
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4883286/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 95 min | F
- ormat: Digital\n\nSeries: In the MUBI Microcinema\, Additional Shows\n\nJo
- in us in the microcinema for this magnificently absurd mockumentary with e
- ye-popping imagery and a deliciously off-kilter performance by Sian Cliffo
- rd.\n\nTickets: https://vidiotsfoundation.org/purchase/4883286/\n\nDetails
- : https://vidiotsfoundation.org/movies/lady/
-STATUS:TENTATIVE
+DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: In the MUBI Micro
+ cinema\, Additional Shows\n\nJoin us in the microcinema for this magnifice
+ ntly absurd mockumentary with eye-popping imagery and a deliciously off-ki
+ lter performance by Sian Clifford.\n\nTickets: https://vidiotsfoundation.o
+ rg/purchase/4883286/\n\nDetails: https://vidiotsfoundation.org/movies/lady
+ /
 END:VEVENT
 BEGIN:VEVENT
 UID:4815666@vidiotsfoundation.org
@@ -686,22 +685,6 @@ DESCRIPTION:Run time: 137 min | Format: Digital | Rating: PG-13\n\nSeries:
  reening of David Lynch's epic space opera Dune !\n\nTickets: https://vidio
  tsfoundation.org/purchase/4933638/\n\nDetails: https://vidiotsfoundation.o
  rg/movies/dune/
-END:VEVENT
-BEGIN:VEVENT
-UID:4914018@vidiotsfoundation.org
-DTSTAMP:20261202T033000Z
-DTSTART;TZID=America/Los_Angeles:20261201T193000
-DTEND;TZID=America/Los_Angeles:20261201T204600
-SUMMARY:Daisies
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4914018/
-DESCRIPTION:Run time: 76 min | Format: Digital | Release year: 1966\n\nSeri
- es: Doors Open at 6\, In the Eagle\n\nAn audacious and gleeful shock to th
- e system\, Věra Chytilová's Czech New Wave masterpiece is punk as f*&k\,
-  but also as sweet\, goofy\, and girly as the name would imply.\n\nTickets
- : https://vidiotsfoundation.org/purchase/4914018/\n\nDetails: https://vidi
- otsfoundation.org/movies/daisies/
 END:VEVENT
 BEGIN:VEVENT
 UID:4964612@vidiotsfoundation.org
