@@ -8,23 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4848952@vidiotsfoundation.org
-DTSTAMP:20261124T033000Z
-DTSTART;TZID=America/Los_Angeles:20261123T193000
-DTEND;TZID=America/Los_Angeles:20261123T212900
-SUMMARY:The Host
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4848952/
-DESCRIPTION:Run time: 119 min | Format: 4K Digital | Release year: 2006\n\n
- Series: Doors Open at 6\, In the Eagle\n\nThis hilarious and heartfelt cre
- ature feature from Korean master Bong Joon-ho is as delightful and frightf
- ul as a horror film can be.\n20th Anniversary! New 4K Restoration plus a b
- onus pre-recorded conversation with Bong Joon-ho!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4848952/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-host/
-END:VEVENT
-BEGIN:VEVENT
 UID:4883126@vidiotsfoundation.org
 DTSTAMP:20261125T030000Z
 DTSTART;TZID=America/Los_Angeles:20261124T190000
@@ -380,11 +363,13 @@ SUMMARY:Frozen Sing Along
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4843402/
-DESCRIPTION:Run time: 102 min | Format: Digital | Rating: All Ages\n\nSerie
- s: Films for Everyone\, In the Eagle\, Interactive\n\nIt's time to Let it 
- Go with everyone's favorite musical saga of a duo of iconic ice princesses
- .\n\nTickets: https://vidiotsfoundation.org/purchase/4843402/\n\nDetails: 
- https://vidiotsfoundation.org/movies/frozen/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 102 min | 
+ Format: Digital | Rating: All Ages\n\nSeries: Films for Everyone\, In the 
+ Eagle\, Interactive\n\nIt's time to Let it Go with everyone's favorite mus
+ ical saga of a duo of iconic ice princesses.\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4843402/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/frozen/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4883397@vidiotsfoundation.org
@@ -485,6 +470,22 @@ DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
  family in a Florida suburb.\nFillmmaker Liz Sargent in person on December 
  3rd!\n\nTickets: https://vidiotsfoundation.org/purchase/4964612/\n\nDetail
  s: https://vidiotsfoundation.org/movies/take-me-home/
+END:VEVENT
+BEGIN:VEVENT
+UID:4998209@vidiotsfoundation.org
+DTSTAMP:20261204T033000Z
+DTSTART;TZID=America/Los_Angeles:20261203T193000
+DTEND;TZID=America/Los_Angeles:20261203T204600
+SUMMARY:Daisies
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4998209/
+DESCRIPTION:Run time: 76 min | Format: Digital | Release year: 1966\n\nSeri
+ es: Doors Open at 6\, In the Eagle\n\nAn audacious and gleeful shock to th
+ e system\, Věra Chytilová's Czech New Wave masterpiece is punk as f*&k\,
+  but also as sweet\, goofy\, and girly as the name would imply.\n\nTickets
+ : https://vidiotsfoundation.org/purchase/4998209/\n\nDetails: https://vidi
+ otsfoundation.org/movies/daisies/
 END:VEVENT
 BEGIN:VEVENT
 UID:4941362@vidiotsfoundation.org
@@ -676,6 +677,24 @@ DESCRIPTION:Run time: 122 min | Format: 35mm Film\n\nSeries: 35mm Film\, In
  -place-in-the-sun/
 END:VEVENT
 BEGIN:VEVENT
+UID:4997996@vidiotsfoundation.org
+DTSTAMP:20261207T001500Z
+DTSTART;TZID=America/Los_Angeles:20261206T161500
+DTEND;TZID=America/Los_Angeles:20261206T190900
+SUMMARY:You Can See Everything
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4997996/
+DESCRIPTION:Run time: 174 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoi
+ n us in the microcinema for the documentary event of the year - Nathan Fie
+ lder and Lance Oppenheim's mind-blowing portrait of disgraced tech CEO Eli
+ zabeth Holmes\, and a post-modern look at what money and the pursuit of en
+ tertainment can do to the truth.\n\nTickets: https://vidiotsfoundation.org
+ /purchase/4997996/\n\nDetails: https://vidiotsfoundation.org/movies/you-ca
+ n-see-everything/
+END:VEVENT
+BEGIN:VEVENT
 UID:4918268@vidiotsfoundation.org
 DTSTAMP:20261207T030000Z
 DTSTART;TZID=America/Los_Angeles:20261206T190000
@@ -691,6 +710,23 @@ DESCRIPTION:Run time: 117 min | Format: Digital | Rating: PG\n\nSeries: Dol
  rjerking screening of Steel Magnolias .\n\nTickets: https://vidiotsfoundat
  ion.org/purchase/4918268/\n\nDetails: https://vidiotsfoundation.org/movies
  /steel-magnolias/
+END:VEVENT
+BEGIN:VEVENT
+UID:4997997@vidiotsfoundation.org
+DTSTAMP:20261207T040000Z
+DTSTART;TZID=America/Los_Angeles:20261206T200000
+DTEND;TZID=America/Los_Angeles:20261206T213100
+SUMMARY:Take Me Home
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4997997/
+DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
+ , In the MUBI Microcinema\, Special Guests in Attendance\n\nJoin us in the
+  microcinema for Liz Sargent’s powerful and intimate debut drama examine
+ s the shifting demands placed on a unique — and uniquely challenged — 
+ family in a Florida suburb.\nFillmmaker Liz Sargent in person on December 
+ 3rd!\n\nTickets: https://vidiotsfoundation.org/purchase/4997997/\n\nDetail
+ s: https://vidiotsfoundation.org/movies/take-me-home/
 END:VEVENT
 BEGIN:VEVENT
 UID:4918276@vidiotsfoundation.org
@@ -880,9 +916,11 @@ URL:https://vidiotsfoundation.org/purchase/4942951/
 DESCRIPTION:Run time: 90 min\n\nSeries: Doors Open at 6\, In the Eagle\n\nY
  ou'll believe in life after love watching Cher dazzle through the decades 
  at this glitzy\, groovy\, good-time get-down\, packed with fabulously glam
-  Cher music videos\, concert footage\, and TV rarities!\n\nTickets: https:
- //vidiotsfoundation.org/purchase/4942951/\n\nDetails: https://vidiotsfound
- ation.org/movies/a-very-cher-y-holiday-presented-by-museum-of-home-video/
+  Cher music videos\, concert footage\, and TV rarities!\nPlus\, drag perfo
+ rmer extraordinaire Anya Body will be hosting karaoke before and after the
+  screening\, with a costume contest to boot!\n\nTickets: https://vidiotsfo
+ undation.org/purchase/4942951/\n\nDetails: https://vidiotsfoundation.org/m
+ ovies/a-very-cher-y-holiday-presented-by-museum-of-home-video/
 END:VEVENT
 BEGIN:VEVENT
 UID:4918290@vidiotsfoundation.org
@@ -1404,60 +1442,27 @@ SUMMARY:Sunset Boulevard
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4933287/
-DESCRIPTION:Run time: 110 min | Format: Digital\n\nSeries: 35mm Film\, In t
- he Eagle\n\nDon your turban and cigarette holder and spend your New Year's
-  Eve with Vidiots and Norma Desmond!\n\nTickets: https://vidiotsfoundation
- .org/purchase/4933287/\n\nDetails: https://vidiotsfoundation.org/movies/su
- nset-boulevard/
+DESCRIPTION:Run time: 110 min | Format: Digital\n\nSeries: In the Eagle\n\n
+ Don your turban and cigarette holder and spend your New Year's Eve with Vi
+ diots and Norma Desmond!\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/4933287/\n\nDetails: https://vidiotsfoundation.org/movies/sunset-bouleva
+ rd/
 END:VEVENT
 BEGIN:VEVENT
-UID:4883327@vidiotsfoundation.org
-DTSTAMP:20261123T001500Z
-DTSTART;TZID=America/Los_Angeles:20261122T161500
-DTEND;TZID=America/Los_Angeles:20261122T175000
-SUMMARY:Lady
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883327/
-DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Additional Shows\
- , In the MUBI Microcinema\n\nJoin us in the microcinema for this magnifice
- ntly absurd mockumentary with eye-popping imagery and a deliciously off-ki
- lter performance by Sian Clifford.\n\nTickets: https://vidiotsfoundation.o
- rg/purchase/4883327/\n\nDetails: https://vidiotsfoundation.org/movies/lady
- /
-END:VEVENT
-BEGIN:VEVENT
-UID:4848951@vidiotsfoundation.org
-DTSTAMP:20261123T020000Z
-DTSTART;TZID=America/Los_Angeles:20261122T180000
-DTEND;TZID=America/Los_Angeles:20261122T210600
-SUMMARY:RRR
+UID:4848952@vidiotsfoundation.org
+DTSTAMP:20261124T033000Z
+DTSTART;TZID=America/Los_Angeles:20261123T193000
+DTEND;TZID=America/Los_Angeles:20261123T212900
+SUMMARY:The Host
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4848951/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 186 min | 
- Format: Digital | Release year: 2022\n\nSeries: In the Eagle\n\nRise\, Roa
- r\, Revolt.\nCan't stop! Won't Stop! We can never get enough of this moder
- n epic!\n\nTickets: https://vidiotsfoundation.org/purchase/4848951/\n\nDet
- ails: https://vidiotsfoundation.org/movies/rrr/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4883325@vidiotsfoundation.org
-DTSTAMP:20261123T030000Z
-DTSTART;TZID=America/Los_Angeles:20261122T190000
-DTEND;TZID=America/Los_Angeles:20261122T204000
-SUMMARY:Once Upon a Time in Harlem
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883325/
-DESCRIPTION:Run time: 100 min | Format: Digital\n\nSeries: Additional Shows
- \, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nA decade after 
- his death\, genre-defying filmmaker William Greaves has one last trick up 
- his sleeve with what he considered the most important event he captured on
-  film: a 1972 party he engineered with the living luminaries of the Harlem
-  Renaissance.\n\nTickets: https://vidiotsfoundation.org/purchase/4883325/\
- n\nDetails: https://vidiotsfoundation.org/movies/once-upon-a-time-in-harle
- m/
+URL:https://vidiotsfoundation.org/purchase/4848952/
+DESCRIPTION:Run time: 119 min | Format: 4K Digital | Release year: 2006\n\n
+ Series: Doors Open at 6\, In the Eagle\n\nThis hilarious and heartfelt cre
+ ature feature from Korean master Bong Joon-ho is as delightful and frightf
+ ul as a horror film can be.\n20th Anniversary! New 4K Restoration plus a b
+ onus pre-recorded conversation with Bong Joon-ho!\n\nTickets: https://vidi
+ otsfoundation.org/purchase/4848952/\n\nDetails: https://vidiotsfoundation.
+ org/movies/the-host/
 END:VEVENT
 END:VCALENDAR
