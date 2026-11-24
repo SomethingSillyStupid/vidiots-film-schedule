@@ -8,42 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4883126@vidiotsfoundation.org
-DTSTAMP:20261125T030000Z
-DTSTART;TZID=America/Los_Angeles:20261124T190000
-DTEND;TZID=America/Los_Angeles:20261124T203000
-SUMMARY:Sweet 16mm: The Future of Technology from Yesteryear
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883126/
-DESCRIPTION:Run time: 90 min\n\nSeries: In the MUBI Microcinema\, Sweet 16m
- m\n\nTurn off your Apple 2C and get ready for some obsolete technology on 
- celluloid as this month's 16mm foray into celluloid weirdness delves into 
- vintage animation\, educational films\, trippy trailers\, antiquated adver
- tisements\, Sci Fi rarities and more from the 1950s through the 1980s hera
- lding the “coming” world of robots\, time and space travel\, and the h
- ome computer explosion.\n\nTickets: https://vidiotsfoundation.org/purchase
- /4883126/\n\nDetails: https://vidiotsfoundation.org/movies/sweet-16mm-the-
- future-of-technology-from-yesteryear/
-END:VEVENT
-BEGIN:VEVENT
-UID:4815443@vidiotsfoundation.org
-DTSTAMP:20261125T033000Z
-DTSTART;TZID=America/Los_Angeles:20261124T193000
-DTEND;TZID=America/Los_Angeles:20261124T212700
-SUMMARY:The Last Waltz
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815443/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 117 min | 
- Format: Digital\n\nSeries: Doors Open at 6\, In the Eagle\n\nIt's our favo
- rite time of year again\, time to rock out with The Band and a cavalcade o
- f musical superstars in Scorsese's electrifying concert film.\n\nTickets: 
- https://vidiotsfoundation.org/purchase/4815443/\n\nDetails: https://vidiot
- sfoundation.org/movies/the-last-waltz/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4883330@vidiotsfoundation.org
 DTSTAMP:20261126T030000Z
 DTSTART;TZID=America/Los_Angeles:20261125T190000
@@ -89,12 +53,13 @@ SUMMARY:Wildwood
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
 URL:https://vidiotsfoundation.org/purchase/4883353/
-DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries: 
- Additional Shows\, In the MUBI Microcinema\n\nA handmade stop-motion sweep
- ing adventure about love\, sacrifice\, and the magic that reveals itself w
- hen we dare to look beyond the familiar.\n\nTickets: https://vidiotsfounda
- tion.org/purchase/4883353/\n\nDetails: https://vidiotsfoundation.org/movie
- s/wildwood/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 131 min | 
+ Format: Digital | Rating: PG-13\n\nSeries: Additional Shows\, In the MUBI 
+ Microcinema\n\nA handmade stop-motion sweeping adventure about love\, sacr
+ ifice\, and the magic that reveals itself when we dare to look beyond the 
+ familiar.\n\nTickets: https://vidiotsfoundation.org/purchase/4883353/\n\nD
+ etails: https://vidiotsfoundation.org/movies/wildwood/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:4815404@vidiotsfoundation.org
@@ -1449,20 +1414,39 @@ DESCRIPTION:Run time: 110 min | Format: Digital\n\nSeries: In the Eagle\n\n
  rd/
 END:VEVENT
 BEGIN:VEVENT
-UID:4848952@vidiotsfoundation.org
-DTSTAMP:20261124T033000Z
-DTSTART;TZID=America/Los_Angeles:20261123T193000
-DTEND;TZID=America/Los_Angeles:20261123T212900
-SUMMARY:The Host
+UID:4883126@vidiotsfoundation.org
+DTSTAMP:20261125T030000Z
+DTSTART;TZID=America/Los_Angeles:20261124T190000
+DTEND;TZID=America/Los_Angeles:20261124T203000
+SUMMARY:Sweet 16mm: The Future of Technology from Yesteryear
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883126/
+DESCRIPTION:Run time: 90 min\n\nSeries: In the MUBI Microcinema\, Sweet 16m
+ m\n\nTurn off your Apple 2C and get ready for some obsolete technology on 
+ celluloid as this month's 16mm foray into celluloid weirdness delves into 
+ vintage animation\, educational films\, trippy trailers\, antiquated adver
+ tisements\, Sci Fi rarities and more from the 1950s through the 1980s hera
+ lding the “coming” world of robots\, time and space travel\, and the h
+ ome computer explosion.\n\nTickets: https://vidiotsfoundation.org/purchase
+ /4883126/\n\nDetails: https://vidiotsfoundation.org/movies/sweet-16mm-the-
+ future-of-technology-from-yesteryear/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815443@vidiotsfoundation.org
+DTSTAMP:20261125T033000Z
+DTSTART;TZID=America/Los_Angeles:20261124T193000
+DTEND;TZID=America/Los_Angeles:20261124T212700
+SUMMARY:The Last Waltz
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4848952/
-DESCRIPTION:Run time: 119 min | Format: 4K Digital | Release year: 2006\n\n
- Series: Doors Open at 6\, In the Eagle\n\nThis hilarious and heartfelt cre
- ature feature from Korean master Bong Joon-ho is as delightful and frightf
- ul as a horror film can be.\n20th Anniversary! New 4K Restoration plus a b
- onus pre-recorded conversation with Bong Joon-ho!\n\nTickets: https://vidi
- otsfoundation.org/purchase/4848952/\n\nDetails: https://vidiotsfoundation.
- org/movies/the-host/
+URL:https://vidiotsfoundation.org/purchase/4815443/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 117 min | 
+ Format: Digital\n\nSeries: Doors Open at 6\, In the Eagle\n\nIt's our favo
+ rite time of year again\, time to rock out with The Band and a cavalcade o
+ f musical superstars in Scorsese's electrifying concert film.\n\nTickets: 
+ https://vidiotsfoundation.org/purchase/4815443/\n\nDetails: https://vidiot
+ sfoundation.org/movies/the-last-waltz/
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
