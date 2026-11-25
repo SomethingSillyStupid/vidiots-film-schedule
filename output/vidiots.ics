@@ -589,6 +589,38 @@ DESCRIPTION:Run time: 91 min | Format: Digital\n\nSeries: Additional Shows\
  4997997/\n\nDetails: https://vidiotsfoundation.org/movies/take-me-home/
 END:VEVENT
 BEGIN:VEVENT
+UID:5003316@vidiotsfoundation.org
+DTSTAMP:20261211T233000Z
+DTSTART;TZID=America/Los_Angeles:20261211T153000
+DTEND;TZID=America/Los_Angeles:20261211T173000
+SUMMARY:Mouse
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/5003316/
+DESCRIPTION:Run time: 120 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nBring your mom and a box of tiss
+ ues and get ready to feel all the feels with this exceptional\, naturalist
+ ic\, and incredibly moving queer coming-of-age triumph!\n\nTickets: https:
+ //vidiotsfoundation.org/purchase/5003316/\n\nDetails: https://vidiotsfound
+ ation.org/movies/mouse/
+END:VEVENT
+BEGIN:VEVENT
+UID:5003310@vidiotsfoundation.org
+DTSTAMP:20261212T023000Z
+DTSTART;TZID=America/Los_Angeles:20261211T183000
+DTEND;TZID=America/Los_Angeles:20261211T203000
+SUMMARY:Mouse
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/5003310/
+DESCRIPTION:Run time: 120 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nBring your mom and a box of tiss
+ ues and get ready to feel all the feels with this exceptional\, naturalist
+ ic\, and incredibly moving queer coming-of-age triumph!\n\nTickets: https:
+ //vidiotsfoundation.org/purchase/5003310/\n\nDetails: https://vidiotsfound
+ ation.org/movies/mouse/
+END:VEVENT
+BEGIN:VEVENT
 UID:4918276@vidiotsfoundation.org
 DTSTAMP:20261212T030000Z
 DTSTART;TZID=America/Los_Angeles:20261211T190000
@@ -695,6 +727,22 @@ DESCRIPTION:Run time: 95 min | Format: Digital\n\nSeries: Community Partner
  entary Dolores in celebration of the life and legacy of Chicana labor acti
  vist Dolores Huerta .\n\nTickets: https://vidiotsfoundation.org/purchase/4
  912777/\n\nDetails: https://vidiotsfoundation.org/movies/dolores/
+END:VEVENT
+BEGIN:VEVENT
+UID:5007760@vidiotsfoundation.org
+DTSTAMP:20261213T234500Z
+DTSTART;TZID=America/Los_Angeles:20261213T154500
+DTEND;TZID=America/Los_Angeles:20261213T174500
+SUMMARY:Mouse
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/5007760/
+DESCRIPTION:Run time: 120 min | Format: Digital | Rating: R\n\nSeries: Addi
+ tional Shows\, In the MUBI Microcinema\n\nBring your mom and a box of tiss
+ ues and get ready to feel all the feels with this exceptional\, naturalist
+ ic\, and incredibly moving queer coming-of-age triumph!\n\nTickets: https:
+ //vidiotsfoundation.org/purchase/5007760/\n\nDetails: https://vidiotsfound
+ ation.org/movies/mouse/
 END:VEVENT
 BEGIN:VEVENT
 UID:4912784@vidiotsfoundation.org
@@ -814,6 +862,27 @@ DESCRIPTION:Run time: 117 min | Format: Digital\n\nSeries: In the Eagle\n\n
  ttps://vidiotsfoundation.org/movies/coming-to-america/
 END:VEVENT
 BEGIN:VEVENT
+UID:5007535@vidiotsfoundation.org
+DTSTAMP:20261219T033000Z
+DTSTART;TZID=America/Los_Angeles:20261218T193000
+DTEND;TZID=America/Los_Angeles:20261218T210100
+SUMMARY:TheyDream
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/5007535/
+DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
+ a\, Special Guests in Attendance\n\nJoin us in the microcinema for one of 
+ the most heartfelt and imaginative documentaries of all time - William Cab
+ allero's wonderfully creative and moving TheyDream. Presented in a variety
+  of animation styles\, this mixed media gem examines the transformative na
+ ture of grief\, for the director\, his mother\, and other members of their
+  tight knit Puerto Rican family in Fayetteville\, North Carolina.\nDirecto
+ r William D. Caballero and producer Erin Ploss-Campoamor in person at the 
+ December 14th screening!\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/5007535/\n\nDetails: https://vidiotsfoundation.org/movies/theydream/
+END:VEVENT
+BEGIN:VEVENT
 UID:4918292@vidiotsfoundation.org
 DTSTAMP:20261219T054500Z
 DTSTART;TZID=America/Los_Angeles:20261218T214500
@@ -827,6 +896,22 @@ DESCRIPTION:Run time: 135 min | Format: Digital | Rating: PG-13\n\nSeries:
  in us for a big and loud screening of Rent .\n\nTickets: https://vidiotsfo
  undation.org/purchase/4918292/\n\nDetails: https://vidiotsfoundation.org/m
  ovies/rent/
+END:VEVENT
+BEGIN:VEVENT
+UID:5007533@vidiotsfoundation.org
+DTSTAMP:20261219T060000Z
+DTSTART;TZID=America/Los_Angeles:20261218T220000
+DTEND;TZID=America/Los_Angeles:20261218T231400
+SUMMARY:Orfeo
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/5007533/
+DESCRIPTION:Run time: 74 min | Format: Digital | Release year: 2025\n\nSeri
+ es: Additional Shows\, In the MUBI Microcinema\n\nHold onto your eyeballs\
+ , because our microcinema is heading into the jaw-dropping depths of the u
+ nderworld with this phenomenally creative and dazzling interpretation of t
+ he ancient myth of Orpheus.\n\nTickets: https://vidiotsfoundation.org/purc
+ hase/5007533/\n\nDetails: https://vidiotsfoundation.org/movies/orfeo/
 END:VEVENT
 BEGIN:VEVENT
 UID:4968912@vidiotsfoundation.org
@@ -863,6 +948,27 @@ DESCRIPTION:Run time: 93 min | Format: Digital | Rating: PG-13 | Release ye
  -godfathers/
 END:VEVENT
 BEGIN:VEVENT
+UID:5007708@vidiotsfoundation.org
+DTSTAMP:20261220T003000Z
+DTSTART;TZID=America/Los_Angeles:20261219T163000
+DTEND;TZID=America/Los_Angeles:20261219T180100
+SUMMARY:TheyDream
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/5007708/
+DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
+ a\, Special Guests in Attendance\n\nJoin us in the microcinema for one of 
+ the most heartfelt and imaginative documentaries of all time - William Cab
+ allero's wonderfully creative and moving TheyDream. Presented in a variety
+  of animation styles\, this mixed media gem examines the transformative na
+ ture of grief\, for the director\, his mother\, and other members of their
+  tight knit Puerto Rican family in Fayetteville\, North Carolina.\nDirecto
+ r William D. Caballero and producer Erin Ploss-Campoamor in person at the 
+ December 14th screening!\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/5007708/\n\nDetails: https://vidiotsfoundation.org/movies/theydream/
+END:VEVENT
+BEGIN:VEVENT
 UID:4918303@vidiotsfoundation.org
 DTSTAMP:20261220T030000Z
 DTSTART;TZID=America/Los_Angeles:20261219T190000
@@ -877,6 +983,38 @@ DESCRIPTION:Run time: 104 min | Format: Digital | Rating: R\n\nSeries: In t
  utter blast on the big screen!\n\nTickets: https://vidiotsfoundation.org/p
  urchase/4918303/\n\nDetails: https://vidiotsfoundation.org/movies/married-
  to-the-mob/
+END:VEVENT
+BEGIN:VEVENT
+UID:5007706@vidiotsfoundation.org
+DTSTAMP:20261220T032000Z
+DTSTART;TZID=America/Los_Angeles:20261219T192000
+DTEND;TZID=America/Los_Angeles:20261219T203400
+SUMMARY:Orfeo
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/5007706/
+DESCRIPTION:Run time: 74 min | Format: Digital | Release year: 2025\n\nSeri
+ es: Additional Shows\, In the MUBI Microcinema\n\nHold onto your eyeballs\
+ , because our microcinema is heading into the jaw-dropping depths of the u
+ nderworld with this phenomenally creative and dazzling interpretation of t
+ he ancient myth of Orpheus.\n\nTickets: https://vidiotsfoundation.org/purc
+ hase/5007706/\n\nDetails: https://vidiotsfoundation.org/movies/orfeo/
+END:VEVENT
+BEGIN:VEVENT
+UID:5007705@vidiotsfoundation.org
+DTSTAMP:20261220T053000Z
+DTSTART;TZID=America/Los_Angeles:20261219T213000
+DTEND;TZID=America/Los_Angeles:20261219T224400
+SUMMARY:Orfeo
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/5007705/
+DESCRIPTION:Run time: 74 min | Format: Digital | Release year: 2025\n\nSeri
+ es: Additional Shows\, In the MUBI Microcinema\n\nHold onto your eyeballs\
+ , because our microcinema is heading into the jaw-dropping depths of the u
+ nderworld with this phenomenally creative and dazzling interpretation of t
+ he ancient myth of Orpheus.\n\nTickets: https://vidiotsfoundation.org/purc
+ hase/5007705/\n\nDetails: https://vidiotsfoundation.org/movies/orfeo/
 END:VEVENT
 BEGIN:VEVENT
 UID:4918310@vidiotsfoundation.org
@@ -923,6 +1061,27 @@ DESCRIPTION:Run time: 142 min | Format: Digital | Rating: PG\n\nSeries: Fil
  foundation.org/movies/hook/
 END:VEVENT
 BEGIN:VEVENT
+UID:5007711@vidiotsfoundation.org
+DTSTAMP:20261221T003000Z
+DTSTART;TZID=America/Los_Angeles:20261220T163000
+DTEND;TZID=America/Los_Angeles:20261220T180100
+SUMMARY:TheyDream
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/5007711/
+DESCRIPTION:Run time: 91 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinem
+ a\, Special Guests in Attendance\n\nJoin us in the microcinema for one of 
+ the most heartfelt and imaginative documentaries of all time - William Cab
+ allero's wonderfully creative and moving TheyDream. Presented in a variety
+  of animation styles\, this mixed media gem examines the transformative na
+ ture of grief\, for the director\, his mother\, and other members of their
+  tight knit Puerto Rican family in Fayetteville\, North Carolina.\nDirecto
+ r William D. Caballero and producer Erin Ploss-Campoamor in person at the 
+ December 14th screening!\n\nTickets: https://vidiotsfoundation.org/purchas
+ e/5007711/\n\nDetails: https://vidiotsfoundation.org/movies/theydream/
+END:VEVENT
+BEGIN:VEVENT
 UID:4918322@vidiotsfoundation.org
 DTSTAMP:20261221T030000Z
 DTSTART;TZID=America/Los_Angeles:20261220T190000
@@ -937,6 +1096,22 @@ DESCRIPTION:Run time: 132 min | Format: Digital | Rating: PG\n\nSeries: In
  front of it for the first time in drag in this moving story of gender\, tr
  adition\, and forbidden romance.\n\nTickets: https://vidiotsfoundation.org
  /purchase/4918322/\n\nDetails: https://vidiotsfoundation.org/movies/yentl/
+END:VEVENT
+BEGIN:VEVENT
+UID:5007712@vidiotsfoundation.org
+DTSTAMP:20261221T033000Z
+DTSTART;TZID=America/Los_Angeles:20261220T193000
+DTEND;TZID=America/Los_Angeles:20261220T204400
+SUMMARY:Orfeo
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/5007712/
+DESCRIPTION:Run time: 74 min | Format: Digital | Release year: 2025\n\nSeri
+ es: Additional Shows\, In the MUBI Microcinema\n\nHold onto your eyeballs\
+ , because our microcinema is heading into the jaw-dropping depths of the u
+ nderworld with this phenomenally creative and dazzling interpretation of t
+ he ancient myth of Orpheus.\n\nTickets: https://vidiotsfoundation.org/purc
+ hase/5007712/\n\nDetails: https://vidiotsfoundation.org/movies/orfeo/
 END:VEVENT
 BEGIN:VEVENT
 UID:4918324@vidiotsfoundation.org
@@ -1143,10 +1318,11 @@ LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
 URL:https://vidiotsfoundation.org/purchase/4914078/
 DESCRIPTION:Run time: 158 min | Format: Digital | Rating: NC-17 | Release y
- ear: 2007\n\nSeries: In the Eagle\, Vidiots Hornyfest\n\nTo kill the enemy
- \, she would have to capture his heart... and break her own.\n\nTickets: h
- ttps://vidiotsfoundation.org/purchase/4914078/\n\nDetails: https://vidiots
- foundation.org/movies/lust-caution/
+ ear: 2007\n\nSeries: In the Eagle\, Vidiots Hornyfest\n\nAn exquisitely to
+ rturous romance amidst the backdrop of occupied Shanghai\, Ang Lee's breat
+ htaking film of passion and politics will leave you swooning.\n\nTickets: 
+ https://vidiotsfoundation.org/purchase/4914078/\n\nDetails: https://vidiot
+ sfoundation.org/movies/lust-caution/
 END:VEVENT
 BEGIN:VEVENT
 UID:4918347@vidiotsfoundation.org
