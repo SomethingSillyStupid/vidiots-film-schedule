@@ -8,43 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4883330@vidiotsfoundation.org
-DTSTAMP:20261126T030000Z
-DTSTART;TZID=America/Los_Angeles:20261125T190000
-DTEND;TZID=America/Los_Angeles:20261125T215400
-SUMMARY:You Can See Everything
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883330/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 174 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, Groundbreaking N
- on-Fiction\, In the MUBI Microcinema\n\nJoin us in the microcinema for the
-  documentary event of the year - Nathan Fielder and Lance Oppenheim's mind
- -blowing portrait of disgraced tech CEO Elizabeth Holmes\, and a post-mode
- rn look at what money and the pursuit of entertainment can do to the truth
- .\n\nTickets: https://vidiotsfoundation.org/purchase/4883330/\n\nDetails: 
- https://vidiotsfoundation.org/movies/you-can-see-everything/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4824021@vidiotsfoundation.org
-DTSTAMP:20261126T033000Z
-DTSTART;TZID=America/Los_Angeles:20261125T193000
-DTEND;TZID=America/Los_Angeles:20261125T210200
-SUMMARY:Planes\, Trains and Automobiles
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4824021/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
- ormat: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\n\nJo
- in Vidiots for the quintessential holiday charmer from the master of the f
- eel good comedy John Hughes.\nWith a special introduction from John Candy'
- s son Chris Candy\n\nTickets: https://vidiotsfoundation.org/purchase/48240
- 21/\n\nDetails: https://vidiotsfoundation.org/movies/planes-trains-and-aut
- omobiles/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:4883353@vidiotsfoundation.org
 DTSTAMP:20261127T200000Z
 DTSTART;TZID=America/Los_Angeles:20261127T120000
@@ -142,24 +105,6 @@ DESCRIPTION:Run time: 104 min | Format: Digital | Rating: PG-13\n\nSeries:
   romp you need this Black Friday!\n\nTickets: https://vidiotsfoundation.or
  g/purchase/4815406/\n\nDetails: https://vidiotsfoundation.org/movies/despe
  rately-seeking-susan/
-END:VEVENT
-BEGIN:VEVENT
-UID:4883356@vidiotsfoundation.org
-DTSTAMP:20261128T043000Z
-DTSTART;TZID=America/Los_Angeles:20261127T203000
-DTEND;TZID=America/Los_Angeles:20261127T232400
-SUMMARY:You Can See Everything
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883356/
-DESCRIPTION:Run time: 174 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoi
- n us in the microcinema for the documentary event of the year - Nathan Fie
- lder and Lance Oppenheim's mind-blowing portrait of disgraced tech CEO Eli
- zabeth Holmes\, and a post-modern look at what money and the pursuit of en
- tertainment can do to the truth.\n\nTickets: https://vidiotsfoundation.org
- /purchase/4883356/\n\nDetails: https://vidiotsfoundation.org/movies/you-ca
- n-see-everything/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815407@vidiotsfoundation.org
@@ -272,24 +217,6 @@ DESCRIPTION:Run time: 113 min | Format: Digital | Rating: PG-13\n\nSeries:
  movies/twister/
 END:VEVENT
 BEGIN:VEVENT
-UID:4883383@vidiotsfoundation.org
-DTSTAMP:20261129T044500Z
-DTSTART;TZID=America/Los_Angeles:20261128T204500
-DTEND;TZID=America/Los_Angeles:20261128T233900
-SUMMARY:You Can See Everything
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883383/
-DESCRIPTION:Run time: 174 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoi
- n us in the microcinema for the documentary event of the year - Nathan Fie
- lder and Lance Oppenheim's mind-blowing portrait of disgraced tech CEO Eli
- zabeth Holmes\, and a post-modern look at what money and the pursuit of en
- tertainment can do to the truth.\n\nTickets: https://vidiotsfoundation.org
- /purchase/4883383/\n\nDetails: https://vidiotsfoundation.org/movies/you-ca
- n-see-everything/
-END:VEVENT
-BEGIN:VEVENT
 UID:4823440@vidiotsfoundation.org
 DTSTAMP:20261129T054500Z
 DTSTART;TZID=America/Los_Angeles:20261128T214500
@@ -369,24 +296,6 @@ DESCRIPTION:Run time: 113 min | Format: 35mm Film\n\nSeries: In the Eagle\,
  f crime cinema that's still as entertaining and influential as ever.\n\nTi
  ckets: https://vidiotsfoundation.org/purchase/4843406/\n\nDetails: https:/
  /vidiotsfoundation.org/movies/the-asphalt-jungle/
-END:VEVENT
-BEGIN:VEVENT
-UID:4883400@vidiotsfoundation.org
-DTSTAMP:20261130T023000Z
-DTSTART;TZID=America/Los_Angeles:20261129T183000
-DTEND;TZID=America/Los_Angeles:20261129T212400
-SUMMARY:You Can See Everything
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883400/
-DESCRIPTION:Run time: 174 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoi
- n us in the microcinema for the documentary event of the year - Nathan Fie
- lder and Lance Oppenheim's mind-blowing portrait of disgraced tech CEO Eli
- zabeth Holmes\, and a post-modern look at what money and the pursuit of en
- tertainment can do to the truth.\n\nTickets: https://vidiotsfoundation.org
- /purchase/4883400/\n\nDetails: https://vidiotsfoundation.org/movies/you-ca
- n-see-everything/
 END:VEVENT
 BEGIN:VEVENT
 UID:4843407@vidiotsfoundation.org
@@ -643,24 +552,6 @@ DESCRIPTION:Run time: 122 min | Format: 35mm Film\n\nSeries: 35mm Film\, In
  me romantic drama A Place in the Sun!\n\nTickets: https://vidiotsfoundatio
  n.org/purchase/4918267/\n\nDetails: https://vidiotsfoundation.org/movies/a
  -place-in-the-sun/
-END:VEVENT
-BEGIN:VEVENT
-UID:4997996@vidiotsfoundation.org
-DTSTAMP:20261207T001500Z
-DTSTART;TZID=America/Los_Angeles:20261206T161500
-DTEND;TZID=America/Los_Angeles:20261206T190900
-SUMMARY:You Can See Everything
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4997996/
-DESCRIPTION:Run time: 174 min | Format: Digital | Rating: R\n\nSeries: Addi
- tional Shows\, Groundbreaking Non-Fiction\, In the MUBI Microcinema\n\nJoi
- n us in the microcinema for the documentary event of the year - Nathan Fie
- lder and Lance Oppenheim's mind-blowing portrait of disgraced tech CEO Eli
- zabeth Holmes\, and a post-modern look at what money and the pursuit of en
- tertainment can do to the truth.\n\nTickets: https://vidiotsfoundation.org
- /purchase/4997996/\n\nDetails: https://vidiotsfoundation.org/movies/you-ca
- n-see-everything/
 END:VEVENT
 BEGIN:VEVENT
 UID:4918268@vidiotsfoundation.org
@@ -1418,39 +1309,40 @@ DESCRIPTION:Run time: 110 min | Format: Digital\n\nSeries: In the Eagle\n\n
  rd/
 END:VEVENT
 BEGIN:VEVENT
-UID:4883126@vidiotsfoundation.org
-DTSTAMP:20261125T030000Z
-DTSTART;TZID=America/Los_Angeles:20261124T190000
-DTEND;TZID=America/Los_Angeles:20261124T203000
-SUMMARY:Sweet 16mm: The Future of Technology from Yesteryear
+UID:4883330@vidiotsfoundation.org
+DTSTAMP:20261126T030000Z
+DTSTART;TZID=America/Los_Angeles:20261125T190000
+DTEND;TZID=America/Los_Angeles:20261125T215400
+SUMMARY:You Can See Everything
 LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
   CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883126/
-DESCRIPTION:Run time: 90 min\n\nSeries: In the MUBI Microcinema\, Sweet 16m
- m\n\nTurn off your Apple 2C and get ready for some obsolete technology on 
- celluloid as this month's 16mm foray into celluloid weirdness delves into 
- vintage animation\, educational films\, trippy trailers\, antiquated adver
- tisements\, Sci Fi rarities and more from the 1950s through the 1980s hera
- lding the “coming” world of robots\, time and space travel\, and the h
- ome computer explosion.\n\nTickets: https://vidiotsfoundation.org/purchase
- /4883126/\n\nDetails: https://vidiotsfoundation.org/movies/sweet-16mm-the-
- future-of-technology-from-yesteryear/
+URL:https://vidiotsfoundation.org/purchase/4883330/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 174 min | 
+ Format: Digital | Rating: R\n\nSeries: Additional Shows\, Groundbreaking N
+ on-Fiction\, In the MUBI Microcinema\n\nJoin us in the microcinema for the
+  documentary event of the year - Nathan Fielder and Lance Oppenheim's mind
+ -blowing portrait of disgraced tech CEO Elizabeth Holmes\, and a post-mode
+ rn look at what money and the pursuit of entertainment can do to the truth
+ .\n\nTickets: https://vidiotsfoundation.org/purchase/4883330/\n\nDetails: 
+ https://vidiotsfoundation.org/movies/you-can-see-everything/
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:4815443@vidiotsfoundation.org
-DTSTAMP:20261125T033000Z
-DTSTART;TZID=America/Los_Angeles:20261124T193000
-DTEND;TZID=America/Los_Angeles:20261124T212700
-SUMMARY:The Last Waltz
+UID:4824021@vidiotsfoundation.org
+DTSTAMP:20261126T033000Z
+DTSTART;TZID=America/Los_Angeles:20261125T193000
+DTEND;TZID=America/Los_Angeles:20261125T210200
+SUMMARY:Planes\, Trains and Automobiles
 LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
  , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815443/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 117 min | 
- Format: Digital\n\nSeries: Doors Open at 6\, In the Eagle\n\nIt's our favo
- rite time of year again\, time to rock out with The Band and a cavalcade o
- f musical superstars in Scorsese's electrifying concert film.\n\nTickets: 
- https://vidiotsfoundation.org/purchase/4815443/\n\nDetails: https://vidiot
- sfoundation.org/movies/the-last-waltz/
+URL:https://vidiotsfoundation.org/purchase/4824021/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
+ ormat: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\n\nJo
+ in Vidiots for the quintessential holiday charmer from the master of the f
+ eel good comedy John Hughes.\nWith a special introduction from John Candy'
+ s son Chris Candy\n\nTickets: https://vidiotsfoundation.org/purchase/48240
+ 21/\n\nDetails: https://vidiotsfoundation.org/movies/planes-trains-and-aut
+ omobiles/
 STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
