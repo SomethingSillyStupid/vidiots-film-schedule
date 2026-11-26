@@ -1484,41 +1484,4 @@ DESCRIPTION:Run time: 110 min | Format: Digital\n\nSeries: In the Eagle\n\n
  e/4933287/\n\nDetails: https://vidiotsfoundation.org/movies/sunset-bouleva
  rd/
 END:VEVENT
-BEGIN:VEVENT
-UID:4883330@vidiotsfoundation.org
-DTSTAMP:20261126T030000Z
-DTSTART;TZID=America/Los_Angeles:20261125T190000
-DTEND;TZID=America/Los_Angeles:20261125T215400
-SUMMARY:You Can See Everything
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883330/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 174 min | 
- Format: Digital | Rating: R\n\nSeries: Additional Shows\, Groundbreaking N
- on-Fiction\, In the MUBI Microcinema\n\nJoin us in the microcinema for the
-  documentary event of the year - Nathan Fielder and Lance Oppenheim's mind
- -blowing portrait of disgraced tech CEO Elizabeth Holmes\, and a post-mode
- rn look at what money and the pursuit of entertainment can do to the truth
- .\n\nTickets: https://vidiotsfoundation.org/purchase/4883330/\n\nDetails: 
- https://vidiotsfoundation.org/movies/you-can-see-everything/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4824021@vidiotsfoundation.org
-DTSTAMP:20261126T033000Z
-DTSTART;TZID=America/Los_Angeles:20261125T193000
-DTEND;TZID=America/Los_Angeles:20261125T210200
-SUMMARY:Planes\, Trains and Automobiles
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4824021/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 92 min | F
- ormat: Digital | Rating: R\n\nSeries: Doors Open at 6\, In the Eagle\n\nJo
- in Vidiots for the quintessential holiday charmer from the master of the f
- eel good comedy John Hughes.\nWith a special introduction from John Candy'
- s son Chris Candy\n\nTickets: https://vidiotsfoundation.org/purchase/48240
- 21/\n\nDetails: https://vidiotsfoundation.org/movies/planes-trains-and-aut
- omobiles/
-STATUS:TENTATIVE
-END:VEVENT
 END:VCALENDAR
