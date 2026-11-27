@@ -8,136 +8,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Film screenings from https://vidiotsfoundation.org/coming-soon
  /
 BEGIN:VEVENT
-UID:4883353@vidiotsfoundation.org
-DTSTAMP:20261127T200000Z
-DTSTART;TZID=America/Los_Angeles:20261127T120000
-DTEND;TZID=America/Los_Angeles:20261127T141100
-SUMMARY:Wildwood
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883353/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 131 min | 
- Format: Digital | Rating: PG-13\n\nSeries: Additional Shows\, In the MUBI 
- Microcinema\n\nA handmade stop-motion sweeping adventure about love\, sacr
- ifice\, and the magic that reveals itself when we dare to look beyond the 
- familiar.\n\nTickets: https://vidiotsfoundation.org/purchase/4883353/\n\nD
- etails: https://vidiotsfoundation.org/movies/wildwood/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4815404@vidiotsfoundation.org
-DTSTAMP:20261127T203000Z
-DTSTART;TZID=America/Los_Angeles:20261127T123000
-DTEND;TZID=America/Los_Angeles:20261127T141300
-SUMMARY:Singin’ in the Rain
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815404/
-DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 103 min | 
- Format: Digital\n\nSeries: In the Eagle\n\nArguably the greatest movie mus
- ical ever made\, and considered by many to be one of the greatest films of
-  all time\, Singin' in the Rain remains a singular masterpiece of music\, 
- comedy\, romance\, and dance\, set against a breathtaking Technicolor back
- drop of imagination and artistry.\n\nTickets: https://vidiotsfoundation.or
- g/purchase/4815404/\n\nDetails: https://vidiotsfoundation.org/movies/singi
- n-in-the-rain/
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4883355@vidiotsfoundation.org
-DTSTAMP:20261127T231500Z
-DTSTART;TZID=America/Los_Angeles:20261127T151500
-DTEND;TZID=America/Los_Angeles:20261127T163700
-SUMMARY:Fatherland
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883355/
-DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nSandra Hüller illuminat
- es the screen in Pawel Pawlikowski's stunning and existential gem of famil
- y\, fascism\, and Goethe in post-WWII Germany.\n\nTickets: https://vidiots
- foundation.org/purchase/4883355/\n\nDetails: https://vidiotsfoundation.org
- /movies/fatherland/
-END:VEVENT
-BEGIN:VEVENT
-UID:4815405@vidiotsfoundation.org
-DTSTAMP:20261127T233000Z
-DTSTART;TZID=America/Los_Angeles:20261127T153000
-DTEND;TZID=America/Los_Angeles:20261127T174600
-SUMMARY:North by Northwest
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815405/
-DESCRIPTION:Run time: 136 min | Format: Digital\n\nSeries: In the Eagle\, R
- emembering Eva Marie Saint\, TeenTix LA\n\nThe ultimate Hitchcock thrill r
- ide starring a luminous Eva Marie Saint!\n\nTickets: https://vidiotsfounda
- tion.org/purchase/4815405/\n\nDetails: https://vidiotsfoundation.org/movie
- s/north-by-northwest/
-END:VEVENT
-BEGIN:VEVENT
-UID:4883373@vidiotsfoundation.org
-DTSTAMP:20261128T020000Z
-DTSTART;TZID=America/Los_Angeles:20261127T180000
-DTEND;TZID=America/Los_Angeles:20261127T192200
-SUMMARY:Fatherland
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883373/
-DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nSandra Hüller illuminat
- es the screen in Pawel Pawlikowski's stunning and existential gem of famil
- y\, fascism\, and Goethe in post-WWII Germany.\n\nTickets: https://vidiots
- foundation.org/purchase/4883373/\n\nDetails: https://vidiotsfoundation.org
- /movies/fatherland/
-END:VEVENT
-BEGIN:VEVENT
-UID:4815406@vidiotsfoundation.org
-DTSTAMP:20261128T030000Z
-DTSTART;TZID=America/Los_Angeles:20261127T190000
-DTEND;TZID=America/Los_Angeles:20261127T204400
-SUMMARY:Desperately Seeking Susan
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815406/
-DESCRIPTION:Run time: 104 min | Format: Digital | Rating: PG-13\n\nSeries: 
- In the Eagle\n\nSusan Seidelman's fresh and stylish New York fairy tale - 
- with an effervescent young Madonna in her first film role - is the fun 80s
-  romp you need this Black Friday!\n\nTickets: https://vidiotsfoundation.or
- g/purchase/4815406/\n\nDetails: https://vidiotsfoundation.org/movies/despe
- rately-seeking-susan/
-END:VEVENT
-BEGIN:VEVENT
-UID:4815407@vidiotsfoundation.org
-DTSTAMP:20261128T054500Z
-DTSTART;TZID=America/Los_Angeles:20261127T214500
-DTEND;TZID=America/Los_Angeles:20261127T232700
-SUMMARY:Enter the Dragon
-LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
- , CA 90041
-URL:https://vidiotsfoundation.org/purchase/4815407/
-DESCRIPTION:Run time: 102 min | Format: Digital | Rating: R\n\nSeries: In t
- he Eagle\, TeenTix LA\n\nBruce Lee kicks all the ass in the ultimate marti
- al arts action masterpiece!\n\nTickets: https://vidiotsfoundation.org/purc
- hase/4815407/\n\nDetails: https://vidiotsfoundation.org/movies/enter-the-d
- ragon/
-END:VEVENT
-BEGIN:VEVENT
-UID:4883376@vidiotsfoundation.org
-DTSTAMP:20261128T203000Z
-DTSTART;TZID=America/Los_Angeles:20261128T123000
-DTEND;TZID=America/Los_Angeles:20261128T135200
-SUMMARY:Fatherland
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883376/
-DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nSandra Hüller illuminat
- es the screen in Pawel Pawlikowski's stunning and existential gem of famil
- y\, fascism\, and Goethe in post-WWII Germany.\n\nTickets: https://vidiots
- foundation.org/purchase/4883376/\n\nDetails: https://vidiotsfoundation.org
- /movies/fatherland/
-END:VEVENT
-BEGIN:VEVENT
 UID:4823436@vidiotsfoundation.org
 DTSTAMP:20261128T204500Z
 DTSTART;TZID=America/Los_Angeles:20261128T124500
@@ -151,22 +21,6 @@ DESCRIPTION:Run time: 124 min | Format: 35mm Film | Rating: All Ages\n\nSer
  ss masterpiece is a breathtaking extravaganza of sight and sound!\n\nTicke
  ts: https://vidiotsfoundation.org/purchase/4823436/\n\nDetails: https://vi
  diotsfoundation.org/movies/fantasia/
-END:VEVENT
-BEGIN:VEVENT
-UID:4883378@vidiotsfoundation.org
-DTSTAMP:20261128T230000Z
-DTSTART;TZID=America/Los_Angeles:20261128T150000
-DTEND;TZID=America/Los_Angeles:20261128T171100
-SUMMARY:Wildwood
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883378/
-DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries: 
- Additional Shows\, In the MUBI Microcinema\n\nA handmade stop-motion sweep
- ing adventure about love\, sacrifice\, and the magic that reveals itself w
- hen we dare to look beyond the familiar.\n\nTickets: https://vidiotsfounda
- tion.org/purchase/4883378/\n\nDetails: https://vidiotsfoundation.org/movie
- s/wildwood/
 END:VEVENT
 BEGIN:VEVENT
 UID:4823438@vidiotsfoundation.org
@@ -183,22 +37,6 @@ DESCRIPTION:Run time: 90 min | Format: Digital | Release year: 1962\n\nSeri
  n the sixties with this real-time portrait of a singer set adrift in the c
  ity.\n\nTickets: https://vidiotsfoundation.org/purchase/4823438/\n\nDetail
  s: https://vidiotsfoundation.org/movies/cleo-from-5-to-7/
-END:VEVENT
-BEGIN:VEVENT
-UID:4883382@vidiotsfoundation.org
-DTSTAMP:20261129T021500Z
-DTSTART;TZID=America/Los_Angeles:20261128T181500
-DTEND;TZID=America/Los_Angeles:20261128T193700
-SUMMARY:Fatherland
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883382/
-DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nSandra Hüller illuminat
- es the screen in Pawel Pawlikowski's stunning and existential gem of famil
- y\, fascism\, and Goethe in post-WWII Germany.\n\nTickets: https://vidiots
- foundation.org/purchase/4883382/\n\nDetails: https://vidiotsfoundation.org
- /movies/fatherland/
 END:VEVENT
 BEGIN:VEVENT
 UID:4815432@vidiotsfoundation.org
@@ -233,22 +71,6 @@ DESCRIPTION:Run time: 134 min | Format: 4K Digital | Rating: R | Release ye
  tion.org/movies/oldboy/
 END:VEVENT
 BEGIN:VEVENT
-UID:4883399@vidiotsfoundation.org
-DTSTAMP:20261129T204500Z
-DTSTART;TZID=America/Los_Angeles:20261129T124500
-DTEND;TZID=America/Los_Angeles:20261129T140700
-SUMMARY:Fatherland
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883399/
-DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
- es: Additional Shows\, In the MUBI Microcinema\n\nSandra Hüller illuminat
- es the screen in Pawel Pawlikowski's stunning and existential gem of famil
- y\, fascism\, and Goethe in post-WWII Germany.\n\nTickets: https://vidiots
- foundation.org/purchase/4883399/\n\nDetails: https://vidiotsfoundation.org
- /movies/fatherland/
-END:VEVENT
-BEGIN:VEVENT
 UID:4843402@vidiotsfoundation.org
 DTSTAMP:20261129T210000Z
 DTSTART;TZID=America/Los_Angeles:20261129T130000
@@ -264,22 +86,6 @@ DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 102 min |
  undation.org/purchase/4843402/\n\nDetails: https://vidiotsfoundation.org/m
  ovies/frozen/
 STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:4883397@vidiotsfoundation.org
-DTSTAMP:20261129T231500Z
-DTSTART;TZID=America/Los_Angeles:20261129T151500
-DTEND;TZID=America/Los_Angeles:20261129T172600
-SUMMARY:Wildwood
-LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
-  CA 90041
-URL:https://vidiotsfoundation.org/purchase/4883397/
-DESCRIPTION:Run time: 131 min | Format: Digital | Rating: PG-13\n\nSeries: 
- Additional Shows\, In the MUBI Microcinema\n\nA handmade stop-motion sweep
- ing adventure about love\, sacrifice\, and the magic that reveals itself w
- hen we dare to look beyond the familiar.\n\nTickets: https://vidiotsfounda
- tion.org/purchase/4883397/\n\nDetails: https://vidiotsfoundation.org/movie
- s/wildwood/
 END:VEVENT
 BEGIN:VEVENT
 UID:4843406@vidiotsfoundation.org
@@ -1483,5 +1289,119 @@ DESCRIPTION:Run time: 110 min | Format: Digital\n\nSeries: In the Eagle\n\n
  diots and Norma Desmond!\n\nTickets: https://vidiotsfoundation.org/purchas
  e/4933287/\n\nDetails: https://vidiotsfoundation.org/movies/sunset-bouleva
  rd/
+END:VEVENT
+BEGIN:VEVENT
+UID:4883353@vidiotsfoundation.org
+DTSTAMP:20261127T200000Z
+DTSTART;TZID=America/Los_Angeles:20261127T120000
+DTEND;TZID=America/Los_Angeles:20261127T141100
+SUMMARY:Wildwood
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883353/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 131 min | 
+ Format: Digital | Rating: PG-13\n\nSeries: Additional Shows\, In the MUBI 
+ Microcinema\n\nA handmade stop-motion sweeping adventure about love\, sacr
+ ifice\, and the magic that reveals itself when we dare to look beyond the 
+ familiar.\n\nTickets: https://vidiotsfoundation.org/purchase/4883353/\n\nD
+ etails: https://vidiotsfoundation.org/movies/wildwood/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4815404@vidiotsfoundation.org
+DTSTAMP:20261127T203000Z
+DTSTART;TZID=America/Los_Angeles:20261127T123000
+DTEND;TZID=America/Los_Angeles:20261127T141300
+SUMMARY:Singin’ in the Rain
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815404/
+DESCRIPTION:Online tickets are sold out or limited.\n\nRun time: 103 min | 
+ Format: Digital\n\nSeries: In the Eagle\n\nArguably the greatest movie mus
+ ical ever made\, and considered by many to be one of the greatest films of
+  all time\, Singin' in the Rain remains a singular masterpiece of music\, 
+ comedy\, romance\, and dance\, set against a breathtaking Technicolor back
+ drop of imagination and artistry.\n\nTickets: https://vidiotsfoundation.or
+ g/purchase/4815404/\n\nDetails: https://vidiotsfoundation.org/movies/singi
+ n-in-the-rain/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4883355@vidiotsfoundation.org
+DTSTAMP:20261127T231500Z
+DTSTART;TZID=America/Los_Angeles:20261127T151500
+DTEND;TZID=America/Los_Angeles:20261127T163700
+SUMMARY:Fatherland
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883355/
+DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, In the MUBI Microcinema\n\nSandra Hüller illuminat
+ es the screen in Pawel Pawlikowski's stunning and existential gem of famil
+ y\, fascism\, and Goethe in post-WWII Germany.\n\nTickets: https://vidiots
+ foundation.org/purchase/4883355/\n\nDetails: https://vidiotsfoundation.org
+ /movies/fatherland/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815405@vidiotsfoundation.org
+DTSTAMP:20261127T233000Z
+DTSTART;TZID=America/Los_Angeles:20261127T153000
+DTEND;TZID=America/Los_Angeles:20261127T174600
+SUMMARY:North by Northwest
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815405/
+DESCRIPTION:Run time: 136 min | Format: Digital\n\nSeries: In the Eagle\, R
+ emembering Eva Marie Saint\, TeenTix LA\n\nThe ultimate Hitchcock thrill r
+ ide starring a luminous Eva Marie Saint!\n\nTickets: https://vidiotsfounda
+ tion.org/purchase/4815405/\n\nDetails: https://vidiotsfoundation.org/movie
+ s/north-by-northwest/
+END:VEVENT
+BEGIN:VEVENT
+UID:4883373@vidiotsfoundation.org
+DTSTAMP:20261128T020000Z
+DTSTART;TZID=America/Los_Angeles:20261127T180000
+DTEND;TZID=America/Los_Angeles:20261127T192200
+SUMMARY:Fatherland
+LOCATION:MUBI Microcinema at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\,
+  CA 90041
+URL:https://vidiotsfoundation.org/purchase/4883373/
+DESCRIPTION:Run time: 82 min | Format: Digital | Release year: 2026\n\nSeri
+ es: Additional Shows\, In the MUBI Microcinema\n\nSandra Hüller illuminat
+ es the screen in Pawel Pawlikowski's stunning and existential gem of famil
+ y\, fascism\, and Goethe in post-WWII Germany.\n\nTickets: https://vidiots
+ foundation.org/purchase/4883373/\n\nDetails: https://vidiotsfoundation.org
+ /movies/fatherland/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815406@vidiotsfoundation.org
+DTSTAMP:20261128T030000Z
+DTSTART;TZID=America/Los_Angeles:20261127T190000
+DTEND;TZID=America/Los_Angeles:20261127T204400
+SUMMARY:Desperately Seeking Susan
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815406/
+DESCRIPTION:Run time: 104 min | Format: Digital | Rating: PG-13\n\nSeries: 
+ In the Eagle\n\nSusan Seidelman's fresh and stylish New York fairy tale - 
+ with an effervescent young Madonna in her first film role - is the fun 80s
+  romp you need this Black Friday!\n\nTickets: https://vidiotsfoundation.or
+ g/purchase/4815406/\n\nDetails: https://vidiotsfoundation.org/movies/despe
+ rately-seeking-susan/
+END:VEVENT
+BEGIN:VEVENT
+UID:4815407@vidiotsfoundation.org
+DTSTAMP:20261128T054500Z
+DTSTART;TZID=America/Los_Angeles:20261127T214500
+DTEND;TZID=America/Los_Angeles:20261127T232700
+SUMMARY:Enter the Dragon
+LOCATION:The Eagle Theatre at Vidiots\, 4884 Eagle Rock Blvd\, Los Angeles\
+ , CA 90041
+URL:https://vidiotsfoundation.org/purchase/4815407/
+DESCRIPTION:Run time: 102 min | Format: Digital | Rating: R\n\nSeries: In t
+ he Eagle\, TeenTix LA\n\nBruce Lee kicks all the ass in the ultimate marti
+ al arts action masterpiece!\n\nTickets: https://vidiotsfoundation.org/purc
+ hase/4815407/\n\nDetails: https://vidiotsfoundation.org/movies/enter-the-d
+ ragon/
 END:VEVENT
 END:VCALENDAR
